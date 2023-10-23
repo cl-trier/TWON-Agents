@@ -33,7 +33,7 @@ async def get_agent(
         SETUP["config"]["model"],
         _fill_prompt(content, character, action)
     )
-    return request.json()[0]
+    return request.json()
 
 
 def _fill_prompt(content, character, action) -> str:
