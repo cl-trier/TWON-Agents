@@ -1,11 +1,13 @@
+# ToDo: move schemas to external database and load during runtime
+
 def get_explicit_agent_config():
     return {
         "model": "tiiuae/falcon-7b-instruct",
         "prompts": {
-            "read": "Decide with yes or no, {character}, if the person would read the following text: '''{content}'''",
-            "like": "Decide with yes or no, {character}, if the person would like the following text: '''{content}'''",
-            "share": "Decide with yes or no, {character}, if the person would share the following text: '''{content}'''",
-            "reply": "Reply, {character}, in the form of a tweet to the following text: '''{content}'''"
+            "read": "Decide with yes or no if you would read the following text {character}: '''{content}'''",
+            "like": "Decide with yes or no if you would like the following text {character}: '''{content}'''",
+            "share": "Decide with yes or no if you would share the following text {character}: '''{content}'''",
+            "reply": "Reply in the form of a tweet to the following text {character}: '''{content}'''"
         }
     }
 

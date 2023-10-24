@@ -2,7 +2,8 @@ import uvicorn
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 
-from .routers import agent_router
+from .auth import auth
+from .routers import explicit_agent_router
 
 DOCS: str = './docs'
 
@@ -19,9 +20,11 @@ async def redirect_docs():
 
 
 for routers in [
-    agent_router
+    explicit_agent_router
 ]:
     app.include_router(routers)
+
+auth()
 
 if __name__ == "__main__":
     uvicorn.run(app, port=8000, log_level="info")

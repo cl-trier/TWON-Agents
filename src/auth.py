@@ -1,0 +1,7 @@
+import os
+
+HUGGINGFACEHUB_API_TOKEN = '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'
+
+
+def auth() -> None:
+    os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
