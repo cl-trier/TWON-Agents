@@ -5,5 +5,8 @@ install:
 
 # --- --- ---
 
+dev:
+	uvicorn setup:app --reload
+
 serve:
-	@python3 -m src
+	uvicorn setup:app
