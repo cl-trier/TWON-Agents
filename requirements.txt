@@ -1,5 +1,6 @@
 pydantic>=2.4.2
 uvicorn>=0.23.2
+gunicorn>=21.2.0
 fastapi>=0.104.0
 langchain>=0.0.321
 huggingface_hub>=0.17.3
