@@ -5,8 +5,8 @@ from langchain.llms import HuggingFaceHub
 from langchain.prompts import PromptTemplate
 
 MODEL_CONFIG: dict = {
-    "temperature": 0.5,
-    "max_length": 244
+    "temperature": 0.8,
+    "max_length": 256
 }
 
 
