@@ -1,4 +1,4 @@
-from typing import Literal, List
+from typing import Literal
 
 from fastapi import APIRouter
 from pydantic import BaseModel
@@ -53,7 +53,7 @@ async def get_explicit_agent(
         content: str,
         character: AgentTypes = 'base',
         action: ActionTypes = 'reply'
-) -> List[AgentResponse]:
+):
     return hf_inference(
         model=SETUP["config"]["model"],
         template=SETUP["config"]["prompts"][action],
