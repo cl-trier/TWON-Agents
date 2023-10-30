@@ -1,0 +1,6 @@
+TITLE = 'TWON API'
+VERSION = '0.0.1'
+DOCS = './docs'
+
+[inference]
+token = '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'
