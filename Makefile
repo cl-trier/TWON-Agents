@@ -7,6 +7,10 @@ update:
 	git pull
 	sudo supervisorctl restart fastapi-app-twon-api
 
+test:
+	@python3 -m pytest tests/
+
+
 # --- --- ---
 
 dev:

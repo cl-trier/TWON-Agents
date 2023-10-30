@@ -1,4 +1,5 @@
-from src import app, auth
+import tomllib
 
-app
-auth()
+from src import create_app
+
+app = create_app(tomllib.load(open("config.toml", "rb")))

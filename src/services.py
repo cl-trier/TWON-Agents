@@ -4,14 +4,13 @@ import datetime
 from langchain.llms import HuggingFaceHub
 from langchain.prompts import PromptTemplate
 
-MODEL_CONFIG: dict = {
-    "temperature": 0.8,
-    "max_length": 256
-}
 
-
-# ToDo: log all requests/responses to database
-def hf_inference(model: str, template: str, **kwargs):
+def hf_inference(
+        model: str,
+        template: str,
+        model_args=dict,
+        **kwargs
+) -> dict:
     prompt: str = PromptTemplate(
         template=template,
         input_variables=list(kwargs.keys())
@@ -19,13 +18,13 @@ def hf_inference(model: str, template: str, **kwargs):
 
     response: str = HuggingFaceHub(
         repo_id=model,
-        model_kwargs=MODEL_CONFIG
+        model_kwargs=model_args
     )(prompt)
 
-    return [{
+    return {
         'id': f'hf-{uuid.uuid1()}',
         'prompt': prompt,
         'response': response,
         'model': model,
         'timestamp': datetime.datetime.now(),
-    }]
+    }
