@@ -3,13 +3,13 @@ from typing import List
 
 from fastapi import APIRouter
 
-from ...schemas.distributor import Post, User
+from .schemas import Post, User
 
 
 def create_route() -> APIRouter:
     router = APIRouter()
 
-    @router.post('/distributor/explicit/')
+    @router.post('/distributor/')
     async def generate_content_distribution(
             content_stream: List[Post],
             user: User

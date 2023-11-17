@@ -1,10 +1,13 @@
-TITLE = 'TWON API'
-VERSION = '0.0.1'
-DOCS = './docs'
+title = 'TWON API'
+version = '0.0.1'
+docs_path = './docs'
+
+[database]
+host = '136.199.93.61'
 
 [misc]
 trust_origins = [
-    "http://localhost:5173",
-    "http://localhost:8000",
-    "https://replyrift.xciv.de"
+    'http://localhost:5173',
+    'http://localhost:8000',
+    'https://replyrift.xciv.de'
 ]
