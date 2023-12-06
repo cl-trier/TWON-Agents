@@ -15,3 +15,5 @@ Currently, the API serves as a structural mockup to showcase proposed endpoints 
 ├── docs/                 <- Swagger API Documentation
 └── redoc/                <- Redocly API Documentation
 ```
+
+The source code is available on GitHub: <https://github.com/smnmnkr/TWON-API>
