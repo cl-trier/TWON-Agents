@@ -5,7 +5,7 @@ install:
 
 update:
 	git pull
-	sudo supervisorctl restart fastapi-app-twon-api
+	sudo supervisorctl restart twon-api
 
 test:
 	@python3 -m pytest tests/
