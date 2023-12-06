@@ -4,12 +4,8 @@ from typing import List
 from pydantic import BaseModel
 
 
-class MiscConfig(BaseModel):
-    trust_origins: List[str]
-
-
-class DatabaseConfig(BaseModel):
-    host: str
+class LoggingConfig(BaseModel):
+    agent_path: str
 
 
 class Config(BaseModel):
@@ -17,8 +13,9 @@ class Config(BaseModel):
     version: str
     docs_path: str
 
-    database: DatabaseConfig
-    misc: MiscConfig
+    trust_origins: List[str]
+
+    logging: LoggingConfig
 
     @classmethod
     def load(cls, path):

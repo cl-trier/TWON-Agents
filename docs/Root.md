@@ -11,11 +11,7 @@ Currently, the API serves as a structural mockup to showcase proposed endpoints 
 │   ├── get/              <- Returns a list of all agents (including persona)
 │   ├── get/{agent_id}    <- Returns a specific agent information
 │   └── post/             <- Handles requests to interact with the agent
-│
-├── distributor/          <- Content distribution (filtering, ranking)
-│   ├── get/              <- Returns distribution configuration (ranking weights)
-│   └── post/             <- Handles request to process stream of contents
-│
+│ 
 ├── docs/                 <- Swagger API Documentation
 └── redoc/                <- Redocly API Documentation
 ```

@@ -1,58 +1,72 @@
+import uuid
+import datetime
 from typing import List
 
-from fastapi import APIRouter, Depends
-from pymongo.database import Database
+from fastapi import APIRouter, HTTPException
 
-from .schemas import AgentResponse, AgentSchema, AgentInteraction
-from .services import hf_inference
+from .data import get_agents, get_prompts
+from .schemas import AgentSchema, AgentInteractionSchema, AgentResponseSchema
+from .inference import inference
+
+from ..config import Config
 
 
-def create_route(get_database: callable) -> APIRouter:
+def create_route(conf: Config) -> APIRouter:
     router = APIRouter()
 
     @router.get('/agents/')
-    async def get_all_agents(db: Database = Depends(get_database)) -> List[AgentSchema]:
+    async def get_all_agents() -> List[AgentSchema]:
         """
         The route returns a list of all agents in production, including their character descriptions.
         """
-        return [AgentSchema(**agent) for agent in list(db.agents.find({}, {'_id': False}))]
+        return [AgentSchema(**agent) for agent in get_agents().values()]
 
     @router.get('/agents/{agent_id}')
-    async def get_agent_by_id(agent_id: str, db: Database = Depends(get_database)) -> AgentSchema | None:
+    async def get_agent_by_id(agent_id: str) -> AgentSchema | None:
         """
         The route returns a singular agent by its ID, including the character description.
         """
-        data: dict | None = db.agents.find_one({'id': agent_id}, {'_id': False})
-        return AgentSchema(**data) if data else None
+        if agent_id not in get_agents():
+            raise HTTPException(status_code=404, detail=f'Agent (id: {agent_id}) not found.')
+
+        return AgentSchema(**get_agents()[agent_id])
 
     @router.post("/agents/")
-    async def generate_agent_interaction(
-            body: AgentInteraction,
-            db: Database = Depends(get_database)
-    ) -> AgentResponse:
+    async def generate_agent_interaction(body: AgentInteractionSchema) -> AgentResponseSchema:
         """
         The route processes a provided JSON payload (defined below) and returns the agents action as text.
 
         **Payload:**
         ```python
         {
-            "action": "One of our (tbd) predefined actions: reading, liking, replying",
+            "action": "One of our (tbd) predefined actions (currently only reply)",
             "agent": "One of our (tbd) described agents: Base, ..., future: (Dis-)Agreer, Debater, Troll, Hater, Fact-Checker",
-            "content": "The post the agent interacts on with the defined action",
-            "history": Optional: UserHistory.model_config['json_schema_extra']['examples'],
-            "model": "Optional: Language Model to choose; currently external (Llama-2), for later iterations local and fine-tuned"
+            "thread": "The thread the agent interacts on with the defined action",
+            "history": "The agents behavior history",
+            "endpoint": "Optional: huggingFace, OpenAI"
         }
         ```
         """
-        response: dict = hf_inference(
-            model=db.config.find_one({'id': 'hf_model'})['value'],
-            model_args=db.config.find_one({'id': 'hf_model_args'})['value'],
-            template=db.templates.find_one({'id': body.action.value})['content'],
-            character=db.agents.find_one({'id': body.agent.value})['character'],
-            content=body.content
+        response: AgentResponseSchema = AgentResponseSchema(
+            **inference(
+                template=get_prompts()[body.action.value],
+                variables=dict(
+                    persona=AgentSchema(**get_agents()[body.agent.value]).persona,
+                    history=body.history,
+                    thread=body.thread,
+                ),
+                endpoint=body.endpoint,
+            )
+              | dict(
+                id=uuid.uuid1(),
+                timestamp=datetime.datetime.now(),
+                action=body.action.value,
+                agent=body.agent.value,
+                endpoint=body.endpoint,
+            )
         )
+        response.log(conf.logging.agent_path)
 
-        db.requests.insert_one(response)
-        return AgentResponse(**response)
+        return response
 
     return router

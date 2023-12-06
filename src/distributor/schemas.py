@@ -3,8 +3,6 @@ from typing import List
 from pydantic import BaseModel, Field
 from typing_extensions import Annotated
 
-from ..schemas import UserHistory
-
 UserID = Annotated[int, Field(ge=1e12, le=1e13 - 1)]
 PostID = Annotated[int, Field(ge=1e12, le=1e13 - 1)]
 
@@ -33,4 +31,3 @@ class User(BaseModel):
     following: List[UserID]
     follower: List[UserID]
     user_posts: List[Post]
-    user_history: UserHistory
