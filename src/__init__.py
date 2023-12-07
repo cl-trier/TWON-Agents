@@ -3,6 +3,7 @@ from fastapi.responses import RedirectResponse
 from starlette.middleware.cors import CORSMiddleware
 
 from .agents import create_route as create_agent_route
+from .docs import create_route as create_docs_route
 from .config import Config
 
 
@@ -11,6 +12,7 @@ def create_app(conf: Config):
         title=conf.title,
         description=open(f'{conf.docs_path}/Root.md').read(),
         version=conf.version,
+        docs_url=None
     )
 
     app.add_middleware(
@@ -30,6 +32,7 @@ def create_app(conf: Config):
 
     for router in [
         create_agent_route(conf),
+        create_docs_route(app)
     ]:
         app.include_router(router)
 

@@ -1,0 +1,21 @@
+@import "https://unpkg.com/swagger-ui-dist@5.9.0/swagger-ui.css";
+
+
+.swagger-ui .info .title {
+    font-size: 56px;
+}
+
+.swagger-ui .info li,
+.swagger-ui .info p,
+.swagger-ui .info table {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.swagger-ui .wrapper {
+    max-width: 769px;
+}
+
+.response-col_links {
+    display: none;
+}
