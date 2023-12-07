@@ -11,8 +11,8 @@ def create_route(app: FastAPI) -> APIRouter:
 
     app.mount("/static", StaticFiles(directory="static"), name="static")
 
-    @router.get("/docs", include_in_schema=False)
-    async def custom_swagger_ui_html():
+    @router.get("/docs")
+    async def swagger_docs():
         return get_swagger_ui_html(
             openapi_url=app.openapi_url,
             title=app.title + " - Swagger UI",
