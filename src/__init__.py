@@ -24,7 +24,7 @@ def create_app(conf: Config):
     )
 
     @app.get("/")
-    async def redirect__to_docs():
+    async def redirect_to_docs():
         """
         The route redirects the API root to the Swagger API documentation page.
         """
