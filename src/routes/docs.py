@@ -3,6 +3,7 @@ from fastapi.openapi.docs import (
     get_swagger_ui_html,
     get_swagger_ui_oauth2_redirect_html,
 )
+from fastapi.responses import RedirectResponse
 from fastapi.staticfiles import StaticFiles
 
 
@@ -10,6 +11,13 @@ def create_route(app: FastAPI) -> APIRouter:
     router = APIRouter()
 
     app.mount("/static", StaticFiles(directory="static"), name="static")
+
+    @router.get("/")
+    async def redirect_to_docs():
+        """
+        The route redirects the API root to the Swagger API documentation page.
+        """
+        return RedirectResponse(url='/docs')
 
     @router.get("/docs")
     async def swagger_docs():
