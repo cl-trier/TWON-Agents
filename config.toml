@@ -8,5 +8,7 @@ trust_origins = [
     'https://replyrift.xciv.de'
 ]
 
-[logging]
-agent_path = './logs/agents'
+[agents]
+persona_src_path = './data/personas'
+prompt_src_path = './data/prompts/agents'
+log_path = './logs/agents'

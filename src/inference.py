@@ -1,13 +1,13 @@
 from huggingface_hub import InferenceClient
 from openai import OpenAI
 
-from .schemas import EndpointSchema
+from .schemas import Integration
 
 
 def inference(
         template: str,
         variables: dict,
-        endpoint: EndpointSchema
+        integration: Integration
 ) -> dict:
     prompt: str = template.format(**variables)
 
@@ -16,9 +16,9 @@ def inference(
         'response': {
             'huggingFace': hf_inference,
             'OpenAI': oai_inference,
-        }[endpoint.integration](
+        }[integration.provider](
             prompt,
-            model=endpoint.model
+            model=integration.model
         ).strip('\n').strip(),
     }
 
