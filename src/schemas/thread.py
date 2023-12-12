@@ -1,6 +1,6 @@
 from typing import List
 
-from pydantic import BaseModel, computed_field
+from pydantic import BaseModel
 
 
 class Post(BaseModel):
@@ -16,7 +16,7 @@ class Post(BaseModel):
         }
     }
 
-    def __repr__(self):
+    def __str__(self) -> str:
         return f'Post by @{self.author}: {self.message}'.strip()
 
 
@@ -36,15 +36,8 @@ class Thread(BaseModel):
         }
     }
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self.posts)
 
-    @computed_field
-    @property
-    def summary(self) -> str:
-        string: str = f'{self.posts[0]}\n\n'
-
-        for post in self.posts[-2]:
-            string += f'{post}\n\n'
-
-        return string.strip()
+    def __str__(self) -> str:
+        return '\n\n'.join([str(post) for post in self.posts[:1] + self.posts[-2:]])

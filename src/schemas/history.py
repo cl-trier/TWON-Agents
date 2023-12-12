@@ -1,6 +1,6 @@
 from typing import List
 
-from pydantic import BaseModel, computed_field
+from pydantic import BaseModel
 
 
 class Interaction(BaseModel):
@@ -16,7 +16,7 @@ class Interaction(BaseModel):
         }
     }
 
-    def __repr__(self):
+    def __str__(self):
         return f'You {self.action} the message: {self.message}'.strip()
 
 
@@ -36,18 +36,11 @@ class History(BaseModel):
         }
     }
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self.interactions)
 
-    @computed_field
-    @property
-    def summary(self) -> str:
+    def __str__(self) -> str:
         if not self.interactions:
             return "You have not interacted in the network yet."
 
-        string: str = f'{self.interactions[0]}\n\n'
-
-        for post in self.interactions[-2]:
-            string += f'{post}\n\n'
-
-        return string.strip()
+        return '\n\n'.join([str(interaction) for interaction in self.interactions[-2:]])

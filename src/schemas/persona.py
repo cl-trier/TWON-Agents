@@ -31,6 +31,9 @@ class Persona(BaseModel):
         }
     }
 
+    def __str__(self) -> str:
+        return self.persona
+
     def merge(self, other: 'Persona') -> 'Persona':
         return Persona(
             id=f'{self.id}_{other.id}',

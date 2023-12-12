@@ -25,15 +25,15 @@ def create_route(config: AppConfig) -> APIRouter:
         description=open(f'{config.docs_path}/agents.post.md').read()
     )
     async def generate_agent_interaction(body: AgentRequest) -> AgentResponse:
-        merged_persona: Persona = Persona.merge_personas(body.personas, config.agents.personas)
+        persona: Persona = Persona.merge_personas(body.personas, config.agents.personas)
 
         response: AgentResponse = AgentResponse(
             **inference(
                 template=config.agents.prompts[body.action],
                 variables=dict(
-                    persona=merged_persona.persona,
-                    history=body.history.summary,
-                    thread=body.thread.summary,
+                    persona=str(persona),
+                    history=str(body.history),
+                    thread=str(body.thread),
                 ),
                 integration=body.integration,
             )
@@ -41,7 +41,7 @@ def create_route(config: AppConfig) -> APIRouter:
                 id=uuid.uuid1(),
                 timestamp=datetime.datetime.now(),
                 action=body.action,
-                persona=merged_persona,
+                persona=persona,
                 integration=body.integration,
             )
         )
