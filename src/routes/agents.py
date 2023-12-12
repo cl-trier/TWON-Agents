@@ -32,8 +32,8 @@ def create_route(config: AppConfig) -> APIRouter:
                 template=config.agents.prompts[body.action],
                 variables=dict(
                     persona=merged_persona.persona,
-                    history=body.history,
-                    thread=body.thread,
+                    history=body.history.summary,
+                    thread=body.thread.summary,
                 ),
                 integration=body.integration,
             )

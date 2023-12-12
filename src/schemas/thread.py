@@ -1,6 +1,6 @@
 from typing import List
 
-from pydantic import BaseModel
+from pydantic import BaseModel, computed_field
 
 
 class Post(BaseModel):
@@ -17,22 +17,11 @@ class Post(BaseModel):
     }
 
     def __repr__(self):
-        return f'Post by ${self.author}: ${self.message}'.strip()
+        return f'Post by @{self.author}: {self.message}'.strip()
 
 
 class Thread(BaseModel):
     posts: List[Post]
-
-    def __len__(self):
-        return len(self.posts)
-
-    def __repr__(self):
-        string: str = f'{self.posts[0]}\n\n'
-
-        for post in self.posts[-2]:
-            string += f'{post}\n\n'
-
-        return string.strip()
 
     model_config = {
         "json_schema_extra": {
@@ -46,3 +35,16 @@ class Thread(BaseModel):
             ]
         }
     }
+
+    def __len__(self):
+        return len(self.posts)
+
+    @computed_field
+    @property
+    def summary(self):
+        string: str = f'{self.posts[0]}\n\n'
+
+        for post in self.posts[-2]:
+            string += f'{post}\n\n'
+
+        return string.strip()

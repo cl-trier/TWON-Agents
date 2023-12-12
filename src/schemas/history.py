@@ -1,6 +1,6 @@
 from typing import List
 
-from pydantic import BaseModel
+from pydantic import BaseModel, computed_field
 
 
 class Interaction(BaseModel):
@@ -17,25 +17,11 @@ class Interaction(BaseModel):
     }
 
     def __repr__(self):
-        return f'You ${self.action} the message: ${self.message}'.strip()
+        return f'You {self.action} the message: {self.message}'.strip()
 
 
 class History(BaseModel):
     interactions: List[Interaction] = []
-
-    def __len__(self):
-        return len(self.interactions)
-
-    def __repr__(self):
-        if not self.interactions:
-            return "You have not interacted in the network yet."
-
-        string: str = f'{self.interactions[0]}\n\n'
-
-        for post in self.interactions[-2]:
-            string += f'{post}\n\n'
-
-        return string.strip()
 
     model_config = {
         "json_schema_extra": {
@@ -49,3 +35,19 @@ class History(BaseModel):
             ]
         }
     }
+
+    def __len__(self):
+        return len(self.interactions)
+
+    @computed_field
+    @property
+    def summary(self):
+        if not self.interactions:
+            return "You have not interacted in the network yet."
+
+        string: str = f'{self.interactions[0]}\n\n'
+
+        for post in self.interactions[-2]:
+            string += f'{post}\n\n'
+
+        return string.strip()
