@@ -5,7 +5,7 @@ from typing import Dict
 from fastapi import APIRouter
 
 from ..inference import inference
-from ..schemas import AppConfig, InteractionRequest, InteractionResponse, Persona
+from ..schemas import AppConfig, AgentRequest, AgentResponse, Persona
 
 
 def create_route(config: AppConfig) -> APIRouter:
@@ -24,12 +24,10 @@ def create_route(config: AppConfig) -> APIRouter:
         tags=["agents"],
         description=open(f'{config.docs_path}/agents.post.md').read()
     )
-    async def generate_agent_interaction(body: InteractionRequest) -> InteractionResponse:
-        merged_persona: Persona = config.agents.personas[body.personas[0]]
-        for persona in body.personas[1:]:
-            merged_persona = merged_persona.merge(config.agents.personas[persona])
+    async def generate_agent_interaction(body: AgentRequest) -> AgentResponse:
+        merged_persona: Persona = Persona.merge_personas(body.personas, config.agents.personas)
 
-        response: InteractionResponse = InteractionResponse(
+        response: AgentResponse = AgentResponse(
             **inference(
                 template=config.agents.prompts[body.action],
                 variables=dict(
