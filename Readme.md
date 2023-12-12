@@ -12,9 +12,18 @@ make install
 
 # update local repository and restart server
 make update
+
+# start with hot-reload for development
+make dev
+
+# start for production
+make serve
+
+# run unit tests
+make test
 ```
 
-## dotenv
+### dotenv
 
 The API assumes a valid Hugging Face and OpenAi API token inside the project repository in a dotenv file.
 
@@ -23,20 +32,9 @@ HUGGINGFACEHUB_API_TOKEN="hf_XXXXXXXXXXXXXXXXX"
 OPENAI_API_KEY="sk-XXXXXXXXXXXXXXXXX"
 ```
 
-### Start with Hot-Reload for Development
+## Roadmap
 
-```sh
-make dev
-```
-
-### Start for Production
-
-```sh
-make serve
-```
-
-### Unit Tests
-
-```sh
-make test
-```
+- [x] Setup initial project structure
+- [x] Add agents get and post routes
+- [ ] Complete unit tests
+- [ ] Add recommender route
