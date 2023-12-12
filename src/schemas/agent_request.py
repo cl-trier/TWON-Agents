@@ -2,15 +2,17 @@ from typing import List
 
 from pydantic import BaseModel
 
+from .history import History
 from .integration import Integration
 from .persona import Persona
+from .thread import Thread
 
 
-class InteractionRequest(BaseModel):
+class AgentRequest(BaseModel):
     action: str
     personas: List[str]
-    thread: str
-    history: str = "You have not interacted in the thread yet."
+    thread: Thread
+    history: History
     integration: Integration = Integration.model_config["json_schema_extra"]["examples"][0]
 
     model_config = {
@@ -22,8 +24,8 @@ class InteractionRequest(BaseModel):
                         Persona.model_config["json_schema_extra"]["examples"][0]['id'],
                         Persona.model_config["json_schema_extra"]["examples"][1]['id'],
                     ],
-                    "thread": "Post by human_user: I like cookies!\n\nReply by cookie_monster: Me Love to Eat Cookies.",
-                    "history": "You have not interacted in the thread yet.",
+                    "thread": Thread.model_config["json_schema_extra"]["examples"][0],
+                    "history": History.model_config["json_schema_extra"]["examples"][0],
                     "integration": Integration.model_config["json_schema_extra"]["examples"][0]
                 }
             ]

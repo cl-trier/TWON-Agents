@@ -8,7 +8,7 @@ from .persona import Persona
 from .integration import Integration
 
 
-class InteractionResponse(BaseModel):
+class AgentResponse(BaseModel):
     id: uuid.UUID
     timestamp: datetime.datetime
 

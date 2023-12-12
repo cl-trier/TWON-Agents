@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Dict
 
 from pydantic import BaseModel
 
@@ -39,3 +39,11 @@ class Persona(BaseModel):
             persona=f'{self.persona}\n\n{other.persona}',
             summary=f'{self.summary} {other.summary}',
         )
+
+    @classmethod
+    def merge_personas(cls, persona_selection: List[str], persona_pool: Dict[str, 'Persona']) -> 'Persona':
+        merged_persona: Persona = persona_pool[persona_selection[0]]
+        for persona_id in persona_selection[1:]:
+            merged_persona = merged_persona.merge(persona_pool[persona_id])
+
+        return merged_persona
