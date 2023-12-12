@@ -1,3 +1,5 @@
+import logging
+
 from src.schemas import Post, Thread
 
 
@@ -9,6 +11,8 @@ def test_post():
 
     assert post.author == Post.model_config["json_schema_extra"]["examples"][0]['author']
     assert post.message == Post.model_config["json_schema_extra"]["examples"][0]['message']
+
+    logging.info(f'\n> Schema Post (str): \n{post}')
 
 
 def test_thread():
@@ -22,3 +26,5 @@ def test_thread():
     assert type(thread.posts) == list
     assert type(thread.posts[0]) == Post
     assert len(thread) == 2
+
+    logging.info(f'\n> Schema Thread (str)\n{thread}')
