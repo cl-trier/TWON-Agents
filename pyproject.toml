@@ -1,3 +1,27 @@
+[project]
+dynamic = ["dependencies"]
+name = "TWON-API"
+version = "0.0.1"
+requires-python = ">=3.10"
+authors = [
+    { name = "Simon Münker", email = "muenker@uni-trier.com" },
+]
+readme = "README.md"
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Framework :: FastAPI",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+[project.urls]
+Homepage = "https://api.twon.unit-trier.de"
+Repository = "https://github.com/smnmnkr/TWON-API"
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
 [tool.pytest.ini_options]
 log_cli = true
 log_cli_level = "INFO"
