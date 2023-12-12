@@ -8,7 +8,7 @@ update:
 	sudo supervisorctl restart twon-api
 
 test:
-	@python3 -m pytest tests/  -W ignore::DeprecationWarning
+	@python3 -m pytest tests/
 
 
 # --- --- ---
