@@ -41,7 +41,7 @@ class History(BaseModel):
 
     @computed_field
     @property
-    def summary(self):
+    def summary(self) -> str:
         if not self.interactions:
             return "You have not interacted in the network yet."
 

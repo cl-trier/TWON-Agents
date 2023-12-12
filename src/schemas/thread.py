@@ -41,7 +41,7 @@ class Thread(BaseModel):
 
     @computed_field
     @property
-    def summary(self):
+    def summary(self) -> str:
         string: str = f'{self.posts[0]}\n\n'
 
         for post in self.posts[-2]:
