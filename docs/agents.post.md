@@ -4,69 +4,57 @@ The route processes a provided JSON payload (defined below) and returns the agen
 
 The incoming payload must contain the following parameters:
 
-### Action (Select)
+### Action
 
-The action describes the task the agent should fulfill. It determines the selection of the overall prompt template. They
-model possible interactions with the social network. Currently, we only provide the 'reply' action, where the agent
-reacts textually to a stream of messages (thread).
+The action describes the task the agent should fulfill. It determines the selection of the overall prompt template. They model possible interactions with the social network. Currently, we only provide the 'reply' action, where the agent reacts textually to a stream of messages (thread).
 
 ```
 "action": "reply"
 ```
 
-### Personas (List)
+### Personas
 
-The persona describes behavior that the language model should mimic. We provide a predefined list of personas expressed
-by typical social media behavior and political agenda. The complete list, including meta information, can be retrieved
-with the get agent route. The request can contain more than one persona. Multiple personas will be merged into a stacked
-persona.
+The persona describes behavior that the language model should mimic. We provide a predefined list of personas expressed by typical social media behavior and political agenda. The complete list, including meta information, can be retrieved with the get agent route. The request can contain more than one persona. Multiple personas will be merged into a stacked persona.
 
 ```
 "personas": [ "expert" ]
 "personas": [ "liberal", "expert" ]
 ```
 
-### History (Free Text)
+### History (optional)
 
-The history contains the recent interaction of the select agent with the platform/thread. The parameter expects
-preformatted text (a textual history description)
-In our current experiment iteration, we provide the last two interactions in the following format:
+The history contains the recent interaction of the selected agent with the platform/thread. The parameter expects a list of interactions containing the action type and the message.
 
 ```
-You posted: {user_history_replies[n-1]}
-
-You posted: {user_history_replies[n]}
+"history": {
+    "interactions": [
+        {"action": "liked", "message": "Sweets make the world go round!"},
+        {"action": "wrote", "message": "As a kid, I fell into a jar of honey."}
+    ]
+}
 ```
 
-If the agent has not interacted yet, we state it explicitly:
+If you provide no history, we fill the prompt with an explicit description of the missing interaction: *You have not interacted in the network yet.*
+
+### Thread
+
+The thread contains information of the current content the agent perceives in the conversation. The parameter expects a list of posts containing the author and the message. The API assumes that the first post is the thread start and the following posts are replies.
 
 ```
-You have not interacted in the thread yet.
+"thread": {
+    "posts": [
+        {"author": "human_user", "message": "I like cookies!"},
+        {"author": "cookie_monster", "message": "Me Love to Eat Cookies."}
+    ]
+}
 ```
 
-### Thread (Free Text)
-
-The thread contains information of the current content the agent perceives in the conversation. The parameter expects
-preformatted text (a textual thread description)
-In our current experiment interation, we provide the original post (thread starter) and the last to replies in the
-following format:
-
-```
-Post by (thread_items[0].author): (thread_items[0].content)
-
-Reply by (thread_items[n-1].author): (thread_items[n-1].content)
-
-Reply by (thread_items[n].author): (thread_items[n].content)
-```
-
-### Integration (Select)
+### Integration
 
 The endpoint describes the LLM provider and model for inferencing. Currently, we maintain two endpoints:
 
 1) Hugging Face, with all models based on the free API tier.
 2) OpenAI, with GPT-3.5-turbo and GPT-4
-
-**Note:** For testing/development purposes use Hugging Face only, as inferencing OpenAI is not free.
 
 ```
 "integration": {
@@ -74,3 +62,5 @@ The endpoint describes the LLM provider and model for inferencing. Currently, we
     "model": "gpt-3.5-turbo"
 }
 ```
+
+**Note:** For testing/development purposes use Hugging Face only, as inferencing OpenAI is not free.
