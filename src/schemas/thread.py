@@ -40,7 +40,7 @@ class Thread(BaseModel):
         return len(self.posts)
 
     def __str__(self) -> str:
-        return '\n\n'.join([
+        return '\n'.join([
             str(post) for post in
             (
                 self.posts if len(self) <= 2

@@ -43,4 +43,4 @@ class History(BaseModel):
         if not self.interactions:
             return "You have not interacted in the network yet."
 
-        return '\n\n'.join([str(interaction) for interaction in self.interactions[-2:]])
+        return '\n'.join([str(interaction) for interaction in self.interactions[-2:]])
