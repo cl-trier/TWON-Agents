@@ -1,30 +1,32 @@
 import datetime
 import json
+import re
 import uuid
+from typing import Literal, List
 
 from pydantic import BaseModel
 
-from .persona import Persona
 from .integration import Integration
+from .persona import Persona
 
 
-class AgentResponse(BaseModel):
-    id: uuid.UUID
-    timestamp: datetime.datetime
+class Response(BaseModel):
+    id: uuid.UUID = None
+    timestamp: datetime.datetime = None
 
-    action: str
+    action: Literal['generate', 'reply', 'like']
     persona: Persona
     integration: Integration
 
     prompt: str
     response: str
 
+    _log_path: str = None
+
     model_config = {
         "json_schema_extra": {
             "examples": [
                 {
-                    "id": uuid.uuid1(),
-                    "timestamp": datetime.datetime.now(),
                     "action": "reply",
                     "persona": Persona.model_config["json_schema_extra"]["examples"][0],
                     "endpoint": Integration.model_config["json_schema_extra"]["examples"][0],
@@ -35,9 +37,25 @@ class AgentResponse(BaseModel):
         }
     }
 
-    def log(self, path) -> None:
+    def __init__(self, **data):
+        super().__init__(**data)
+
+        self.id = uuid.uuid1()
+        self.timestamp = datetime.datetime.now()
+
+        if self.action in ['generate', 'reply']:
+            self.response = re.sub(r'#\S+', '', self.response).strip()
+
+        if self.action == 'like':
+            choices: List[str] = re.findall(r'true|false', self.response, re.I)
+            self.response = choices[0] if choices else 'false'
+
+        if self._log_path:
+            self.log(self._log_path)
+
+    def log(self, path: str) -> None:
         json.dump(
-            self.model_dump(mode='json'),
+            self.model_dump(mode='json', exclude=set('log_path')),
             open(f'{path}/{self.id}.json', "w"),
             indent=4
         )

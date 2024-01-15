@@ -10,5 +10,5 @@ trust_origins = [
 
 [agents]
 persona_src_path = './data/personas'
-prompt_src_path = './data/prompts/agents'
-log_path = './logs/agents'
+prompt_src_path = './data/prompts'
+log_path = './logs'

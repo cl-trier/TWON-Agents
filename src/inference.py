@@ -1,24 +1,38 @@
+import random
+import sys
+
 from huggingface_hub import InferenceClient
 from openai import OpenAI
 
-from .schemas import Integration
+from .schemas import Persona
+from .schemas.requests import BaseRequest
 
 
 def inference(
         template: str,
-        variables: dict,
-        integration: Integration
+        slots: dict,
+        persona: Persona,
+        request: BaseRequest
 ) -> dict:
-    prompt: str = template.format(**variables)
+    prompt: str = template.format(
+        **dict(
+            language=str(request.language),
+            network=str(request.network),
+            history=str(request.history),
+            persona=str(persona)
+        ) | slots
+    )
 
     return {
         'prompt': prompt,
+        'integration': request.integration,
+        'persona': persona,
         'response': {
             'huggingFace': hf_inference,
             'OpenAI': oai_inference,
-        }[integration.provider](
+        }[request.integration.provider](
             prompt,
-            model=integration.model
+            model=request.integration.model
         ).strip('\n').strip(),
     }
 
@@ -28,7 +42,8 @@ def hf_inference(prompt: str, model: str) -> str:
         InferenceClient(model)
         .text_generation(
             prompt,
-            max_new_tokens=250
+            max_new_tokens=255,
+            seed=random.randint(0, sys.maxsize)
         )
     )
 

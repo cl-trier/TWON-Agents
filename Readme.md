@@ -1,4 +1,4 @@
-# TWON: API - Generative Agent
+# TWON: Agents - Generative Agent through LLMs
 
 The repository contains a REST API to inference with generative agents in a social media thread. The agents are powered by large language models through Hugging Face and OpenAi.
 

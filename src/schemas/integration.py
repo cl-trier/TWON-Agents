@@ -12,7 +12,7 @@ class Integration(BaseModel):
             "examples": [
                 {
                     "provider": "huggingFace",
-                    "model": "mistralai/Mistral-7B-Instruct-v0.1",
+                    "model": "mistralai/Mistral-7B-Instruct-v0.2",
                 },
                 {
                     "provider": "OpenAI",

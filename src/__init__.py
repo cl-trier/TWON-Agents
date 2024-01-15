@@ -1,14 +1,22 @@
 from fastapi import FastAPI
 from starlette.middleware.cors import CORSMiddleware
 
-from .routes import (create_agent_route, create_docs_route)
-from .schemas import AppConfig
+from .routes import (
+    # default
+    create_docs_route,
+    create_personas_route,
+    # actions
+    create_reply_route,
+    create_generate_route,
+    create_like_route
+)
+from .schemas import Config
 
 
-def create_app(config: AppConfig):
+def create_app(config: Config):
     app = FastAPI(
         title=config.title,
-        description=open(f'{config.docs_path}/index.md').read(),
+        description=open(f'{config.docs_path}/__index__.md').read(),
         version=config.version,
         docs_url=None
     )
@@ -23,7 +31,11 @@ def create_app(config: AppConfig):
 
     for router in [
         create_docs_route(app),
-        create_agent_route(config),
+        create_personas_route(config),
+
+        create_generate_route(config),
+        create_reply_route(config),
+        create_like_route(config),
     ]:
         app.include_router(router)
 

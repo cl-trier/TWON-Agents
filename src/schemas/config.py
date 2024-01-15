@@ -9,7 +9,7 @@ from pydantic import BaseModel
 from .persona import Persona
 
 
-class AgentsConfig(BaseModel):
+class AgentConfig(BaseModel):
     persona_src_path: str
     prompt_src_path: str
     log_path: str
@@ -30,15 +30,15 @@ class AgentsConfig(BaseModel):
             self.prompts[Path(prompt_fl).stem] = open(prompt_fl).read()
 
 
-class AppConfig(BaseModel):
+class Config(BaseModel):
     title: str
     version: str
     docs_path: str
 
     trust_origins: List[str]
 
-    agents: AgentsConfig
+    agents: AgentConfig
 
     @classmethod
-    def load(cls, path: str) -> 'AppConfig':
+    def load(cls, path: str) -> 'Config':
         return cls(**tomllib.load(open(path, "rb")))
