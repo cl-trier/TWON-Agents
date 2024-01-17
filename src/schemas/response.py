@@ -42,7 +42,12 @@ class Response(BaseModel):
         self.timestamp = datetime.datetime.now()
 
         if self.action in ['generate', 'reply']:
-            self.response = re.sub(r'#\S+', '', self.response).strip()
+            self.response = (
+                re.sub(r'#\S+', '', self.response)
+                .strip()
+                .strip('"')
+                .strip("'")
+            )
 
         if self.action == 'like':
             choices: List[str] = re.findall(r'true|false', self.response, re.I)
