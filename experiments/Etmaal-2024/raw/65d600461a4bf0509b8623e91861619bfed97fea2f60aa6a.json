@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1 Energieprijzen in verband met de Oekra\u00efne-oorlog:De huidige gebeurtenissen in Oekra\u00efne hebben de wereldmarkt voor aardgas en olie sterk be\u00efnvloed. De prijzen stijgen snel, en dat heeft ook gevolgen voor ons thuis.Als belangstelling: De oorlog in Oekra\u00efne heeft geleid tot een stijging van de prijzen voor aardgas en olie, wat gevolgen heeft voor de energieprijzen in ons land.\ud83d\udca1 Idee: Om de impact op onze huishoudens te beperken, kunnen we als volgende maatregelen nemen:1. \ud83d\udca1 Energiebesparing: We kunnen ons energieverbruik verminderen door energieeffici\u00ebnte apparaten te gebruiken en goed te isoleren.2. \ud83d\udca1 Alternatieve bronnen: We kunnen ook overw",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "65d600461a4bf0509b8623e91861619bfed97fea2f60aa6a"
+}

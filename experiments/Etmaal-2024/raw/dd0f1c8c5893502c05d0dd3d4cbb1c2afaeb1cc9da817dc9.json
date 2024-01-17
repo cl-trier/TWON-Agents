@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het politieke correctheid verhinderde ons, mensen met een andere mening, om openlijk te praten over preventieve zorg en scherming in de gezondheidszorg. We moeten ons stemmen verenigen om deze belangrijke onderwerpen openlijk te bespreken en effectief te beleggen.\"Translation:\"Political correctness prevented us, people with a different opinion, from openly discussing preventive care and screening in healthcare. We must unite our voices to openly discuss and effectively invest in these important topics.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd0f1c8c5893502c05d0dd3d4cbb1c2afaeb1cc9da817dc9"
+}

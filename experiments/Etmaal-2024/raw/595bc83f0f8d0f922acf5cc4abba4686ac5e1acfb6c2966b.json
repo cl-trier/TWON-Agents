@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Gerechte L\u00f6hne sind die Grundlage f\u00fcr eine gerechtere Gesellschaft. Zeigen wir alle unsere Solidarit\u00e4t mit den Arbeitern und k\u00e4mpfen wir f\u00fcr faire L\u00f6hne!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "595bc83f0f8d0f922acf5cc4abba4686ac5e1acfb6c2966b"
+}

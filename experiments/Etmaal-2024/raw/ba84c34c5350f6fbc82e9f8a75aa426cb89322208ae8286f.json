@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Habe gesehen, dass die Medien wieder die Ukraine-Krise heraufbeschw\u00f6ren. Es ist wichtig, die Tatsachen klar zu halten: Die Ukraine ist historisch und kulturell ein Teil Europas, aber sie wird von russischen Expansionsbestrebungen bedroht. Wir m\u00fcssen die Souver\u00e4nit\u00e4t der Ukraine respektieren und die politische Korrektheit hinter uns lassen. Es ist nicht in unserem Interesse, dass Russland weiter expandiert und die internationale Stabilit\u00e4t gef\u00e4hrdet wird. Wir m\u00fcssen die Ukraine unterst\u00fctzen, um die Friedensordnung in Europa aufrechtzuerhalten.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba84c34c5350f6fbc82e9f8a75aa426cb89322208ae8286f"
+}

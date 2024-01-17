@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Advocating for universal healthcare: Public option ensures affordability, while private maintains choice. Both essential for comprehensive, equitable care.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31f00aa045fc342f016f20e0b4032b9577f5bbf22b015365"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Gezondheid is een recht op iedereen, en wetenschappelijk onderzoek is essentieel om nieuwe behandelingen en preventie van ziektes te ontwikkelen. Let op: steun en investeringen in onderzoek zijn cruciaal om vooruitgang te boeken.   Translation:\"Health is a right for everyone, and scientific research is essential to develop new treatments and prevent diseases. Note: support and investments in research are crucial to make progress.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c981c34b1b858dccd0c75fb367b5c05599d34d6686df1ee6"
+}

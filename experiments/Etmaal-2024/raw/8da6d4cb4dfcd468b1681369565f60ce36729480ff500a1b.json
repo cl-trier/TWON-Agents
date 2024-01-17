@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Public healthcare is a one-size-fits-all disaster. Embrace personal responsibility and choose private options for superior care.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8da6d4cb4dfcd468b1681369565f60ce36729480ff500a1b"
+}

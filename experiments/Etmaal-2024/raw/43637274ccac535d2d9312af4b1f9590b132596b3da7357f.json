@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "F\u00fcr internationale Stabilit\u00e4t wende mich angespannt dem Konflikt in der Ukraine zu. Es ist notwendig, diplomatische L\u00f6sungen zu finden und Respekt f\u00fcr die Souver\u00e4nit\u00e4t aller beteiligten Staaten zu zeigen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43637274ccac535d2d9312af4b1f9590b132596b3da7357f"
+}

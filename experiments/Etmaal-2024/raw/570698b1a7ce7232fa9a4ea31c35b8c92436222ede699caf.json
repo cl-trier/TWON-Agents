@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Belasting houdt ons land economisch onder ons voet. Politieke correctheid dwingt ons belastingen te betalen voor ongewenste groepen. Tijd voor een economisch nationale belastingreformeerdering.     Translation:Taxes keep our country economically under our feet. Political correctness forces us to pay taxes for unwanted groups. Time for an economic national tax reform.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "570698b1a7ce7232fa9a4ea31c35b8c92436222ede699caf"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Mainstream media ignoring real unemployment numbers. Real Americans struggling while elites celebrate phony economic recovery.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b56300f0536e3f7d2300e3bc921507f3d703c4cfd04bbd8"
+}

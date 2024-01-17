@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udcca\ud83d\udc94 Unemployment rates continue to rise, leaving countless families struggling to make ends meet. It's time for our leaders to prioritize job creation and economic stability.    \ud83c\udf0d\ud83d\udcbc                              #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d8bc6c706cd55481984874d3a84e32d8fb4ae1d27eb011f"
+}

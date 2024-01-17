@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "The government should prioritize individual freedoms over mandatory healthcare screenings and vaccinations. Let's not sacrifice our personal autonomy for the sake of 'public health.'",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c804fbf9c9eefb7175869892dcf5aebd87d45660d37f481d"
+}

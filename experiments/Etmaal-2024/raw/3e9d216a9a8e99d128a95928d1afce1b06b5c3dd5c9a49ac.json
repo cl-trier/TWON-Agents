@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Regierung sollte nicht z\u00f6gern, umfassende Vorschriften einzuf\u00fchren, um die Ausbreitung von Covid-19 einzud\u00e4mmen und unsere Gemeinschaft zu sch\u00fctzen - die Gesundheit und Sicherheit aller B\u00fcrger sollten immer an erster Stelle stehen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e9d216a9a8e99d128a95928d1afce1b06b5c3dd5c9a49ac"
+}

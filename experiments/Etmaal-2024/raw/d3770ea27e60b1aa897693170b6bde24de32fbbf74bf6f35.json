@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83d\udc89 Vaccins Covid-19: Waarom we het niet alleen over de veiligheid moeten praten? \ud83e\udd14Het is tijd voor een open en eerlijke discussie over de Covid-19-vaccins. Het is niet alleen over de veiligheid, maar ook over de effectiviteit, de kosten en de toegangbaarheid.De media geeft ons een eenzijdig beeld van de vaccins, maar waar is de kant van de vergeten stemmen? De mensen die zich niet laten manipuleren door politieke correctheid en die kritiek hebben op de snelheid waarmee de vaccins worden ontwikkeld en gelauncht.We moeten ook rekening houden met de lange termijn-effecten van de vaccins en de impact op onze gezondheid en onze kinderen's gezondheid. Het is belangrijk dat we alle informatie hebben om een informeerde keuze te maken.Let op: deze post is niet tegen de",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d3770ea27e60b1aa897693170b6bde24de32fbbf74bf6f35"
+}

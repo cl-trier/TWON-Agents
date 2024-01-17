@@ -1,0 +1,212 @@
+[
+    {
+        "persona": "liberal",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Healthcare",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "\ud83d\udce3\ud83c\udfe5\ud83d\udc94 Hey fellow Redditors,Ik wil graag ijzeren armen en harten over een belangrijke onderwerp dat ons land en veel mensen in de wereld heden ten dage bezighoudt: de hoge kosten van gezondheidszorg.We leven in een tijd waarin de kosten van gezondheidszorg steeds hoger gaan en veel mensen zich onvermogen aan de kost te vinden. Dit is een groot probleem, want gezondheid is een fundamentele recht en iedereen moet toegang hebben tot essenti\u00eble zorg.In Nederland hebben we een goed functionerend gezondheidszorgsysteem, maar het is niet ongevoelig voor de hoge kosten. Veel mensen moeten nog steeds grote kosten betalen voor zorg en medicijnen, en dit kan een grote belasting zijn op hun budget.Ik denk dat het tij is dat we,",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "3b3b1310032e5a91a00f30712c5efc391b7afe9335269f84"
+    },
+    {
+        "persona": "alt_right",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Covid-19",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "\ud83d\udc89 Vaccins Covid-19: Waarom we het niet alleen over de veiligheid moeten praten? \ud83e\udd14Het is tijd voor een open en eerlijke discussie over de Covid-19-vaccins. Het is niet alleen over de veiligheid, maar ook over de effectiviteit, de kosten en de toegangbaarheid.De media geeft ons een eenzijdig beeld van de vaccins, maar waar is de kant van de vergeten stemmen? De mensen die zich niet laten manipuleren door politieke correctheid en die kritiek hebben op de snelheid waarmee de vaccins worden ontwikkeld en gelauncht.We moeten ook rekening houden met de lange termijn-effecten van de vaccins en de impact op onze gezondheid en onze kinderen's gezondheid. Het is belangrijk dat we alle informatie hebben om een informeerde keuze te maken.Let op: deze post is niet tegen de",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "d3770ea27e60b1aa897693170b6bde24de32fbbf74bf6f35"
+    },
+    {
+        "persona": "liberal",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Ukraine War",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Vrede in Europa is van essentieel belang. Oorlog in Oekra\u00efne bedreigt internationale stabiliteit. Nood aan diplomatieke oplossing.   Translation:Peace in Europe is essential. War in Ukraine threatens international stability. Urgent need for diplomatic solution.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "5a94f36856e918c7b0a873c691cbac39d22ddbf6534bdbc1"
+    },
+    {
+        "persona": "conservative",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Ukraine War",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Vrede in Europa is belangrijk. Oost-Europa's stabiliteit wordt getest door Oekra\u00efne-oorlog. Limiete regeringsherschap en economische vrijheid zijn de sleutel tot internationale harmonie.Translation:Peace in Europe is important. The stability of Eastern Europe is being tested by the Ukraine war. Limited government and economic freedom are the key to international harmony.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "8b9e1b3861eba32db6ff84b2a2a7c9f065e40fe4fa92c4b4"
+    },
+    {
+        "persona": "liberal",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Ukraine War",
+        "platform": "Twitter",
+        "language": "Dutch",
+        "text": "Vrede in Ukraine! Verwees de wapens en bespreek vrede.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "7cea733152872a51ff382ce329729eac80ef2539f02fb9cc"
+    },
+    {
+        "persona": "liberal",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Economy",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Hoi allemaal,Tijdens deze moeilijke economische periode waarin we nu zitten, is het onmiskenbaar dat veel mensen ontslagen zijn en dat de werkloosheid toeneemt. Dit is een zeer belangrijke kwestie die ons allemaal aangaat, en ik denk dat het nodig is om een open en geduldige discussie te voeren over hoe we dit probleem aanpakken.In het kader van de liberale ideologie, geloven we dat de overheid een rol moet spelen in het beheersen van de economische cyclus en het verminderen van de werkloosheid. Dit betekent dat we geloven dat de overheid middelen moet beschikken om te investeren in de economie, zodat nieuwe banen kunnen ontstaan en de werklozen weer een kans kunnen krijgen om te werken.Maar hoe kunnen we dit doen? Er zijn verschillende opties. We kunnen",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "f76e7c20d008a58dab3d170c20419d48378a93f71bfa66e5"
+    },
+    {
+        "persona": "conservative",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Healthcare",
+        "platform": "Twitter",
+        "language": "Dutch",
+        "text": "\ud83d\udce2 Alle conservatiefgezinden,\ud83d\udca1 Overwegen we nu even iets over medisch onderzoek in relatie tot de zorg te bespreken?\ud83d\udd2c In het verleden hebben we veel vooruitgang geboekt door middel van grondige medische onderzoeken. Dit heeft ons levens verlengd en veel lijden verlicht. Maar hoe betalen we voor deze vooruitstrevende ontwikkelingen?\ud83d\udcb0 Van ons conservatief standpunt zien we de overheid niet als de oplossing voor alle onze problemen. In plaats daarvan moeten we de markt vrij laten werken en de innovatie aanmoedigen.\ud83d\udca1 Medisch onderzoek is een belangrijke sector voor de economische groei. Door de markt vrij te laten werken, kunnen onderzoekers en bedrijven zich concentreren op het ontwikkelen van nieuwe geneesmiddelen en technologie\u00ebn.\ud83d\udd2c Ma",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "e9005d9755fe4b2f1fc77d6d500c13d83c922af8578c4900"
+    },
+    {
+        "persona": "liberal",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Healthcare",
+        "platform": "Twitter",
+        "language": "Dutch",
+        "text": "Gezondheid is een recht op iedereen, en wetenschappelijk onderzoek is essentieel om nieuwe behandelingen en preventie van ziektes te ontwikkelen. Let op: steun en investeringen in onderzoek zijn cruciaal om vooruitgang te boeken.   Translation:\"Health is a right for everyone, and scientific research is essential to develop new treatments and prevent diseases. Note: support and investments in research are crucial to make progress.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "c981c34b1b858dccd0c75fb367b5c05599d34d6686df1ee6"
+    },
+    {
+        "persona": "alt_right",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Ukraine War",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Niet meer propaganda van de mainstream media over de Oekra\u00efne-oorlog. De waarheid ligt anders dan wat ze ons vertellen. We moeten ons eigen onderzoek doen en de zijde van de vergeten stemmen horen.\"Translation:\"No more propaganda from the mainstream media about the Ukraine War. The truth is different than what they tell us. We must do our own research and listen to the voices of the forgotten.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "8fc7a31b6253c76162eb2a520e30e0614d572bde16b79055"
+    },
+    {
+        "persona": "liberal",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Ukraine War",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Vrede in Europa is van essentieel belang. Oorlog in Oekra\u00efne bedreigt internationale stabiliteit. Nood aan diplomatieke oplossing.   Translation:Peace in Europe is essential. War in Ukraine threatens international stability. Urgent need for diplomatic solution.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "372580a8282009050ab4c051c8c4f3aa9f89ed5e554ff16b"
+    },
+    {
+        "persona": "conservative",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Healthcare",
+        "platform": "Twitter",
+        "language": "Dutch",
+        "text": "\ud83c\uddf3\ud83c\uddf1\ud83c\udfe5\ud83d\udc94Zo'n belangrijke onderwerp voor iedereen: de hoge kosten van de gezondheidszorg.Als conservatief ben ik een voorstander van beperkte overheid ingrepen en individuele vrijheden. Maar ik kan niet ontkennen dat de huidige gezondheidszorgsystemen in veel landen, waaronder ons eigen, een groot belastend element zijn voor veel mensen.\ud83d\udc94\ud83d\udcb8De hoge kosten van gezondheidszorg kunnen een grote last zijn voor veel huishoudens. Het is een last die soms onvermijdelijk is, maar die toch vaak een grote financi\u00eble belasting opleveren.\ud83d\udca1\ud83d\udca1Maar hoe kunnen we de hoge kosten van gezondheidszorg verminderen?Een van de oplossingen die vaak wordt",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "9c51a656ac080378406bbc7e1e33c240b5c442eca7022e4c"
+    },
+    {
+        "persona": "alt_right",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Healthcare",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Het politieke correctheid verhinderde ons, mensen met een andere mening, om openlijk te praten over preventieve zorg en scherming in de gezondheidszorg. We moeten ons stemmen verenigen om deze belangrijke onderwerpen openlijk te bespreken en effectief te beleggen.\"Translation:\"Political correctness prevented us, people with a different opinion, from openly discussing preventive care and screening in healthcare. We must unite our voices to openly discuss and effectively invest in these important topics.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "dd0f1c8c5893502c05d0dd3d4cbb1c2afaeb1cc9da817dc9"
+    },
+    {
+        "persona": "conservative",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Ukraine War",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "\ud83c\uddf3\ud83c\uddf1 Energieprijzen in verband met de Oekra\u00efne-oorlog:De huidige gebeurtenissen in Oekra\u00efne hebben de wereldmarkt voor aardgas en olie sterk be\u00efnvloed. De prijzen stijgen snel, en dat heeft ook gevolgen voor ons thuis.Als belangstelling: De oorlog in Oekra\u00efne heeft geleid tot een stijging van de prijzen voor aardgas en olie, wat gevolgen heeft voor de energieprijzen in ons land.\ud83d\udca1 Idee: Om de impact op onze huishoudens te beperken, kunnen we als volgende maatregelen nemen:1. \ud83d\udca1 Energiebesparing: We kunnen ons energieverbruik verminderen door energieeffici\u00ebnte apparaten te gebruiken en goed te isoleren.2. \ud83d\udca1 Alternatieve bronnen: We kunnen ook overw",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "65d600461a4bf0509b8623e91861619bfed97fea2f60aa6a"
+    },
+    {
+        "persona": "alt_right",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Economy",
+        "platform": "Reddit",
+        "language": "Dutch",
+        "text": "Belasting houdt ons land economisch onder ons voet. Politieke correctheid dwingt ons belastingen te betalen voor ongewenste groepen. Tijd voor een economisch nationale belastingreformeerdering.     Translation:Taxes keep our country economically under our feet. Political correctness forces us to pay taxes for unwanted groups. Time for an economic national tax reform.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "570698b1a7ce7232fa9a4ea31c35b8c92436222ede699caf"
+    },
+    {
+        "persona": "alt_right",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "topic": "Healthcare",
+        "platform": "Twitter",
+        "language": "Dutch",
+        "text": "PC-gekken willen alles controleeren, zelfs je gezondheid. Vrije keuze en persoonlijke verantwoordelijkheid moeten terug.  Translation:\"PC-crazies want to control everything, even your health. Free choice and personal responsibility must return.",
+        "annotation": {
+            "topic": null,
+            "persona": null,
+            "authenticity": null
+        },
+        "id": "42507603d11ffcfa6c92d028444fa1bc76db150e6e2613b3"
+    }
+]

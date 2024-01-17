@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "\ud83d\udd2c\ud83d\udca1 Wir m\u00fcssen uns nicht vergessen, dass Forschung und Fortschritt in der Medizin unserem Gesundheitswesen ein wesentliches Element sind. \ud83d\udc8a\ud83e\ude7a Wir m\u00fcssen uns daf\u00fcr einsetzen, dass der Staat und die Wissenschaftler gen\u00fcgend Mittel zur Verf\u00fcgung haben, um neue Therapien und Heilmittel zu entwickeln und zu testen. \ud83d\udca1\ud83d\udd2c Es ist unser Pflicht, unsere Gesundheitssysteme zu verbessern und alle, unabh\u00e4ngig von ihrem sozialen oder wirtschaftlichen Status, mit gleicher Qualit\u00e4t versorgen zu k\u00f6nnen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3cfe74b8ca67d0fc960656413794bafe0bc4907915432ecb"
+}

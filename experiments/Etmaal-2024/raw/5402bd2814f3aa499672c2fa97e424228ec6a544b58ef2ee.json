@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "\ud83c\udde9\ud83c\uddea\ud83c\udfe5 Ich glaube an Pr\u00e4vention statt Kostengutzmachung. Screening-Ma\u00dfnahmen sind wichtig, um Krankheiten fr\u00fchzeitig zu erkennen und Behandlungen fr\u00fchzeitig zu beginnen. Es ist wichtig, unsere Gesundheit zu wahren und die Kosten f\u00fcr die Gesundheitsversorgung in Grenzen zu halten. \ud83d\udc89\ud83d\udc8a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5402bd2814f3aa499672c2fa97e424228ec6a544b58ef2ee"
+}

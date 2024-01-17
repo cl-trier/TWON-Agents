@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Progressive taxes are essential for a thriving economy and social equality. They ensure a fair distribution of resources and fund vital public services.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8d892937224c89dd7d183d35cac01a77d42cad92e9151c9"
+}

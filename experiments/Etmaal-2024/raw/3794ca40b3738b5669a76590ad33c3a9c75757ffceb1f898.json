@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udf10\ud83c\uddea\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa  Wir m\u00fcssen uns der internationalen Stabilit\u00e4t bewusst sein und die diplomatischen Anstrengungen unterst\u00fctzen, um den Konflikt in der Ukraine beizulegen. \ud83d\udc94 Die Menschenleben sind wert, und wir m\u00fcssen uns anstrengen, die Friedensverhandlungen voranzutreiben.                               #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3794ca40b3738b5669a76590ad33c3a9c75757ffceb1f898"
+}

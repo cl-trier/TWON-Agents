@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udf3f Wir m\u00fcssen uns mehr um Recycling bem\u00fchen, um unser Umwelt zu schonen! \ud83c\udf0d Reduzieren Sie Ihre Abf\u00e4lle und sammeln Sie Altpapier, Aluminium und Glasflaschen, um sie wiederverwenden zu lassen. \ud83d\udd04",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd86cf9b6f8ad3bd0f8f95c4f424227151a2cb5d132a5a5a"
+}
