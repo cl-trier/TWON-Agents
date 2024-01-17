@@ -43,10 +43,14 @@ class Response(BaseModel):
 
         if self.action in ['generate', 'reply']:
             self.response = (
+                # remove hashtags
                 re.sub(r'#\S+', '', self.response)
+                # remove leading, trailing, spaces, quotes
                 .strip()
                 .strip('"')
                 .strip("'")
+                # remove linebreaks
+                .replace("\n", "")
             )
 
         if self.action == 'like':
