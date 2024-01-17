@@ -21,8 +21,6 @@ class Response(BaseModel):
     prompt: str
     response: str
 
-    _log_path: str = None
-
     model_config = {
         "json_schema_extra": {
             "examples": [
@@ -37,7 +35,7 @@ class Response(BaseModel):
         }
     }
 
-    def __init__(self, **data):
+    def __init__(self, log_path: str = None, **data):
         super().__init__(**data)
 
         self.id = uuid.uuid1()
@@ -50,8 +48,8 @@ class Response(BaseModel):
             choices: List[str] = re.findall(r'true|false', self.response, re.I)
             self.response = choices[0] if choices else 'false'
 
-        if self._log_path:
-            self.log(self._log_path)
+        if log_path:
+            self.log(log_path)
 
     def log(self, path: str) -> None:
         json.dump(

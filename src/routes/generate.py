@@ -21,7 +21,7 @@ def create_route(config: Config) -> APIRouter:
                 persona=Persona.merge_personas(request.personas, config.agents.personas),
                 request=request,
                 slots=dict(topic=request.topic),
-            ) | dict(action='generate', _log_path=config.agents.log_path)
+            ) | dict(action='generate', log_path=config.agents.log_path)
         )
 
     return router
