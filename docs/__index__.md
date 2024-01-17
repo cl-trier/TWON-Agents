@@ -51,7 +51,7 @@ The endpoint describes the LLM provider and model for inferencing. Currently, we
 ### Language (optional, default: English)
 todo
 
-### Network (optional, default: Twitter)
+### Platform (optional, default: Twitter)
 todo
 
 ### History (optional, default: None)
@@ -67,4 +67,4 @@ The history contains the recent interaction of the selected agent with the platf
 }
 ```
 
-If you provide no history, we fill the prompt with an explicit description of the missing interaction: *You have not interacted in the network yet.*
+If you provide no history, we fill the prompt with an explicit description of the missing interaction: *You have not interacted in the platform yet.*

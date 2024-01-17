@@ -17,7 +17,7 @@ def inference(
     prompt: str = template.format(
         **dict(
             language=str(request.language),
-            network=str(request.network),
+            platform=str(request.platform),
             history=str(request.history),
             persona=str(persona)
         ) | slots

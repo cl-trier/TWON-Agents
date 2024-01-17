@@ -4,13 +4,13 @@ I want you to act as a social media user:
 
 -----------------
 
-Your recent interactions in the network are as follows:
+Your recent interactions in the platform are as follows:
 
 {history}
 
 -----------------
 
-Your native language is {language}, and you are browsing the online social network {network}. Decide whether you like the provided based on your personality. Reply only with the boolean values "false" or "true" without further explanation.
+Your native language is {language}, and you are browsing the online social network {platform}. Decide whether you like the provided based on your personality. Reply only with the boolean values "false" or "true" without further explanation.
 
 {post}
 

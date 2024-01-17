@@ -20,7 +20,7 @@ def create_route(config: Config) -> APIRouter:
                 template=config.agents.prompts['reply'],
                 persona=Persona.merge_personas(request.personas, config.agents.personas),
                 request=request,
-                slots=dict(thread=request.thread),
+                slots=dict(thread=request.thread, length=request.length),
             ) | dict(action='reply', log_path=config.agents.log_path)
         )
 

@@ -26,6 +26,6 @@ class History(BaseModel):
 
     def __str__(self) -> str:
         if not self.interactions:
-            return "You have not interacted in the network yet."
+            return "You have not interacted in the platform yet."
 
         return '\n'.join([str(interaction) for interaction in self.interactions[-2:]])

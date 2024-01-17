@@ -11,7 +11,7 @@ class BaseRequest(BaseModel):
     integration: Integration = Integration.model_config["json_schema_extra"]["examples"][0]
 
     language: Literal['English', 'German', 'Dutch', 'Italian', 'Serbian'] = "German"
-    network: Literal['Twitter', 'Reddit', 'Facebook', 'Telegram'] = "Twitter"
+    platform: Literal['Twitter', 'Reddit', 'Facebook', 'Telegram'] = "Twitter"
 
     history: History = []
 
@@ -25,7 +25,7 @@ class BaseRequest(BaseModel):
                     ],
                     "integration": Integration.model_config["json_schema_extra"]["examples"][0],
                     "language": "English",
-                    "network": "Twitter",
+                    "platform": "Twitter",
                     "history": History.model_config["json_schema_extra"]["examples"][0],
                 }
             ]
