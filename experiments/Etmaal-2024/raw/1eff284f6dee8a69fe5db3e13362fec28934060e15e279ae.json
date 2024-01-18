@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83d\udd0b\ud83d\udca1  Het is een pijnlijke realiteit dat de huidige gebeurtenissen in Oekra\u00efne ons allemaal een grote impact hebben op onze dagelijks leven. Met name de hoge energiedragen, die inmiddels een grote belasting vormen voor veel huishoudens, zijn een zorg.Maar hoe komt het dat de energiedragen zo hoog zijn? De oorlog in Oekra\u00efne heeft een grote invloed op de wereldmarkt voor aardgas. Rusland, dat een groot aandeel in de wereldproductie van aardgas heeft, heeft de leveranties van dit grondstof naar Europa gestopt. Dit heeft tot gevolg dat de prijzen stijgen.Maar hoe kunnen we, als burger, iets anders dan klagen over de hoge energiedragen? Er zijn wel enkele dingen die we kunnen doen",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1eff284f6dee8a69fe5db3e13362fec28934060e15e279ae"
+}

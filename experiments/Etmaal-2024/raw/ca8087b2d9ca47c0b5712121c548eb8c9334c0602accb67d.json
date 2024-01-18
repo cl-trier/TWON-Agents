@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Enough with the mainstream media fear-mongering, it's time to question the rushed Covid-19 vaccines and consider alternative solutions that respect individual liberties and medical freedoms.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca8087b2d9ca47c0b5712121c548eb8c9334c0602accb67d"
+}

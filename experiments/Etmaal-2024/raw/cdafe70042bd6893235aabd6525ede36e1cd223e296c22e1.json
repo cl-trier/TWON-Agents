@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Trots op de vooruitgang in medisch onderzoek!\ud83d\udc69\u200d\ud83d\udd2c\ud83e\uddea\u2728 Laten we ons richten op innovatieve oplossingen en de kracht van de vrije markt om gezondheidszorg voor iedereen toegankelijk en betaalbaar te maken. \ud83d\udcaa\ud83d\udcb0\ud83d\udc89",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cdafe70042bd6893235aabd6525ede36e1cd223e296c22e1"
+}

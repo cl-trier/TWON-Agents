@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Unemployment has become a pressing issue in our economy, and it's time to face the hard truths. Mainstream media and politicians continue to ignore the struggles of hardworking Americans, while pushing their own self-serving agendas. It's time to put America first and prioritize the needs of our citizens. Let's reject political correctness and get back to the principles that made our country prosperous.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f77680f0a05f011bb7e750b8552eb6ff8f2d28ec4ab24ec"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Supporting a clean environment doesn't mean endorsing radical climate change policies that stifle economic growth and individual freedoms. Balance is key.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ba75bec2311ffa6c9ac0c75d536abbe38c0787f659a3be8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Vrijheid en persoonlijke verantwoordelijkheid zijn cruciaal, maar we moeten ons afvragen wanneer overheidsbemoeienis te ver gaat. Laten we waakzaam blijven en streven naar evenwicht tijdens deze onzekere tijden.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58919c28ef9b18c15aa9d8da43cff6ac41166955df51f840"
+}

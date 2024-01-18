@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Habe heute morgen \u00fcber Recycling nachgeding nachgedacht. Aber wie soll es denn funktionieren, wenn die Mainstream-Medien uns mit L\u00fcgen \u00fcber die Umwelt belasten? Wir m\u00fcssen uns selbst auf die Sache einlassen und unsere eigenen Abf\u00e4lle sortieren. Nationales Bewusstsein und Selbstverantwortung sind die Schl\u00fcssel zum Erfolg.      Translation:I have been thinking about recycling this morning. But how is it supposed to work if the mainstream media deceive us about the environment? We have to deal with the issue ourselves and sort out our own waste. National consciousness and self-responsibility are the keys to success.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc7bf9d8be36a51c726cbf084e46429a75700c6ba7ad77fe"
+}

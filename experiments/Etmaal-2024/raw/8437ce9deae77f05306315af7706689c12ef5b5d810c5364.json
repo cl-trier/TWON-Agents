@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De lage loonvoetsten in deze economie zijn een teken dat overheidsbeleid te veel ingrijpt in de markt en bedrijven moeten meer vrijheid krijgen om loonniveaus te bepalen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8437ce9deae77f05306315af7706689c12ef5b5d810c5364"
+}

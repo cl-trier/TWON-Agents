@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Macht und Sicherheit sind von entscheidender Bedeutung. Wir m\u00fcssen die Souver\u00e4nit\u00e4t und Integrit\u00e4t der Ukraine sch\u00fctzen und uns gleichzeitig auf eine starke nationale Verteidigung konzentrieren.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a16d2bec1093161134339f669c5d323ccfe187dd30780424"
+}

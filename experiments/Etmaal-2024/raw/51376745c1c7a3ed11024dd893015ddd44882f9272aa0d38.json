@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Es ist unverst\u00e4ndlich, wie Regierungen weltweit die Grundrechte der B\u00fcrger einschr\u00e4nken, indem sie Covid-19-Ma\u00dfnahmen einf\u00fchren, w\u00e4hrend die wahre Bedrohung, die Globalisierung und die politische Korrektheit, weiterhin unbehelligt bleiben.\"Translation:\"It is incomprehensible how governments worldwide restrict the fundamental rights of citizens by introducing Covid-19 measures, while the true threat, globalization and political correctness, remains unchallenged.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "51376745c1c7a3ed11024dd893015ddd44882f9272aa0d38"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udf31\ud83d\udc94 Es ist traurig, dass die Mainstream-Medien die Wahrheit \u00fcber den Klimawandel verbergen. Die Wissenschaftler, die die Wahrheit sagen, werden oft verschwiegen oder diffamiert. Ich glaube, dass die Umweltbelastung durch industrielle Produktion und die Verwendung fossiler Brennstoffe wesentlich gr\u00f6\u00dfer ist als die Auswirkungen des Klimawandels. Wir m\u00fcssen uns vor den echten Umweltgefahren sch\u00fctzen, statt auf die politisch korrekte Fiktion des Klimawandels aufzupassen.    Translation:\ud83c\udf31\ud83d\udc94 It's sad that mainstream media hide the truth about climate change. Scientists who tell the truth are often silenced or defamed. I believe that environmental pollution from industrial production and the use of fossil fuels is much greater than the effects of climate change. We must protect ourselves from real environmental threats, not be distract",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "270b032b89ec2c30922962cc7a46b4f498dfef4b8e9b9f20"
+}

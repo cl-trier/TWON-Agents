@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Gezondheidszorg moet gericht zijn op screenings en preventie! Laten we verantwoordelijkheid nemen voor onze eigen gezondheid en de rol van de overheid beperken.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed686c68b29829e3c8bdd32ef29ee8f3df1e95415c97f505"
+}

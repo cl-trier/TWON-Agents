@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Thrilled to see ongoing advancements in medical research! Excited to possibilities for improved healthcare!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49e4bf698ad21e8596f49343b5c51384b544b65285894668"
+}

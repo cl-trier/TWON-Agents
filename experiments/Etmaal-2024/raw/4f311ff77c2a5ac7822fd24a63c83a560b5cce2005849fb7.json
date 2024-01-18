@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "The Ukraine War highlights the need for strong national borders and alliances, as international stability hinges on the ability of sovereign states to protect their own interests.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f311ff77c2a5ac7822fd24a63c83a560b5cce2005849fb7"
+}

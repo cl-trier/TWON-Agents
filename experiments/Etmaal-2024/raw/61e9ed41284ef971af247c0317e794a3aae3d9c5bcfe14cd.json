@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Regierungsvorschriften m\u00fcssen angemessen sein. Freiheit und Verantwortung gehen Hand in Hand.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "61e9ed41284ef971af247c0317e794a3aae3d9c5bcfe14cd"
+}

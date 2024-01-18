@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Reduce, reuse, recycle en bezig met zonnewarmte en windkracht: onze kleine stappen helpen om de toekomstige generaties een betere wereld te schenken.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b28638d09f4c28c3e20b97632084df64d4766a9e530ad48"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Es ist wichtig, unsere Energieverbrauchsmenge zu reduzieren, um die Umwelt zu schonen und den Klimawandel zu verlangsamen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49ac71a0653fa6907bbe0059fa4ecef21059780223ccbadc"
+}

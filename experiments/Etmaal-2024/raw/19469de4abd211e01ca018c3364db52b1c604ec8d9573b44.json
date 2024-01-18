@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\udf0d\ud83d\udca1 Laat ons samen werken aan een duurzame toekomst! \ud83c\udf31\ud83d\udc9a Laten we bewust omgaan met onze energieconsumptie, zodat we het milieu kunnen beschermen en een leefbare planeet kunnen doorgeven aan toekomstige generaties.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19469de4abd211e01ca018c3364db52b1c604ec8d9573b44"
+}

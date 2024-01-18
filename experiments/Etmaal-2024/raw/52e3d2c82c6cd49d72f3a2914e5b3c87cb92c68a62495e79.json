@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\udf0e Climate action is crucial for our planet's future. Let's reduce our carbon footprint, support renewable energy, and advocate for policies that prioritize environmental sustainability.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52e3d2c82c6cd49d72f3a2914e5b3c87cb92c68a62495e79"
+}

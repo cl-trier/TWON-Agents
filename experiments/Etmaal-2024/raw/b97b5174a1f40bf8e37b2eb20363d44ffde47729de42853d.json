@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "The real wage growth story isn't being told by the mainstream media. While they focus on headline inflation numbers, the truth is that working class Americans are seeing little to no real wage growth. It's time to stop the political correctness and start having an honest conversation about the economic realities facing our people.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b97b5174a1f40bf8e37b2eb20363d44ffde47729de42853d"
+}

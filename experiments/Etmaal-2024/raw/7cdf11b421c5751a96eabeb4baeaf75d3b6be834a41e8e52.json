@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Was f\u00fcr eine Heuchelei von den Mainstream-Medien, die internationale Stabilit\u00e4t in Bezug auf den Ukraine-Krieg anzusprechen, wenn sie sich doch nur darum k\u00fcmmern, politisch korrekte Narrative zu f\u00f6rdern und die wahren Opfer zu \u00fcbersehen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7cdf11b421c5751a96eabeb4baeaf75d3b6be834a41e8e52"
+}

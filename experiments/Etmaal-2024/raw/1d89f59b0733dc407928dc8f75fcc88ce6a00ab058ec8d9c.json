@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Let's work together to prevent the spread of Covid-19 by wearing masks, maintaining social distancing, and getting vaccinated. Our collective actions can save lives and protect our communities.  -----------------Translation in Dutch:\"Laat ons samen werken om de verspreiding van Covid-19 te voorkomen door masken te dragen, sociale afstand te houden en gevaccineerd te raken. Onze gezamenlijke acties kunnen levens redden en onze gemeenschappen beschermen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1d89f59b0733dc407928dc8f75fcc88ce6a00ab058ec8d9c"
+}

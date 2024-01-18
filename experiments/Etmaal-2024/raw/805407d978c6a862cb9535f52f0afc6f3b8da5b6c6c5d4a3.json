@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Mainstream media trying to spin high unemployment numbers as a victory for Biden admin. But let's not forget, these stats only reflect those who are actively seeking employment. Millions more have given up on the system, discouraged by low wages, lack of opportunities, and burdensome regulations. Real unemployment rate likely much higher.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "805407d978c6a862cb9535f52f0afc6f3b8da5b6c6c5d4a3"
+}

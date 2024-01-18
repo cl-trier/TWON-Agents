@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "\ud83c\udde9\ud83c\uddea\ud83c\udfe5 Forschende K\u00f6pfe weltweit arbeiten an neuen Medizin-Entdeckungen, um unsere Gesundheit zu verbessern. \ud83d\udd2c\ud83d\udca1 Aber wie finanzieren wir diese wichtigen Forschungen? \ud83d\udcb0Ich glaube, dass wir als Gesellschaft die Bedeutung von fortschrittlicher Medizin nicht untersch\u00e4tzen d\u00fcrfen. Es ist wichtig, unsere Forschungseinrichtungen zu unterst\u00fctzen, um die n\u00e4chsten gro\u00dfen Entdeckungen zu erm\u00f6glichen. \ud83c\udf1fAber wir m\u00fcssen auch daran denken, wie wir diese Forschungen finanzieren. Wir k\u00f6nnen uns nicht allein auf die Regierung verlassen, um diese Kosten zu tragen. \ud83d\ude45\u200d\u2642\ufe0fIch schlage daher vor, dass wir als Privatpersonen mehr f\u00fcr die medizinische Forschung aufkommen. Wir k\u00f6nnen Spenden an wohlt\u00e4tige Organisationen leisten oder uns",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "203f4ff84e387c6a79653513da4dc06af3dad1c10f634d04"
+}

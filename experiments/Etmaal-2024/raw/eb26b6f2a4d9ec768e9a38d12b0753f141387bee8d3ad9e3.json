@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Mainstream media hides the truth: alternative medical research, ignored by Big Pharma, offers promising solutions for affordable and effective healthcare.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb26b6f2a4d9ec768e9a38d12b0753f141387bee8d3ad9e3"
+}

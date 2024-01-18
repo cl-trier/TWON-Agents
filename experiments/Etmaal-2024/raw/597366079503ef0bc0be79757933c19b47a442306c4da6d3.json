@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "The elites in power keep pushing for higher taxes, but what they don't tell you is that it's the hardworking taxpayers who'll bear the brunt of their economic mismanagement. We need to put a stop to this madness and demand a fair tax system that benefits the many, not just the privileged few.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "597366079503ef0bc0be79757933c19b47a442306c4da6d3"
+}

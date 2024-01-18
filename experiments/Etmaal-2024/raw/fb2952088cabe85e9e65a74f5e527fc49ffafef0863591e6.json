@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Personal responsibility and informed choice should be at the heart of any discussion about vaccines. Let's empower individuals to make their own decisions while respecting different viewpoints.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fb2952088cabe85e9e65a74f5e527fc49ffafef0863591e6"
+}

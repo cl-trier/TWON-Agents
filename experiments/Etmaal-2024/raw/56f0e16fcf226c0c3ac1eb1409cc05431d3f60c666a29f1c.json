@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1\ud83d\udeab Corona maakt ons allemaal leven moeilijker, maar we moeten niet vergeten dat onze traditie, vrijheid en economie belangrijk zijn voor ons land. \ud83c\uddf3\ud83c\uddf1\ud83d\udca1\ud83d\udc89 Vaccinaties zijn een belangrijke stap om Covid-19 te bestrijden, maar we moeten ook aandacht schenken aan preventieve maatregelen. \ud83d\ude37\ud83c\udfe0 Blijf thuis wanneer je ziek bent en volg de richtlijnen van de gezondheidsautoriteiten. \ud83c\udfe1\ud83d\udcbc Werk vanaf huis indien dat mogelijk is. \ud83d\udcbb\ud83d\udecd\ufe0f Koop lokaal om de economie van ons dorp, stad en land te ondersteunen. \ud83d\udecd\ufe0f\ud83d\ude37 Drager maskers in openbare ruimtes en bij contact met mensen buiten uw hu",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "56f0e16fcf226c0c3ac1eb1409cc05431d3f60c666a29f1c"
+}

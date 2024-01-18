@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Vaccins niet altijd veilig, maar risico's van Covid-19 veel hoger. Geen politieke correctheid, maar persoonlijke verantwoordelijkheid.   Translation:\"Vaccines not always safe, but risks of Covid-19 much higher. No political correctness, but personal responsibility.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96f33f6a59c496e860474e5d56f3beb4746d87ed8c8b284d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Rising energy prices amidst the Ukraine War highlight the need for investment in renewable energy sources and reducing dependence on fossil fuels to achieve long-term sustainability and global peace.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c280331ea4ae21ef19577f89b99437a6ba9ec7a6a3e4f401"
+}

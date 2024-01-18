@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Limiete regels volgen en individuele vrijheden respecteren is de beste manier om Covid-19 te voorkomen en onze traditionele waarden te behouden. (Following limited rules and respecting individual freedoms is the best way to prevent Covid-19 and preserve our traditional values.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "411a6adecb1ea2f00f08e23a1941e4a601c674ead61ffc36"
+}

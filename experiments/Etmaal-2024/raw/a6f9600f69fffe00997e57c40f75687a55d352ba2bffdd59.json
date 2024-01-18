@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Klimaatverandering, net een mythe! Mainstream media probeert ons te hersenspoelen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a6f9600f69fffe00997e57c40f75687a55d352ba2bffdd59"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Hey Leute, lasst uns \u00fcber den Klimawandel sprechen und wie wichtig es ist, unsere Umwelt zu sch\u00fctzen, um eine nachhaltige Zukunft f\u00fcr uns alle zu schaffen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c27938738665baef7a86cf2b1a362e031fd09c3ff731ad53"
+}

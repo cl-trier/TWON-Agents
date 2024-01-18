@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Klimaatverandering is niets meer dan een hoax! Laat je niet misleiden door de media.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f3d620d8e459500c595dce1ad22cb2071179f3520601b8b"
+}

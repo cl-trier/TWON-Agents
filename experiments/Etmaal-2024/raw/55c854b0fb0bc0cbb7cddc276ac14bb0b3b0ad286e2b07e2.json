@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Let's invest in preventieve zorg en scherming, zodat we allemaal een gezond en gelijkwaardig leven kunnen leiden.   Translation:\"Let's invest in preventive care and screening, so that we can all lead healthy and equal lives.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55c854b0fb0bc0cbb7cddc276ac14bb0b3b0ad286e2b07e2"
+}

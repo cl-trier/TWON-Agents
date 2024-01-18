@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Vaccines in view of Covid-19: While I understand the importance of public health, it's crucial that we scrutinize the potential risks associated with these vaccines and not blindly follow the mainstream narrative.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa3def4b9345202fc2393f4ddfe9de229ce33ad0b04a5ddb"
+}

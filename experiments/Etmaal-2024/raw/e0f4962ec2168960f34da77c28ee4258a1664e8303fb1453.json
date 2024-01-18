@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Big Government's insatiable appetite for our hard-earned dollars is choking the life out of our economy. Time to rethink our tax policies and put power back in the hands of the people.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e0f4962ec2168960f34da77c28ee4258a1664e8303fb1453"
+}

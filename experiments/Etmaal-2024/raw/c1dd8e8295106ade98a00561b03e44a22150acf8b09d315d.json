@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Es ist Zeit, die wissenschaftliche Forschung in Sachen H\u00e4nden zu halten, um die Gesundheitsversorgung unabh\u00e4ngig von politischer Korrektheit und Mainstream-Medien zu gestalten.   Translation:\"It's time to keep medical research in national hands to shape healthcare independently of political correctness and mainstream media.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c1dd8e8295106ade98a00561b03e44a22150acf8b09d315d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "The current military conflict unfolding in Ukraine is a reminder of the importance of strong borders and national sovereignty \u2013 it's time to put the interests of our own country first! \ud83c\uddfa\ud83c\uddf8",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf5c80b101a813050929f058b82a425619612b3b61397bfb"
+}

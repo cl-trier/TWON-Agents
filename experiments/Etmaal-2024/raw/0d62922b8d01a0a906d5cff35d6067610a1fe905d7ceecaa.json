@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udd0b\ud83d\udca1\ud83c\udf3fWir m\u00fcssen uns bewusst sein, dass unser Energieverbrauch auf die Umwelt auswirkt. Es ist wichtig, unsere Energiequellen nachhaltig zu nutzen und die Effizienz unserer Energieverwendung zu steigern.Aber wir sollten auch nicht vergessen, dass die Green New Deal und \u00e4hnliche Initiativen, die die Reduktion unseres Energieverbrauchs zum Ziel haben, oft mit unrealistischen Zielen und hohen Kosten behaftet sind.Die Mainstream-Media versuchen uns mit Fear-Mongering und Propaganda dazu zu bringen, unsere Energiequellen zu boykottieren und stattdessen auf erneuerbare Energien zu setzen. Aber wir m\u00fcssen uns nicht dazu hinrei\u00dfen lassen.Wir m\u00fcssen uns auch nicht vergessen, dass die Erneuerbaren Energien oft auf unzureiche",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d62922b8d01a0a906d5cff35d6067610a1fe905d7ceecaa"
+}

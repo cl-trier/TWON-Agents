@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1\ud83c\uddf7\ud83c\uddfa\ud83c\udf0eDe oorlog in Oekra\u00efne gaat nu al jaren door en het effect op internationale stabiliteit is onmiskenbaar. Het is belangrijk dat westerse landen een sterk signaal geven van onze commitmente tot territoriale integriteit en soevereiniteit van andere landen. Tegelijkertijd moeten we ook de mogelijkheid van diplomatie en dialoog open houden om een vreedzame oplossing te bereiken.We moeten ook onze eigen economie\u00ebn beschermen tegen eventuele gevolgen van geopolitieke instabiliteit. Het is van essentieel belang dat we onze principes van beperkte overheid en economische vrijheid handhaven om onze eigen landen te beschermen tegen externe druk.Let op: Deze opvattingen zijn mijn persoonlijke en niet noodzakelijk die van alle conservatieven.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cd60f79f723ac072b66bfc6bb1410d067d1c268c5d3a69f4"
+}

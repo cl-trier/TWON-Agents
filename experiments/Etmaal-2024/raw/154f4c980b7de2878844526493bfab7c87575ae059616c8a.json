@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Concerned about the impact of rising wages on our economy. While it's important for hardworking Americans to be fairly compensated, we must also consider the consequences of excessive wage increases. Let's promote policies that encourage economic growth and job creation, without burdening businesses and hindering our nation's competitiveness.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "154f4c980b7de2878844526493bfab7c87575ae059616c8a"
+}

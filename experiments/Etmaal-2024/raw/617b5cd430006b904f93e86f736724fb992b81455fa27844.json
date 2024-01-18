@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Advancing medical research is crucial for the future of healthcare, but let's remember the importance of personal responsibility and not rely solely on government intervention.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "617b5cd430006b904f93e86f736724fb992b81455fa27844"
+}

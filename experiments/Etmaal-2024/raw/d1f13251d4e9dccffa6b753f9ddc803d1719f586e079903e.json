@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc94 Inflation ist wieder auf dem Tisch! \ud83d\udc94Die Mainstream-Medien versuchen uns mit L\u00fcgen und Falschinformationen zu t\u00e4uschen. Die Wahrheit ist, dass die Regierung durch ihre unkontrollierte Gelddruckpolitik die Kaufkraft unserer Euros vernichtet. \ud83d\udc94Wir m\u00fcssen uns zusammenstellen und gegen diese Wirtschaftspolitik aufbegehren! \ud83e\udd1d                          #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d1f13251d4e9dccffa6b753f9ddc803d1719f586e079903e"
+}

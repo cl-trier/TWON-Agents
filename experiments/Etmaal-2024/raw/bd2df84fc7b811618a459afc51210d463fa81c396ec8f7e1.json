@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Wages moeten aansluiten bij de hoge kosten van leven. Economie moet werknemers beschermen, niet uitbuitten.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd2df84fc7b811618a459afc51210d463fa81c396ec8f7e1"
+}

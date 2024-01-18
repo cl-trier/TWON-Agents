@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "The Ukraine War underscores the importance of energy independence and free-market pricing to protect consumers and maintain national security.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afc506033bd83422837bb20f00fdaa9af7e129f19bb06522"
+}

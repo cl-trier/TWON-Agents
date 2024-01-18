@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het klimaatveranderingsdebat wordt vaak gedomineerd door eenzijdige agenda's en politieke correctheid, laten we openstaan voor andere perspectieven en de wetenschap objectief onderzoeken.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9e77f64a054ddc82520fb06950fcc4c5466c53f8bb770f9d"
+}

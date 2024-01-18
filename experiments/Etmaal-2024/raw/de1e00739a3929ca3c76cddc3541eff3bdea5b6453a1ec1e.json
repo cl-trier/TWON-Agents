@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ik geloof in de kracht van vrije markt principes om economische welvaart te bevorderen. Hogere lonen worden niet bereikt door overheidsoptreden, maar door het stimuleren van competitie en ondernemerschap. Laat de markt zijn werk doen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de1e00739a3929ca3c76cddc3541eff3bdea5b6453a1ec1e"
+}

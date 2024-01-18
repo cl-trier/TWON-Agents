@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De hoge energiedragen in het licht van de Oekra\u00efne-oorlog: de markt moet de prijzen bepalen, niet de overheid.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "650363f020926de7e5933f2447f055670edcdf8d77ad4682"
+}

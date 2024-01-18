@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Hochpreise treffen uns alle, aber die Regierung muss handeln, um die Kosten f\u00fcr alle zu senken. Fairer Lohn, Sozialhilfe und Investitionen in nachhaltige Energiequellen sind notwendig.   Translation:Prices are affecting us all, but the government must act to lower costs for everyone. Fair wages, social welfare, and investments in renewable energy sources are necessary.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "427781eade43aab3a0a347901e7824ccda11c3393946a138"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83d\udcca Gezondheidszorg: Belangrijk is dat we de kostbaarheid onder controle houden, zodat iedereen toegang heeft tot essenti\u00eble diensten. \ud83d\udca1 Vrijemarktprincipes en prijstransparantie zouden de concurrentie stimuleren en de prijzen drukken. \ud83d\udc94 Maar: geen bezuinigingen op kwaliteit en toegankelijkheid.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c1c501c7c50cb2f8a99fc435781f8ba343f5ff4f6c0d2e52"
+}

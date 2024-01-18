@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udde9\ud83c\uddea\ud83d\udca1 Energiepreise im Hinblick auf den Ukraine-Krieg: Wir m\u00fcssen uns bewusst sein, dass unser Energieverbrauch politisch belastet ist. Wir m\u00fcssen uns auf alternative Quellen st\u00fctzen, um unser Land unabh\u00e4ngiger und sicherer zu halten. \ud83c\udde9\ud83c\uddea\ud83d\udca1(Translation: Germany \ud83c\udde9\ud83c\uddea Energy prices in view of the Ukraine War: We must be aware that our energy consumption is politically burdened. We must rely on alternative sources to make our country more independent and secure.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d60e22de3ab5b52aeda3537d512ef2a9a35d66ef897b030"
+}

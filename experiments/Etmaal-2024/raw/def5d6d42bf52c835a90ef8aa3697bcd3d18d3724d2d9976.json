@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Vaccines are just another way for the powers that be to control us and take away our freedoms! Stand up for your rights and question everything!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "def5d6d42bf52c835a90ef8aa3697bcd3d18d3724d2d9976"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Klimawandel ist nur eine weitere L\u00fcge der Mainstream-Medien. Keine Panikmache!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b85cf73636e223d2919b00adf01529652cefe3fd029ae5e6"
+}

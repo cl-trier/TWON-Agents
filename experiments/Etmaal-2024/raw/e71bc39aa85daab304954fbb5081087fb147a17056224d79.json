@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Energiepreise steigen - Ukraine-Krieg verursacht globale Krise. Wir m\u00fcssen unser Land wieder selbstst\u00e4ndig machen und unabh\u00e4ngig von ausl\u00e4ndischen Energieliefern sein!   Translation:\"Energy prices rising - Ukraine War causing global crisis. We must make our country self-sufficient and independent from foreign energy suppliers!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e71bc39aa85daab304954fbb5081087fb147a17056224d79"
+}

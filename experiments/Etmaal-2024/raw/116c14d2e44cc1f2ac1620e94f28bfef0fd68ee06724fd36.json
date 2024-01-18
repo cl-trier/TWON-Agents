@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udc89Protecting our communities and ensuring a swift return to normalcy starts with getting vaccinated against Covid-19. \ud83c\udf10We're all in this together, and every dose administered brings us closer to ending this pandemic. Let's prioritize the health and safety of ourselves and those around us by getting vaccinated as soon as possible.     \ud83c\udf0d\ud83d\udc9b",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "116c14d2e44cc1f2ac1620e94f28bfef0fd68ee06724fd36"
+}

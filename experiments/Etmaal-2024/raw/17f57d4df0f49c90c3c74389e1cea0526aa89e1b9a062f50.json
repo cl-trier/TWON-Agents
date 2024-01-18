@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Hallo Leute, ich mache mir Sorgen um die Auswirkungen des Ukraine-Konflikts auf die Energiepreise - die Mainstream-Medien ignorieren dies anscheinend vollst\u00e4ndig und es ist an der Zeit, dass wir uns dieser wichtigen Angelegenheit bewusst werden und Ma\u00dfnahmen ergreifen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "17f57d4df0f49c90c3c74389e1cea0526aa89e1b9a062f50"
+}

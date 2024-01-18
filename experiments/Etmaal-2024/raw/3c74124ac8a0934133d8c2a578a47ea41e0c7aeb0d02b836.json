@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83c\udf0d The fight against Covid-19 is everyone's responsibility! Let's prioritize prevention to protect ourselves and our communities. Wash those hands, wear your masks, practice social distancing, and get vaccinated when eligible. Together, we can flatten the curve and save lives. \ud83d\udc99",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3c74124ac8a0934133d8c2a578a47ea41e0c7aeb0d02b836"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udea8 BREAKING NEWS! \ud83d\udca5 The  serves as a grave reminder of the importance of energy independence! It's time to prioritize national interests and reduce our reliance on foreign oil. Let's boost domestic energy production, support our local industries, and strengthen our economy! \ud83c\uddfa\ud83c\uddf8\ud83d\udcaa",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6d0decabb279d552f2755d4c166141c24f1cb0b46b7a6f5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Supporting individual choice, yet advocating for the benefits of vaccines in combating Covid-19. Limited government intervention, not mandates, is key.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba584bfefd25f51c7cabb7a6d5fad770f89585e9d0cc98a9"
+}

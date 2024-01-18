@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Steun aan onze troepen in het licht van de voortdurende situatie in Oekra\u00efne. Laten we ons land beschermen en onze nationale veiligheid waarborgen. \ud83c\uddf3\ud83c\uddf1\ud83c\uddfa\ud83c\udde6",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "09ba954595b290a8f1962ae5a8a98e00c1f7e712ecddda5e"
+}

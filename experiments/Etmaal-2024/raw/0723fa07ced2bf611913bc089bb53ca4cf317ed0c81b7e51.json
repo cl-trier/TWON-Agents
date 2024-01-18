@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udf0d\ud83d\udcaa Angesichts der aktuellen wirtschaftlichen Lage ist es von entscheidender Bedeutung, dass wir uns f\u00fcr gerechte L\u00f6hne einsetzen! Arbeiter*innen sind das R\u00fcckgrat unserer Gesellschaft und verdienen angemessene Entlohnung f\u00fcr ihre harte Arbeit. Lasst uns zusammen f\u00fcr eine gerechte Verteilung der Ressourcen und Chancen k\u00e4mpfen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0723fa07ced2bf611913bc089bb53ca4cf317ed0c81b7e51"
+}

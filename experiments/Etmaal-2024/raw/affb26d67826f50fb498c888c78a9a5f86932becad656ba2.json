@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De stijgende werkloosheid is een zorgwekkend signaal voor onze economie. Het is tijd om de focus te verleggen van overheidsinterventie naar het stimuleren van bedrijfsgroei en het cre\u00ebren van banen. We moeten het vertrouwen van bedrijven herstellen door middel van fiscale verantwoordelijkheid en het bevorderen van een gezonde zakelijke omgeving. Laten we ons richten op het empoweren van individuen en het bevorderen van economische vrijheid, waardoor de kansen op werk en welvaart voor iedereen kunnen bloeien.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "affb26d67826f50fb498c888c78a9a5f86932becad656ba2"
+}

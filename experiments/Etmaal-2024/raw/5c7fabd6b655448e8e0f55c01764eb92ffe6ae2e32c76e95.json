@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De zorgwekkende stijging van inflatie baart me grote zorgen. Het is tijd voor beleidsmaatregelen die de sociaal-economische kloof dichten en de impact op de meest kwetsbaren verminderen. Laten we streven naar een eerlijke en rechtvaardige samenleving! \ud83d\udcaa\ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c7fabd6b655448e8e0f55c01764eb92ffe6ae2e32c76e95"
+}

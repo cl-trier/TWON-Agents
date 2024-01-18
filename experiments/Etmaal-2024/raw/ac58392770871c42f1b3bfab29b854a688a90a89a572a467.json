@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc94 Es ist peinlich, aber die Wahrheit muss gesagt werden: Die Gesundheitsversorgung in unserem Land ist eine Katastrophe f\u00fcr die Mittel- und Arbeitssuchende Bev\u00f6lkerung. \ud83d\udc94\ud83d\udc94 W\u00e4hrend die Regierung und die gro\u00dfen Krankenkassen sich auf ihre eigenen Interessen konzentrieren, leiden die Menschen unter der Last der hohen Kosten f\u00fcr medizinische Versorgung. \ud83d\udc94\ud83d\udc94 Es ist unverst\u00e4ndlich, dass in einer der wohlhabendsten L\u00e4nder der Welt so viele Menschen ohne ad\u00e4quate Gesundheitsversorgung leben. \ud83d\udc94\ud83d\udc94 Wir m\u00fcssen ein Ende der Politischen Korrektheit und der L\u00fcgen der Mainstream-Medien haben, um die Wahrheit \u00fcber die Gesundheitsversorgung in unserem Land zu erfahren. \ud83d\udc94\ud83d\udc94 Es ist an der Zeit, dass wir unsere Stimme h\u00f6ren lassen und",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac58392770871c42f1b3bfab29b854a688a90a89a572a467"
+}

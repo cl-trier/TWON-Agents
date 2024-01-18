@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het is tijd voor een echte nationale gezondheidszorgsysteem dat niet afhankelijk is van overheidsbureaucratie of commerci\u00eble belangen. Priv\u00e9zorg moet een optie blijven, maar de openbare sector moet de basis vormen voor alle Nederlanders. Politieke correctheid moet niet de discussie om de beste optie beperken.     Translation:It's time for a real national healthcare system that is not dependent on government bureaucracy or commercial interests. Private healthcare should remain an option, but the public sector should form the basis for all Dutch people. Political correctness should not limit the discussion about the best option.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2dcf3d402eff6976f0d971915f664fdbda5f0073d4872a6c"
+}

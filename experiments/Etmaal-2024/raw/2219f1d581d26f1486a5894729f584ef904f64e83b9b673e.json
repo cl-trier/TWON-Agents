@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Konservative Ansicht: Grenzen setzen, nicht regieren. Pers\u00f6nliche Verantwortung und Freiheit wichtiger als staatliche Ma\u00dfnahmen. Masken tragen, Hygiene halten, aber wirtschaftliche Sch\u00e4den begrenzen.\"Translation:\"Conservative view: Set boundaries, not rule. Personal responsibility and freedom more important than state measures. Wear masks, maintain hygiene, but limit economic damage.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2219f1d581d26f1486a5894729f584ef904f64e83b9b673e"
+}

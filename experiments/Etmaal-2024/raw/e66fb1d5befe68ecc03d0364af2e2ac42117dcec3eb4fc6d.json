@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc89\ud83d\udd2c F\u00fcr Gesundheitsschutz und Pr\u00e4vention ist die Regierung verpflichtet, regelm\u00e4\u00dfige Screening und Pr\u00e4ventionsma\u00dfnahmen durchzuf\u00fchren.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e66fb1d5befe68ecc03d0364af2e2ac42117dcec3eb4fc6d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Access to affordable healthcare is a basic human right. Let's prioritize screenings and prevention to ensure everyone has a chance at a healthy and thriving future! \ud83d\udcaa\ud83c\udffc\ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bbe3c0d79b0251f2e3bab4d8e85c919be00b539b9fe1d10d"
+}

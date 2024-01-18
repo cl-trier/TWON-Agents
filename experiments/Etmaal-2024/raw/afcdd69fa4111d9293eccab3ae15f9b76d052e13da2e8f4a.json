@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Lage werkloosheid en florerende economie zijn mogelijk wanneer we grenzen sluiten, illegale immigratie stoppen en prioriteit geven aan onze eigen burgers!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afcdd69fa4111d9293eccab3ae15f9b76d052e13da2e8f4a"
+}

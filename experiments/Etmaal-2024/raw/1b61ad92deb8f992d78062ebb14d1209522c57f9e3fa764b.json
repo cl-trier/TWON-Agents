@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Politically correct narratives won't solve our healthcare crisis. It's time to prioritize screenings and prevention for ALL, not just those with the right connections. Let's get back to real solutions that put Americans first! \ud83c\uddfa\ud83c\uddf8\ud83d\udcaa",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b61ad92deb8f992d78062ebb14d1209522c57f9e3fa764b"
+}

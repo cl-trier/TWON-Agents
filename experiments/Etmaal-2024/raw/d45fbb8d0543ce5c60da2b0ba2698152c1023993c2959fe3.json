@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Samen staan we sterk tegen Covid-19! Laten we met vereende krachten preventie inzetten: social distancing, handen wassen en mondmaskers dragen zijn essentieel om de verspreiding te stoppen en iedereen veilig te houden.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d45fbb8d0543ce5c60da2b0ba2698152c1023993c2959fe3"
+}

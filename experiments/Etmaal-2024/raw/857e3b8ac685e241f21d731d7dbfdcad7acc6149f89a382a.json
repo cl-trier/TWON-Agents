@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Enough with the globalist agendas! It's time to put our own people first. Our energy prices shouldn't be held hostage because of conflicts halfway across the globe. National security starts at home! \ud83c\uddfa\ud83c\uddf8",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "857e3b8ac685e241f21d731d7dbfdcad7acc6149f89a382a"
+}

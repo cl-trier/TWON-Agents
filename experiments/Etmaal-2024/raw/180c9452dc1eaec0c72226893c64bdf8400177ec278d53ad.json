@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Energieprijzen stijgen door Oekra\u00efneoorlog. Nationaal belang boven alles! Onze energieonafhankelijkheid is een prioriteit.   Translation:\"Energy prices rising due to Ukraine War. National interest first! Our energy independence is a priority.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "180c9452dc1eaec0c72226893c64bdf8400177ec278d53ad"
+}

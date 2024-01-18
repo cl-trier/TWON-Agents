@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Climate change is an urgent environmental crisis that demands immediate action. Let's reduce our carbon footprint, invest in renewable energy, and advocate for policies that prioritize the health of our planet.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bea9b51044646eed029403e7ce7aa9768ecb6dd6979e936f"
+}

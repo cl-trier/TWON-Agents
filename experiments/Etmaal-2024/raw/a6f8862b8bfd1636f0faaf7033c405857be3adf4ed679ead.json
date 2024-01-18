@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1\ud83c\uddf7\ud83c\uddfa  Het conflict in Oekra\u00efne is een pijnlijke herinnering aan de geschiedenis van ons continent. Met een zwaar hart volgt ik de ontwikkelingen in Oekra\u00efne en de westerse reacties daarop.De Russische invasie in 2014 was een pauze in de ontwikkelingen rond de Europese veiligheid. Het conflict in Oekra\u00efne toonde aan dat de traditionele grenzen tussen Rusland en Europa nog steeds een gevoelige plek zijn.Als conservatief ben ik een voorstander van het bewaren van traditionele instellingen en het respecteren van nationale soevereiniteit. In dit geval is het de soevereiniteit van Oekra\u00efne die bedreigd wordt door buitenlandse macht.De westerse reacties op de Russische invasie zijn complex. Op een hand ziet men",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a6f8862b8bfd1636f0faaf7033c405857be3adf4ed679ead"
+}

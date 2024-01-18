@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Steigende Preise machen das Leben schwieriger f\u00fcr diejenigen, die bereits benachteiligt sind. Wir brauchen progressive L\u00f6sungen, um die Auswirkungen der Inflation auf die \u00c4rmsten abzumildern.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fcbb9e4e34baa8eda11a80efd91482586002148c75c80264"
+}

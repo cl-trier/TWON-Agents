@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De gezondheid van ons volk moet voorop staan. Laten we vertrouwen op wetenschappelijk onderbouwde vaccins om Covid-19 onder controle te krijgen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5ddd3d6247493822522506abd2c38534333a4a3eff428ac2"
+}

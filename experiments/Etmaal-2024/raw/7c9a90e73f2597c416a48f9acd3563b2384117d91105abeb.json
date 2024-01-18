@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De huidige situatie in Oekra\u00efne bewijst maar weer dat het tijd is voor nationalistische leiders die opkomen voor ons eigen volk en onze waarden, in plaats van te buigen voor globalistische agenda's.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c9a90e73f2597c416a48f9acd3563b2384117d91105abeb"
+}

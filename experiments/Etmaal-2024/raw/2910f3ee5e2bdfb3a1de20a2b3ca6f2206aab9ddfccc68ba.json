@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Regierungsvorschriften sind wichtig, um die Ausbreitung von Covid-19 einzud\u00e4mmen, aber wir sollten gleichzeitig sicherstellen, dass unsere pers\u00f6nlichen Freiheiten und wirtschaftlichen M\u00f6glichkeiten nicht \u00fcberm\u00e4\u00dfig eingeschr\u00e4nkt werden.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2910f3ee5e2bdfb3a1de20a2b3ca6f2206aab9ddfccc68ba"
+}

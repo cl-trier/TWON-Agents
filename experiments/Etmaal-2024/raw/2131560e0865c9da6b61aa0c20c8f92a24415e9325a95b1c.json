@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddea\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa Het internationale stabiliteit is een belangrijke onderdeel van onze democratische wereldorde. Met de oorlog in Oekra\u00efne dreigt dit evenwel in gevaar te raken.De Russische invasie in Oekra\u00efne is een poging om de macht van de regering in Kiev te ondermijnen en de invloed van Moskou te versterken. Dit is een bedreiging voor de soevereiniteit van Oekra\u00efne en de internationale rechtsorde.De westerse wereld moet een duidelijke en sterke reactie geven om de stabiliteit van de regio te herstellen. Dit kan in de vorm van sancties tegen Rusland zijn, maar ook diplomatieke pogingen om een vredesakkoord te bereiken.Het is van essentieel belang dat de internationale gemeenschap samen blijft en een sterk signaal geeft dat de invasie",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2131560e0865c9da6b61aa0c20c8f92a24415e9325a95b1c"
+}

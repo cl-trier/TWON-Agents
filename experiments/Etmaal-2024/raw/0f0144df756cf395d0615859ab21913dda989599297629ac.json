@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Climate change is real, and it's time to take action! Let's prioritize renewable energy sources and reduce our carbon footprint for a sustainable future.    \ud83c\udf0d\ud83d\udc9a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f0144df756cf395d0615859ab21913dda989599297629ac"
+}

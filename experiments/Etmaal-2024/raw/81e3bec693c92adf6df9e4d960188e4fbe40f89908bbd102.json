@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Economie stijgt, werkloosheid daalt niet. Politici bedoelen ons bedrogen.  Translation:\"Economy rises, unemployment doesn't decrease. Politicians are deceiving us.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "81e3bec693c92adf6df9e4d960188e4fbe40f89908bbd102"
+}

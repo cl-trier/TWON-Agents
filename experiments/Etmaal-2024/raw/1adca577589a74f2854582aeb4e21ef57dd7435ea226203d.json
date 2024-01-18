@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die steigenden Energiepreise sind eine direkte Folge des Konflikts in der Ukraine - wir brauchen eine energiepolitische Strategie, die auf Konsistenz und Unabh\u00e4ngigkeit setzt, um unsere wirtschaftliche Prosperit\u00e4t zu sichern.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1adca577589a74f2854582aeb4e21ef57dd7435ea226203d"
+}

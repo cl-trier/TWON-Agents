@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Reguliere schermingen en preventie zijn essentieel voor een gezondheidszorgstelsel dat alle burgers gelijkwaardig en toegankelijk maakt.\" (Regular screenings and prevention are essential for a healthcare system that makes healthcare equally accessible and affordable for all.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "564b3ab340c717b4c7c00ed1e99be9d866806821033f323c"
+}

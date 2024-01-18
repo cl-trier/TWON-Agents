@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\udf3f\ud83d\udca1 Ik denk dat we allemaal meer bewust moeten zijn over onze energieverbruik. Het is belangrijk dat we ons milieu behouden en dat we een duurzame toekomst garanderen voor toekomstige generaties. Let's make a difference by reducing our energy consumption and embracing renewable energy sources.    \ud83c\udf0d\ud83d\udca1    \ud83c\udf0e\ud83d\udc9a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de0898e09fa7a7e4947e4dcdf545bc256722167892dc1842"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "\ud83c\udde9\ud83c\uddea\ud83d\udeab\ud83d\udc89\ud83d\udc89Wie lange sollen wir unsere Grundrechte opfern, um der Regierung zuzulassen, unsere K\u00f6rper mit ungepr\u00fcften Impfstoffen zu ver\u00e4ndern? Wir m\u00fcssen aufpassen, dass unsere Freiheiten nicht weggegeben werden, unter dem Vorwand der Pandemie. Wir m\u00fcssen uns nicht in die Fesseln der Politischen Korrektheit legen lassen.   Translation:\ud83c\udde9\ud83c\uddea\ud83d\udeab\ud83d\udc89\ud83d\udc89How long should we sacrifice our fundamental rights, allowing the government to alter our bodies with unchecked vaccines? We must be vigilant, lest our freedoms be taken away under the pretext of the pandemic. We must not let ourselves be bound by political correctness.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ae13a8153ca7850a71c6432ed803c484d6f512ad768567b7"
+}

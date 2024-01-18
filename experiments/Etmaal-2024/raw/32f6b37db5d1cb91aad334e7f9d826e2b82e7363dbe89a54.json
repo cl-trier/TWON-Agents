@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het is de hoogste tijd dat we ons weer richten op medisch onderzoek dat gericht is op de behoeften van ons volk en niet langer verstrikt raken in de politiek correcte agenda van de mainstream media.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32f6b37db5d1cb91aad334e7f9d826e2b82e7363dbe89a54"
+}

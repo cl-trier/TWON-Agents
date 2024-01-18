@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Regierungsvorschriften in Anbetracht von Covid-19 sind ein d\u00fcnner Schleier, der unsere Freiheiten erstickt und uns in Unsicherheit zur\u00fcckl\u00e4sst. Es ist an der Zeit, dass wir die Kontrolle \u00fcber unser eigenes Leben und unser Land zur\u00fcckgewinnen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7641f3d15a6d52a9a35f9a9251f299190301f4352facf61f"
+}

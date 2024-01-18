@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Climate change is a hoax perpetuated by the mainstream media and political elites to suppress free debate and advance their own agenda. The environment is cyclical and naturally adapts to changing conditions, not in need of human intervention.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a2d25b7a80d60c119f9795b0f896625e9bbc219c31fa2f5"
+}

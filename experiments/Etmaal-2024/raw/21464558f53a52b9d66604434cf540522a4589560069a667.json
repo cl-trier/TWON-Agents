@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83d\udcda\ud83d\udd2c Het onderzoek in de geneeskunde is van essentieel belang voor onze gezondheid en onze toekomst. Maar hoeveel studies zijn echt onafhankelijk en onpartijdig? \ud83e\udd14\ud83d\udca1\ud83d\udca1 De mainstream media vertelt ons vaak een bepaalde versie van de feiten, maar we moeten onze eigen onderzoek doen om de waarheid te vinden. \ud83d\udd0e\ud83d\udd0e\ud83c\uddf3\ud83c\uddf1\ud83c\uddf3\ud83c\uddf1 Nederlandse onderzoekers en instellingen zijn wereldwijd bekend voor hun kwaliteit en onafhankelijkheid. Let op: politieke correctheid en ideologische overhevelingen mogen geen rol spelen in het onderzoek. \ud83d\udeab\ud83d\udeab\ud83d\udca1\ud83d\udca1 Door onafhankelijk onderzoek te steunen en te delen, kunnen we samen de beste inzichten en oplossingen vinden",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "21464558f53a52b9d66604434cf540522a4589560069a667"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1\ud83d\udc89 Ik denk dat individuele verantwoordelijkheid en preventiemaatregelen de belangrijkste weg vormen om Covid-19 op te houden. Vaccineren, maskerdragen en social distancing zijn effectief en moeten prioriteit hebben boven overheidsmaatregelen. Het is belangrijk dat we ons eigen leven en dat van onze nabijsten beschermen, zonder dat de regering ons elke keer moet baby-zitten.      Translation:\ud83c\uddf3\ud83c\uddf1\ud83d\udc89 I think that individual responsibility and preventive measures are the most important ways to contain Covid-19. Vaccinations, wearing masks, and social distancing are effective and should take priority over government measures. It's important that we protect our own lives and those of our loved ones, without the government babysitting us every time.  #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "055813993fcf7355d431aec3122f84c881c8d9943f41c827"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "\ud83c\udf0d\u267b\ufe0f Just dropped off my latest batch of recyclables at the local recycling center! Doing my part to protect the environment and create a more sustainable future for all. Who's with me?",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "695b8a9f9a76ef6d4f6c7f0da0e2b3075a1e786cba581091"
+}

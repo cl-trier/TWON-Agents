@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die weltweite Klimakrise erfordert sofortiges Handeln! Wir m\u00fcssen unsere Umwelt sch\u00fctzen und Ma\u00dfnahmen ergreifen, um die Auswirkungen des Klimawandels einzud\u00e4mmen. Gemeinsam k\u00f6nnen wir eine nachhaltige Zukunft gestalten! \ud83c\udf0d\ud83c\udf31",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2e81689f02cb6f9e0edb7d08852b5cd6a411b97db930a0f8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Het internationaal gelijkgewicht is belangrijk voor de vrede in Europa. Oorlog in Oekra\u00efne kan ernstige gevolgen hebben voor de gehele regio.  Translation:\"International balance is important for peace in Europe. War in Ukraine can have serious consequences for the entire region.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5128ae6da9d1abb86db022b0aa64f4ea53f7b91ae9072aa5"
+}

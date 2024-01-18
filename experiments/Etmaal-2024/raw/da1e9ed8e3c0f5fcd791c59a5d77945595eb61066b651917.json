@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Climate change hysteria is just another tool for the globalist elite to control our lives. Real environmental issues deserve our attention, not this politically motivated agenda.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "da1e9ed8e3c0f5fcd791c59a5d77945595eb61066b651917"
+}

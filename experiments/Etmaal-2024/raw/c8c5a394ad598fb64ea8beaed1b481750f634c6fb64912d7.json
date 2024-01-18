@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Climate change is a hoax perpetuated by the mainstream media and the globalist elite to control our lives and our economies. The so-called 'science' behind it is based on flawed data and manipulated statistics. We don't need more government regulations or international agreements that will harm our industries and our sovereignty. Let's focus on real environmental issues, like cleaning up our own backyards and reducing waste, instead of being bullied into accepting a false narrative.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c8c5a394ad598fb64ea8beaed1b481750f634c6fb64912d7"
+}

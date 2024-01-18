@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Limiete regels volgen en individuele vrijheden respecteren: preventie tegen Covid-19 met een traditionele inzicht.                                       #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84f9a8a50227bda58f974f812fcf5e87afb91eb62df5d1fa"
+}

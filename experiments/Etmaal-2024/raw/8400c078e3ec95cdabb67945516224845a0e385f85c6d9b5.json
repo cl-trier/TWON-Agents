@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Mainstream media silences debat over alternatieve geneeswijzen. Belangrijke onderzoeken worden genegeerd. Vrijheid van keuze in gezondheidszorg is belangrijk.  Translation:\"Mainstream media silences debate over alternative treatments. Important research is ignored. Freedom of choice in healthcare is important.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8400c078e3ec95cdabb67945516224845a0e385f85c6d9b5"
+}

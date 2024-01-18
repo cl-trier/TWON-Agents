@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "It's high time we put an end to this Covid-19 hysteria. The media and the government have been feeding us fear and misinformation for far too long. It's time to take back control of our lives and our freedoms. Wearing masks and social distancing are just ways to keep us in line and under control. Let's not let them win. Let's stand up for what's right and refuse to be cowed by this so-called pandemic. We'll get through this together, as a community, not as isolated individuals.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe3232ba1abe114f1aa9f6402955d01dd2fad62846a46ab3"
+}

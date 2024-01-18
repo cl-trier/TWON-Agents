@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Gezondheidskosten moeten toegankelijk zijn voor allen. Regering moet investeren in een universel gezondheidsplan om de kans op armoede en medische schulden te verminderen.  Translation:\"Healthcare costs should be accessible to all. Government should invest in a universal healthcare plan to reduce the chance of poverty and medical debts.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be3663d2a2dbccdb80aae6b9dd0763fe871b4c277fb7ee2c"
+}

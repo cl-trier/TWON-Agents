@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Klimaatverandering is een belangrijk onderwerp waar we serieus over moeten praten. Laten we echter niet vergeten dat het belangrijk is om een evenwicht te vinden tussen het beschermen van ons milieu en het behouden van economische groei.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dbbea666fe6862ffd5d00a8852d8422a93ca52e0d8ad667c"
+}

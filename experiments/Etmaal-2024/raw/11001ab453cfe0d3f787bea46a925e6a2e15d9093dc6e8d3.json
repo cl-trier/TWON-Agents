@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Standing with Ukraine \ud83c\uddea\ud83c\uddfa for democracy, human rights, and peace.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11001ab453cfe0d3f787bea46a925e6a2e15d9093dc6e8d3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Let's all do our part to prevent the spread of Covid-19. Wear masks, practice social distancing, and get vaccinated when it's your turn. Together, we can protect our communities and save lives.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8947110714ba81b3372f77f3588392098150c6a540f2e81e"
+}

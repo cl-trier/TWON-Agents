@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Vorsicht! Lasst euch nicht von der Mainstream-Medien-Propaganda t\u00e4uschen! Die Vorbeugung gegen Covid-19 ist wichtig, aber wir m\u00fcssen auch unsere Freiheit bewahren und nicht in \u00fcbertriebene Ma\u00dfnahmen verfallen. Lasst uns vern\u00fcnftig handeln und die Grundprinzipien unserer Gesellschaft sch\u00fctzen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "850ebd42dbf876dd0ab4c83ae1c838a7d168ae993bf31e18"
+}

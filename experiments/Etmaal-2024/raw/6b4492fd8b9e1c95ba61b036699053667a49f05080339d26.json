@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die hohen Steuern schadigen unserem Wirtschaftswunder. Wir m\u00fcssen die Regierung dringend auffordern, die Belastung f\u00fcr die Arbeitenden und Unternehmer zu senken!\"Translation:\"High taxes are damaging our economic miracle. We urgently need to call on the government to reduce the burden on workers and entrepreneurs!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b4492fd8b9e1c95ba61b036699053667a49f05080339d26"
+}

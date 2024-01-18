@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83d\udc89 Vaccins zijn de weg naar een veiligere toekomst! \ud83c\udf0d\ud83d\udc9b Elke dosis brengt ons dichter bij het overwinnen van deze crisis.     \ud83d\udc89",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d9b0e159491e4ad39f7ba0fe39234a126223aa9aa4b2d3c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Pr\u00e4vention ist besser als Heilung. \ud83d\udc89\ud83e\ude7a Regelm\u00e4\u00dfige Screening und Pr\u00e4vention sind wichtig f\u00fcr Gesundheit und finanzielle Sicherheit.   Translation:Prevention is better than cure. \ud83d\udc89\ud83e\ude7a Regular screenings and prevention are important for health and financial security.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "351ff371bc6f3fe8fd10ba5d96da444e3ddc727fd94907ae"
+}

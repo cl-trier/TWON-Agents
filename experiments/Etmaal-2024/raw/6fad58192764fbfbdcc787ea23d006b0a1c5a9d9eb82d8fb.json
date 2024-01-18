@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83d\udcca\ud83d\udcbc In de huidige economische situatie is ontslag een groot probleem. Het aantal werklozen steekt sterk uit. \ud83d\udcc8\ud83d\udca1 Maar hoe kunnen we dit probleem aanpakken? \ud83e\udd14\ud83c\udf31 Een eerste stap zou kunnen zijn om meer aandacht te besteden aan duurzame groei en het cre\u00ebren van duurzame banen. \ud83c\udf31\ud83d\udc69\u200d\ud83d\udcbc\ud83d\udc68\u200d\ud83d\udcbc Door middel van investeringen in duurzame industrie\u00ebn, zoals wind- en zonnewind, kunnen we nieuwe banen cre\u00ebren. \ud83d\udcbc\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83c\udfeb\ud83d\udc68\u200d\ud83c\udfeb Ook kunnen we meer investeringen doen in onderwijs en opleiding, zodat mensen zich kunnen voorbereiden op nieuwe banen. \ud83d\udc69\u200d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6fad58192764fbfbdcc787ea23d006b0a1c5a9d9eb82d8fb"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Weg met de angstcultuur! Tijd voor gezond verstand en vrijheid! \ud83d\udcaa\ud83c\uddf3\ud83c\uddf1",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c39d67aaf94463f8ae6b28b7ae4fae3684124556566f623b"
+}

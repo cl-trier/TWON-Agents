@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De situatie in Oekra\u00efne baart me grote zorgen. Het is onacceptabel dat een conflict tot zoveel leed en instabiliteit leidt. Als progressieve liberalen moeten we vasthouden aan vreedzame oplossingen en diplomatie. Laten we samenwerken om de internationale stabiliteit te waarborgen en gerechtigheid te bevorderen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1d39a04535bce4d357cf426e20eb60735d333871b3e4d97"
+}

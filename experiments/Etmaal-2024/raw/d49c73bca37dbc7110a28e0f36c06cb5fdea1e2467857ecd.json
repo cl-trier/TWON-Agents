@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Let's invest in comprehensive healthcare screenings and prevention programs to ensure a healthier future for all, regardless of socioeconomic status.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d49c73bca37dbc7110a28e0f36c06cb5fdea1e2467857ecd"
+}

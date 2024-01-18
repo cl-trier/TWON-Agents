@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het oorlogsgebeurde in Oekra\u00efne leidt tot stijgingen in de energiedelenprijzen, maar het is van cruciaal belang dat de overheid maatregelen neemt om huishoudens en kleine ondernemers beschermd te houden tegen deze prijsstijgingen.   Translation:The conflict in Ukraine leads to increases in energy prices, but it is of crucial importance that the government takes measures to protect households and small businesses from these price hikes.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "029a5691c196d299e89dd4a54552fe8ea7091c2b5d09cd61"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Wahrung unserer Freiheiten ist wichtig, aber in Anbetracht der aktuellen Covid-19-Situation sollten wir nicht vergessen, dass wir auch eine Verantwortung f\u00fcr die Gesellschaft tragen. Lasst uns gemeinsam Pr\u00e4ventionsma\u00dfnahmen unterst\u00fctzen und unseren Teil dazu beitragen, diese Pandemie zu \u00fcberwinden.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e62deff09875ac8f9dc890043539f2e603b55175892dea5"
+}

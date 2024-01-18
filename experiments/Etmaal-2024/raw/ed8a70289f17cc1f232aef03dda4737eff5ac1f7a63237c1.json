@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Let's all do our part to prevent the spread of Covid-19. Wear masks, practice social distancing, and get vaccinated. Together, we can protect our communities and save lives.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed8a70289f17cc1f232aef03dda4737eff5ac1f7a63237c1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "The left's obsession with healthcare screenings and prevention is yet another example of their nanny state mentality. When will they learn to let individuals make their own choices and take responsibility for their own health? The government shouldn't be dictating what tests we should take or what lifestyle choices we should make. It's time to put an end to this intrusive, paternalistic approach to healthcare and let people live their lives free from the heavy hand of the state.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "baf6b900f524f6bb8898f5776f8727e7d11adbcc1fea59d1"
+}

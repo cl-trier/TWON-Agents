@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Ein gerechtes und inklusives Gesundheitssystem sollte allen Menschen \u00f6ffentliche und private Optionen bieten, um sicherzustellen, dass jeder Zugang zu hochwertiger und erschwinglicher Gesundheitsversorgung hat.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ceea43aa8c0673ce19173292e52bf38693268641a0f3912"
+}

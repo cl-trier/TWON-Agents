@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Zusammen schaffen wir das! \ud83d\udcaa\ud83d\ude37",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d7bf4aae7c1a2b92b0afbc77c062798500a3e8d94a7ee757"
+}

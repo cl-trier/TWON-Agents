@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\udf31\ud83d\udc94 Het klimaat verandert, dat is onbetwistbaar. Maar hoe komt het dat we nu allemaal in paniek gaan als de temperaturen iets stijgen? Wat over het feit dat we als mensen al duizenden jaren de natuur hebben be\u00efnvloed?\ud83c\udf3f\ud83d\udc94 De media wil ons leiden in een paniek, maar waar is de balans? Waar is de kritiek op de industrie\u00ebn die miljarden ton CO2 per jaar uitstoten? Waar is de kritiek op de overheid die miljarden in subsidies geeft aan windturbines en zonnepanelen die niets anders dan een visueel belangrijkere manier zijn om CO2 uit te stoten?\ud83c\udf0d\ud83d\udc94 Het is tijd dat we ons perspectief veranderen. Het klimaat is een natuurlijke cyclus, en we moeten erkennen dat we als mensen een rol spelen in die cyclus. Maar in plaats",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "407471722f48e4bda193b803bb7d7184569d420e7fbf6554"
+}

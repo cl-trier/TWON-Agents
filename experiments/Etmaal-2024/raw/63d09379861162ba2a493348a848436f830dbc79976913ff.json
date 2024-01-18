@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Recycling ist wichtig, aber die Politik muss die wahren Umweltprobleme ansprechen. Plastikm\u00fcll in den Ozeanen und der Verlust an Biodiversit\u00e4t sind eigentliche Herausforderungen.  Translation:\"Recycling is important, but politics must address the real environmental problems. Plastic waste in the oceans and the loss of biodiversity are real challenges.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63d09379861162ba2a493348a848436f830dbc79976913ff"
+}

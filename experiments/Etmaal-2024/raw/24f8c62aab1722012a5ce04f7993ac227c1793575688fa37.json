@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Laten we eerlijk zijn - het wordt hoog tijd dat we eerlijke lonen gaan waarborgen voor iedereen! \ud83d\udcaa\ud83c\udf0d Samen kunnen we de economie transformeren naar een rechtvaardiger systeem waarin iedereen profiteert.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24f8c62aab1722012a5ce04f7993ac227c1793575688fa37"
+}

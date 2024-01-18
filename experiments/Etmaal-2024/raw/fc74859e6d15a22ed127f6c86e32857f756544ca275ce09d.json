@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Waarom is het zo moeilijk voor sommigen om te begrijpen dat het cre\u00ebren van banen en een eerlijke economie van essentieel belang zijn voor de welvaart van iedereen? \ud83e\udd14",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fc74859e6d15a22ed127f6c86e32857f756544ca275ce09d"
+}

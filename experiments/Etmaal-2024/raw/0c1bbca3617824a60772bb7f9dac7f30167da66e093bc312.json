@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Screenings und Pr\u00e4vention sind wichtige Bestandteile eines effektiven Gesundheitssystems - lasst uns sicherstellen, dass unsere begrenzten Ressourcen gezielt eingesetzt werden, um die Gesundheit und Sicherheit unserer B\u00fcrger zu sch\u00fctzen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c1bbca3617824a60772bb7f9dac7f30167da66e093bc312"
+}

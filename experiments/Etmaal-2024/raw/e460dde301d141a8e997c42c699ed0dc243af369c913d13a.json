@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Vrede in Europa is belangrijk. Oost-Europa's stabiliteit wordt getest door Oekra\u00efne-oorlog. Limiete regering en internationale samenwerking zijn de sleutel tot vrede.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e460dde301d141a8e997c42c699ed0dc243af369c913d13a"
+}

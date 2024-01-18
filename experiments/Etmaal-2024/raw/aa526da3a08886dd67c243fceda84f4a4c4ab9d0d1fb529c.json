@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Energieprijzen schieten omhoog door de gevolgen van de oorlog in Oekra\u00efne. Het is belangrijk dat ons land zijn energie-onafhankelijkheid waarborgt en niet afhankelijk blijft van instabiele regio's.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa526da3a08886dd67c243fceda84f4a4c4ab9d0d1fb529c"
+}

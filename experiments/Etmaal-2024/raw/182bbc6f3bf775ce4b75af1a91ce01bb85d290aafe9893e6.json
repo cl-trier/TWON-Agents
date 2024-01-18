@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "As energy prices surge amidst the Ukraine conflict, let's remember the importance of investing in renewable energy sources and energy efficiency. Together, we can reduce our reliance on fossil fuels and mitigate the impact on consumers.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "182bbc6f3bf775ce4b75af1a91ce01bb85d290aafe9893e6"
+}

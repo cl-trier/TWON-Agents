@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Supporting recycling is a responsible individual action that contributes to reducing waste and preserving our environment for future generations.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "072bec44aad6077a1f7d5e4b2f34542dd126233c73875dcb"
+}

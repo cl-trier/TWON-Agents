@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Unbesch\u00e4ftigung: Marktregulierung statt Wohlfahrtsstaat. (Unemployment: Market regulation instead of welfare state.)    (Conservatism",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "39d02e6e7716607d051877e7a7cee2735faa8f1a0aab374a"
+}

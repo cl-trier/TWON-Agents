@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Government regulations are just another form of control, and it's time we prioritize personal freedom over a false sense of safety.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "284760d41673ca140d9ea1309924dae0f79e1e7f8a167bf5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Ich bin besorgt \u00fcber die Inflation. Wir sollten fiskalisch verantwortlich handeln, um den Wert unserer W\u00e4hrung zu sch\u00fctzen und das Wirtschaftswachstum zu f\u00f6rdern.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52432577fea9536b954ace1a73c6d8625b845ae4172f1c35"
+}

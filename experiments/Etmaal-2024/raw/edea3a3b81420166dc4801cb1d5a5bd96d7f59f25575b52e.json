@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Mijn hart gaat uit naar onze dappere strijdkrachten! \ud83c\uddfa\ud83c\udde6 We moeten onze nationale veiligheid beschermen en een sterke positie innemen tegenover dreigingen. Vertrouw niet op de mainstream media, laten we onze eigen waarheid ontdekken! \ud83d\udcaa\ud83c\udffb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "edea3a3b81420166dc4801cb1d5a5bd96d7f59f25575b52e"
+}

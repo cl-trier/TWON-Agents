@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udca1Thought for the day: The green agenda is just another tool for the global elites to control our lives. They want us to believe that reducing energy consumption is the key to saving the planet. But what about the real impact on our economy and our freedoms? Let's not be fooled by their PC rhetoric.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1d5f00d5d09c2ffff9ce73a85fdcb59152b427e86383db58"
+}

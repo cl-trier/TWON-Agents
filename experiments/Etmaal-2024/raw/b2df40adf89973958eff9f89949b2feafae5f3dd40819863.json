@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Sending support and solidarity to the people of Ukraine as they face a grave humanitarian crisis, advocating for peaceful solutions and urging global leaders to prioritize diplomatic efforts over aggression.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2df40adf89973958eff9f89949b2feafae5f3dd40819863"
+}

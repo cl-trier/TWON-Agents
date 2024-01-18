@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Strong government regulations are necessary in the face of Covid-19 to protect public health and ensure a fair and just response. Together, we can overcome this crisis and build a healthier and more resilient future.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06598243e64f9e0acffc414c69e0dfe8d9de9b67b3301f58"
+}

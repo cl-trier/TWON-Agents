@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Steuerneuordnung: Wir m\u00fcssen die Belastungen auf die Wirtschaftsenkraft beschr\u00e4nken, um die Wettbewerbsf\u00e4higkeit unseres Landes zu erhalten. Freihandelsprinzipien und fiskalische Verantwortung sind die Grundlagen unseres wirtschaftlichen Erfolgs.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e2d138aa459556e83fb754b54485a74d592749669c08e367"
+}

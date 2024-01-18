@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Inflation steigt weiter. Die Mainstream-Medien versuchen, uns davon abzulenken. Wir m\u00fcssen uns selbst informieren und handeln, bevor es zu sp\u00e4t ist.     Translation:The inflation is rising further. The mainstream media try to distract us from it. We have to inform ourselves and act before it's too late.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12f70873c16adca85c7bb38c0b93943376014364e35137ff"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Strict government regulations during Covid-19 have been crucial in protecting public health and ensuring a more equitable distribution of resources for those most in need.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd3627e60e2f956822c662c522ad1f4b5d3a9c8669a95514"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Ongeveer 3% werkloosheid: markt zelf reguleert. Fiscale verantwoordheid en beperkte overheid ingrijpen.\"Translation:\"Approximately 3% unemployment: market regulates itself. Fiscal responsibility and limited government intervention.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ae1a1738dbd50e447d9af5ecf4a1273808d09b211ee94b4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Es ist wichtig, Ma\u00dfnahmen gegen Covid-19 einzuhalten, um die Gesundheit unseres Volkes zu sch\u00fctzen und die Wirtschaft zu stabilisieren. Aber wir m\u00fcssen auch die individuellen Freiheiten respektieren und die Regierung sollte nicht \u00fcberm\u00e4\u00dfig eingreifen.\"Translation:\"It is important to take measures against Covid-19 to protect the health of our people and stabilize the economy. But we must also respect individual freedoms and the government should not intervene excessively.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1ce27a9a8ed3f7ecefb6db908ef98fadf04c5d3490f88bf"
+}

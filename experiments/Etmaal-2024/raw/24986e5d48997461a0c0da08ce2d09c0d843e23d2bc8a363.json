@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Reduce, reuse en recycle: elke stap onze belasting op milieuvervuiling neemt af. (Reduce, reuse and recycle: every step reduces our tax on environmental pollution.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24986e5d48997461a0c0da08ce2d09c0d843e23d2bc8a363"
+}

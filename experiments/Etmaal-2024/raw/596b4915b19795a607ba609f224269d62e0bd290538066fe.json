@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Wat een interessant debat gaande over vaccins in het licht van Covid-19 - laten we de wetenschap volgen en kritisch denken toepassen om weloverwogen beslissingen te nemen voor onszelf en onze samenleving.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "596b4915b19795a607ba609f224269d62e0bd290538066fe"
+}

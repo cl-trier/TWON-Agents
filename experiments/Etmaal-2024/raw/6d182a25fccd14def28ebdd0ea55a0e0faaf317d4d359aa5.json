@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Limiete overheid, respecteer individuele vrijheden: vaccineren een persoonlijke keuze.Translation:Limited government, respect individual freedoms: vaccinating is a personal choice.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d182a25fccd14def28ebdd0ea55a0e0faaf317d4d359aa5"
+}

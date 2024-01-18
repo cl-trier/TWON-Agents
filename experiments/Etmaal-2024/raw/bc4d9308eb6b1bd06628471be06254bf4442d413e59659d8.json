@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83d\udeab\ud83d\uddd1\ufe0f Ik vind het een poging om ons leven te controleeren door middel van recycling. Het is een politieke correcte trend die ons gedwongen maakt om onze leefstijl aan te passen aan de wensen van de overheid. \ud83d\udca1\ud83d\udd04 In plaats daarvan moeten we ons aandacht richten op het reduceren van onze afvalvoortbrenging en het ondersteunen van nationale industrie\u00ebn die essenti\u00eble grondstoffen produceren.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc4d9308eb6b1bd06628471be06254bf4442d413e59659d8"
+}

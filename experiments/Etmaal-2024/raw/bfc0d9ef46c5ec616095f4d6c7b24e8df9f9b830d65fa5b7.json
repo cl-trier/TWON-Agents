@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Arbeitslosigkeit ist ein dr\u00e4ngendes Problem, das wir angehen m\u00fcssen! Eine starke Wirtschaft und gerechte Verteilung der Ressourcen sind der Schl\u00fcssel f\u00fcr eine bessere Zukunft. Lasst uns gemeinsam nach L\u00f6sungen suchen, um jeden Einzelnen zu unterst\u00fctzen und Chancen f\u00fcr alle zu schaffen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bfc0d9ef46c5ec616095f4d6c7b24e8df9f9b830d65fa5b7"
+}

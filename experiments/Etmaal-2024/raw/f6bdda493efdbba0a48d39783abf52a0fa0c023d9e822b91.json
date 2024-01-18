@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Preventieve maatregelen zijn een farce! Het is tijd om onze vrijheden terug te krijgen en uit te spreken tegen deze inperking van onze rechten.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f6bdda493efdbba0a48d39783abf52a0fa0c023d9e822b91"
+}

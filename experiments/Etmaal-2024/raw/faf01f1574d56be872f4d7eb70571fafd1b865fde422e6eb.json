@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ik geloof in persoonlijke keuze en vrijheid. Vaccinaties moeten altijd optioneel zijn, nooit verplicht. \ud83c\uddf3\ud83c\uddf1\ud83d\udcaa",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "faf01f1574d56be872f4d7eb70571fafd1b865fde422e6eb"
+}

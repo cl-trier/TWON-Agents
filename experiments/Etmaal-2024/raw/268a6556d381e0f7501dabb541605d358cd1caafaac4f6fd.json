@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udc89\ud83c\udf0d As a passionate advocate for social justice, I believe that access to vaccines is a fundamental human right. It's crucial that we prioritize equitable distribution of Covid-19 vaccines to ensure global health and equality. Let's come together, regardless of political affiliation, to support science, public health, and the well-being of ALL people. Let's protect the vulnerable, save lives, and build a more resilient world. \ud83c\udf31\ud83e\udd1d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "268a6556d381e0f7501dabb541605d358cd1caafaac4f6fd"
+}

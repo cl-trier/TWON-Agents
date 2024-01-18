@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Zorgkosten moeten redelijk zijn. Overheidsbemoeiing minimaliseren, marktprincipes toepassen.\"Translation:\"Healthcare costs should be reasonable. Minimize government interference, apply market principles.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "68b1e682305e44c1626c17bb7af8c8ada4e9898721283aeb"
+}

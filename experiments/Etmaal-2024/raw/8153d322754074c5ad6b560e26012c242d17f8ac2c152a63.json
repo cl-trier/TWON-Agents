@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83d\udc89 Samen houdt hij/haar ons land veilig: Vaccineren tegen Covid-19 is essentieel voor onze gezondheid en die van onze nabestaanden, evenals voor de veiligheid van onze gemeenschap.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8153d322754074c5ad6b560e26012c242d17f8ac2c152a63"
+}

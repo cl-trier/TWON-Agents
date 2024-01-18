@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Arbeitslosigkeit steigt - Danke Merkel! \ud83d\udc94",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "10fad12caf33c38edb751a39dc386654f43cfc7ebf5c43c2"
+}

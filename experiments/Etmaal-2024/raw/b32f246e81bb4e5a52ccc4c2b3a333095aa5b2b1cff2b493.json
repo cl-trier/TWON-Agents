@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Regierung sollte weiterhin strenge Vorschriften in Bezug auf Covid-19 implementieren, um die Gesundheit und Sicherheit aller B\u00fcrger zu gew\u00e4hrleisten.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b32f246e81bb4e5a52ccc4c2b3a333095aa5b2b1cff2b493"
+}

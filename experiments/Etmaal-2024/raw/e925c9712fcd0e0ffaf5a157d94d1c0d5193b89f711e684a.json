@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De hoge inflatie zorgt ervoor dat de waarde van onze spaargeld in de kast vermindert. We moeten nu meer dan ooit om dezelfde goederen en diensten te kopen. Het is belangrijk dat de regering de prijzen onder controle houd en de economie stabiliseert.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e925c9712fcd0e0ffaf5a157d94d1c0d5193b89f711e684a"
+}

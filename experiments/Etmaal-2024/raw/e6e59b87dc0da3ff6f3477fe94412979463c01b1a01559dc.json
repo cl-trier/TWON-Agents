@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Time to put our country first and prioritize our national interests. Global stability can only be achieved when we stand firm and defend our borders.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6e59b87dc0da3ff6f3477fe94412979463c01b1a01559dc"
+}

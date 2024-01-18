@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "H\u00f6rt mal, Leute! Es ist an der Zeit, dass wir uns \u00fcber die erschreckenden Kosten im Gesundheitswesen unterhalten. Unsere Regierung verspricht uns immer wieder, dass sie sich um uns k\u00fcmmern wird, aber wo bleibt die bezahlbare Gesundheitsversorgung? Es ist nicht richtig, dass wir hart arbeitenden B\u00fcrgerinnen und B\u00fcrgern derart hohe Pr\u00e4mien und medizinische Rechnungen aufgeladen bekommen. Es ist an der Zeit, dass wir f\u00fcr Ver\u00e4nderung sorgen und sicherstellen, dass jeder Zugang zu erschwinglicher, qualitativ hochwertiger Gesundheitsversorgung hat. Es ist an der Zeit, dass wir die Kontrolle \u00fcber unsere Gesundheit zur\u00fcckbekommen und unsere Stimmen erheben. Gemeinsam k\u00f6nnen wir dieses Problem angehen und eine bessere Zukunft f\u00fcr alle schaffen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3bee098c61bc8b0d9c43c23fc6e57781a5f43ba892714d07"
+}

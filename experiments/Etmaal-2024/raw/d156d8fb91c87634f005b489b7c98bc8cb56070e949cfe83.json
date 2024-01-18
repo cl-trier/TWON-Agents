@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Defend our allies, uphold sovereignty. Ukraine conflict demands firm response, not appeasement.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d156d8fb91c87634f005b489b7c98bc8cb56070e949cfe83"
+}

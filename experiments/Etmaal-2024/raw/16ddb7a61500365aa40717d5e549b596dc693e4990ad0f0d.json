@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Schutzma\u00dfnahmen gegen Covid-19 wichtig, aber Grenzen setzen. Freiheit, Gesundheit und Wirtschaft m\u00fcssen in Balance bleiben.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16ddb7a61500365aa40717d5e549b596dc693e4990ad0f0d"
+}

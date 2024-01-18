@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "As the situation in Ukraine continues to unfold, my heart goes out to all those affected by this senseless conflict. It's a stark reminder of the devastating consequences of war and the urgent need for diplomacy and dialogue. Let's not forget that behind every statistic and headline, there are real people whose lives are being upended. We must stand in solidarity with the people of Ukraine and demand a peaceful resolution to this crisis.        \ud83d\udc94\ud83c\udf0d\ud83d\udd4a\ufe0f",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1a72d69157b0c5cfe8b57367d121c404f9045ec05ffd093"
+}

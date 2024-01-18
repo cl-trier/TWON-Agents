@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Despite the mainstream narrative, it's important to question the safety and efficacy of rushed Covid-19 vaccines, while respecting individual choices and promoting open dialogue about potential risks and benefits.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d34a0bd95e53836feaf07c0b99ab9bcb4ee5007f514d253"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Recycling ist totaler Quatsch! Lasst uns unsere Energie lieber darauf konzentrieren, unser Land wieder gro\u00dfartig zu machen! \ud83c\udf0d\ud83d\udcaa\ud83c\udffb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "904dd877a117dc2f672c8284a673ca6c53f6a0c385d93a97"
+}

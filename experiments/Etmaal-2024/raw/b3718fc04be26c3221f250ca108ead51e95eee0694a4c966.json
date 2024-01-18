@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Supporting medical research is crucial for advancing healthcare and improving lives, but we must ensure it's funded responsibly and doesn't lead to excessive government intervention or financial burden on taxpayers.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b3718fc04be26c3221f250ca108ead51e95eee0694a4c966"
+}

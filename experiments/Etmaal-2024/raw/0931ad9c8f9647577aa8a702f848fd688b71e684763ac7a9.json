@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1\ud83c\uddf7\ud83c\uddfa  Mainstream media once again twisting the truth. NATO's expansionist policies threatening peace in Europe. Time for a sober discussion about national interests and respect for sovereign states.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0931ad9c8f9647577aa8a702f848fd688b71e684763ac7a9"
+}

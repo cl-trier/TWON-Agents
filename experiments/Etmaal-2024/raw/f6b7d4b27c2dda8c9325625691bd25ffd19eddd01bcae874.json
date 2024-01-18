@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Regierung muss handeln! Mehr Regulationen f\u00fcr den Schutz aller!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f6b7d4b27c2dda8c9325625691bd25ffd19eddd01bcae874"
+}

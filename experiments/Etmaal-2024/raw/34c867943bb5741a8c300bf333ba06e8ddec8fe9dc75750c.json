@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "F\u00fcr alle gleiche Rechte in der Gesundheit: F\u00fcr ein effizientes und gerechtes Gesundheitssystem unterst\u00fctze ich eine ausgewogene Mischung aus \u00f6ffentlichen und privaten Optionen.   Translation:\"For equal rights in healthcare: I support a balanced mix of public and private options for an efficient and fair healthcare system.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34c867943bb5741a8c300bf333ba06e8ddec8fe9dc75750c"
+}

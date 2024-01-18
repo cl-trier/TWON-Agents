@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Inflation is a worrisome trend that erodes the value of our hard-earned dollars. We need fiscal responsibility and sound economic policies to keep it in check.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97fa8a1da3e821212e6cf53857cd4dccb365f44b09de4ef7"
+}

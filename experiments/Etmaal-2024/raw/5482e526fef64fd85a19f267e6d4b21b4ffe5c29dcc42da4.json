@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Het is tijd om de bezuinigingen op essenti\u00eble diensten zoals onderwijs en gezondheidszorg om te draaien - het is hoog tijd dat de welgestelden een eerlijke bijdrage leveren met progressieve belastingen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5482e526fef64fd85a19f267e6d4b21b4ffe5c29dcc42da4"
+}

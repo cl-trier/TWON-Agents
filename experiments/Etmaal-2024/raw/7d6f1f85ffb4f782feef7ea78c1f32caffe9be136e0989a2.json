@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De hoge kosten van gezondheidszorg zijn een belangrijke uitdaging voor ons land. Wees voorzichtig met uitbreidingen van overheidsbemoeienis en steun de marktprincipes om kosteneffici\u00ebnte oplossingen te vinden.\"Translation:\"The high costs of healthcare are a significant challenge for our country. Be cautious with government expansions and support market principles to find cost-effective solutions.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d6f1f85ffb4f782feef7ea78c1f32caffe9be136e0989a2"
+}

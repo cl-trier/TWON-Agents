@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Als iedereen gelijk toegang heeft tot goedkope en kwaliteitvolle gezondheidszorg, dan zouden we een gezonder en meer gelijkwaardige samenleving hebben.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "59d23d522900d13fc35522d86e5d9edb8fb1deef53f39b84"
+}

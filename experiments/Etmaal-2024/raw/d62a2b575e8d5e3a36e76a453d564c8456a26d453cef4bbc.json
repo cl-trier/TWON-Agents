@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Gemeinsam k\u00f6nnen wir die Verbreitung von Covid-19 eind\u00e4mmen und unsere Gesellschaft sch\u00fctzen \u2013 lasst uns alle unsere Verantwortung wahrnehmen und auf Pr\u00e4vention setzen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d62a2b575e8d5e3a36e76a453d564c8456a26d453cef4bbc"
+}

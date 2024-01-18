@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Belastingen zijn een doorn in het oog van onze economie! Het is hoog tijd dat we inzien dat een lage belastingdruk essentieel is voor groei en welvaart. Stop met het verstikken van ondernemerschap met hoge belastingtarieven en bureaucratie. Laat ons vrij ademen en de economische motor laten brullen! \ud83d\udcc8\ud83d\udcaa",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e88a00d562f21b170addc31adc7e0c2423271c255f7817a1"
+}

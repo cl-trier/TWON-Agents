@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het is een pijnlijke zake toezien hoe de situatie in Oekra\u00efne (Oekra\u00efne) zich ontwikkelt. Met de Russische invasie in 2014 is de regio in chaos verzonken. De internationale gemeenschap heeft geprobeerd om de situatie te stabiliseren, maar het lijkt erop dat we op het punt staan van een nieuwe escalatie.De media vertelt ons een bepaalde versie van de gebeurtenissen, maar als je die kritisch bekijkt, ziet men dat er veel verzonnen feiten en oneerlijke behandeling van zijde van de Oekra\u00efense regering zijn. Het is belangrijk om de context te begrijpen: de Russen voelen zich bedreigd door de westerse invloed op hun buurland.De politieke correctheid probeert ons te stifelen in onze mening over deze situatie. We moeten echter open en eerlijk over de feiten praten, zonder gevoelig",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "02489490c43aeb624b3810c6e65efefc3f5c025c9f8ab892"
+}

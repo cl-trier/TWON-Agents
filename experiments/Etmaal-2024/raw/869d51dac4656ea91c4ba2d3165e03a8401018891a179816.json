@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Verheugd om te zien dat er zoveel ontwikkelingen zijn in medisch onderzoek! \ud83e\uddea\ud83d\udc89 Als conservatief geloof ik in de kracht van innovatie en de vrije markt om betere gezondheidszorg mogelijk te maken. Laten we de overheid buiten de weg houden en in plaats daarvan de particuliere sector ondersteunen om effectieve oplossingen te vinden voor de uitdagingen waar we voor staan.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "869d51dac4656ea91c4ba2d3165e03a8401018891a179816"
+}

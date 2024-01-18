@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Wann h\u00f6rt diese Regierung endlich auf, unser Land mit ihrer Geldpolitik in den wirtschaftlichen Ruin zu treiben? Die Inflation steigt unaufhaltsam und die finanzielle Zukunft unserer Nation steht auf dem Spiel!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2ba0d84dee0e755262a8181afca5f3560673f43d767f6d6d"
+}

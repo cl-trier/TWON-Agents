@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8 Urgent message for my fellow patriots! \ud83d\udea8\ud83d\udea8\ud83d\udea8The Covid-19 pandemic has given our government an unprecedented amount of power over our lives. And while I understand that in times of crisis, extraordinary measures must be taken, I cannot help but feel uneasy about the extent of these regulations.Our freedoms are being curtailed in the name of public health, but at what cost? The mainstream media is telling us that these measures are necessary to save lives, but who are we to trust? The same media that has been pushing a politically correct agenda for years, the same media that has been lying to us about immigration, about our history, about our values?I, for one, will not be silenced. I will not be bullied into submission by those who seek to control every aspect of our lives. I will continue to speak out against government overreach, against political correctness, against the erosion of our fundamental rights.We, the people, have the power to stand up for ourselves. We have the power to demand transparency and accountability from our government.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f8457eea75588519131b9bd517a5b9ba818d1286d2aa1ed8"
+}

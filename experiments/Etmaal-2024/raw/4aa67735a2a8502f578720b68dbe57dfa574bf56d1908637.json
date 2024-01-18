@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Hey Leute, lasst uns mal \u00fcber unseren Energieverbrauch und dessen Auswirkungen auf die Umwelt sprechen - gemeinsam k\u00f6nnen wir uns f\u00fcr erneuerbare Energien und Nachhaltigkeit einsetzen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4aa67735a2a8502f578720b68dbe57dfa574bf56d1908637"
+}

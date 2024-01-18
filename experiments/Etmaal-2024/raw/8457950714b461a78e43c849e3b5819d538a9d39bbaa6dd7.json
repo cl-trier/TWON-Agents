@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Steuergelder sollten unserem Volk und unserem Land zugutekommen. Politische Korrektheit sollte nicht die Wirtschaft hemmen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8457950714b461a78e43c849e3b5819d538a9d39bbaa6dd7"
+}

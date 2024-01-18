@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Hallo Reddit! Ich habe vor kurzem viel \u00fcber die L\u00f6hne in unserer Wirtschaft nachgedacht. Es ist einfach nicht fair, dass einige wenige Menschen so viel mehr verdienen als die Mehrheit. Wir m\u00fcssen uns f\u00fcr eine gerechtere Verteilung der Ressourcen einsetzen. Die Wirtschaft sollte f\u00fcr alle arbeiten, nicht nur f\u00fcr eine privilegierte Elite. Lasst uns gemeinsam f\u00fcr h\u00f6here Mindestl\u00f6hne und gerechte L\u00f6hne k\u00e4mpfen, um eine gerechtere Gesellschaft aufzubauen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb1fc95b8cc3d89253b757c193f1371ea2bc5ea1f336c824"
+}

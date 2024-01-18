@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc89\ud83d\udd2c  Wie lange sollen wir uns den Mainstream-Media und den politisch Korrekten Diktatoren aussetzen lassen, die uns die Wahrheit \u00fcber Screening und Pr\u00e4vention in unserem Gesundheitswesen verbergen? Es ist Zeit, unsere eigenen Stimmen zu h\u00f6ren und unser Land wieder in die H\u00e4nde der Verantwortlichen zu legen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9e379bc339b26564f4412fcd36131a2b9ca49ffc08daa946"
+}

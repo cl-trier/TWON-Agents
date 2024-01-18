@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Climate crisis: onze aarde brandt op. Reduceer uw voetafdruk, koop duurzame producten en stem voor milieuvriendelijke politici.                                  #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb7f006a330acd0f391e0b718f05bf7fe799f1bd827c29aa"
+}

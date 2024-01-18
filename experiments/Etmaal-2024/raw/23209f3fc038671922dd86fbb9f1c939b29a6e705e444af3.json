@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Politische Korrektheit behindert freie Ausdrucksweise: Kritik an massenmedialen Screening- und Pr\u00e4ventionsma\u00dfnahmen ist wichtig, um die individuelle Entscheidungsfreiheit zu sch\u00fctzen. Nationales Gesundheitswesen ist besser als globalisiertes.\"Translation:\"Political correctness stifles free expression: Criticism of mass media screenings and preventive measures is important to protect individual decision-making freedom. National healthcare is better than globalized.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23209f3fc038671922dd86fbb9f1c939b29a6e705e444af3"
+}

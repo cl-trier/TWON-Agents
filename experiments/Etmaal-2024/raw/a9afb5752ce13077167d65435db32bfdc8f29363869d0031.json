@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "It's getting out of hand with these government regulations in the name of Covid-19. I understand the need for public health measures, but it seems like every day there's a new restriction on our freedoms. The media is hyping up fear and the politicians are using it as an excuse to expand their power. We need to stand up for our rights and demand accountability.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a9afb5752ce13077167d65435db32bfdc8f29363869d0031"
+}

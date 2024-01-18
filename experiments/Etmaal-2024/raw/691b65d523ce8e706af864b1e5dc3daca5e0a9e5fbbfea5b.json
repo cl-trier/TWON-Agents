@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het is onmogelijk dat wij de soevereiniteit van Oekra\u00efne opofferen voor Russische expansie. Onze traditie, waarden en belangen vereisen een sterke nationale verdediging.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "691b65d523ce8e706af864b1e5dc3daca5e0a9e5fbbfea5b"
+}

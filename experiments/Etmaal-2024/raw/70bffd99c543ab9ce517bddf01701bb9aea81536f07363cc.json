@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\udf3f\ud83d\udd04 Ik weet dat we allemaal druk leven hebben, maar het is belangrijk om ook aan onze milieuverantwoordelijkheid te denken. Recyclen is een eenvoudige, maar effectieve manier om bij te dragen aan een duurzame toekomst. Elke kleine stap helpt! \ud83c\udf0d\ud83d\udc9a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "70bffd99c543ab9ce517bddf01701bb9aea81536f07363cc"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddea\ud83c\uddfa\ud83d\udc94 Ik kan niet toezien hoe de vrede in Europa bedreigd wordt door de ontwikkelingen in Oekra\u00efne. Het is onacceptabel dat mensen in de 21e eeuw nog steeds moeten lijden onder geweld en oorlog. Ik roep de internationale gemeenschap op om samen te handhaven aan de regels van het internationaal recht en de soevereiniteit van Oekra\u00efne te respecteren.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "85839eb1fcb4c8c1aafb1dc406b8c43a9fb00a7e6693b1b8"
+}

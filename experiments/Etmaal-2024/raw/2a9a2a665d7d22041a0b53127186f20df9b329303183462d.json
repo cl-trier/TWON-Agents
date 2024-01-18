@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Erneuerbare Energien f\u00f6rdern und unsere Umwelt sch\u00fctzen! \ud83c\udf31\ud83d\udca1 Zeigen wir, dass Klimaschutz und wirtschaftlicher Erfolg Hand in Hand gehen k\u00f6nnen! \ud83d\udcaa\ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a9a2a665d7d22041a0b53127186f20df9b329303183462d"
+}

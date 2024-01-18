@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Macht euch bereit f\u00fcr eine Kritik an der Regierungspolitik in der Gesundheitsversorgung - es ist an der Zeit, dass wir selbst Verantwortung \u00fcbernehmen und uns von dieser B\u00fcrokratie befreien, um eine echte Vorsorge und Betreuung zu gew\u00e4hrleisten!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "22b4787980d5495d81436d8f0c44c2c6a0ef956e8c3b988f"
+}

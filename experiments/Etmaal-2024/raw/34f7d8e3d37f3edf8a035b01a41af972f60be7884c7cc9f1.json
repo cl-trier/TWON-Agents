@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Energieverbrauch im Blick auf Umwelt: Wir m\u00fcssen effizienter und nachhaltiger sein. Renewables und Energieeinsparung sind Schl\u00fcssel zur Reduzierung unseres CO2-Fu\u00dfabdrucks.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34f7d8e3d37f3edf8a035b01a41af972f60be7884c7cc9f1"
+}

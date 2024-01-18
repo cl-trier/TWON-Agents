@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "As a staunch advocate for peace and diplomatic resolutions, it is disheartening to witness the escalating military conflict in Ukraine - let's stand together as global citizens and raise our voices for peace and justice.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7102d2fa0f2eceb178b01ad72bc1e65e00735136a67f2770"
+}

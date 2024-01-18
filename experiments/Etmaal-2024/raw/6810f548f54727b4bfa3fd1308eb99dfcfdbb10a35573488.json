@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Medizinische Forschung ist wichtig f\u00fcr eine effiziente Gesundheitsversorgung. Aber wir m\u00fcssen uns nicht dem politisch Korrektdenken hinrei\u00dfen lassen. Wir m\u00fcssen unverbl\u00fcmt die Wissenschaft und ihre Ergebnisse diskutieren, auch wenn sie unbequeme Wahrheiten enth\u00fcllen.   Translation:\"Medical research is important for efficient healthcare. But we must not let ourselves be swayed by political correctness. We must discuss science and its results openly, even if they reveal uncomfortable truths.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6810f548f54727b4bfa3fd1308eb99dfcfdbb10a35573488"
+}

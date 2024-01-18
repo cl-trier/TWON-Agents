@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "F\u00fcr Fortschritte in der Medizinforschung f\u00fcr alle: Gesundheitsversorgung ist ein Recht, nicht eine Privilegierung.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32e55854c9c1fa8c7f4ec1f4453a42e1af79f73815e2565c"
+}

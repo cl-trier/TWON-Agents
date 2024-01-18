@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Supporting individual responsibility and limited government intervention, I advocate for affordable, accessible preventative healthcare screenings to empower individuals to maintain their own wellbeing.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe731dbcaaacb3766f38ba4786b2acc7767abf4403a2d59a"
+}

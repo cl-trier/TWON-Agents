@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Het priv\u00e9zorgsysteem biedt betere kwaliteit en flexibiliteit dan het openbare zorgsysteem. Het is tijd dat we de macht terugkrijgen over onze gezondheidscost en keuze.\"Translation:\"The private healthcare system offers better quality and flexibility than the public healthcare system. It's time we take back control over our healthcare costs and choices.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8a62f8b2b6620365dce1f12ffdf4214403f5d744d8750a3"
+}
