@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Gezondheid is een fundamenteel mensenrecht dat toegankelijk en betaalbaar moet zijn voor iedereen, laten we samen strijden voor een inclusief gezondheidszorgsysteem met nadruk op screenings en preventie!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d245f01906bb432c593856d83adf844da0c1d2e7a93d10c"
+}

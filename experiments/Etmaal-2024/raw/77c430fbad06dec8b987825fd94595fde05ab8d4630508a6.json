@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Regierungssperren gegen Covid-19 d\u00fcrfen nicht dauerhaft sein und sollen die Grundrechte unangetastet lassen. Wir m\u00fcssen uns nicht in eine totalit\u00e4re Gesellschaft verfallen lassen!\"Translation:\"Government restrictions due to Covid-19 should not be permanent and should leave fundamental rights untouched. We must not let ourselves fall into a totalitarian society!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77c430fbad06dec8b987825fd94595fde05ab8d4630508a6"
+}

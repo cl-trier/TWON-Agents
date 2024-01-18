@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Mainstream media ignoring groundbreaking medical research due to political correctness. Nationalist approach needed to prioritize truth and innovation in healthcare.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf49c544715d565b632e8249d8caea8a3df309dd6990ec4d"
+}

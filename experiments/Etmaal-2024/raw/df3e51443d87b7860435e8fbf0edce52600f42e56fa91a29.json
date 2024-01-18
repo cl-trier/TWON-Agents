@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Wir k\u00f6nnen nicht weiterhin von Angst und Panikmache regiert werden! Es ist an der Zeit, unsere Freiheiten und Grundrechte zur\u00fcckzuerlangen. Die Regierung \u00fcberschreitet ihre Befugnisse und schr\u00e4nkt unsere Freiheit immer weiter ein. COVID-19 ist real, aber die Reaktion darauf ist \u00fcbertrieben. Es ist an der Zeit, dass wir unsere eigene Verantwortung \u00fcbernehmen und das Risiko selbst abw\u00e4gen. Meine Gesundheit ist meine eigene Entscheidung!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df3e51443d87b7860435e8fbf0edce52600f42e56fa91a29"
+}

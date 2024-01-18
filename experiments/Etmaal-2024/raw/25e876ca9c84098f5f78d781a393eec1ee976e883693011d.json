@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Inflation bedroht unsere Wirtschaft. Zeit f\u00fcr verantwortungsvolle fiskalische Entscheidungen und eine starke W\u00e4hrung!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25e876ca9c84098f5f78d781a393eec1ee976e883693011d"
+}

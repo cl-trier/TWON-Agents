@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "We moeten streven naar een energiebeleid dat zowel onze leefomgeving beschermt als onze economische groei bevordert, en dat kan alleen worden bereikt door middel van innovatie en concurrentie in de vrije markt.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cdd9e23d0f1b818a4dbc3346480f46a2c442f32157df018e"
+}

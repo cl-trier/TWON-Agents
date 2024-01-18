@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udc11\ud83d\udc89 The government wants to force us all to be test subjects for their experimental vaccines. We should have the right to make our own choices! \ud83d\ude45\u200d\u2642\ufe0f\ud83d\udcaa",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a947dc0b9bc3450f3f76f00ad78fc4866cf25609721bd208"
+}

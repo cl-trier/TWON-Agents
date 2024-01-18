@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Zo belangrijk om te blijven investeren in medisch onderzoek! In times like these, we need science more than ever to tackle healthcare challenges and ensure a healthier future for all. Let's support funding for research that can drive innovation, find cures, and make healthcare accessible to all. Together, we can build a healthier and more equitable society. \ud83d\udcaa\ud83d\udd2c\ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "45dbeb709f8458cbb53ce2910f18932ef4378c5e6231589c"
+}

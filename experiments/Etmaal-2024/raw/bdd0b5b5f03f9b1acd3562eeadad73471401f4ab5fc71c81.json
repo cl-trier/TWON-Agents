@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Der Krieg in der Ukraine beeinflusst nicht nur die Menschenleben, sondern hat auch Auswirkungen auf die Energiepreise - Angesichts der Bedeutung von erneuerbaren Energien f\u00fcr eine nachhaltige Zukunft, m\u00fcssen wir jetzt mehr denn je in sie investieren, um unsere Abh\u00e4ngigkeit von fossilen Brennstoffen zu verringern.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bdd0b5b5f03f9b1acd3562eeadad73471401f4ab5fc71c81"
+}

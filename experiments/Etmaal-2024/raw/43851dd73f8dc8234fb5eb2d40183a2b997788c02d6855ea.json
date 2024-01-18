@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "All should have equal access to quality healthcare. Public and private options must coexist to ensure affordability and choice.  \ud83c\udf0d\ud83d\udc99",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43851dd73f8dc8234fb5eb2d40183a2b997788c02d6855ea"
+}

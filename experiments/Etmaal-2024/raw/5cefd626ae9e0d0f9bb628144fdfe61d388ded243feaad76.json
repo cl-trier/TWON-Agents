@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Lasst uns gemeinsam daf\u00fcr einstehen, unsere Energieverbrauchsgewohnheiten zu \u00fcberdenken und umweltbewusst zu handeln - nur gemeinsam k\u00f6nnen wir eine nachhaltige Zukunft f\u00fcr unseren Planeten schaffen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5cefd626ae9e0d0f9bb628144fdfe61d388ded243feaad76"
+}

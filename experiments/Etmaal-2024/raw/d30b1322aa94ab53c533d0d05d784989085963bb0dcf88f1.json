@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De stijgende werkloosheidscijfers blijven me zorgen baren. Er is dringend actie nodig om onze economie nieuw leven in te blazen en banen te cre\u00ebren. Als liberalen moeten we blijven pleiten voor solide investeringen in groene industrie\u00ebn en innovatie, om duurzame werkgelegenheid te stimuleren. Laten we samenwerken en streven naar een inclusieve economie waarin iedereen de kans krijgt om zijn of haar potentieel te benutten.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d30b1322aa94ab53c533d0d05d784989085963bb0dcf88f1"
+}

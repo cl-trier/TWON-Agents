@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "im Blick auf die WirtschaftWir m\u00fcssen uns nicht an die L\u00fcgen der Mainstream-Medien h\u00e4ngen lassen. Die wahre Zahl der Arbeitslosen ist viel h\u00f6her als offiziell angegeben.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e4637ff322d875cadfaa60663fa8522864b1d35f09dd88b"
+}

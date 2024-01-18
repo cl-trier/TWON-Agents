@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udf10\ud83c\uddea\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa  der Spannungen zwischen Europa und Russland. Wir m\u00fcssen uns bewusst sein, dass der Frieden in Europa nicht nur unserer Verantwortung ist, sondern auch der der internationalen Gemeinschaft. Es ist wichtig, Dialog und Zusammenarbeit zu f\u00f6rdern, um internationale Stabilit\u00e4t zu gew\u00e4hrleisten.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dac5ec2da6bd12152f581e46abefd741107718dee4f1627b"
+}

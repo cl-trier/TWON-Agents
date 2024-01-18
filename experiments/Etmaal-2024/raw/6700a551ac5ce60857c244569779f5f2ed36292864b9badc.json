@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Het milieu is belangrijk, maar het staat niet boven de economie. Klimaatverandering is een belangrijk onderdeel van het milieu, maar overheidsmaatregelen moeten niet de economische vrijheid beperken.\"Translation:\"The environment is important, but it's not above the economy. Climate change is an important part of the environment, but government regulations should not limit economic freedom.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6700a551ac5ce60857c244569779f5f2ed36292864b9badc"
+}

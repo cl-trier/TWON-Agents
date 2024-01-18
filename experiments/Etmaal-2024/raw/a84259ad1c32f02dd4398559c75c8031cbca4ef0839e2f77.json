@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ons sociaal-economisch systeem moet werkgelegenheid voor iedereen garanderen, ongeacht de economische omstandigheden. (Our social-economic system must ensure employment for everyone, regardless of economic circumstances.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a84259ad1c32f02dd4398559c75c8031cbca4ef0839e2f77"
+}

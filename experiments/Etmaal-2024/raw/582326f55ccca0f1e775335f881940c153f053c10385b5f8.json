@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udca1\ud83d\udca1\ud83d\udca1Wir m\u00fcssen uns nicht von den Mainstream-Medien leiten lassen, die uns mit Falschinformationen \u00fcber Umweltverschmutzung und Energieverbrauch betr\u00fcgen. Die Wahrheit liegt darin, dass die Windkraft und Solarindustrie mehr Schaden anrichten als Nutzen bringen. Sie sind nicht effizient genug, um unser Land wirklich von fossilen Energien unabh\u00e4ngig zu machen. Stattdessen sollten wir uns um die Entwicklung neuer, effizienterer Technologien wie Kernkraftwerke und Small Modular Reactors k\u00fcmmern. \ud83d\udd35\ud83d\udd35\ud83d\udd35(Translation:\ud83d\udca1\ud83d\udca1\ud83d\udca1We must not let ourselves be led by mainstream media, which deceive us with false information about environmental damage and energy consumption. The truth lies in the fact that wind power and solar industry cause more harm than good. They are not efficient enough to make our country really independent from fossil",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "582326f55ccca0f1e775335f881940c153f053c10385b5f8"
+}

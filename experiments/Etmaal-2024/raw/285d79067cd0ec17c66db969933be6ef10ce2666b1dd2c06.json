@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Wirtschaft boomt, doch unsere L\u00f6hne verharren auf demselben niedrigen Niveau - es ist an der Zeit, dass sich jemand f\u00fcr die Interessen der Arbeiterklasse einsetzt!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "285d79067cd0ec17c66db969933be6ef10ce2666b1dd2c06"
+}

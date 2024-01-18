@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Wat een onzin! Het vrije marktprincipe is cruciaal voor een bloeiende economie. Laten we de keuzevrijheid behouden en niet vertrouwen op overheidsinterventie.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e77f77b960c9ed4c1b3c84fd9aa4ab2c457ec3e5e81ca571"
+}

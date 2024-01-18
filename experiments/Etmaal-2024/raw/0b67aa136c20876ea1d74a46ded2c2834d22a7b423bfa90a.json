@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83d\udc89\ud83d\udc94 De gezondheidszorg is steeds duurder en dat is een last voor veel mensen. Maar waar is de kritiek op de overheidsbureaus die miljarden gasten in de gezondheidssector verspillen? Politieke correctheid dwingt ons om de kosten te dragen, terwijl de politici ons de vingers in de wond steken.   Translation:\ud83d\udc89\ud83d\udc94 Healthcare is getting more expensive and that's a burden for many people. But where is the criticism of the government bureaus that squander billions in the healthcare sector? Political correctness forces us to pay for it, while the politicians stick their fingers in our wounds.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b67aa136c20876ea1d74a46ded2c2834d22a7b423bfa90a"
+}

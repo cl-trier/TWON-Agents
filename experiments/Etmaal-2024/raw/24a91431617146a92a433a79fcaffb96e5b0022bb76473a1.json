@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udde9\ud83c\uddea\ud83d\udc94 Ukraine-Krieg: Wir m\u00fcssen uns der internationalen Stabilit\u00e4t bewusst sein. Die Ukraine-Krise zeigt uns, wie schnell Konflikte eskalieren k\u00f6nnen. Es ist wichtig, die Regeln des V\u00f6lkerrechts zu respektieren und diplomatische L\u00f6sungen zu suchen. Wir m\u00fcssen uns nicht in jeder Konfliktzone verstricken lassen.                             #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24a91431617146a92a433a79fcaffb96e5b0022bb76473a1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Ridiculous how our energy prices keep rising while we're busy funding endless wars and foreign interventions. Time to prioritize AMERICA and our people! \ud83c\uddfa\ud83c\uddf8",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c1673de9f4f6339ae778ef87e112472c64d8231eafbce78b"
+}

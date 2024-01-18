@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\udf3f\ud83d\udd04 Ik vind het zoveel belangrijk om te recyclen en te zorgen dat we ons milieu behouden voor toekomstige generaties. Recyclen is een simpele, maar effectieve manier om ons afval te reduceren en de belasting op onze natuur te verminderen. Let op: elke kleine stap helpt! \ud83c\udf0d\ud83d\udc9a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3dedb6e99e5dd9abd1718d46baad3c649e40a5db2b7bc92b"
+}

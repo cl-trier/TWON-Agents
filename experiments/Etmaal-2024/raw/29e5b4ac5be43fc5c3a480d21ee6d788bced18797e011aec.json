@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Ist es nicht bemerkenswert, wie sich die Mainstream-Medien davor dr\u00fccken, \u00fcber die wirklichen Probleme in unserem Gesundheitssystem zu berichten? Wir m\u00fcssen uns auf Vorbeugung und Bildungsprogramme konzentrieren, anstatt politische Korrektheit \u00fcber echten Fortschritt zu stellen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29e5b4ac5be43fc5c3a480d21ee6d788bced18797e011aec"
+}

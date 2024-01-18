@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Limited gov't, free markets key to reducing unemployment. Fiscal responsibility, not more spending, is the answer.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c07e48174d50ceb5bfb9607f937e9c3e7755782d9fcb995f"
+}

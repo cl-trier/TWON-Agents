@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Why should hardworking citizens be burdened with excessive taxes that only serve to fund wasteful government spending and enable a culture of entitlement? It's time for a real revolution to restore the economy and put money back in the hands of the people who earned it!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d97a0197e8474c6bc702cdf441aec47f054defc6c074394"
+}

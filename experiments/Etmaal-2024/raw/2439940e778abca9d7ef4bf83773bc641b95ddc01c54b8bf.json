@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Hoi allemaal,Ik wil graag ijker over de huidige situatie met de lonen in ons land. Met de huidige economische opbloei en de lage werkloosheid, zou je denken dat de lonen op een hoog pitje zouden zijn. Maar dat is niet het geval. In plaats daarvan zien we stijgende prijzen voor basiselementen zoals voedsel, huisvesting en benzine, terwijl de lonen achterblijven.Deze situatie is een gevolg van verschillende factoren. Enerzijds is er een tekort aan arbeidskrachten in bepaalde sectoren, waardoor bedrijven genoodzaakt zijn om hogere lonen te betalen om hun werknemers te binden. Anderzijds is er een toenemende productie door automatisering en globalisering, waardoor de vraag naar arbeidskrachten afneemt in bepaalde sectoren.Maar",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2439940e778abca9d7ef4bf83773bc641b95ddc01c54b8bf"
+}

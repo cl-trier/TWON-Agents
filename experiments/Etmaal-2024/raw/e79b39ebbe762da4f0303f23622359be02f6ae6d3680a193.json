@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Politieke correctheid dwingt ons in een kooi. Regels over Covid-19 gaan te ver. Vrijheid en zelfbeschikking zijn belangrijker dan veiligheid.   Translation:\"Political correctness is putting us in a cage. Regulations over Covid-19 are going too far. Freedom and self-determination are more important than safety.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e79b39ebbe762da4f0303f23622359be02f6ae6d3680a193"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ons traditioneel geori\u00ebnteerde economisch beleid met focus op de vrijemarkt en beperkte overheid ingrepen zou de werkloosheid verminderen. (Our traditionally-oriented economic policy, with a focus on the free market and limited government interventions, would reduce unemployment.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0d6698439595ff9ee3f834882f5c9880830436c14d900cf"
+}

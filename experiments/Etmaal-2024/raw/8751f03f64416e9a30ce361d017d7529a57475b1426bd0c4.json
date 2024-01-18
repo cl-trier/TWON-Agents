@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Arbeitslosigkeit steigt, w\u00e4hrend Wirtschaft stagniert. Wo bleibt das Versprechen der Regierung, die heimischen Jobs zu sch\u00fctzen? Es ist an der Zeit, f\u00fcr unsere arbeitenden B\u00fcrger einzustehen und unsere Grenzen zu sch\u00fctzen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8751f03f64416e9a30ce361d017d7529a57475b1426bd0c4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het klimaatveranderingsthema is een groot bedrijf voor de media en de politici. Maar hoeveel aandacht is er echt voor de werkelijke gevolgen voor ons milieu? Het is niet zo dat we niet moeten zorgen voor ons milieu, maar het politieke correctheid en de hype rond klimaatverandering dwingen ons vaak te vergeten dat er andere belangrijke problemen zijn. Bijvoorbeeld, het vervuilen van onze rivieren en waterlopen door industrieel afval en pesticiden. Dat is iets dat onmiddellijk ons milieu bedreigt en waar we ons aandacht aan moeten richten.Translation:The climate change theme is a big business for the media and the politicians. But how much attention is really paid to the actual consequences for our environment? It's not that we shouldn't care for our environment, but the political correctness and the hype around climate change often make us forget that there are other important issues. For example, the pollution of our",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63c946fcf2b19dbfbae366ba9f72780b3f04a1d00b89c45b"
+}

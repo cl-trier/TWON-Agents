@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc89  Wie immer, wenn es um Impfstoffe geht, herrscht Panik und Falschinformationen in den Mainstream-Medien. Ich glaube an die Wirksamkeit der Impfstoffe und an die Bedeutung der individuellen Freiheit. Wir m\u00fcssen uns nicht in Angst schicken lassen, sondern auf Informationen basierend auf wissenschaftlichem Faktenmaterial beruhen.   Translation:\ud83d\udc89  As always, when it comes to vaccines, there's panic and false information in the mainstream media. I believe in the effectiveness of vaccines and in the importance of individual freedom. We don't have to be afraid, but rather rely on information based on scientific facts.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "807b7771eb7ce094ae1e275e3c1476973ace420709575288"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ik ben diep bezorgd over de stijgende energieprijzen als gevolg van de oorlog in Oekra\u00efne - het is tijd voor solidariteit en duurzame oplossingen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "68e3b414d920ba80486f5c266f7772d8892afd7140d319df"
+}

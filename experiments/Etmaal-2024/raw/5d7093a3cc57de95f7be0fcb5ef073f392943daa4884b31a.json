@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Umweltbelastung durch Energieverbrauch ist eine wichtige Frage. Wir m\u00fcssen jedoch nicht auf Kosten unserer Wirtschaft und unserer Souver\u00e4nit\u00e4t zur\u00fccktreten. Alternative Energien und Effizienzma\u00dfnahmen sind die L\u00f6sung.\"Translation:\"The environmental impact of energy consumption is an important issue. However, we don't have to sacrifice our economy and sovereignty for it. Alternative energies and efficiency measures are the solution.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d7093a3cc57de95f7be0fcb5ef073f392943daa4884b31a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het mainstream-media wil ons angst wekken over klimaatverandering, maar we moeten ons eigen onderzoek doen en de politieke correctheid neerleggen om de waarheid te vinden.   Translation:The mainstream media wants to scare us about climate change, but we must do our own research and lay down political correctness to find the truth.  science  political correctness",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04f42205c0f9ef1d4d7f95d0afba3b716426239c963ff7de"
+}

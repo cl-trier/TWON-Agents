@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die hohen Energiepreise im Zusammenhang mit dem Ukraine-Krieg sind ein klarer Beweis f\u00fcr die Notwendigkeit, unabh\u00e4ngige Energiequellen zu schaffen und von der Abh\u00e4ngigkeit von ausl\u00e4ndischen L\u00e4ndern zu befreien.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "283f6cc1c8247e009c1efb593d133d7d1f9603691b766d37"
+}

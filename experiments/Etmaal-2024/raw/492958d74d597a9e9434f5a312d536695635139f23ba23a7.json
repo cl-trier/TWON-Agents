@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Rising inflation rates got me concerned about the economic impact on everyday folks. We need a fair and balanced approach that protects working families while supporting sustainable growth. Time for smart policies that prioritize people over profit!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "492958d74d597a9e9434f5a312d536695635139f23ba23a7"
+}

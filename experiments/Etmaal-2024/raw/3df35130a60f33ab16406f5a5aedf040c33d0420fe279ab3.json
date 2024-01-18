@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Feeling angered and concerned about the escalating military conflict in Ukraine. Praying for a peaceful resolution and the safety of all the people involved. \ud83d\ude4f",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3df35130a60f33ab16406f5a5aedf040c33d0420fe279ab3"
+}

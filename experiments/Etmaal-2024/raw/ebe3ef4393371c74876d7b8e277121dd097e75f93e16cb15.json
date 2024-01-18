@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83c\udf0d\ud83c\udf31 Climate change is a pressing issue that demands immediate action from governments worldwide, let's join forces to protect our planet and secure a sustainable future for all!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ebe3ef4393371c74876d7b8e277121dd097e75f93e16cb15"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Climate alarmisten willen ons dwanghandelen in een politiek correct klimaatgevoeligheid. Waar is de kritische analyse van de data?  Translation:\"Climate alarmists want to force us into politically correct climate sensitivity. Where is the critical analysis of the data?",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c72e8bc3db51bc6c6b5b99eaea148def84f068be07a02b5c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "F\u00fcr eine gesunde Wirtschaft m\u00fcssen wir bereit sein, Steuern zu zahlen, die sozialen Dienste und Infrastruktur aufrechterhalten und die Ungleichheit reduzieren.  Translation:\"For a healthy economy, we must be prepared to pay taxes that maintain social services and infrastructure and reduce inequality.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01497c4f514b333aeafae4f5e85896b260ea85d3e4fb8cc8"
+}

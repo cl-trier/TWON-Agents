@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Vaccinaties zijn de sleutel tot het overwinnen van Covid-19 en het beschermen van onze gemeenschap, laten we samenwerken en het vertrouwen in de wetenschap herstellen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bca417323e42d21f205330c22ba85d7f8f090291a5870876"
+}

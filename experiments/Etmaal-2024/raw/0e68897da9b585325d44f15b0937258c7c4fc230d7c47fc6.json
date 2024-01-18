@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "[Nederlands]Het belastingstelsel is een belangrijke pijler van onze economie, maar het moet ook effici\u00ebnt en fair zijn. Het is onacceptabel dat de regering steeds meer belastingen heft op de arbeiders en kleine ondernemers, terwijl grote bedrijven en rijken ontsnappen aan hun belastingschuld. Het is tijd voor een hervorming van ons belastingsysteem, waarbij de lasten meer evenredig worden verdeeld en de incentieven voor werk en ondernemerschap worden bevorderd. Politieke correctheid moet niet de grondwettelijke rechten van de belastbare onderdanen onderdrukken.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0e68897da9b585325d44f15b0937258c7c4fc230d7c47fc6"
+}

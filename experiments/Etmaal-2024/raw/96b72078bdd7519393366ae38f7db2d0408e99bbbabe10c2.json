@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Vorsicht vor den L\u00fcgen der Mainstream-Medien! Das wahre Problem ist nicht Covid-19, sondern die politische Korrektheit, die unsere Freiheit bedroht und uns daran hindert, unsere Nation zu sch\u00fctzen und wieder gro\u00df zu machen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96b72078bdd7519393366ae38f7db2d0408e99bbbabe10c2"
+}

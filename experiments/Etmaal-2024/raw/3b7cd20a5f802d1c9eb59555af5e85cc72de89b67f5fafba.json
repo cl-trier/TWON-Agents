@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Het is onmogelijk dat wij toestaan dat mensen in de 21e eeuw lijden aan oorlogsgeweld en onrecht. Wees solidair met de Oekra\u00efners en roep de internationale gemeenschap op tot diplomatieke oplossingen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3b7cd20a5f802d1c9eb59555af5e85cc72de89b67f5fafba"
+}

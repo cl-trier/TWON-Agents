@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udeab Verp\u00f6nt: Recycling-Propaganda! \ud83d\udca9Die Umwelt-Lobby will uns alle dazu bringen, unsere M\u00fclltonnen zu f\u00fcllen, um die Erde zu retten. Aber was passiert mit dem Recycling-Abfall, der in die Landwirtschaft gelangt? \ud83c\udf31Die Landwirtschaft nutzt diesen Abfall, um D\u00fcnger herzustellen, der wiederum die Ern\u00e4hrung unserer Tiere erm\u00f6glicht. \ud83d\udc04\ud83d\udc04Das Recycling ist nicht nur f\u00fcr die Umwelt wichtig, sondern auch f\u00fcr die Landwirtschaft und unsere Ern\u00e4hrung. \ud83c\udf3fAber warum m\u00fcssen wir daf\u00fcr propagandiert werden, unsere M\u00fclltonnen zu f\u00fcllen? \ud83e\udd14    -----------------Translation:\ud83d\udeab Disgusting: Rec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "75beaa2e42716cb41bd1efc90dfeb617dd00f19a77fafbeb"
+}

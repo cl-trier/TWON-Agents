@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Mainstream media ignoring real wage stagnation while pushing inflation numbers. National economy matters little if working class can't afford basic necessities.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7572feb8463aaa350b58290e72d4bb89cf53467a3f42de96"
+}

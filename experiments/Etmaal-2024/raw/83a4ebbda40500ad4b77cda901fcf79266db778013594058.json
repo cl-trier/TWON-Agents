@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Gezondheidszorg is een basisrecht dat voor iedereen toegankelijk moet zijn! Laten we blijven strijden voor een inclusief systeem dat zowel publieke als private opties omvat.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "83a4ebbda40500ad4b77cda901fcf79266db778013594058"
+}

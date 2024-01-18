@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De situatie in Oekra\u00efne is alarmerend. Laten we ons allemaal uitspreken tegen militair conflict en streven naar vreedzame oplossingen. Samenwerking en diplomatie zijn de sleutel tot een betere wereld. \ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b404445f2700677713402874489ccd53731536f788090c7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Hoge energiedragen, oorlog in Oekra\u00efne: Solidariteit met Oekra\u00efne, maar hoe houden we de kosten onder controle? Discussie nodig over alternatieve bronnen en energiesparing.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52a8d8c26b04fd37c05cb79e6d28fc920160903f59304dcd"
+}

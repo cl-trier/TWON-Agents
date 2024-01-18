@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Science prevails! Vaccines are our best shot at overcoming this global crisis and protecting our communities. Let's trust the experts and prioritize public health.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a4aca5adb28db4144faf761e2b2dc30beeb0a0dfd79120d"
+}

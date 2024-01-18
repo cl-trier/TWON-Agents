@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Limiete overheidsingrijpen - individueel verantwoordelijkheid en persoonlijke bescherming tegen Covid-19.Translation:Limited government intervention - individual responsibility and personal protection against Covid-19.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8dceeb4fcbcc6e5c9588106614504c89514b39fc30d6bfb9"
+}

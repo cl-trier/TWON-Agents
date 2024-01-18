@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "As a society, we must prioritize fair wages for all workers, regardless of economic conditions, to ensure social justice and promote economic stability.  (Fair Is Fair: Wages You Should)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "225147361cb9abd67525ec30cb15690289226f0b8110978f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Wat een interessante discussie over inflatie in relatie tot de economie, het is essentieel om ons bewust te zijn van de impact hiervan op de sociale gelijkheid en het welzijn van ons allemaal.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba6d48ab1ce9c69bd00b081d49a9bd38407fd2ac49b79603"
+}

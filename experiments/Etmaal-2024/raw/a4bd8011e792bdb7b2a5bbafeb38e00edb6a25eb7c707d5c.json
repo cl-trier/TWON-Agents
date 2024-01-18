@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Regierung sollte entschlossene Ma\u00dfnahmen ergreifen, um die Ausbreitung von Covid-19 einzud\u00e4mmen. Wir m\u00fcssen uns gemeinsam f\u00fcr den Schutz von Gesundheit und Sicherheit der Bev\u00f6lkerung einsetzen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4bd8011e792bdb7b2a5bbafeb38e00edb6a25eb7c707d5c"
+}

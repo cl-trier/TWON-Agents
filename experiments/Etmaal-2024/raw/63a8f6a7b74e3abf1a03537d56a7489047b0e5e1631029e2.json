@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De hoge inflatie bedreigt onze spaarcapaciteit en kan ons economisch welzijn schaden.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63a8f6a7b74e3abf1a03537d56a7489047b0e5e1631029e2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Economy showing signs of recovery? Great news! But let's not forget the hardworking men and women whose wages haven't kept pace. It's time for policies that prioritize the middle class and promote free-market solutions to lift wages without burdensome government intervention.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f2fab474ab5f7b8cbb87677ddce4e0592de3137e151743f"
+}

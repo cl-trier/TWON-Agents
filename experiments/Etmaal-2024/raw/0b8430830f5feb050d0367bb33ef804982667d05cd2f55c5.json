@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Es ist unverst\u00e4ndlich, warum die internationale Gemeinschaft erneut zul\u00e4sst, dass Menschenleben in Gefahr geraten und Rechtsverletzungen begangen werden, w\u00e4hrend sie die Ukraine-Krise l\u00f6sen sollen. (It is incomprehensible why the international community once again allows human lives to be endangered and rights to be violated while trying to resolve the Ukraine crisis.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b8430830f5feb050d0367bb33ef804982667d05cd2f55c5"
+}

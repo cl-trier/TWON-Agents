@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Enough with the nanny state healthcare, it's time for individuals to take responsibility for their own health, screenings and prevention shouldn't be forced upon us, but embraced as personal choices that lead to a stronger and self-reliant society.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "75f904d389cb9388e005accae8daf01e90a6977f4c81a23d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ik begrijp het belang van vaccins, maar ik geloof ook in het behoud van persoonlijke keuze en vrijheid als het gaat om medische beslissingen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "14fe7400cc8adf2c9b2ee03562f937f371d6b8621b6c0ecd"
+}

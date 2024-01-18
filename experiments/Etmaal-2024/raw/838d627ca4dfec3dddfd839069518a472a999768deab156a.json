@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Vaccins voor Covid-19: Ik ben zeer sceptisch over de veiligheid en werkzaamheid van deze vaccins, en ik geloof dat we ons moeten focussen op natuurlijke immuniteit en persoonlijke vrijheid in plaats van gedwongen vaccinaties.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "838d627ca4dfec3dddfd839069518a472a999768deab156a"
+}

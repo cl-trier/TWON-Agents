@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Promote clean energy, not heavy-handed regulations. Balance economic growth with environmental stewardship. Free market solutions for energy efficiency.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "17723504d4db02a73645d94901eb6326ae5bb3bb6ac4268b"
+}

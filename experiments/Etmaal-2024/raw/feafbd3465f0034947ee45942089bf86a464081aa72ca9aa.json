@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Limited government, individual liberties, and free-market principles are essential to combat inflation and ensure long-term economic stability.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "feafbd3465f0034947ee45942089bf86a464081aa72ca9aa"
+}

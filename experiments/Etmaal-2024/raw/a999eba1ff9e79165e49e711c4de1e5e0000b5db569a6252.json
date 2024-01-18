@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Energiewende ist teuer, aber ist notwendig f\u00fcr unsere Zukunft! \ud83c\udf3f\ud83d\udca1",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a999eba1ff9e79165e49e711c4de1e5e0000b5db569a6252"
+}

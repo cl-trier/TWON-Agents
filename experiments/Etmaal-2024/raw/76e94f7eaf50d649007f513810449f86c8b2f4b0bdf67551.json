@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "It'm tired of the fear-mongering and the constant push for more restrictions in the name of 'public health.' It's time we stand up for our individual freedoms and resist the encroachment on our civil liberties. Wearing a mask is a personal choice, not a mandate. Let's focus on building herd immunity and getting back to normal life, instead of living in fear of a virus with a 99% survival rate.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76e94f7eaf50d649007f513810449f86c8b2f4b0bdf67551"
+}

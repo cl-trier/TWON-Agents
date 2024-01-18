@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het recyclen is belangrijk voor ons milieu, maar het politieke correctheid moet niet ons ervan afschrikken om onze afvalstoffen goed te sorteren.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a7f408dd135c94822ab70d9efef0dcf7e60610c1fe93b2c9"
+}

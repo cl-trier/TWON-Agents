@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Reduzieren Sie Energieverbrauch - f\u00fcr unsere Umwelt! (Reduce energy consumption - for our environment!)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0b995931703a5a108a519245cbb352dca1c94d864b78a54"
+}

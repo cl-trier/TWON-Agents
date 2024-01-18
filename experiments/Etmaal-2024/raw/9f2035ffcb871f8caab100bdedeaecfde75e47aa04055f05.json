@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Lowering taxes is essential to stimulate economic growth and reward hardworking citizens, let's keep fighting for a competitive and thriving economy!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f2035ffcb871f8caab100bdedeaecfde75e47aa04055f05"
+}

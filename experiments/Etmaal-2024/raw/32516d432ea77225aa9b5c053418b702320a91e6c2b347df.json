@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Reduce, reuse, recycle: onze toekomstige generatie verdient een duurzame wereld.                              #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32516d432ea77225aa9b5c053418b702320a91e6c2b347df"
+}

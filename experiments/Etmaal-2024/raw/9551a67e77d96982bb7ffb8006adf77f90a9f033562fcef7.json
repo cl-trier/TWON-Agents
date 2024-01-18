@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Unemployment numbers soaring as the economy struggles under excessive government regulation and intrusive red tape - time to cut unnecessary hurdles and unleash the power of free markets to create jobs and restore prosperity! \ud83d\udcc8\ud83c\uddfa\ud83c\uddf8",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9551a67e77d96982bb7ffb8006adf77f90a9f033562fcef7"
+}

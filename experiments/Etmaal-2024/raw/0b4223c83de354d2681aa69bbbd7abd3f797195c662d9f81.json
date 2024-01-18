@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Es ist unverst\u00e4ndlich, wie die Mainstream-Medien und die politisch Korrekte Elite die wichtigen Fortschritte in der Medizinforschung unterdr\u00fccken, w\u00e4hrend sie unn\u00f6tige Debatten \u00fcber Gender-Themen anfeuern.\"Translation:\"It's incomprehensible how mainstream media and the politically correct elite suppress important progress in medical research while fueling unnecessary debates about gender issues.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b4223c83de354d2681aa69bbbd7abd3f797195c662d9f81"
+}

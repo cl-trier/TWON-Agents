@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "International stability is at stake in the face of the Ukraine War, highlighting the need for strong leadership and a firm commitment to defending our allies and protecting global order. \ud83c\udf0d\ud83c\uddfa\ud83c\uddf8",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "309d92b9ddda6c2b385fee427eadef2ca3ff195f98b1f13d"
+}

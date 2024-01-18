@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De klimaatverandering is een ernstige bedreiging voor onze toekomstige generaties en het milieu. Het is van essentieel belang dat we snel handelen om de uitstoot van broeikasgassen te verminderen en een duurzame toekomst te garanderen.  Translation:\"Climate change is a serious threat to future generations and the environment. It is of essential importance that we act quickly to reduce greenhouse gas emissions and secure a sustainable future.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba52a6aeac0cd5cee97b6fc393b3b324f813fab1312fde5e"
+}

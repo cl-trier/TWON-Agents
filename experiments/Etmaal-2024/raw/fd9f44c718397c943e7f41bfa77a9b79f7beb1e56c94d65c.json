@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Klimawandel: Wir m\u00fcssen die Umwelt sch\u00fctzen, aber staatliche Regulierungen und hohe Steuern f\u00fchren nicht dazu. Marktmechanismen und individuelle Verantwortung sind die L\u00f6sung.   Translation:\"Climate change: We must protect the environment, but excessive regulations and high taxes do not help. Market mechanisms and individual responsibility are the solution.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd9f44c718397c943e7f41bfa77a9b79f7beb1e56c94d65c"
+}

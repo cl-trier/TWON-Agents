@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "\ud83d\udca1\ud83c\udf0d Let's shine a light on our energy consumption and take steps towards a greener future! \ud83c\udf31\ud83d\udd0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd560488330b6f8f92b55eed9bae3533d485a7eb24cbdf02"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc94 Das Gesundheitswesen wird unsere Taschen leer! Die Politik vernachl\u00e4ssigt die Bed\u00fcrfnisse der Arbeitendenklasse. Wir m\u00fcssen ein Ende der politischen Korrektheit und die Wiederherstellung der Marktwirtschaft in unserem Gesundheitswesen sehen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28f4a58cf51037b86989e4a50d60c6ce5a70a298e35ac43b"
+}

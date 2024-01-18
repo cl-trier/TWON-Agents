@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udea8\ud83d\udd12\ud83d\udc89  They're at it again, folks. The globalist elites and their lapdogs in the mainstream media are pushing for more government control over our healthcare. They claim it's for our own good, but let's not be fooled.Screening and prevention are important, but they should be a personal responsibility, not a government mandate. The government has no business telling us what tests we need or when we need them. And don't even get me started on the cost.Socialized medicine is a scam. It's a money pit that drains our economy and stifles innovation. The longer we wait to address the real issues, the worse it will get. We need to put the power back in the hands of the people and let them make their own choices about their healthcare.The government's role should be limited to protecting our rights and ensuring a level playing field for healthcare providers. Anything beyond that is an infringement on our freedom and our wallets.Let's not be fooled by the sire",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12fe5ce96f0a9a7f708819c16cac1ffb9da8963d82198356"
+}

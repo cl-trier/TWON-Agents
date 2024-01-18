@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De stijgende werkloosheidscijfers zijn alarmerend! Laten we niet vergeten dat een sterke economie kan worden gebouwd op inclusie en gelijke kansen voor iedereen. Het is tijd voor eerlijke beleidsmaatregelen die werknemers beschermen en banen cre\u00ebren. \ud83d\udcaa\ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a042c9af0f2d50aa3375fc8c76978645550481dca0c5bb1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Mainstream media verzwijgt de waarheid over Oekra\u00efne-oorlog. Politieke correctheid bedreigt onze nationale soevereiniteit. Belangrijke gebeurtenissen moeten openbaar gemaakt worden.   Translation:\"Mainstream media hides the truth about the Ukraine war. Political correctness threatens our national sovereignty. Important events must be made public.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c07b0ee33422a28c755bd743f1388941d0a0e9c422ff38f1"
+}

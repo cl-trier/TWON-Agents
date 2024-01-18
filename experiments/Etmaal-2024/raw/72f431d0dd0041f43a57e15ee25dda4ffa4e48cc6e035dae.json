@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Wages rising! Strong economy! Supporting real workers! \ud83d\udcaa\ud83c\udde9\ud83c\uddea\u270a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "72f431d0dd0041f43a57e15ee25dda4ffa4e48cc6e035dae"
+}

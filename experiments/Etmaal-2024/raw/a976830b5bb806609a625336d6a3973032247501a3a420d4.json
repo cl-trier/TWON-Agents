@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Inflatie bedreigt onze sparen. Vrije markten en beperkte overheidsinmenging noodzakelijk voor economische stabiliteit.  Translation:\"Inflation threatens our savings. Free markets and limited government intervention necessary for economic stability.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a976830b5bb806609a625336d6a3973032247501a3a420d4"
+}

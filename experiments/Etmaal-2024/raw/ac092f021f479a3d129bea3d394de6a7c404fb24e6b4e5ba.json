@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Verteidigung unserer nationalen Interessen ist von gr\u00f6\u00dfter Bedeutung - wir stehen stark zu unserer soliden und verantwortungsbewussten Au\u00dfenpolitik.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac092f021f479a3d129bea3d394de6a7c404fb24e6b4e5ba"
+}

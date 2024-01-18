@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Forschung ist Schl\u00fcssel zur Verbesserung unseres Gesundheitswesens. Wir m\u00fcssen die Freiheit der Forschung sch\u00fctzen, um Fortschritte in der Medizin zu erzielen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f00a851102247e1341faab8ba9dd0eaf051d78de7bcd959"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die hohe Inflation bedroht die Sozialrechte und die Armutsbek\u00e4mpfung, es ist notwendig, Ma\u00dfnahmen einzuleiten, um die Preise f\u00fcr Grundnahrungsmittel und andere Essenziellprodukte zu halten. (High inflation threatens social rights and poverty alleviation efforts, it is necessary to take measures to keep the prices of essential goods and basic foodstuffs stable.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d72fefc439bd778419b912325fae0eee6e5c2b8a68346b5f"
+}

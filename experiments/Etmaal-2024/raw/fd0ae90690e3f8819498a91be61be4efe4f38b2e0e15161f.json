@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Economic prosperity soars when individual liberties and free-market principles reign. Limited government intervention must remain the spotlight of our healthcare system.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd0ae90690e3f8819498a91be61be4efe4f38b2e0e15161f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Mainstream media downplays inflation's impact on working class. Real wages falling, while elites profit. Time for a nationalist economic policy that puts Americans first.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6573a7074d9d3e1ae2e64b329af864f8f8c63bf19adf401a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Masks are a personal choice, not a mandate. Let's focus on individual responsibility and common sense, not government overreach.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "498afaf2ac76df51d1e9d49a7a09c14b7515855b71077b56"
+}

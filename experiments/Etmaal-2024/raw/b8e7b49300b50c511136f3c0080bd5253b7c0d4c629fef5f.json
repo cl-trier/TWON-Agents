@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "It's our responsibility to protect ourselves and our communities from the spread of Covid-19, but we must also be vigilant against the encroachment of authoritarian measures disguised as public health measures. Let's prioritize personal freedom and individual rights while taking necessary precautions to keep each other safe.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b8e7b49300b50c511136f3c0080bd5253b7c0d4c629fef5f"
+}

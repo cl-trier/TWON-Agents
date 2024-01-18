@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1  Een sterk economie is essentieel voor hoge lonen. De markt moet vrij werken zodat bedrijven concurrentie kunnen houden en werknemers competitief kunnen belonen. Overheidsbemoeiing in de vorm van hoge belastingen en regelgeving kan de economie verzwakken en lonen negatief be\u00efnvloeden.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cfa49c106d91615c405e36c2d698895b41adb0b1b37ef15a"
+}

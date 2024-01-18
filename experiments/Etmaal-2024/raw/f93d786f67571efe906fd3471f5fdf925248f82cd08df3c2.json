@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Supporting personal freedom, I advocate for expanding private healthcare choices while preserving essential public services. Balance is key.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f93d786f67571efe906fd3471f5fdf925248f82cd08df3c2"
+}

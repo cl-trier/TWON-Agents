@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Green energy hype ignores the reality: wind & solar power require vast amounts of resources & energy for production, while their intermittency necessitates fossil fuel backup. Let's focus on efficiency & innovation, not ideology.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "54bf48c31622e7ed27e24045362b26c25279a989968ecb55"
+}

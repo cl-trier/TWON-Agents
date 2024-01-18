@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Excited to see medical research advancements in the pursuit of a healthier and more equitable society! \ud83c\udf0d\ud83d\udc89 Let's prioritize scientific breakthroughs that address pressing healthcare challenges and ensure access for all!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7fae987c865de3bbc2cbe48e1d31eee6bbe7ae8b660e47e3"
+}

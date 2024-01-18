@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Unbesch\u00e4ftigung trotz wachsender Wirtschaft: Fairer Lohn, bessere Sozialleistungen notwendig.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "043c8af9939c758e789e285dab3fb2430fad2961551c7bc2"
+}

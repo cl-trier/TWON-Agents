@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Hallo iedereen,In deze tijd van Covid-19 is het meer dan ooit belangrijk om elkaar te ondersteunen en samen te blijven om deze crisis te overleven. Maar het is even belangrijk om te doen alles in onze macht om deze ziekte te voorkomen en te bestrijden.Ik denk dat we allemaal in overeenstemming zijn dat het beste is om zo veel mogelijk mensen te beschermen tegen deze ziekte. Daarom wil ik iedereen een paar dingen aanraden om Covid-19 te voorkomen:1. Houdt een afstand van minstens 1,5 meter van anderen.2. Was je handen regelmatig met zeep en water voor minstens 20 seconden.3. Drager een mond-neusmasker in openbare ruimten waar social distancing moeilijk is.4. Vergiet geen bezoek aan ziekenhuizen of zorginstellingen, ten",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b82fbda1f1e9fdbf409dbb380c76b49b9723995dcadf41c9"
+}

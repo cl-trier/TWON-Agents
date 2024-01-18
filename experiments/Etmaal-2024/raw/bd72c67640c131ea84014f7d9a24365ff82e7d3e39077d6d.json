@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udc89 Wir m\u00fcssen unsere Gesundheit sch\u00fctzen und die Impfstoffe gegen Covid-19 unterst\u00fctzen, um die Gesellschaft vor der Pandemie zu sch\u00fctzen und die Wiederherstellung einer gesunden und gerechten Gesellschaft zu erm\u00f6glichen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd72c67640c131ea84014f7d9a24365ff82e7d3e39077d6d"
+}

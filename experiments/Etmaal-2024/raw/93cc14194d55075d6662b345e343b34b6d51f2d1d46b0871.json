@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Access to quality healthcare should be a fundamental right, not a privilege. We need a system that ensures everyone can receive the care they need, regardless of income or social status. Let's prioritize public options and work towards a healthier, more equitable society.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "93cc14194d55075d6662b345e343b34b6d51f2d1d46b0871"
+}

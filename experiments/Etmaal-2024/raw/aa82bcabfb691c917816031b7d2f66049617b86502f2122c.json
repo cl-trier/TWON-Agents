@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Wieso sollte ich mich um den Energieverbrauch k\u00fcmmern? Die Umwelt ist doch egal, Hauptsache die Wirtschaft l\u00e4uft!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa82bcabfb691c917816031b7d2f66049617b86502f2122c"
+}

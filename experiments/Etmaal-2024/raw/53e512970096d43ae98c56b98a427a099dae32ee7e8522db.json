@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Advancing medical research is crucial for improving healthcare access and outcomes for all. Let's invest in science and innovation to tackle diseases and promote overall wellbeing.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53e512970096d43ae98c56b98a427a099dae32ee7e8522db"
+}

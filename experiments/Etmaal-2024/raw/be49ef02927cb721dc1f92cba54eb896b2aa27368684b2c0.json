@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Recycling ist wichtig, um unsere Umwelt zu schonen, aber wir sollten nicht vergessen, dass die Politische Korrektheit und die Mainstream-Medien uns oft mit falschen Daten und Propaganda betr\u00fcgen, um uns dazu zu bringen, unn\u00f6tige Produkte zu konsumieren und unsere Ressourcen zu verschenken.\"Translation:\"Recycling is important to protect the environment, but we should not forget that political correctness and mainstream media often deceive us with false data and propaganda, making us consume unnecessary products and waste our resources.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be49ef02927cb721dc1f92cba54eb896b2aa27368684b2c0"
+}

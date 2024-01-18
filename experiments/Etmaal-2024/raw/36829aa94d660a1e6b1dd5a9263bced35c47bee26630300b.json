@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8 Warnung: Die folgenden Tweets enthalten kritische Ansichten zur aktuellen Covid-19-Pandemie-Politik der Regierung! \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83e\uddf5\ud83e\uddf5\ud83e\uddf5 Es geht um die Regierungsma\u00dfnahmen zur Covid-19-Pandemie und ich bin entschlossen, meine Sicht dar\u00fcber zu teils offen auszulegen. Ich bin ein Anh\u00e4nger der Freiheit und der Selbstverantwortung, und ich glaube, dass die Regierung unsere Grundrechte an Freiheit und Privatsph\u00e4re bedroht.\ud83d\udc89\ud83d\udc89\ud83d\udc89 Die Regierung versucht, uns mit vielen Regeln und Kontrollen in den Griff zu bekommen. Es geht um Maskenpflichten, Sozialdistanzierungsregeln, Kontaktverfolgung und vieles mehr. Ich glaube, dass diese Ma\u00dfnahmen unverh\u00e4ltn",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36829aa94d660a1e6b1dd5a9263bced35c47bee26630300b"
+}

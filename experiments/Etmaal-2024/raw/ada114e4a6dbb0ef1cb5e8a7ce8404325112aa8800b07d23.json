@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83d\udce2 Unemployment remains a pressing issue in today's economy. It's time for our government to step up and prioritize job creation initiatives that will put people back to work. Let's invest in renewable energy, infrastructure, and education to create sustainable, long-term employment opportunities for everyone. Together, we can build an economy that works for ALL, not just the privileged few. \ud83d\udcaa\ud83c\udf0d\u270a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ada114e4a6dbb0ef1cb5e8a7ce8404325112aa8800b07d23"
+}

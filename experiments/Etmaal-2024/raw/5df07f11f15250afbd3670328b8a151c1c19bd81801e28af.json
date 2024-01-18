@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Es ist wichtig, Ma\u00dfnahmen gegen Covid-19 einzuhalten, um die Gesundheit unseres Gemeinschaftslebens zu sch\u00fctzen und die Belastung auf Gesundheitssysteme und soziale Dienste zu minimieren.   Translation:\"It is important to adhere to measures against Covid-19 to protect the health of our community life and minimize the strain on healthcare systems and social services.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5df07f11f15250afbd3670328b8a151c1c19bd81801e28af"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udde9\ud83c\uddea\ud83d\udcbc\ud83d\udcb6Wie oft wird die Frage aufgeworfen, ob die L\u00f6hne in unserem Land fair sind, insbesondere in Zeiten der wirtschaftlichen Unsicherheit? Ich glaube, dass es wichtig ist, die Wahrheit hinter den Zahlen herauszufinden.Die Mainstream-Medien versuchen uns mit Falschinformationen zu t\u00e4uschen. Sie behaupten, dass die L\u00f6hne in unserem Land zu niedrig seien und dass die Unternehmen zu gro\u00dfen Gewinnen machen. Aber was ist die Wahrheit hinter diesen Zahlen?Wir m\u00fcssen uns nicht vergessen, dass die Wirtschaftskrise von 2008 nicht unser Land betroffen hat, sondern die ganze Welt. Und obwohl die meisten Unternehmen wieder profitabel sind, m\u00fcssen sie sich mit den hohen Steuern und den hohen Kosten f\u00fcr Gesundheit und Sozialversicherung auseinandersetzen.A",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad94fd3d1c401df874a199448f90a8c4c9906ee0c6d07797"
+}

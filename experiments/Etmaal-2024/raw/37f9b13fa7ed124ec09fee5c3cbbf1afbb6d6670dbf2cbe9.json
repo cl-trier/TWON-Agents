@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Es ist Zeit, die wissenschaftliche Forschung in Sachen Gesundheitsversorgung von der politisch korrekten Zensur zu befreien und die wahren Fakten zur \u00d6ffentlichkeit zu bringen.\"Translation:\"It's time to free scientific research on healthcare from political correctness censorship and bring the real facts to the public.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "37f9b13fa7ed124ec09fee5c3cbbf1afbb6d6670dbf2cbe9"
+}

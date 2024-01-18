@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die F\u00f6rderung der medizinischen Forschung ist entscheidend f\u00fcr eine gerechte Gesundheitsversorgung f\u00fcr alle. Lassen Sie uns sicherstellen, dass finanzielle Ressourcen in innovative L\u00f6sungen flie\u00dfen, um Krankheiten zu bek\u00e4mpfen und Leben zu retten. Gemeinsam k\u00f6nnen wir eine starke und inklusive Gesundheitsinfrastruktur schaffen! \ud83d\udcaa\ud83c\udf0d\ud83c\udf08",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9263c87aa9de89ca702e858afb33c4d966b31de0ad463778"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Wages sinkt weiter, obwohl Wirtschaft w\u00e4chst. Es ist unverst\u00e4ndlich, warum Arbeitende trotz wachsender Profite nicht mehr l\u00e4nger die L\u00f6hne verdienen, die sie verdient haben. Wir m\u00fcssen eine lebenswertere L\u00f6hnepolitik verfolgen, um die Armut und Ungleichheit in unserem Land zu reduzieren.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a607c830af3918675e86ba080af5b179cf81d1b64607ae60"
+}

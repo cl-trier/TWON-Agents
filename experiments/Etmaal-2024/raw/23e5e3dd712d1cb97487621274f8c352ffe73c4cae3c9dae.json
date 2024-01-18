@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Tweets:1. \"Voor ons traditionele waarden: vrede en stabiliteit. Oorlog in Oekra\u00efne: ons moet de soevereiniteit van Oekra\u00efne respecteren.  2. \"Grenzen moeten respecteerd worden. Geen ruimte voor agressie.  3. \"Vrijemarkteconomie: de sleutel tot economische welvaart. Oorlog hindert ons in dit doel.  4. \"Fiscale verantwoordelijkheid: belastingen moeten effici\u00ebnt en fair zijn. Oorlog kost veel geld.  5. \"Nationale defensie: essentieel voor onze veiligheid. Oorlog in Oekra\u00efne: een bedreiging voor onze belangen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23e5e3dd712d1cb97487621274f8c352ffe73c4cae3c9dae"
+}

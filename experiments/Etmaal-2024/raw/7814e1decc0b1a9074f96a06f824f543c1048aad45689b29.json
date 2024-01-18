@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Regulierungen behindern unsere Freiheit. Wir m\u00fcssen unser Leben nicht den Regierungen anvertrauen.   Translation:Regulations hinder our freedom. We don't have to entrust our lives to the governments.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7814e1decc0b1a9074f96a06f824f543c1048aad45689b29"
+}

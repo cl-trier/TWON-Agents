@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "\ud83c\udf3f\ud83d\udd04 Wir m\u00fcssen uns nicht in den Illusion bringen, dass Recycling alle Umweltprobleme l\u00f6sen wird. Aber es ist doch wichtig, unsere Ressourcen zu schonen und Abf\u00e4lle zu reduzieren. \ud83d\uddd1\ufe0f\ud83d\udc9a   Translation:\ud83c\udf3f\ud83d\udd04 We should not deceive ourselves that recycling will solve all environmental problems. But it is important to save resources and reduce waste. \ud83d\uddd1\ufe0f\ud83d\udc9a",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed6f20e27fd4b6c9e040915f5eb9d12b6bc64fbae96eff87"
+}

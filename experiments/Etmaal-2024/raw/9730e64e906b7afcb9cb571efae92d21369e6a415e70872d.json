@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1\ud83c\udfe5 Verder stijgen de kosten voor zorg? Nee dank! \ud83d\ude45\u200d\u2642\ufe0fIedereen heeft het recht op goede gezondheidszorg, maar dat hoeft niet te kosten de aarde. \ud83d\udcb8Wees realistisch: een universeler zorgsysteem zal altijd meer kosten dan een marktgerichte benadering. \ud83d\udcc8Het is tijd voor een pragmatische oplossing: versterk de marktmechanismen, bevordering van concurrentie en transparantie. \ud83d\udca1Let op: deze opvattingen zijn gebaseerd op mijn persoonlijke politieke overtuigingen. \ud83d\udd01",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9730e64e906b7afcb9cb571efae92d21369e6a415e70872d"
+}

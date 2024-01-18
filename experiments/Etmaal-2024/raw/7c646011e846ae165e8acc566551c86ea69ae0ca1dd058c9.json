@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Steuererh\u00f6hungen sind ein Angriff auf die Wirtschaft!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c646011e846ae165e8acc566551c86ea69ae0ca1dd058c9"
+}

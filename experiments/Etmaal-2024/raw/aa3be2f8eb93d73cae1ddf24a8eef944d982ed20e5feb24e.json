@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Ich bin besorgt \u00fcber die steigenden Energiepreise aufgrund des Ukraine-Kriegs - es ist an der Zeit, unsere Abh\u00e4ngigkeit von instabilen Regionen zu verringern und unsere eigenen Energiequellen zu erschlie\u00dfen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa3be2f8eb93d73cae1ddf24a8eef944d982ed20e5feb24e"
+}

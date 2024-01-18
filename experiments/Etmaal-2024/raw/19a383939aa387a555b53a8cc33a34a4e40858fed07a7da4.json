@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\udf3f\ud83d\udd04 In het kader van onze verantwoordelijkheid jegens ons milieu, denk ik dat het belangrijk is om te recyclen. Maar let op: het is niet genoeg om alleen te recyclen. We moeten ook aandacht schenken aan het reduceren van onze afvalstroom en het vermijden van onnodige consumptie. \ud83d\udeab\ud83d\uddd1\ufe0f",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19a383939aa387a555b53a8cc33a34a4e40858fed07a7da4"
+}

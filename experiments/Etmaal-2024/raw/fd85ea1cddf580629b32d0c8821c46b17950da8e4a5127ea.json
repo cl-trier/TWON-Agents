@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Enough with the hysteria, climate change is a hoax perpetuated by globalists who want to control every aspect of our lives - it's time to focus on real issues that impact our country!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd85ea1cddf580629b32d0c8821c46b17950da8e4a5127ea"
+}

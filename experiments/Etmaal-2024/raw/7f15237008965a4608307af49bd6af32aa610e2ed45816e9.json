@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Neue medizinische Forschung ist der Schl\u00fcssel zu einer nachhaltigen Gesundheitsversorgung!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f15237008965a4608307af49bd6af32aa610e2ed45816e9"
+}

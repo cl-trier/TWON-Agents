@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1  Belastingen zijn niet slecht in en voor zichzelf. Maar wanneer ze misbruikt worden om de machthebbers rijk te maken en de armen te bedorven, dan is het een andere zaak.Wees kritisch tegenover de regering en de media die u zeggen dat hogere belastingen noodzakelijk zijn om de economie te stimuleren. Zo'n argument is een oude truc om de machthebbers rijk te maken en de armen te bedorven.Er zijn veel betere manieren om de economie te stimuleren dan door middel van hogere belastingen. Bijvoorbeeld, door het verminderen van overheidsbemoeienis, het cre\u00ebren van een gunstige omgeving voor ondernemers en het bevorderen van internationale handel.      #",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b1ecd2abc1f8deced11e290f978a479151c20078eec234e"
+}

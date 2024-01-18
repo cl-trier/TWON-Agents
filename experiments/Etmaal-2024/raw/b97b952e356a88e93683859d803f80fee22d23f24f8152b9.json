@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Economie groeit, maar werkloosheid toeneemt? Politici moeten stoppen met politieke correctheid en prioriteren werkgelegenheid boven alles.   Translation:\"Economy growing, but unemployment increasing? Politicians must stop political correctness and prioritize employment above all.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b97b952e356a88e93683859d803f80fee22d23f24f8152b9"
+}

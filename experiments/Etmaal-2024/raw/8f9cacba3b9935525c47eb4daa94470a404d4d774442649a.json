@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ik ben van mening dat het belangrijk is om de keuzevrijheid en individuele rechten te respecteren bij het nemen van beslissingen over vaccinatie, en dat dit niet moet worden opgelegd door de overheid.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f9cacba3b9935525c47eb4daa94470a404d4d774442649a"
+}

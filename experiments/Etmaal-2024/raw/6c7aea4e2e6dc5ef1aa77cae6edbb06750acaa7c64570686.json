@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Unemployment rates soaring - a consequence of failed economic policies. Time for real change!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c7aea4e2e6dc5ef1aa77cae6edbb06750acaa7c64570686"
+}
