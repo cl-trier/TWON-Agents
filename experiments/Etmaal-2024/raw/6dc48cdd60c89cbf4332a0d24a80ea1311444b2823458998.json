@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Mainstream media ignoring real cause of soaring energy prices: Ukraine War. PC elites silent on national security implications. Time for energy independence!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6dc48cdd60c89cbf4332a0d24a80ea1311444b2823458998"
+}

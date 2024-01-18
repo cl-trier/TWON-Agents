@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Vaccinatie niet mijne keuze, maar persoonlijke maatregelen zijn essentieel. Maskeren dragen, afstand houden en goede hygi\u00ebne. Politieke correctheid moet niet de prioriteit zijn in deze crisis.\"Translation:\"Vaccination is not my choice, but personal measures are essential. Wear masks, keep distance and maintain good hygiene. Political correctness should not be a priority in this crisis.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3682a795fcd28077681d35641b11068af2432c028bfc910e"
+}

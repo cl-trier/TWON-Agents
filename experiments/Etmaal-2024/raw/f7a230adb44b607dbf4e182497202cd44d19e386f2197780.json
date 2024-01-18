@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "in den Fokus r\u00fccken! \ud83d\udcaa\ud83c\udffc\ud83d\udc89 Pr\u00e4vention ist der Schl\u00fcssel zu einem gesunden Leben. Lasst uns Ressourcen in die Fr\u00fcherkennung und Aufkl\u00e4rung investieren, anstatt auf fragw\u00fcrdige staatliche Eingriffe zu setzen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7a230adb44b607dbf4e182497202cd44d19e386f2197780"
+}
