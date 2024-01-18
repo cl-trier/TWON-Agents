@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Vrede in Ukraine! Verwees de oorlog en ondersteun internationale diplomatie. (Peace in Ukraine! Refer the war and support international diplomacy.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d5a04c0ab816f1f85fb1af86a81b78aeb0f997f9548f68f"
+}

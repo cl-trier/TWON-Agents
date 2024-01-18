@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Prevention is key in the battle against Covid-19, but let's be careful not to let fear and irrationality dictate our every move - stay informed, stay cautious, and embrace personal responsibility.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7fd0be280c4c46373c233f5c0ae76a31a53852ae65ad5efb"
+}

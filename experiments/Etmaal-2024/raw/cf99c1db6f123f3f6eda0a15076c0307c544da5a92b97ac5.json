@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Vaccins zijn belangrijk om de verspreiding van het Covid-19-virus te beperken en onze traditionele waarden en individuele vrijheden te beschermen tegen de gezondheidsrisico's.\" (Vaccines are important to limit the spread of the Covid-19 virus and protect our traditional values and individual freedoms against health risks.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cf99c1db6f123f3f6eda0a15076c0307c544da5a92b97ac5"
+}

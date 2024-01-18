@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Higher wages for American workers must be a top priority in our booming economy. Time to put our citizens first and make our nation prosperous again!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a5263e0cd3765874db2024f28b4faee9d634e31496f1395"
+}

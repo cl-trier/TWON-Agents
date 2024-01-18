@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Supporting our brave troops during this critical time \ud83c\uddfa\ud83c\uddf8 Praying for a peaceful resolution in Ukraine. \ud83d\ude4f",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6fd19828db8a6eb21b3533245ae17f7f221dd36a92023867"
+}

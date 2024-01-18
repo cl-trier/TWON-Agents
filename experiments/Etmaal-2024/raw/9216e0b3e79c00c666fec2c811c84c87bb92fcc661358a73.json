@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Zeit f\u00fcr echte Steuerreformen! Die Wirtschaft braucht Entlastung, nicht weitere Belastungen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9216e0b3e79c00c666fec2c811c84c87bb92fcc661358a73"
+}

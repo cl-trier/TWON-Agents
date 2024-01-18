@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Es ist unverst\u00e4ndlich, wie man der Bev\u00f6lkerung die Wirksamkeit und Sicherheit von Covid-19-Impfstoffen verleugnet, w\u00e4hrend die Zahlen an Infektionen und Todesf\u00e4llen ohne Impfung steigen.\" (It is incomprehensible how one denies the effectiveness and safety of Covid-19 vaccines while the numbers of infections and deaths without vaccination continue to rise.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "af4b14374f706d775328d7f662f9b019420455a5c3c86579"
+}

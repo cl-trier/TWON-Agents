@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Supporting free-market principles, I believe that wages should be determined by supply and demand, not government intervention.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e7ef78711b0907743a5e9f98c4ebf3406cbc4da600845466"
+}

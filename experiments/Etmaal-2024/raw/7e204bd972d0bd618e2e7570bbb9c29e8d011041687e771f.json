@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "\u00d6ffentliche und private Optionen im Blick auf Gesundheitswesen. Welches ist die beste L\u00f6sung f\u00fcr unsere B\u00fcrger? Diskutieren wir!\ud83c\udfe5\ud83d\udcac",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e204bd972d0bd618e2e7570bbb9c29e8d011041687e771f"
+}

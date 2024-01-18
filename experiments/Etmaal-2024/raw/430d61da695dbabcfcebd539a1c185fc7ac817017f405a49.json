@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Big Pharma's stranglehold on medical research is a major concern for our healthcare system. With billions spent on marketing and shareholder profits, how can we trust the results of studies funded by these corporations? We need more transparency and less political correctness in the debate around alternative treatments and natural remedies.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "430d61da695dbabcfcebd539a1c185fc7ac817017f405a49"
+}

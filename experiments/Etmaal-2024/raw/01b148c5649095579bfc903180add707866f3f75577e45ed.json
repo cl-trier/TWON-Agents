@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Ukraine-Kriegsgefahr bedroht die internationale Stabilit\u00e4t. Wir m\u00fcssen unserer nationalen Interessen sch\u00fctzen und die politische Korrektheit hinter uns lassen.   Translation:The threat of the Ukraine War endangers international stability. We must protect our national interests and leave political correctness behind.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01b148c5649095579bfc903180add707866f3f75577e45ed"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Rising energy prices are a reminder of the importance of energy independence and limited government intervention. Let's support free markets and domestic production to mitigate the impact on consumers.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d943395fe2f4b166b535d115143687715ea753e0b1daa7dd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Es ist unverst\u00e4ndlich, dass in einer so wohlhabenden Gesellschaft wie unserer die Gesundheitsversorgung f\u00fcr viele Menschen unaffordabel bleibt. (It is incomprehensible that in such a wealthy society as ours, healthcare remains unaffordable for many people.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "630a71944587c449c813e10d3ff4e1f0f31667e36b8d8f90"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Rising energy prices amidst the turmoil in Ukraine are a stark reminder of the importance of energy independence and the need for a strong national defense! \ud83c\uddfa\ud83c\uddf8",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fabf38475272b2571fdaf0c232b065a98b3df41021752291"
+}

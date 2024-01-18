@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "Defending sovereignty & territorial integrity is a fundamental duty of any nation. Let's stand with Ukraine in their fight against foreign aggression, while advocating for diplomacy & respecting international law.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0ca455858daf2a31dce49a728f77d05bc1b08218c0b7deda"
+}

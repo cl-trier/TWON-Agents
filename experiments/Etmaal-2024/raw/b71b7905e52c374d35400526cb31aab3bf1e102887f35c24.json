@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Als toegewijde liberaal geloof ik dat regeringen de sleutel zijn tot het aanpakken van werkloosheid en economische ongelijkheid - laten we ons inzetten voor beleidsmaatregelen die investeren in banencreatie en zorgen voor een eerlijkere verdeling van kansen voor iedereen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b71b7905e52c374d35400526cb31aab3bf1e102887f35c24"
+}

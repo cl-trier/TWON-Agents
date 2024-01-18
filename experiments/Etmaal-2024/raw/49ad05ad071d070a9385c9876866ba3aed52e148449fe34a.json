@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Laat je niet misleiden door de angstzaaiende mainstream media! Tijd voor gezond verstand en weerbaarheid in plaats van draconische maatregelen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49ad05ad071d070a9385c9876866ba3aed52e148449fe34a"
+}

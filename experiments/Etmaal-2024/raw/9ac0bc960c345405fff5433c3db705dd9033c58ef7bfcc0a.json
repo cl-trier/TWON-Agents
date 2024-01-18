@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "The government's insatiable appetite for our hard-earned taxes is strangling the life out of our economy. It's time to put people first and reduce the burden on small businesses and individuals.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ac0bc960c345405fff5433c3db705dd9033c58ef7bfcc0a"
+}

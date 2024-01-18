@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "De situatie in Oekra\u00efne is zorgwekkend en vraagt om serieuze aandacht. Sterke internationale stabiliteit is essentieel voor vrede en veiligheid. Laten we hopen dat diplomatieke oplossingen en strategische samenwerking de boventoon voeren. \ud83c\udf0d\ud83e\udd1d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bfd4afcb8dcf7d422a5d517478fe10867d684664a3917a10"
+}

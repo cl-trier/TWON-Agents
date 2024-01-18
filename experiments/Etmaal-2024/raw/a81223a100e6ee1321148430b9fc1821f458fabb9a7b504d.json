@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Grote zorgen over stijgende energieprijzen door de situatie in Oekra\u00efne. We moeten onze afhankelijkheid verminderen en investeren in betrouwbare bronnen zoals kernenergie en schaliegas. Laten we ons land en onze economie beschermen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a81223a100e6ee1321148430b9fc1821f458fabb9a7b504d"
+}

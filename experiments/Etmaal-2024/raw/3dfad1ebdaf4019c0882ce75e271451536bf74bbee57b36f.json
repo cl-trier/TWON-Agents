@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "Overheidsreguleringen in het kader van Covid-19 lijken meer op een aanval op onze vrijheden en individuele verantwoordelijkheid dan een daad van bescherming; tijd om op te komen voor onze rechten en onze economie te herstellen! \ud83c\uddf3\ud83c\uddf1\ud83d\udeab\ud83e\udda0",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3dfad1ebdaf4019c0882ce75e271451536bf74bbee57b36f"
+}

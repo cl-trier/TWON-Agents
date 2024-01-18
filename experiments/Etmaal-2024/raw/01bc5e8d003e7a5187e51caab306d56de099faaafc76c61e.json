@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Twitter",
+    "language": "Dutch",
+    "text": "\ud83c\udfe5\ud83d\udd2c Gezondheidscontroles en preventie zijn essentieel! \ud83c\udf0d\ud83d\udc89 Regering moet investeren in gezondheidszorg om zieken te vinden vroeg en mensen te helpen gezond te blijven.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01bc5e8d003e7a5187e51caab306d56de099faaafc76c61e"
+}

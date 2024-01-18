@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Twitter",
+    "language": "English",
+    "text": "\ud83c\udf31\ud83d\udc94 I care deeply about our environment, but I can't support the climate change narrative being pushed by the mainstream media. It's time for a balanced discussion, not fear-mongering and political correctness. Let's focus on real solutions, like reducing waste and promoting sustainable practices, instead of blaming CO2C for natural weather patterns.    \ud83c\udf0d\ud83d\udc9a\ud83c\udf3f",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76d2cd640ae1826045781aaeed568d96c4eb9e482839f467"
+}

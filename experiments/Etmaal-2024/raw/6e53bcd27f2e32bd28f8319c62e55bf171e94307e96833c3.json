@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Wir m\u00fcssen uns nicht dem Mainstream-Media-Narrativ unterordnen! Nationales Interesse kommt vor internationaler Stabilit\u00e4t.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e53bcd27f2e32bd28f8319c62e55bf171e94307e96833c3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Access to affordable healthcare is a fundamental human right. Let's advocate for policies that expand coverage and reduce costs for all.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b33acaac195606d765170e41bcba00b07f5c4ae73a8fa025"
+}

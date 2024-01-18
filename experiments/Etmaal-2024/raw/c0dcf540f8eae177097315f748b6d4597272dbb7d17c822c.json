@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het is van cruciaal belang dat we snel en doortastend handelen om klimaatverandering aan te pakken - onze toekomst en die van komende generaties hangt ervan af!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c0dcf540f8eae177097315f748b6d4597272dbb7d17c822c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Twitter",
+    "language": "German",
+    "text": "Die Pr\u00e4vention gegen Covid-19 ist von gr\u00f6\u00dfter Bedeutung. Sch\u00fctzen wir uns und unsere Gemeinschaft, indem wir Masken tragen, Abstand halten und die Hygienema\u00dfnahmen einhalten. Gemeinsam k\u00f6nnen wir diese Pandemie bek\u00e4mpfen! \ud83d\udcaa\ud83c\udf0d",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f0ac038a4350eb4c1d11bc8c54760ff332e8aed488ef3a5"
+}

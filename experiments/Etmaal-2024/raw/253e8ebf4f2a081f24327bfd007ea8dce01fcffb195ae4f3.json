@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Mainstream media ignoring the truth behind Ukraine conflict. National interests at stake, not just a 'civil war'. Time for real reporting, not PC propaganda.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "253e8ebf4f2a081f24327bfd007ea8dce01fcffb195ae4f3"
+}

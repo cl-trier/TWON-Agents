@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Was denkt ihr \u00fcber die steigenden Energiepreise aufgrund des Ukraine-Krieges? Es ist an der Zeit, den Fokus auf eine autarke Energieversorgung zu legen, um unsere Sicherheit und Wirtschaft zu erhalten!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d2fd8f234de4790365b9e8d54887ce46a3e164550974dc5e"
+}
