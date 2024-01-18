@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Wir m\u00fcssen die internationale Stabilit\u00e4t wahren, indem wir die Ukraine-Krise l\u00f6sen und die Souver\u00e4nit\u00e4t aller beteiligten Staaten respektieren. (We must maintain international stability by resolving the Ukraine crisis and respecting the sovereignty of all involved states.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d5a0c5d22a815b3ba776d2f1c2f6d5349fcd83d2397d3071"
+}

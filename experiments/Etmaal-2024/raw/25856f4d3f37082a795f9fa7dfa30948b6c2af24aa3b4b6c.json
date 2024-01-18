@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Het is tijd voor een verstandige aanpak van de gezondheidszorg, waarin persoonlijke keuzevrijheid en competitie de sleutel zijn tot betaalbaarheid en innovatie, niet overheidsoversight.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25856f4d3f37082a795f9fa7dfa30948b6c2af24aa3b4b6c"
+}

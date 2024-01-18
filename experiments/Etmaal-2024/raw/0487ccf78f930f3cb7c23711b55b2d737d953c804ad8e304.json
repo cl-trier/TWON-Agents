@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Healthcare is a basic human right! We need a robust public option to ensure access for all, regardless of income. Let's prioritize the well-being of our fellow citizens over profits.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0487ccf78f930f3cb7c23711b55b2d737d953c804ad8e304"
+}

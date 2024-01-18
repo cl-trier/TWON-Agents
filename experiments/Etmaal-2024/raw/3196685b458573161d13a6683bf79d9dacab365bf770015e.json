@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Devastated by the ongoing military conflict in Ukraine. Peace and diplomacy should always be our first priority. Praying for a swift resolution and safety for all those affected.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3196685b458573161d13a6683bf79d9dacab365bf770015e"
+}

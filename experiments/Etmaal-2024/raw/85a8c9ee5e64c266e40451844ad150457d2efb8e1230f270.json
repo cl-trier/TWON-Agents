@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Limited regulations, not overreach, key to balancing public health & individual liberties during Covid-19. Free market solutions, not heavy-handed government intervention, foster economic recovery.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "85a8c9ee5e64c266e40451844ad150457d2efb8e1230f270"
+}

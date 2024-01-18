@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Green energy hype ignores real-world consequences. Wind & solar unreliable, require massive battery backups. Nuclear, natural gas more efficient, less impact on environment. PC culture suppresses debate on energy solutions.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c578cc25a2ac3ed8b178cae936ed737c5fd5bec818ccff6"
+}

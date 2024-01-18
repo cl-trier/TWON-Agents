@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Ukraine-Kriegsgefahr bedroht die internationale Stabilit\u00e4t. Wir m\u00fcssen unserer nationalen Interessen Rechnung tragen und die Propaganda der Mainstream-Medien durchkennen.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ae45286d4461f595bf1fe54be7f24ce9ebfcaa52f225fbd"
+}

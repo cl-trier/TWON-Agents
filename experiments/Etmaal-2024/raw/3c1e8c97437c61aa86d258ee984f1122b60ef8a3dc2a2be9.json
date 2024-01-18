@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Economy",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Werkloosheid stijgt door overheidsinmenging. Laten we de vrije markt haar werk doen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3c1e8c97437c61aa86d258ee984f1122b60ef8a3dc2a2be9"
+}

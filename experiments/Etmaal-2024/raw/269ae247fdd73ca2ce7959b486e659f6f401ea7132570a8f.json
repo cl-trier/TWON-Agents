@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "De stijgende energieprijzen als gevolg van de oorlog in Oekra\u00efne zijn een zorgwekkende herinnering aan het belang van energie-onafhankelijkheid en het ondersteunen van onze binnenlandse energieproductie.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "269ae247fdd73ca2ce7959b486e659f6f401ea7132570a8f"
+}

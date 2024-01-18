@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Time to put our country first! We must protect our national interests and reinforce our borders to ensure stability in this turbulent world. Enough with the globalist agendas, it's time for a strong and unwavering stance.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c78e8cebcad16f7def8e05da64dd3f781ea38d59240585e"
+}

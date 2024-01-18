@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Was denken Sie \u00fcber die steigenden Energiepreise in Anbetracht des Ukraine-Krieges?",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8fe88ddd4cf715f25481215b27f0dc049845d31a36b987c9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Hey Leute! Ich wollte hier mal meine Gedanken zu dem Thema \"\u00f6ffentliche und private Optionen im Gesundheitswesen\" teilen. Ich bin definitiv der Meinung, dass eine starke private Option notwendig ist, um sicherzustellen, dass wir Zugang zu qualitativ hochwertiger Versorgung haben und nicht von b\u00fcrokratischen Entscheidungen abh\u00e4ngig sind. Die \u00f6ffentliche Option kann jedoch als Sicherheitsnetz f\u00fcr diejenigen dienen, die nicht in der Lage sind, privat abgesichert zu sein. Was denkt ihr? Lasst es mich wissen!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84ab23d2dfc8980f5e9fd40aef642756da17bd9cbb4f236a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Let's prioritize public health and protect our communities by getting vaccinated against Covid-19. Vaccines save lives and contribute to herd immunity.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c4214fc6900bedffb26ce0caed52c2b0bf5c325fff5f261d"
+}

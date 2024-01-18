@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Reduzieren Sie Abf\u00e4lle und unterst\u00fctzen Sie die Recycling-Initiativen. Unser Umwelt verdient es!   Translation:\"Reduce waste and support recycling initiatives. Our environment deserves it!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6884a327129e441693e7e4be9926bdc89ae8f0aca8573c7"
+}

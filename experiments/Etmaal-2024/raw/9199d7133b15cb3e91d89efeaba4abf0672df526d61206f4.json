@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Wir m\u00fcssen handeln, um unser Umwelt zu sch\u00fctzen! Klimawandel ist real und bedroht unsere Zukunft. Regierungen und Gesellschaft m\u00fcssen gemeinsam Ma\u00dfnahmen ergreifen, um CO2-Emissionen zu reduzieren und nachhaltige L\u00f6sungen zu finden.      statt Sprechen",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9199d7133b15cb3e91d89efeaba4abf0672df526d61206f4"
+}

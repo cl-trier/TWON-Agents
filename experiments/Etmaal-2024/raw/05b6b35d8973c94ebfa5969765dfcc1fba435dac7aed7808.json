@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Ukraine-Krise zeigt, wie die globalistischen Eliten die Souver\u00e4nit\u00e4t unserer V\u00f6lker bedrohen und wie wichtig es ist, unsere Grenzen zu sch\u00fctzen und unserer Milit\u00e4rkraft zu vertrauen.\"Translation:\"The Ukraine crisis shows how globalist elites threaten the sovereignty of our peoples and how important it is to protect our borders and trust our military power.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "05b6b35d8973c94ebfa5969765dfcc1fba435dac7aed7808"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Regering maaktiever maatregelen om Covid-19 te bestrijden: bescherm ons volk, bescherm onze gezondheidssystemen en ondersteun onze bedrijven met noodmaatregelen.   Translation:\"Government taking action to combat Covid-19: protect our people, protect our healthcare systems, and support our businesses with necessary measures.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7af482691f4d1192dfe9b7a815a09d7cfd27e60c76bc165a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Ik ben voorstander van een universeel en toegankelijk gezondheidszorgsysteem voor iedereen! Het is hoog tijd dat we prioriteit geven aan mensen boven winst. Gezondheid mag niet afhangen van rijkdom.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "331151b015bac117c22addbd473741a8da221e3d18e3f7b1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Klimakrise ist nicht ein nat\u00fcrlicher Vorgang, sondern eine Folge menschlicher Handlungen. Wir m\u00fcssen uns entschlossen, unser Verhalten zu \u00e4ndern, um die Umwelt zu sch\u00fctzen.   Translation:The climate crisis is not a natural process, but a result of human actions. We must decide to change our behavior to protect the environment.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a6ffb6bded0a2bd94edd4aac5e8fd6d4d436c48c712a023d"
+}

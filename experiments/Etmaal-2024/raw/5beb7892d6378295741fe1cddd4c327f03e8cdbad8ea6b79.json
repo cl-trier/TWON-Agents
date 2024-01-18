@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "English",
+    "text": "Praying for peace and stability in Ukraine. \ud83d\ude4f\ud83c\uddfa\ud83c\udde6",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5beb7892d6378295741fe1cddd4c327f03e8cdbad8ea6b79"
+}

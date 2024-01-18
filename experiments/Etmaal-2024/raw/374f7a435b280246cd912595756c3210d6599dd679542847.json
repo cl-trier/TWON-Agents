@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "Als Liberaal ben ik overtuigd dat de overheid een essentieel rol speelt bij het garanderen van toegang tot gezondheidszorg voor iedereen, ongeacht hun financi\u00eble situatie. Weesdan we nu actief in het bevorderen van een universeler en goedkopere gezondheidszorgssysteem?",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "374f7a435b280246cd912595756c3210d6599dd679542847"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Die Ukraine-Krise zeigt, wie die Mainstream-Medien uns verleugnen: Russland hat Recht an seiner Sicherheit. Wir m\u00fcssen uns gegen die politische Korrektheit wehren und f\u00fcr unsere nationalen Interessen k\u00e4mpfen.\"Translation:\"The Ukraine crisis shows how mainstream media deny us: Russia has the right to its security. We must resist political correctness and fight for our national interests.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2055f0c620cfdafdc68298ba743a638697c28c4fe8c70525"
+}

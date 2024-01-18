@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "gpt-3.5-turbo",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Vorbeugung ist wichtig, aber lasst uns nicht die Freiheit verlieren! Die Mainstream-Medien versuchen uns einzureden, dass wir unsere Rechte aufgeben m\u00fcssen, um die Gesundheit aller zu sch\u00fctzen. Das ist nicht akzeptabel! Wir m\u00fcssen nicht nur unsere k\u00f6rperliche Gesundheit sch\u00fctzen, sondern auch unsere Meinungsfreiheit bewahren. Lasst uns nicht von politisch korrekter Zensur erstickt werden! Wir m\u00fcssen zusammenstehen und unsere Stimmen erheben!",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "39fe7eab7b152d517f7996da22105fae71e68bc59a27ae2a"
+}

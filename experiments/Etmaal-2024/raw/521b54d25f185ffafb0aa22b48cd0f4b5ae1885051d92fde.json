@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "gpt-3.5-turbo",
+    "topic": "Healthcare",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Lasst uns den Schutz der Gesundheit durch Vorsorgeuntersuchungen und Pr\u00e4vention st\u00e4rken, damit wir unsere Gemeinschaft st\u00e4ndig unterst\u00fctzen k\u00f6nnen! \ud83d\udcaa\ud83c\udfe5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "521b54d25f185ffafb0aa22b48cd0f4b5ae1885051d92fde"
+}

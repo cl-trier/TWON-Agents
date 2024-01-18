@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Environment",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Wir m\u00fcssen uns nicht den Green New Deal oder \u00e4hnlichen Ideologien hingeben, die unser Land in den Ruin treiben wollen. Wir m\u00fcssen unsere eigenen Energiequellen nutzen und unsere Industrie wieder aufleben lassen, um unser Land wirtschaftlich und \u00f6kologisch zu erhalten.\"Translation:\"We don't have to submit to the Green New Deal or similar ideologies that want to ruin our country. We have to use our own energy sources and revive our industry to economically and ecologically preserve our country.",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b4401bfddf7b009671e0eed26e86fbd8e84063ff08df30a"
+}

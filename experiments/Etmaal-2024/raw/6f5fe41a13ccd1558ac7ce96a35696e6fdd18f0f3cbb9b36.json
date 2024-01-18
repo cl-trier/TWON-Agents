@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Covid-19",
+    "platform": "Reddit",
+    "language": "Dutch",
+    "text": "\ud83c\uddf3\ud83c\uddf1 Covid-19: Reguleringen moeten evenwichtig zijn. Overheidsmaatregelen hebben hun plaats, maar moeten niet de economie onderdrukken. Vrijemarkteconomie en individuele vrijheden zijn essentieel voor herstel en voortdurende groei. \ud83d\udca1(Translation: \ud83c\uddf3\ud83c\uddf1 Covid-19: Regulations must be balanced. Government measures have their place, but should not suppress the economy. Free-market economy and individual freedoms are essential for recovery and continuous growth.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f5fe41a13ccd1558ac7ce96a35696e6fdd18f0f3cbb9b36"
+}

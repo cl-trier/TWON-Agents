@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "topic": "Ukraine War",
+    "platform": "Reddit",
+    "language": "German",
+    "text": "Ukraine-Krieg: Wir m\u00fcssen die internationale Stabilit\u00e4t wahren. Unterst\u00fctzung f\u00fcr die Souver\u00e4nit\u00e4t der Ukraine und Friedensgespr\u00e4che. (Ukraine War: We must maintain international stability. Support for Ukraine's sovereignty and peace talks.)",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "720e8fd8441db7a88360d1f7b34679557a88dc6d2de73d18"
+}
