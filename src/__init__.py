@@ -2,11 +2,14 @@ import glob
 import json
 from pathlib import Path
 
+from dotenv import load_dotenv
 from pydantic import BaseModel
 
 from .inference import inference
 from .persona import Persona
 from .schemas.requests import BaseRequest, GenerateRequest, ReplyRequest, LikeRequest
+
+load_dotenv()
 
 
 class Agents(BaseModel):

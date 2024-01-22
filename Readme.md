@@ -28,7 +28,7 @@ make test
 The API assumes a valid Hugging Face and OpenAi API token inside the project repository in a dotenv file.
 
 ```toml
-HUGGINGFACEHUB_API_TOKEN="hf_XXXXXXXXXXXXXXXXX"
+HF_TOKEN="hf_XXXXXXXXXXXXXXXXX"
 OPENAI_API_KEY="sk-XXXXXXXXXXXXXXXXX"
 ```
 

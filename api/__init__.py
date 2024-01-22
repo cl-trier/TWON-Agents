@@ -1,13 +1,11 @@
 from typing import Dict
 
-from dotenv import load_dotenv
 from fastapi import FastAPI
 from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import RedirectResponse
 
 from src.schemas import Config, Persona
 
-load_dotenv()
 
 config = Config.load('./app.config.toml')
 
