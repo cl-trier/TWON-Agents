@@ -193,4 +193,4 @@ Temporary Items
 .apdisk
 
 # Log file
-/logs
+**/logs/*

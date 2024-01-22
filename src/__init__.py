@@ -1,42 +1,46 @@
-from fastapi import FastAPI
-from starlette.middleware.cors import CORSMiddleware
+import glob
+import json
+from pathlib import Path
 
-from .routes import (
-    # default
-    create_docs_route,
-    create_personas_route,
-    # actions
-    create_reply_route,
-    create_generate_route,
-    create_like_route
-)
-from .schemas import Config
+from pydantic import BaseModel
+
+from .inference import inference
+from .persona import Persona
+from .schemas.requests import BaseRequest, GenerateRequest, ReplyRequest, LikeRequest
 
 
-def create_app(config: Config):
-    app = FastAPI(
-        title=config.title,
-        description=open(f'{config.docs_path}/__index__.md').read(),
-        version=config.version,
-        docs_url=None
-    )
+class Agents(BaseModel):
+    persona_src_path: str
+    prompt_src_path: str
 
-    app.add_middleware(
-        CORSMiddleware,
-        allow_origins=config.trust_origins,
-        allow_credentials=False,
-        allow_methods=["*"],
-        allow_headers=["*"],
-    )
+    personas: dict[str, Persona] = {}
+    prompts: dict[str, str] = {}
 
-    for router in [
-        create_docs_route(app),
-        create_personas_route(config),
+    def __init__(self, **data):
+        super().__init__(**data)
 
-        create_generate_route(config),
-        create_reply_route(config),
-        create_like_route(config),
-    ]:
-        app.include_router(router)
+        for persona_fl in glob.glob(f'{self.persona_src_path}/*.json'):
+            _persona = Persona(**json.load(open(persona_fl)))
+            self.personas[_persona.id] = _persona
 
-    return app
+        for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt'):
+            self.prompts[Path(prompt_fl).stem] = open(prompt_fl).read()
+
+    def act(self, action: str, request: BaseRequest, **slots):
+        return dict(
+            **inference(
+                template=self.prompts[action],
+                persona=Persona.merge_personas(request.personas, self.personas),
+                request=request,
+                slots=dict(**slots),
+            ) | dict(action=action)
+        )
+
+    def generate(self, request: GenerateRequest, **slots):
+        return self.act('generate', request, **slots)
+
+    def reply(self, request: ReplyRequest, **slots):
+        return self.act('reply', request, **slots)
+
+    def like(self, request: LikeRequest, **slots):
+        return self.act('like', request, **slots)

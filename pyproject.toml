@@ -1,10 +1,10 @@
 [project]
 dynamic = ["dependencies"]
-name = "TWON-API"
+name = "TWON-Agents"
 version = "0.0.1"
 requires-python = ">=3.10"
 authors = [
-    { name = "Simon Münker", email = "muenker@uni-trier.com" },
+    { name = "Simon Münker", email = "muenker@uni-trier.de" },
 ]
 readme = "README.md"
 classifiers = [
@@ -17,7 +17,7 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://api.twon.unit-trier.de"
-Repository = "https://github.com/smnmnkr/TWON-API"
+Repository = "https://github.com/smnmnkr/TWON-Agents"
 
 [tool.setuptools.dynamic]
 dependencies = { file = ["requirements.txt"] }

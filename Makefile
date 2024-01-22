@@ -14,7 +14,7 @@ test:
 # --- --- ---
 
 dev:
-	uvicorn setup:app --reload
+	uvicorn api:app --reload
 
 serve:
-	uvicorn setup:app
+	uvicorn api:app

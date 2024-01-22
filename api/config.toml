@@ -5,10 +5,9 @@ docs_path = './docs'
 trust_origins = [
     'http://localhost:5173',
     'http://localhost:8000',
-    'https://replyrift.xciv.de'
 ]
 
 [agents]
 persona_src_path = './data/personas'
 prompt_src_path = './data/prompts'
-log_path = './logs/responses'
+log_path = './api/logs/responses'
