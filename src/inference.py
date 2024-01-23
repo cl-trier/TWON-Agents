@@ -4,8 +4,8 @@ import sys
 from huggingface_hub import InferenceClient
 from openai import OpenAI
 
-from .schemas import Persona
-from .schemas.requests import BaseRequest
+from src.persona import Persona
+from src.schemas.requests import BaseRequest
 
 
 def inference(

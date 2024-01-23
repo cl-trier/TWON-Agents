@@ -1,27 +1,25 @@
-**TWON *(TWin of Online Social Networks)* API provides access to two components of a simulated network:** Generative Agents powered by Large Language Models that react to textual content in a personalized manner and a Content Distributor that ranks and filters a stream of content for a specific user profile.
+**TWON *(TWin of Online Social Networks)*** Agents API provides access to generative Agents powered by Large Language Models that generate or react to textual content in a personalized manner. We define agents as simulated social network users modeled through large language models capable of performing all interactions a human user is capable of. We design the interaction solely on prompts and receive the agent's response as unrestricted text.
 
-Currently, the API provides only the agent interaction part. We define agents as simulated social network users modeled through large language models capable of performing all interactions a human user is capable of. We design the interaction solely on prompts and receive the agent's response as unrestricted text.
-
-## Structure (tbd)
+## Structure
 
 ```
-├── /                     <- Redirects to API documentation (docs/)
+├── /                     <- (root) Swagger API Documentation
 │   
 ├── personas/             <- (get) Returns a list of all personas
+├── prompts/              <- (get) Returns a list of all prompts
 │ 
 ├── generate/             <- (post) Generate a new post
 ├── reply/                <- (post) Replies to a given thread
 ├── like/                 <- (post) Decides whether to like a post or not
 │ 
-├── docs/                 <- Swagger API Documentation
 └── redoc/                <- Redocly API Documentation
 ```
 
-The source code is available on GitHub: <https://github.com/smnmnkr/TWON-API>
+The source code is available on GitHub: <https://github.com/smnmnkr/TWON-Agents>
 
 ## Request Body
 
-The provided payload for all action must contain the following parameters:
+The provided payload for all actions must contain the following parameters:
 
 ### Personas
 
@@ -46,17 +44,18 @@ The endpoint describes the LLM provider and model for inferencing. Currently, we
 }
 ```
 
-**Note:** For testing/development purposes use Hugging Face only, as inferencing OpenAI is not free.
+**Note:** For testing/development purposes use Hugging Face only, as inferencing OpenAI is not free of charge.
 
 ### Language (optional, default: English)
-todo
+The language describes the native language of the personas and prompts the action to respond in the given language. This attribute is restricted to the following values: `'English', 'German', 'Dutch', 'Italian', 'Serbian'`
 
 ### Platform (optional, default: Twitter)
-todo
+The platform describes the environment in which the agent's browser and which writing style to emulate. This attribute is restricted to the following values: `['Twitter', 'Reddit', 'Facebook', 'Telegram']`
+
 
 ### History (optional, default: None)
 
-The history contains the recent interaction of the selected agent with the platform/thread. The parameter expects a list of interactions containing the action type and the message.
+The history contains the recent interaction of the selected agent with the platform. The parameter expects a list of interactions containing the action type and the message.
 
 ```
 "history": {
@@ -67,4 +66,4 @@ The history contains the recent interaction of the selected agent with the platf
 }
 ```
 
-If you provide no history, we fill the prompt with an explicit description of the missing interaction: *You have not interacted in the platform yet.*
+If you provide no history, we fill the prompt with an explicit description of the missing interaction: `You have not interacted in the platform yet.`

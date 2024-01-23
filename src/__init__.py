@@ -5,9 +5,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 from pydantic import BaseModel
 
-from .inference import inference
-from .persona import Persona
-from .schemas.requests import BaseRequest, GenerateRequest, ReplyRequest, LikeRequest
+from src.inference import inference
+from src.persona import Persona
+from src.response import Response
+from src.schemas import requests
 
 load_dotenv()
 
@@ -15,6 +16,8 @@ load_dotenv()
 class Agents(BaseModel):
     persona_src_path: str
     prompt_src_path: str
+
+    log_path: str = None
 
     personas: dict[str, Persona] = {}
     prompts: dict[str, str] = {}
@@ -29,21 +32,21 @@ class Agents(BaseModel):
         for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt'):
             self.prompts[Path(prompt_fl).stem] = open(prompt_fl).read()
 
-    def act(self, action: str, request: BaseRequest, **slots):
-        return dict(
+    def act(self, action: str, request: requests.BaseRequest, **slots) -> Response:
+        return Response(**dict(
             **inference(
                 template=self.prompts[action],
                 persona=Persona.merge_personas(request.personas, self.personas),
                 request=request,
                 slots=dict(**slots),
-            ) | dict(action=action)
-        )
+            ) | dict(action=action, log_path=self.log_path)
+        ))
 
-    def generate(self, request: GenerateRequest, **slots):
-        return self.act('generate', request, **slots)
+    def generate(self, request: requests.GenerateRequest) -> Response:
+        return self.act('generate', request, topic=request.topic, length=request.length)
 
-    def reply(self, request: ReplyRequest, **slots):
-        return self.act('reply', request, **slots)
+    def reply(self, request: requests.ReplyRequest) -> Response:
+        return self.act('reply', request, thread=request.thread, length=request.length)
 
-    def like(self, request: LikeRequest, **slots):
-        return self.act('like', request, **slots)
+    def like(self, request: requests.LikeRequest) -> Response:
+        return self.act('like', request, post=request.post)

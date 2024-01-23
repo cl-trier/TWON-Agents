@@ -6,8 +6,8 @@ from typing import Literal, List
 
 from pydantic import BaseModel
 
-from .integration import Integration
-from .persona import Persona
+from src.persona import Persona
+from src.schemas import Integration
 
 
 class Response(BaseModel):

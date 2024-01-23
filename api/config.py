@@ -1,18 +1,17 @@
-
-import tomllib
 from typing import List
 
-from pydantic import BaseModel
 
+class Config:
+    title: str = 'TWON API'
+    version: str = '0.0.1'
 
-class Config(BaseModel):
-    title: str
-    version: str
-    docs_path: str
+    trust_origins: List[str] = [
+        'http://localhost:5173',
+        'http://localhost:8000',
+    ]
 
-    trust_origins: List[str]
+    persona_src_path: str = './data/personas'
+    prompt_src_path: str = './data/prompts'
 
-
-    @classmethod
-    def load(cls, path: str) -> 'Config':
-        return cls(**tomllib.load(open(path, "rb")))
+    docs_path: str = './api/docs'
+    log_path: str = './api/logs/responses'

@@ -1,18 +1,18 @@
 from typing import Literal
 
+from src.schemas import platform
 from .base import BaseRequest
-from .model import Thread
 
 
 class ReplyRequest(BaseRequest):
-    thread: Thread
+    thread: platform.Thread
     length: Literal['few-word', 'single-sentence', 'short', 'long'] = 'few-word'
 
     model_config = {
         "json_schema_extra": {
             "examples": [
                 BaseRequest.model_config["json_schema_extra"]["examples"][0]
-                | {"thread": Thread.model_config["json_schema_extra"]["examples"][0], "length": "few-word"}
+                | {"thread": platform.Thread.model_config["json_schema_extra"]["examples"][0], "length": "few-word"}
             ]
         }
     }
