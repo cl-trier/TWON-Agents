@@ -2,7 +2,7 @@ from typing import List
 
 
 class Config:
-    title: str = 'TWON API'
+    title: str = 'TWON Agents API'
     version: str = '0.0.1'
 
     trust_origins: List[str] = [

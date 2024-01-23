@@ -32,7 +32,7 @@ app.add_middleware(
 @app.get(
     '/personas/',
     tags=["information"],
-    summary='todo',
+    summary='Retrieve all persona data',
     description=open(f'{Config.docs_path}/personas.md').read()
 )
 async def personas() -> Dict[str, src.Persona]:
@@ -42,7 +42,7 @@ async def personas() -> Dict[str, src.Persona]:
 @app.get(
     '/prompts/',
     tags=["information"],
-    summary='todo',
+    summary='Retrieve all prompt data',
     description=open(f'{Config.docs_path}/prompts.md').read()
 )
 async def prompts() -> Dict[str, str]:

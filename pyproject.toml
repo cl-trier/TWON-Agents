@@ -1,8 +1,8 @@
 [project]
 dynamic = ["dependencies"]
+
 name = "TWON-Agents"
 version = "0.0.1"
-requires-python = ">=3.10"
 authors = [
     { name = "Simon Münker", email = "muenker@uni-trier.de" },
 ]
@@ -14,15 +14,17 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Topic :: Scientific/Engineering :: Artificial Intelligence"
 ]
+requires-python = ">=3.10"
 
 [project.urls]
-Homepage = "https://api.twon.unit-trier.de"
+Homepage = "https://agents.twon.unit-trier.de"
 Repository = "https://github.com/smnmnkr/TWON-Agents"
 
 [tool.setuptools.dynamic]
 dependencies = { file = ["requirements.txt"] }
 
 [tool.pytest.ini_options]
+pythonpath = ["."]
 log_cli = true
 log_cli_level = "INFO"
 filterwarnings = [

@@ -32,9 +32,6 @@ HF_TOKEN="hf_XXXXXXXXXXXXXXXXX"
 OPENAI_API_KEY="sk-XXXXXXXXXXXXXXXXX"
 ```
 
-## Roadmap
+## Usage
 
-- [x] Setup initial project structure
-- [x] Add agents get and post routes
-- [ ] Complete unit tests
-- [ ] Add recommender route
+todo
