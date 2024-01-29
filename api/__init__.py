@@ -7,6 +7,8 @@ import src
 from src.schemas import requests
 from .config import Config
 
+Config()
+
 app = FastAPI(
     title=Config.title,
     description=open(f'{Config.docs_path}/index.md').read(),

@@ -1,3 +1,4 @@
+from pathlib import Path
 from typing import List
 
 
@@ -14,4 +15,8 @@ class Config:
     prompt_src_path: str = './data/prompts'
 
     docs_path: str = './api/docs'
-    log_path: str = './api/logs/responses'
+    log_path: str = './api/logs'
+
+    def __init__(self) -> None:
+        self.log_path = f'{self.log_path}/{self.version}'
+        Path(self.log_path).mkdir(parents=True, exist_ok=True)
