@@ -14,7 +14,7 @@ test:
 # --- --- ---
 
 dev:
-	uvicorn api:app --reload
+	@python3 -m uvicorn api:app --reload
 
 serve:
-	uvicorn api:app
+	@python3 -m uvicorn api:app
