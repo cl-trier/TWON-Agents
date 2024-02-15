@@ -5,6 +5,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from pydantic import BaseModel
 
+from src.article import Article
 from src.inference import inference
 from src.persona import Persona
 from src.response import Response
@@ -43,7 +44,12 @@ class Agents(BaseModel):
         ))
 
     def generate(self, request: requests.GenerateRequest) -> Response:
-        return self.act('generate', request, topic=request.topic, length=request.length)
+        article = Article(topic=request.topic)
+        response = self.act('generate', request, topic=str(article), length=request.length)
+
+        response.response = f'{response.response} {article.url}'
+
+        return response
 
     def reply(self, request: requests.ReplyRequest) -> Response:
         return self.act('reply', request, thread=request.thread, length=request.length)
