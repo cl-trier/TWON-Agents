@@ -1,6 +1,7 @@
 import random
 import sys
 
+import ollama
 from huggingface_hub import InferenceClient
 from openai import OpenAI
 
@@ -30,6 +31,7 @@ def inference(
         'response': {
             'huggingFace': hf_inference,
             'OpenAI': oai_inference,
+            'local': local_inference,
         }[request.integration.provider](
             prompt,
             model=request.integration.model
@@ -65,4 +67,21 @@ def oai_inference(prompt: str, model: str) -> str:
         .choices[0]
         .message
         .content
+    )
+
+
+def local_inference(prompt: str, model: str) -> str:
+    return (
+        ollama
+        .chat(
+            model=model,
+            messages=[
+                {
+                    'role': 'user',
+                    'content': prompt,
+                },
+            ]
+        )
+        ['message']
+        ['content']
     )

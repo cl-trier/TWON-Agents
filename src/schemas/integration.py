@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 
 class Integration(BaseModel):
-    provider: Literal['huggingFace', 'OpenAI']
+    provider: Literal['huggingFace', 'OpenAI', 'local']
     model: str
 
     model_config = {
@@ -17,6 +17,10 @@ class Integration(BaseModel):
                 {
                     "provider": "OpenAI",
                     "model": "gpt-3.5-turbo",
+                },
+                {
+                    "provider": "local",
+                    "model": "llama2",
                 }
             ]
         }
