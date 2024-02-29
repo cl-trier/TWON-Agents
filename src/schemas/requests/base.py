@@ -27,7 +27,7 @@ class BaseRequest(pydantic.BaseModel):
                     "integration": Integration.model_config["json_schema_extra"]["examples"][0],
                     "language": "English",
                     "platform": "Twitter",
-                    "history": ptf.History.model_config["json_schema_extra"]["examples"][0],
+                    "history": model.History.model_config["json_schema_extra"]["examples"][0],
                 }
             ]
         }
