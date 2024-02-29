@@ -21,13 +21,13 @@ The source code is available on GitHub: <https://github.com/smnmnkr/TWON-Agents>
 
 The provided payload for all actions must contain the following parameters:
 
-### Personas
+### Persona
 
 The persona describes behavior that the language model should mimic. We provide a predefined list of personas expressed by typical social media behavior and political agenda. The complete list, including meta information, can be retrieved with the get agent route. The request can contain more than one persona. Multiple personas will be merged into a stacked persona.
 
 ```
-"personas": [ "expert" ]
-"personas": [ "liberal", "expert" ]
+"persona": [ "expert" ]
+"persona": [ "liberal", "expert" ]
 ```
 
 ### Integration (optional, default: Hugging Face)

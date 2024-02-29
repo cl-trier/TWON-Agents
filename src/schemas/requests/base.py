@@ -20,7 +20,7 @@ class BaseRequest(pydantic.BaseModel):
         "json_schema_extra": {
             "examples": [
                 {
-                    "personas": [
+                    "persona": [
                         Persona.model_config["json_schema_extra"]["examples"][0]['id'],
                         Persona.model_config["json_schema_extra"]["examples"][1]['id'],
                     ],
