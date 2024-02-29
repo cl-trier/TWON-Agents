@@ -43,7 +43,7 @@ class Agents(BaseModel):
 
         return Response(
             action=action,
-            promp=prompt,
+            prompt=prompt,
             response=request.integration(prompt),
             persona=persona,
             integration=request.integration,
