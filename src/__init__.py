@@ -2,17 +2,17 @@ import glob
 import json
 import pathlib
 
-from dotenv import load_dotenv
-from pydantic import BaseModel
+import dotenv
+import pydantic
 
 from src.persona import Persona
 from src.response import Response
 from src.schemas import requests
 
-load_dotenv()
+dotenv.load_dotenv()
 
 
-class Agents(BaseModel):
+class Agents(pydantic.BaseModel):
     persona_src_path: str
     prompt_src_path: str
 
