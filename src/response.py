@@ -1,20 +1,20 @@
 import datetime
 import json
 import re
+import typing
 import uuid
-from typing import Literal, List
 
-from pydantic import BaseModel
+import pydantic
 
+from src.integration import Integration
 from src.persona import Persona
-from src.schemas import Integration
 
 
-class Response(BaseModel):
+class Response(pydantic.BaseModel):
     id: uuid.UUID = None
     timestamp: datetime.datetime = None
 
-    action: Literal['generate', 'reply', 'like']
+    action: typing.Literal['generate', 'reply', 'like']
     persona: Persona
     integration: Integration
 
@@ -54,7 +54,7 @@ class Response(BaseModel):
             )
 
         if self.action == 'like':
-            choices: List[str] = re.findall(r'true|false', self.response, re.I)
+            choices: typing.List[str] = re.findall(r'true|false', self.response, re.I)
             self.response = choices[0] if choices else 'false'
 
         if log_path:

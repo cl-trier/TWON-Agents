@@ -36,6 +36,7 @@ The endpoint describes the LLM provider and model for inferencing. Currently, we
 
 1) Hugging Face, with all models based on the free API tier.
 2) OpenAI, with GPT-3.5-turbo and GPT-4
+3) Local GPU-Server, with Ollama and a pre-selection of models
 
 ```
 "integration": {

@@ -1,7 +1,7 @@
-from pydantic import BaseModel
+import pydantic
 
 
-class Interaction(BaseModel):
+class Interaction(pydantic.BaseModel):
     action: str
     message: str
 

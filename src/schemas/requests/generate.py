@@ -1,11 +1,11 @@
-from typing import Literal
+import typing
 
 from .base import BaseRequest
 
 
 class GenerateRequest(BaseRequest):
     topic: str
-    length: Literal['few-word', 'single-sentence', 'short', 'long'] = 'few-word'
+    length: typing.Literal['few-word', 'single-sentence', 'short', 'long'] = 'few-word'
 
     model_config = {
         "json_schema_extra": {

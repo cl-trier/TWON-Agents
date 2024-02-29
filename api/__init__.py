@@ -1,4 +1,4 @@
-from typing import Dict
+import typing
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -37,7 +37,7 @@ app.add_middleware(
     summary='Retrieve all persona data',
     description=open(f'{cfg.docs_path}/personas.md').read()
 )
-async def personas() -> Dict[str, src.Persona]:
+async def personas() -> typing.Dict[str, src.Persona]:
     return agents.personas
 
 
@@ -47,7 +47,7 @@ async def personas() -> Dict[str, src.Persona]:
     summary='Retrieve all prompt data',
     description=open(f'{cfg.docs_path}/prompts.md').read()
 )
-async def prompts() -> Dict[str, str]:
+async def prompts() -> typing.Dict[str, str]:
     return agents.prompts
 
 

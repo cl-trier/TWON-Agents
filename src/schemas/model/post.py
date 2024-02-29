@@ -1,7 +1,7 @@
-from pydantic import BaseModel
+import pydantic
 
 
-class Post(BaseModel):
+class Post(pydantic.BaseModel):
     author: str
     message: str
 

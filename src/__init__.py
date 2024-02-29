@@ -1,11 +1,10 @@
 import glob
 import json
-from pathlib import Path
+import pathlib
 
 from dotenv import load_dotenv
 from pydantic import BaseModel
 
-from src.inference import inference
 from src.persona import Persona
 from src.response import Response
 from src.schemas import requests
@@ -30,23 +29,32 @@ class Agents(BaseModel):
             self.personas[_persona.id] = _persona
 
         for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt'):
-            self.prompts[Path(prompt_fl).stem] = open(prompt_fl).read()
+            self.prompts[pathlib.Path(prompt_fl).stem] = open(prompt_fl).read()
 
-    def act(self, action: str, request: requests.BaseRequest, **slots) -> Response:
-        return Response(**dict(
-            **inference(
-                template=self.prompts[action],
-                persona=Persona.merge_personas(request.personas, self.personas),
-                request=request,
-                slots=dict(**slots),
-            ) | dict(action=action, log_path=self.log_path)
-        ))
+    def __call__(self, action: str, request: requests.BaseRequest, **slots) -> Response:
+        persona: Persona = Persona.merge_personas(request.personas, self.personas)
+        prompt: str = self.prompts[action].format(
+            persona=persona,
+            language=request.language,
+            platform=request.platform,
+            history=request.history,
+            **slots
+        )
+
+        return Response(
+            action=action,
+            promp=prompt,
+            response=request.integration(prompt),
+            persona=persona,
+            integration=request.integration,
+            log_path=self.log_path
+        )
 
     def generate(self, request: requests.GenerateRequest) -> Response:
-        return self.act('generate', request, topic=request.topic, length=request.length)
+        return self('generate', request, topic=request.topic, length=request.length)
 
     def reply(self, request: requests.ReplyRequest) -> Response:
-        return self.act('reply', request, thread=request.thread, length=request.length)
+        return self('reply', request, thread=request.thread, length=request.length)
 
     def like(self, request: requests.LikeRequest) -> Response:
-        return self.act('like', request, post=request.post)
+        return self('like', request, post=request.post)

@@ -1,12 +1,12 @@
-from pathlib import Path
-from typing import List
+import pathlib
+import typing
 
 
 class Config:
     title: str = 'TWON Agents API'
-    version: str = '0.0.1'
+    version: str = '0.0.2'
 
-    trust_origins: List[str] = [
+    trust_origins: typing.List[str] = [
         'http://localhost:5173',
         'http://localhost:8000',
     ]
@@ -19,4 +19,4 @@ class Config:
 
     def __init__(self) -> None:
         self.log_path = f'{self.log_path}/{self.version}'
-        Path(self.log_path).mkdir(parents=True, exist_ok=True)
+        pathlib.Path(self.log_path).mkdir(parents=True, exist_ok=True)

@@ -1,12 +1,12 @@
-from typing import List
+import typing
 
-from pydantic import BaseModel
+import pydantic
 
 from .interaction import Interaction
 
 
-class History(BaseModel):
-    interactions: List[Interaction] = []
+class History(pydantic.BaseModel):
+    interactions: typing.List[Interaction] = []
 
     model_config = {
         "json_schema_extra": {

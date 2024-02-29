@@ -1,15 +1,15 @@
-from src.schemas import platform
+from src.schemas import model
 from .base import BaseRequest
 
 
 class LikeRequest(BaseRequest):
-    post: platform.Post
+    post: model.Post
 
     model_config = {
         "json_schema_extra": {
             "examples": [
                 BaseRequest.model_config["json_schema_extra"]["examples"][0]
-                | {"post": platform.Post.model_config["json_schema_extra"]["examples"][0]}
+                | {"post": model.Post.model_config["json_schema_extra"]["examples"][0]}
             ]
         }
     }

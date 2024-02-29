@@ -1,12 +1,12 @@
-from typing import List
+import typing
 
-from pydantic import BaseModel
+import pydantic
 
 from .post import Post
 
 
-class Thread(BaseModel):
-    posts: List[Post]
+class Thread(pydantic.BaseModel):
+    posts: typing.List[Post]
 
     model_config = {
         "json_schema_extra": {

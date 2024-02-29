@@ -1,20 +1,20 @@
-from typing import List, Literal
+import typing
 
-from pydantic import BaseModel
+import pydantic
 
-from src import schemas
+from src.integration import Integration
 from src.persona import Persona
-from src.schemas import platform as ptf
+from src.schemas import model
 
 
-class BaseRequest(BaseModel):
-    personas: List[str]
-    integration: schemas.Integration = schemas.Integration.model_config["json_schema_extra"]["examples"][0]
+class BaseRequest(pydantic.BaseModel):
+    persona: typing.Union[typing.List[str], Persona]
+    integration: Integration = Integration.model_config["json_schema_extra"]["examples"][0]
 
-    language: Literal['English', 'German', 'Dutch', 'Italian', 'Serbian'] = "German"
-    platform: Literal['Twitter', 'Reddit', 'Facebook', 'Telegram'] = "Twitter"
+    language: typing.Literal['English', 'German', 'Dutch', 'Italian', 'Serbian'] = "German"
+    platform: typing.Literal['Twitter', 'Reddit', 'Facebook', 'Telegram'] = "Twitter"
 
-    history: ptf.History = []
+    history: model.History = []
 
     model_config = {
         "json_schema_extra": {
@@ -24,7 +24,7 @@ class BaseRequest(BaseModel):
                         Persona.model_config["json_schema_extra"]["examples"][0]['id'],
                         Persona.model_config["json_schema_extra"]["examples"][1]['id'],
                     ],
-                    "integration": schemas.Integration.model_config["json_schema_extra"]["examples"][0],
+                    "integration": Integration.model_config["json_schema_extra"]["examples"][0],
                     "language": "English",
                     "platform": "Twitter",
                     "history": ptf.History.model_config["json_schema_extra"]["examples"][0],

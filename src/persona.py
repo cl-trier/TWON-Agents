@@ -1,12 +1,12 @@
-from typing import List, Dict
+import typing
 
-from pydantic import BaseModel
+import pydantic
 
 
-class Persona(BaseModel):
+class Persona(pydantic.BaseModel):
     id: str
     name: str
-    type: List[str]
+    type: typing.List[str]
     persona: str
     summary: str
 
@@ -44,7 +44,11 @@ class Persona(BaseModel):
         )
 
     @classmethod
-    def merge_personas(cls, persona_selection: List[str], persona_pool: Dict[str, 'Persona']) -> 'Persona':
+    def merge_personas(
+            cls,
+            persona_selection: typing.List[str],
+            persona_pool: typing.Dict[str, 'Persona']
+    ) -> 'Persona':
         merged_persona: Persona = persona_pool[persona_selection[0]]
         for persona_id in persona_selection[1:]:
             merged_persona = merged_persona.merge(persona_pool[persona_id])

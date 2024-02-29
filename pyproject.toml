@@ -1,8 +1,8 @@
 [project]
 dynamic = ["dependencies"]
 
-name = "TWON-Agents"
-version = "0.0.1"
+name = "TWON Agents"
+version = "0.0.2"
 authors = [
     { name = "Simon Münker", email = "muenker@uni-trier.de" },
 ]
