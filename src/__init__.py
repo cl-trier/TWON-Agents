@@ -24,12 +24,15 @@ class Agents(BaseModel):
     def __init__(self, **data):
         super().__init__(**data)
 
-        for persona_fl in glob.glob(f'{self.persona_src_path}/*.json'):
-            _persona = Persona(**json.load(open(persona_fl)))
-            self.personas[_persona.id] = _persona
+        self.personas = {
+            (persona := Persona(**json.load(open(persona_fl)))).id: persona
+            for persona_fl in glob.glob(f'{self.persona_src_path}/*.json')
+        }
 
-        for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt'):
-            self.prompts[pathlib.Path(prompt_fl).stem] = open(prompt_fl).read()
+        self.prompts = {
+            pathlib.Path(prompt_fl).stem: open(prompt_fl).read()
+            for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt')
+        }
 
     def __call__(self, action: str, request: requests.BaseRequest, **slots) -> Response:
         persona: Persona = Persona.merge_personas(request.persona, self.personas)
