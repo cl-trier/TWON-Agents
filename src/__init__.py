@@ -32,7 +32,7 @@ class Agents(BaseModel):
             self.prompts[pathlib.Path(prompt_fl).stem] = open(prompt_fl).read()
 
     def __call__(self, action: str, request: requests.BaseRequest, **slots) -> Response:
-        persona: Persona = Persona.merge_personas(request.personas, self.personas)
+        persona: Persona = Persona.merge_personas(request.persona, self.personas)
         prompt: str = self.prompts[action].format(
             persona=persona,
             language=request.language,
