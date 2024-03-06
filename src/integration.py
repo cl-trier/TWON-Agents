@@ -11,7 +11,7 @@ import pydantic
 class Integration(pydantic.BaseModel):
     provider: typing.Literal['local', 'huggingFace', 'OpenAI']
     model: typing.Literal[
-        'llama2:7b', 'llama2:14b', 'llama2:72b',
+        'llama2:7b', 'llama2:14b', 'llama2:70b',
         'qwen:7b', 'qwen:14b', 'qwen:72b',
         'mistral:v0.2', 'mixtral:8x7b',
         'falcon:7b', 'falcon:40b',
