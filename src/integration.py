@@ -11,8 +11,14 @@ import pydantic
 class Integration(pydantic.BaseModel):
     provider: typing.Literal['local', 'huggingFace', 'OpenAI']
     model: typing.Literal[
-        'llama2:70b', 'mixtral:instruct', 'qwen:72b',
+        'llama2:7b', 'llama2:14b', 'llama2:72b',
+        'qwen:7b', 'qwen:14b', 'qwen:72b',
+        'mistral:v0.2', 'mixtral:8x7b',
+        'falcon:7b', 'falcon:40b',
+        'gemma:7b',
+
         'gpt-3.5-turbo', 'gpt-4',
+
         'mistralai/Mistral-7B-Instruct-v0.2', 'google/gemma-7b'
     ]
 
