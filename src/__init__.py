@@ -19,7 +19,7 @@ class Agents(pydantic.BaseModel):
     log_path: str = None
 
     personas: dict[str, Persona] = {}
-    prompts: dict[str, str] = {}
+    prompts: dict[tuple[str, str], str] = {}
 
     def __init__(self, **data):
         super().__init__(**data)
@@ -30,13 +30,15 @@ class Agents(pydantic.BaseModel):
         }
 
         self.prompts = {
-            pathlib.Path(prompt_fl).stem: open(prompt_fl).read()
+            ((name := pathlib.Path(prompt_fl).stem.split('.'))[0], name[1]): open(prompt_fl).read()
             for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt')
         }
 
+        print(self.prompts)
+
     def __call__(self, action: str, request: requests.BaseRequest, **slots) -> Response:
         persona: Persona = Persona.merge_personas(request.persona, self.personas)
-        prompt: str = self.prompts[action].format(
+        prompt: str = self.prompts[(request.language, action)].format(
             persona=persona,
             language=request.language,
             platform=request.platform,

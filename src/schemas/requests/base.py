@@ -11,7 +11,7 @@ class BaseRequest(pydantic.BaseModel):
     persona: typing.Union[typing.List[str], Persona]
     integration: Integration = Integration.model_config["json_schema_extra"]["examples"][0]
 
-    language: typing.Literal['English', 'German', 'Dutch', 'Italian', 'Serbian'] = "German"
+    language: typing.Literal['English', 'German', 'Dutch'] = "English"
     platform: typing.Literal['Twitter', 'Reddit', 'Facebook', 'Telegram'] = "Twitter"
 
     history: model.History = []
