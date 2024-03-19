@@ -20,11 +20,8 @@ class BaseRequest(pydantic.BaseModel):
         "json_schema_extra": {
             "examples": [
                 {
-                    "persona": [
-                        Persona.model_config["json_schema_extra"]["examples"][0]['id'],
-                        Persona.model_config["json_schema_extra"]["examples"][1]['id'],
-                    ],
-                    "integration": Integration.model_config["json_schema_extra"]["examples"][0],
+                    "persona": [Persona.model_config["json_schema_extra"]["examples"][0]['id']],
+                    "integration": Integration.model_config["json_schema_extra"]["examples"][1],
                     "language": "English",
                     "platform": "Twitter",
                     "history": model.History.model_config["json_schema_extra"]["examples"][0],
