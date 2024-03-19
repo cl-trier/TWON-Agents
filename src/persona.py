@@ -46,11 +46,12 @@ class Persona(pydantic.BaseModel):
     @classmethod
     def merge_personas(
             cls,
+            language: str,
             persona_selection: typing.List[str],
-            persona_pool: typing.Dict[str, 'Persona']
+            persona_pool: typing.Dict[typing.Tuple[str, str], 'Persona']
     ) -> 'Persona':
-        merged_persona: Persona = persona_pool[persona_selection[0]]
+        merged_persona: Persona = persona_pool[(language, persona_selection[0])]
         for persona_id in persona_selection[1:]:
-            merged_persona = merged_persona.merge(persona_pool[persona_id])
+            merged_persona = merged_persona.merge(persona_pool[(language, persona_id)])
 
         return merged_persona

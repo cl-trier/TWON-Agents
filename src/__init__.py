@@ -1,6 +1,7 @@
 import glob
 import json
 import pathlib
+import typing
 
 import dotenv
 import pydantic
@@ -18,14 +19,14 @@ class Agents(pydantic.BaseModel):
 
     log_path: str = None
 
-    personas: dict[str, Persona] = {}
-    prompts: dict[tuple[str, str], str] = {}
+    personas: typing.Dict[typing.Tuple[str, str], Persona] = {}
+    prompts: typing.Dict[typing.Tuple[str, str], str] = {}
 
     def __init__(self, **data):
         super().__init__(**data)
 
         self.personas = {
-            (persona := Persona(**json.load(open(persona_fl)))).id: persona
+            ((name := pathlib.Path(persona_fl).stem.split('.'))[0], name[1]): Persona(**json.load(open(persona_fl)))
             for persona_fl in glob.glob(f'{self.persona_src_path}/*.json')
         }
 
@@ -37,8 +38,8 @@ class Agents(pydantic.BaseModel):
         print(self.prompts)
 
     def __call__(self, action: str, request: requests.BaseRequest, **slots) -> Response:
-        persona: Persona = Persona.merge_personas(request.persona, self.personas)
-        prompt: str = self.prompts[(request.language, action)].format(
+        persona: Persona = Persona.merge_personas(request.language.lower(), request.persona, self.personas)
+        prompt: str = self.prompts[(request.language.lower(), action)].format(
             persona=persona,
             language=request.language,
             platform=request.platform,
