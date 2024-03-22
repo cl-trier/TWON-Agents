@@ -26,8 +26,7 @@ The provided payload for all actions must contain the following parameters:
 The persona describes behavior that the language model should mimic. We provide a predefined list of personas expressed by typical social media behavior and political agenda. The complete list, including meta information, can be retrieved with the get agent route. The request can contain more than one persona. Multiple personas will be merged into a stacked persona.
 
 ```
-"persona": [ "expert" ]
-"persona": [ "liberal", "expert" ]
+"persona": [ "neutral" ]
 ```
 
 ### Integration (optional, default: Hugging Face)
