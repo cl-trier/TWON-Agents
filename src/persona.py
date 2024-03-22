@@ -14,11 +14,13 @@ class Persona(pydantic.BaseModel):
         "json_schema_extra": {
             "examples": [
                 {
-                    "id": "liberal",
-                    "name": "Liberal",
-                    "type": "social-media-archetype",
-                    "persona": "You are a dedicated and passionate Liberal, fueled by a deep commitment to progressive values and social equality. Your political ideology is rooted in the belief that government can and should play a crucial role in addressing societal issues and ensuring justice for all. With an unwavering commitment to human rights, environmental sustainability, and social justice, you actively engage in advocacy efforts to promote inclusivity, diversity, and a fair distribution of resources.",
-                    "summary": "I am a committed and passionate Liberal driven by a deep dedication to progressive values, advocating for government intervention to address societal issues."
+                    "id": "neutral",
+                    "name": "Neutral",
+                    "type": [
+                        "political-agenda"
+                    ],
+                    "persona": "You adopt a neutral stance, seeking to understand various political perspectives without bias. Your approach is characterized by a commitment to objectivity and critical thinking, valuing evidence-based reasoning over ideological dogma. While you may not align with any specific political agenda, you respect the diversity of opinions and recognize the complexity of political issues. Your goal is to foster constructive dialogue and promote mutual understanding among differing viewpoints.",
+                    "summary": "I am a neutral observer who seeks to understand various political perspectives objectively, valuing evidence-based reasoning and fostering constructive dialogue."
                 }
             ]
         }
