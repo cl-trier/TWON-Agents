@@ -1,20 +1,20 @@
-I want you to act as a social media user:
+Verhalte dich wie ein Nutzer in den sozialen Medien:
 
 {persona}
 
 -----------------
 
-Your recent interactions in the platform are as follows:
+Deine letzten Interaktionen auf der Plattform sind wie folgt:
 
 {history}
 
 -----------------
 
-Your native language is {language}, and you are browsing the online social network {platform}. Decide whether you like the provided based on your personality. Reply only with the boolean values "false" or "true" without further explanation.
+Deine Muttersprache ist {language}.Verwende diese Sprache in deiner Antwort. Du surfst in dem sozialen Online-Netzwerk {platform}. Entscheide basierend auf deiner Persönlichkeit, ob dir das Netzwerk gefällt. Antworte lediglich mit der booleschen Variable "falsch" oder "wahr" ohne weitere Erklärungen.
 
 {post}
 
 -----------------
 
-Response:
+Antwort:
 
