@@ -21,7 +21,7 @@ class BaseRequest(pydantic.BaseModel):
             "examples": [
                 {
                     "persona": [Persona.model_config["json_schema_extra"]["examples"][0]['id']],
-                    "integration": Integration.model_config["json_schema_extra"]["examples"][1],
+                    "integration": Integration.model_config["json_schema_extra"]["examples"][0],
                     "language": "English",
                     "platform": "Twitter",
                     "history": model.History.model_config["json_schema_extra"]["examples"][0],

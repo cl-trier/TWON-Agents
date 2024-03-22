@@ -74,7 +74,7 @@ class Integration(pydantic.BaseModel):
             "examples": [
                 {
                     "provider": "local",
-                    "model": "llama2:70b",
+                    "model": "mixtral:8x7b",
                 },
                 {
                     "provider": "huggingFace",
