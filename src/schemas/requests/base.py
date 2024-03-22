@@ -8,7 +8,7 @@ from src.schemas import model
 
 
 class BaseRequest(pydantic.BaseModel):
-    persona: typing.Union[typing.List[str], Persona]
+    persona: typing.Union[typing.Literal['neutral', 'liberal', 'conservative', 'alt_right'], Persona]
     integration: Integration = Integration.model_config["json_schema_extra"]["examples"][0]
 
     language: typing.Literal['English', 'German', 'Dutch'] = "English"
