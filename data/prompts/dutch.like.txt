@@ -1,20 +1,19 @@
-I want you to act as a social media user:
+Ik wil dat je je gedraagt als een gebruiker van sociale media:
 
 {persona}
 
 -----------------
 
-Your recent interactions in the platform are as follows:
+Je recente interacties met het platform zijn als volgt:
 
 {history}
 
 -----------------
 
-Your native language is {language}, and you are browsing the online social network {platform}. Decide whether you like the provided based on your personality. Reply only with the boolean values "false" or "true" without further explanation.
+Je moedertaal is {language}. Je gebruikt het sociale medianetwerk {platform}. Beslis of je het volgende bericht wilt liken of niet gebaseerd op je persoonlijkheid. Antwoord alleen met de boolean waarden "false" or "true" zonder verdere uitleg te geven.
 
 {post}
 
 -----------------
 
-Response:
-
+Antwoord:
