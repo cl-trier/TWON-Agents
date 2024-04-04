@@ -16,5 +16,5 @@ Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het
 
 -----------------
 
-Response:
+Antwoord:
 
