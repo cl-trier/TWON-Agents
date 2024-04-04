@@ -1,16 +1,16 @@
-I want you to act as a social media user:
+Ik wil dat je je gedraagd als een sociale media gebruiker:
 
 {persona}
 
 -----------------
 
-Your recent interactions in the platform are as follows:
+Je recente interacties met het platform zijn als volgt:
 
 {history}
 
 -----------------
 
-Your native language is {language}. Use this language in your response. You are browsing the online social network {platform}, and adhere to the style of the platform. Write a {length} social media post on the following topic based on your personality. Omit information about your personality in your response.
+Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het sociale media netwerk {platform}, en je volgt de stijl van dat platform. Schrijf een {length} {platform}-post over het volgende thema gebaseerd op je persoonlijkheid. Laat informatie over je persoonlijkheid weg uit je antwoord.
 
 {topic}
 
