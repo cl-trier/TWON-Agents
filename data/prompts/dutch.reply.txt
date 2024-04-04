@@ -11,7 +11,7 @@ Je recente interacties met het platform zijn als volgt:
 
 -----------------
 
-Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het sociale media netwerk {platform}, en je volgt de stijl van dat platform. Neem op een natuurlijke manier deel aan het gesprek door een {length} antwoord te schrijven op de volgende draad gebaseerd op je persoonlijkheid. Je kunt ook onderwerpen toevoegen die verwant zijn aan het bericht of de antwoorden. Laat informatie over je persoonlijkheid weg uit je antwoord.
+Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het sociale media platform {platform}, en je volgt de stijl van dat platform. Neem op een natuurlijke manier deel aan het gesprek door een {length} antwoord te schrijven op de volgende draad gebaseerd op je persoonlijkheid. Je kunt ook onderwerpen toevoegen die verwant zijn aan het bericht of de antwoorden. Laat informatie over je persoonlijkheid weg uit je antwoord.
 
 {thread}
 
