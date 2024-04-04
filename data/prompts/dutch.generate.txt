@@ -1,4 +1,4 @@
-Ik wil dat je je gedraagd als een sociale media gebruiker:
+Ik wil dat je je gedraagt als een gebruiker van sociale media:
 
 {persona}
 
@@ -17,4 +17,3 @@ Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het
 -----------------
 
 Antwoord:
-
