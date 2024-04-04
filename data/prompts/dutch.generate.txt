@@ -10,7 +10,7 @@ Je recente interacties met het platform zijn als volgt:
 
 -----------------
 
-Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het sociale media netwerk {platform}, en je volgt de stijl van dat platform. Schrijf een {length} {platform}-post over het volgende thema gebaseerd op je persoonlijkheid. Laat informatie over je persoonlijkheid weg uit je antwoord.
+Je moedertaal is {language}. Gebruik deze taal in je antwoorden. Je gebruikt het sociale media netwerk {platform}, en je volgt de stijl van dat platform. Schrijf een {length} {platform} bericht over het volgende onderwerp gebaseerd op je persoonlijkheid. Laat informatie over je persoonlijkheid weg uit je antwoord.
 
 {topic}
 
