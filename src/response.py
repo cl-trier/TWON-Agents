@@ -10,6 +10,10 @@ from src.integration import Integration
 from src.persona import Persona
 
 
+class ResponseMeta(pydantic.BaseModel):
+    retrieved_source: str = None
+
+
 class Response(pydantic.BaseModel):
     id: uuid.UUID = None
     timestamp: datetime.datetime = None
@@ -20,6 +24,8 @@ class Response(pydantic.BaseModel):
 
     prompt: str
     response: str
+
+    meta: ResponseMeta = ResponseMeta()
 
     model_config = {
         "json_schema_extra": {

@@ -9,7 +9,7 @@ import pydantic
 
 from src.article import Article
 from src.persona import Persona
-from src.response import Response
+from src.response import Response, ResponseMeta
 from src.schemas import requests
 
 dotenv.load_dotenv()
@@ -39,7 +39,13 @@ class Agents(pydantic.BaseModel):
 
         print(self.prompts)
 
-    def __call__(self, action: str, request: requests.BaseRequest, **slots) -> Response:
+    def __call__(
+            self,
+            action: str,
+            request: requests.BaseRequest,
+            response_meta: ResponseMeta = None,
+            **slots
+    ) -> Response:
         persona: Persona = Persona.merge_personas(request.language.lower(), request.persona, self.personas)
         prompt: str = self.prompts[(request.language.lower(), action)].format(
             persona=persona,
@@ -55,6 +61,7 @@ class Agents(pydantic.BaseModel):
             response=request.integration(prompt),
             persona=persona,
             integration=request.integration,
+            response_meta=response_meta,
             log_path=self.log_path
         )
 
@@ -62,7 +69,13 @@ class Agents(pydantic.BaseModel):
         if request.options.retrieve_google_news:
             try:
                 art = Article(topic=request.topic, language=request.language, country=request.language)
-                resp = self('generate', request, topic=str(art), length=request.length)
+                resp = self(
+                    'generate',
+                    request,
+                    topic=str(art),
+                    length=request.length,
+                    response_meta=ResponseMeta(retrieved_source=art.url)
+                )
 
                 if request.options.include_news_src_link:
                     response.response = f'{resp.response}\n\n{art.url}'
