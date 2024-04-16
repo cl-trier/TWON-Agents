@@ -74,7 +74,7 @@ class Agents(pydantic.BaseModel):
                     request,
                     topic=str(art),
                     length=request.length,
-                    response_meta=ResponseMeta(retrieved_source=art.url)
+                    meta=ResponseMeta(retrieved_source=art.url)
                 )
 
                 if request.options.include_news_src_link:
