@@ -58,7 +58,17 @@ class Agents(pydantic.BaseModel):
         )
 
     def generate(self, request: requests.GenerateRequest) -> Response:
-        return self.act('generate', request, topic=str(Article(topic=request.topic)), length=request.length)
+        if request.options.retrieve_google_news:
+            art = Article(topic=request.topic)
+            resp = self.act('generate', request, topic=str(art), length=request.length)
+
+            if request.options.include_news_src_link:
+                response.response = f'{resp.response}\n\n{art.url}'
+
+        else:
+            resp = self.act('generate', request, topic=request.topic, length=request.length)
+
+        return resp
 
     def reply(self, request: requests.ReplyRequest) -> Response:
         return self('reply', request, thread=request.thread, length=request.length)

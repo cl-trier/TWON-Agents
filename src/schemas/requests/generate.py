@@ -1,6 +1,13 @@
 import typing
 
+import pydantic
+
 from .base import BaseRequest
+
+
+class GenerateRequestOptions(pydantic.BaseModel):
+    retrieve_google_news: bool = True
+    include_news_src_link: bool = False
 
 
 class GenerateRequest(BaseRequest):
@@ -15,3 +22,5 @@ class GenerateRequest(BaseRequest):
             ]
         }
     }
+
+    options: GenerateRequestOptions = GenerateRequestOptions()
