@@ -60,7 +60,7 @@ class Agents(pydantic.BaseModel):
             response=request.integration(str(persona), prompt),
             persona=persona,
             integration=request.integration,
-            response_meta=response_meta,
+            meta=response_meta,
             log_path=self.log_path
         )
 
@@ -73,7 +73,7 @@ class Agents(pydantic.BaseModel):
                     request,
                     topic=str(art),
                     length=request.length,
-                    meta=ResponseMeta(retrieved_source=art.url)
+                    response_meta=ResponseMeta(retrieved_source=art.url)
                 )
 
                 if request.options.include_news_src_link:
