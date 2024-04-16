@@ -4,6 +4,7 @@ import pathlib
 import typing
 
 import dotenv
+import newspaper
 import pydantic
 
 from src.article import Article
@@ -59,11 +60,15 @@ class Agents(pydantic.BaseModel):
 
     def generate(self, request: requests.GenerateRequest) -> Response:
         if request.options.retrieve_google_news:
-            art = Article(topic=request.topic)
-            resp = self('generate', request, topic=str(art), length=request.length)
+            try:
+                art = Article(topic=request.topic)
+                resp = self('generate', request, topic=str(art), length=request.length)
 
-            if request.options.include_news_src_link:
-                response.response = f'{resp.response}\n\n{art.url}'
+                if request.options.include_news_src_link:
+                    response.response = f'{resp.response}\n\n{art.url}'
+
+            except newspaper.article.ArticleException:
+                resp = self('generate', request, topic=request.topic, length=request.length)
 
         else:
             resp = self('generate', request, topic=request.topic, length=request.length)
