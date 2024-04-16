@@ -70,7 +70,10 @@ class Agents(pydantic.BaseModel):
                 if request.options.include_news_src_link:
                     response.response = f'{resp.response}\n\n{art.url}'
 
-            except newspaper.article.ArticleException:
+            except (
+                    newspaper.article.ArticleException,
+                    requests.exceptions.ConnectionError
+            ):
                 resp = self('generate', request, topic=request.topic, length=request.length)
 
         else:
