@@ -1,9 +1,3 @@
-Verhalte dich wie ein Nutzer in den sozialen Medien:
-
-{persona}
-
------------------
-
 Deine letzten Interaktionen auf der Plattform sind wie folgt:
 
 {history}

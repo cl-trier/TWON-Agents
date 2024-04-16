@@ -1,9 +1,3 @@
-I want you to act as a social media user:
-
-{persona}
-
------------------
-
 Your recent interactions in the platform are as follows:
 
 {history}

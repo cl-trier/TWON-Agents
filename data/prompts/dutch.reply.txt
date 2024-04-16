@@ -1,10 +1,3 @@
-
-Ik wil dat je je gedraagt als een gebruiker van sociale media:
-
-{persona}
-
------------------
-
 Je recente interacties met het platform zijn als volgt:
 
 {history}

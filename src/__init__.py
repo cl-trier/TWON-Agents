@@ -48,7 +48,6 @@ class Agents(pydantic.BaseModel):
     ) -> Response:
         persona: Persona = Persona.merge_personas(request.language.lower(), request.persona, self.personas)
         prompt: str = self.prompts[(request.language.lower(), action)].format(
-            persona=persona,
             language=request.language,
             platform=request.platform,
             history=request.history,
@@ -58,7 +57,7 @@ class Agents(pydantic.BaseModel):
         return Response(
             action=action,
             prompt=prompt,
-            response=request.integration(prompt),
+            response=request.integration(str(persona), prompt),
             persona=persona,
             integration=request.integration,
             response_meta=response_meta,
