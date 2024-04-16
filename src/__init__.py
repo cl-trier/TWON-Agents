@@ -7,6 +7,8 @@ import dotenv
 import newspaper
 import pydantic
 
+from requests import exceptions
+
 from src.article import Article
 from src.persona import Persona
 from src.response import Response, ResponseMeta
@@ -72,7 +74,7 @@ class Agents(pydantic.BaseModel):
 
             except (
                     newspaper.article.ArticleException,
-                    requests.exceptions.ConnectionError
+                    exceptions.ConnectionError
             ):
                 resp = self('generate', request, topic=request.topic, length=request.length)
 
