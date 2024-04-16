@@ -74,7 +74,8 @@ class Agents(pydantic.BaseModel):
 
             except (
                     newspaper.article.ArticleException,
-                    exceptions.ConnectionError
+                    exceptions.ConnectionError,
+                    IndexError
             ):
                 resp = self('generate', request, topic=request.topic, length=request.length)
 
