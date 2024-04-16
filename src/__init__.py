@@ -37,8 +37,6 @@ class Agents(pydantic.BaseModel):
             for prompt_fl in glob.glob(f'{self.prompt_src_path}/*.txt')
         }
 
-        print(self.prompts)
-
     def __call__(
             self,
             action: str,
@@ -73,8 +71,8 @@ class Agents(pydantic.BaseModel):
                     request,
                     topic=str(art),
                     length=request.length,
-                    response_meta=ResponseMeta(retrieved_source=art.url)
                 )
+                resp.meta = ResponseMeta(retrieved_source=art.url)
 
                 if request.options.include_news_src_link:
                     response.response = f'{resp.response}\n\n{art.url}'
