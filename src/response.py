@@ -15,7 +15,7 @@ class ResponseMeta(pydantic.BaseModel):
 
 
 class ResponseOptions(pydantic.BaseModel):
-    remove_hashtags: bool = False
+    remove_hashtags: bool = True
 
 
 class Response(pydantic.BaseModel):
@@ -65,7 +65,7 @@ class Response(pydantic.BaseModel):
 
             # remove hashtags
             if self.options.remove_hashtags:
-                self.response = re.sub(r'#\S+', '', self.response)
+                self.response = re.sub(r'((?:\s+#\w+)*\s*)$', '', self.response)
 
         if self.action == 'like':
             choices: typing.List[str] = re.findall(r'true|false', self.response, re.I)
