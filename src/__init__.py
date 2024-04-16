@@ -58,12 +58,7 @@ class Agents(pydantic.BaseModel):
         )
 
     def generate(self, request: requests.GenerateRequest) -> Response:
-        article = Article(topic=request.topic)
-        response = self.act('generate', request, topic=str(article), length=request.length)
-
-        response.response = f'{response.response} {article.url}'
-
-        return response
+        return self.act('generate', request, topic=str(Article(topic=request.topic)), length=request.length)
 
     def reply(self, request: requests.ReplyRequest) -> Response:
         return self('reply', request, thread=request.thread, length=request.length)
