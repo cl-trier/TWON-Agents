@@ -61,7 +61,7 @@ class Agents(pydantic.BaseModel):
     def generate(self, request: requests.GenerateRequest) -> Response:
         if request.options.retrieve_google_news:
             try:
-                art = Article(topic=request.topic)
+                art = Article(topic=request.topic, language=request.language, country=request.language)
                 resp = self('generate', request, topic=str(art), length=request.length)
 
                 if request.options.include_news_src_link:

@@ -11,8 +11,8 @@ class Article(BaseModel):
     topic: str
 
     n: int = 10
-    language: Literal['en', 'de', 'nl', 'sr', 'it'] = 'en'
-    country: Literal['US', 'DE', 'NL', 'RS', 'IT'] = 'US'
+    language: str = 'en'
+    country: str = 'US'
 
     url: str = None
     title: str = None
@@ -20,6 +20,9 @@ class Article(BaseModel):
 
     def __init__(self, **data):
         super().__init__(**data)
+
+        self.language = Article.map_language(self.language)
+        self.country = Article.map_country(self.country)
 
         news_page = self.retrieve_news_page()
         news = random.choice(news_page)
@@ -55,3 +58,19 @@ class Article(BaseModel):
         article.nlp()
 
         return article
+
+    @staticmethod
+    def map_language(language: str) -> Literal['en', 'de', 'nl', 'sr', 'it']:
+        return {
+            'english': 'en',
+            'german': 'de',
+            'dutch': 'nl',
+        }[language.lower()]
+
+    @staticmethod
+    def map_country(country: str) -> Literal['US', 'DE', 'NL', 'RS', 'IT']:
+        return {
+            'english': 'US',
+            'german': 'DE',
+            'dutch': 'NL',
+        }[country.lower()]
