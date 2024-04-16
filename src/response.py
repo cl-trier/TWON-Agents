@@ -14,6 +14,10 @@ class ResponseMeta(pydantic.BaseModel):
     retrieved_source: str = None
 
 
+class ResponseOptions(pydantic.BaseModel):
+    remove_hashtags: bool = False
+
+
 class Response(pydantic.BaseModel):
     id: uuid.UUID = None
     timestamp: datetime.datetime = None
@@ -26,6 +30,7 @@ class Response(pydantic.BaseModel):
     response: str
 
     meta: ResponseMeta = ResponseMeta()
+    options: ResponseOptions = ResponseOptions()
 
     model_config = {
         "json_schema_extra": {
@@ -49,8 +54,7 @@ class Response(pydantic.BaseModel):
 
         if self.action in ['generate', 'reply']:
             self.response = (
-                # remove hashtags
-                re.sub(r'#\S+', '', self.response)
+                self.response
                 # remove leading, trailing, spaces, quotes
                 .strip()
                 .strip('"')
@@ -58,6 +62,10 @@ class Response(pydantic.BaseModel):
                 # remove linebreaks
                 .replace("\n", "")
             )
+
+            # remove hashtags
+            if self.options.remove_hashtags:
+                self.response = re.sub(r'#\S+', '', self.response)
 
         if self.action == 'like':
             choices: typing.List[str] = re.findall(r'true|false', self.response, re.I)
