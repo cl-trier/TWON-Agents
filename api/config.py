@@ -6,10 +6,7 @@ class Config:
     title: str = 'TWON Agents API'
     version: str = '0.0.2'
 
-    trust_origins: typing.List[str] = [
-        'http://localhost:5173',
-        'http://localhost:8000',
-    ]
+    trust_origins: typing.List[str] = ['*']
 
     persona_src_path: str = './data/personas'
     prompt_src_path: str = './data/prompts'
