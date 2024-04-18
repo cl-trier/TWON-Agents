@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just proudly witnessed Dr. Smith receive the Medal of Excellence from the American Association of Kidney Patients! As a member of AAKP's National Board, Dr. Smith has made significant strides in disease prevention and infection control through community education on nutrition and safety measures. Congratulations to an exceptional physician dedicated to improving kidney health!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cde84b3e492cc9fd81d46c1bb8e57869ecaf6e19c8e35ccb"
+}

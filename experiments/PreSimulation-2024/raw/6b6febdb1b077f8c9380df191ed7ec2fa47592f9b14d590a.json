@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ik ben geen robot, ik ben een Nederlander met principes en waarden die gelooft in een evenwicht tussen traditie en vooruitgang.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ca033681-fc00-11ee-b3b5-12d1abb7c8f3&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b6febdb1b077f8c9380df191ed7ec2fa47592f9b14d590a"
+}

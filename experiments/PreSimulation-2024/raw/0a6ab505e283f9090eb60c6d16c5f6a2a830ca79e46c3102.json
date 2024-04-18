@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Vrij vertaald uit het Engels naar het Nederlands:\"Prachtige doorbraak in de migrainebehandeling! 70% van de patiënten die atogepant 60 mg per dag namen, bereikte minstens een 50% daling in aantal maandelijkse migrainedagen tijdens week 13-16. Deze verbetering bleef behouden gedurende 48 weken van behandeling! Gemiddeld was er een verbetering van 8,5 dag per maand. Deze langdurige resultaten zijn zeer belovend voor zowel patiënten als artsen.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0a6ab505e283f9090eb60c6d16c5f6a2a830ca79e46c3102"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to see the new EmVenio Research Center at Prime Healthcare, expanding access to clinical research for patients nationwide! A big step towards making healthcare more inclusive and patient-centered.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "602f9572c905dab488835faf512f7b9f26b68ee5732705a6"
+}

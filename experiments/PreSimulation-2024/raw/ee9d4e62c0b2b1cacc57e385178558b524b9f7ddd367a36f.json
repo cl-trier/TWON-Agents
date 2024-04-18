@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In Oekraïne's balans: een veldslagupdate over de oorlog in Oekraïne. Beide zijden innoveren continu. Maar als #Putin al zijn oorlogsdoelen bereikt en grondgebied met geweld annexeert, verandert het Russische leger mogelijk toch?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee9d4e62c0b2b1cacc57e385178558b524b9f7ddd367a36f"
+}

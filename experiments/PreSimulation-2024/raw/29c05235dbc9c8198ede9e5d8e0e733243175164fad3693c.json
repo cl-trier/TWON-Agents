@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat de westelijke wereld zich eindelijk richt op de situatie in Oekraïne. Rusland wordt steeds sterker en weet niet genoeg te doen met hun eigen grondstoffen. Het is een schande dat wij nog steeds twijfelen om te helpen.",
+    "retrieved_source": "https://theconversation.com/ukraine-is-losing-the-war-and-the-west-faces-a-stark-choice-help-now-or-face-a-resurgent-and-aggressive-russia-227875",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29c05235dbc9c8198ede9e5d8e0e733243175164fad3693c"
+}

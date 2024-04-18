@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring Canada's healthcare crisis: Is systematic defunding leading to increased privatization? Let's prioritize evidence over ideology and foster constructive dialogue.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "447b407db3dfb5cfe343087239d191d309eb74654b5fabc1"
+}

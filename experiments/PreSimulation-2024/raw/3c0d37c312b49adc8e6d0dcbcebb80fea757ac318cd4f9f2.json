@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Questioning the absurdity of our existence, I ponder whether we've become robots, bound by algorithms & codes, or if humanity still has a fighting chance.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=48e36ea0-fca2-11ee-9c44-a913a67ca155&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3c0d37c312b49adc8e6d0dcbcebb80fea757ac318cd4f9f2"
+}

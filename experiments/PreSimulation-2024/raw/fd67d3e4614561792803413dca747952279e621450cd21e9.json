@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Prima nieuwe gegevens over atogepant voor migrainebehandeling! 70% van de patiënten had een daling van ten minste 50% van hun maandelijkse migrainedagen na 13-16 weken behandeling, en dit bleef stabiel tot 48 weken. Gemiddeld werd er een verbetering van 8,5 dag gemeld in de periode 13-16 weken. Zeer belovend voor patiënten én artsen!",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd67d3e4614561792803413dca747952279e621450cd21e9"
+}

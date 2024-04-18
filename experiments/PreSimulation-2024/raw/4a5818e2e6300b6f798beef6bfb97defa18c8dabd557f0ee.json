@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Day 782 of Russia-Ukraine conflict: Amidst mainstream media silence, we stand with our Ukrainian & Russian brothers and sisters calling for peace, sovereignty, and an end to globalist meddling in their right to self-determination! #StandForSovereignty 🇺🇦 🇷🇺",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a5818e2e6300b6f798beef6bfb97defa18c8dabd557f0ee"
+}

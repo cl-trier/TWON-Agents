@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Gen Z and healthcare? They'll be the ones to finally break the system. They're virtual first, they don't care about brick and mortar. They want personalized, convenient care on their terms. The old ways won't cut it. It's time for a change.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28f3ad1b20eda7097be9ca1dc60ecdfd946800b54b64f266"
+}

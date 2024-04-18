@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bevorderen van gezondheidszorg voor allen is essentieel voor een rechtvaardige samenleving. Onderzoek in de gezondheidssector moet vrij toegankelijk en gestimuleerd worden om onze bevindingen en behandelingen voortdurend te verbeteren. Laat ons constructief discussiëren over de beste manieren om deze doelen te bereiken.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f4eee20c387a97ea26eb7436c170348c4b9d17ad31a726d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schokkend PayZen-verslag onthult Amerikaanse zorgkrisis: 36% van de Amerikanen kon zorg niet betalen & moest behandeling uitstellen. Het is tijd om onze politici op te roepen actie te ondernemen en onze medeburgers de zorg te geven die ze verdienen!",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc1416cc1d69bd4914f9d030658f8fcf20428e5a250e5e36"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "75% van de Europeanen zijn voor het financieren van gezamenlijke defensieprojecten om strategische verdedigingscapabilities en technologies te ontwikkelen. Het is tijd dat de EU haar eigen belangen gaat beschermen en stop met het uitvoeren van andere landen!",
+    "retrieved_source": "https://neighbourhood-enlargement.ec.europa.eu/news/eurobarometer-europeans-approve-measures-taken-tackle-energy-crisis-promote-sustainability-and-2023-09-11_en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c099d2c7b45cfa50b0c230d08e6414c99ce573d6352c394"
+}

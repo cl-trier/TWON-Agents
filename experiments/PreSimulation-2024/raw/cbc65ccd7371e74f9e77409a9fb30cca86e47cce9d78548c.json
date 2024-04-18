@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The affordability crisis in US healthcare is a stark reminder of the system's failures. PayZen's report highlights the harsh reality that many Americans can only afford a meager $97 monthly for out-of-pocket medical expenses. It's unacceptable that 36% of people have skipped necessary care due to costs, and 75% worry about affording unexpected bills. We need a fundamental transformation of our healthcare system to prioritize the wellbeing of citizens over the profiteering of insurance companies.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cbc65ccd7371e74f9e77409a9fb30cca86e47cce9d78548c"
+}

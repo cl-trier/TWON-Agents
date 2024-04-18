@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Geen wonder dat de Syriërs zich voor privatisering van ziekenhuizen openstellen, hun gezondheidssector zit in kritieke conditie door decennia van slechte regering en corruptie.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c8891794dfe73f847e8b5bc2df4cf2574e8dae939c093033"
+}

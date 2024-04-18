@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Zukunft der Gesundheitsbeschaffung wird von Telehealth und KI geprägt. Die traditionellen Barrieren sind entfernt, dankbare Patienten und eine effizientere Versorgung.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/03/democratizing-healthcare-how-telehealth-and-ai-are-transforming-access-and-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d64b88d29b1eb11d5c772a742fb7a8c8eccb5ed517ca538"
+}

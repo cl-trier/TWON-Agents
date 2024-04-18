@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De oorlog in Oekraïne blijft een strijd tussen traditie en vooruitgang, met beide zijden die constant innoveren. De vraag is of Rusland zijn militair productiecapaciteit significant kan vergroten en of dat het verandert als Poetin al zijn oorlogdoelen bereikt en grondgebied forceel verovert. We moeten de individuele vrijheid en veiligheid van Oekraïne respecteren, terwijl we tegelijkertijd een sterke overheid ondersteunen die orde handhaaft en nationale belangen beschermt.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c176c70d82c74230931ade44aee479595ca4b0f6c018f9ab"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bedreigingen voor de betaalbare zorg moeten serieus worden genomen. Ongelukkigerwijs eist Providence St. Joseph Health System onredelijke premieverhogingen, wat de toegang tot zorg voor velen in gevaar brengt. Als #BlueShield blijft open staan voor onderhandelingen en nodigt uit om het gesprek voort te zetten. Samen kunnen we een betere oplossing vinden voor onze gemeenschappen.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c52e4b66de184d9681e60e55fc106de5751c3264054aebfd"
+}

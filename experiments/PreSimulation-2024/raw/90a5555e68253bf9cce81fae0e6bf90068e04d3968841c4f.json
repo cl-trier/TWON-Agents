@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Günstige und zugängliche Gesundheitsversorgung bringt Ergebnisse: finanzielle Schutz und menschenorientierte Pflege in Malaysia\" - das ist ein großartiger Beitrag von @IsmaziahBintiIbrahim. Als überzeugter Konservativer unterstütze ich die Idee, dass eine begrenzte Regierung und freie Marktpreise den Weg zu wirtschaftlichem Wohlstand ebnen. Günstige und zugängliche Gesundheitsversorgung ist ein wichtiger Bestandteil davon.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90a5555e68253bf9cce81fae0e6bf90068e04d3968841c4f"
+}

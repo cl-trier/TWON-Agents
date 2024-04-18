@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "�agora Healthcare Affordability: eine Herausforderung für uns alle! Hören Sie sich die aktuelle Folge von Healthcare Rethink, dem FinThrive-Podcast an, um mehr über TailorMed zu erfahren - eine Lösung, die healthcare affordability nicht nur durch Zahlungserleichterungen, sondern auch durch ein breiteres Konzept der Bezwingbarkeit von Kosten unterstützt.CEO Srulik Dvorsky teilt seine Erkenntnisse zur Rolle von Analysen und Netzwerken in der Verbesserung der finanziellen Navigation für Patient*innen.Lasst uns den Dialog über healthcare affordability fördern!🔎#Healthcare",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "870b716d85e48d3d8e3c446984d37ea5a737f046f57e4c64"
+}

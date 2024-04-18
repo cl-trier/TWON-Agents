@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Accessible healthcare is key to achieving financial protection & people-centred care, especially for mothers & children in rural areas.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a5aab4d97488791bec33c805c293a3a64f4f3d50ace3d5e4"
+}

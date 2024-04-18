@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report reveals Americans struggle with healthcare affordability, skipping essential care. On average, people can only afford $97/month for out-of-pocket costs. @PayZenTech's AI solutions aim to improve affordability and financial outcomes for all.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "99aa8ac289367d9f204613bcd455297e36f3b46a5223366e"
+}

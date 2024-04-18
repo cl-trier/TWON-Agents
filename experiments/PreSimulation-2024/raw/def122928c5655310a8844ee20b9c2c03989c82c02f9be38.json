@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Mijn hart gaat uit naar alle mensen die worden getroffen door de tragische gebeurtenissen in Oekraïne. Alle partijen moeten onmiddellijk stoppen met geweld en de dialoog hervatten voor een vreedzame oplossing. Niemand mag rechtvaardigen dat burgers het slachtoffer worden van een militair conflict.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "def122928c5655310a8844ee20b9c2c03989c82c02f9be38"
+}

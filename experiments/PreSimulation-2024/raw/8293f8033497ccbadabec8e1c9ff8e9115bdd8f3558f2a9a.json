@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Volgens President Macron is een stabiele en vreedzame Europa afhankelijk van een veilige en onafhankelijke Oekraïne. De oorlog toont aan dat er geen veilige plek is in de grijze zone tussen NATO en Rusland. Het is cruciaal om Oekraïne toe te laten tot NATO voor het welzijn van alle bondgenoten. Laten we dapper zijn en een uitnodiging uitspreken.\"#NATO",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8293f8033497ccbadabec8e1c9ff8e9115bdd8f3558f2a9a"
+}

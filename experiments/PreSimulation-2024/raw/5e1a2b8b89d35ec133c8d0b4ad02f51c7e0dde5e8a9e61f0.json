@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Berlin's unilateral tax on gas exports is reducing incentives for energy firms in central Europe to invest in non-Russian gas supplies, complicating the possibility of swapping Russian imports for supplies coming via Germany, Italy or Turkey.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e1a2b8b89d35ec133c8d0b4ad02f51c7e0dde5e8a9e61f0"
+}

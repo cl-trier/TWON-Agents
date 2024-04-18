@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nog steeds lijden Amerikanen onder de zware last van medische schulden, ondanks bestaande verzekering. Volgens recent onderzoek van KFF zijn 1/4 van de gezinsbudgetten belast met medische rekeningen & 1/10 van de volwassenen hebben ze zelfs juridische schulden opgelopen. Het is tijd om oplossingen te vinden voor deze complexe kwestie.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c04ebd77be06a15228b3611b43f3c28f979d209968352e45"
+}

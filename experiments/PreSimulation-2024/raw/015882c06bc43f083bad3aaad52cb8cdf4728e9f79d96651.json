@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "China's Xi proposes \"peace plan\" for Ukraine as Russia ramps up attacks. It's time for Congress to put aside partisan bickering and support our ally. No more delays in passing the Ukraine aid bill! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "015882c06bc43f083bad3aaad52cb8cdf4728e9f79d96651"
+}

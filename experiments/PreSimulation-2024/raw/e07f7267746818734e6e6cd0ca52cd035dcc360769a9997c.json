@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Haltet die Unterstützung für die Ukraine aufrecht - amerikanische Gesetzgeber sollten sich daran erinnern, dass das Festhalten an Hilfen für die Ukraine die globale Stabilität durcheinander bringen kann",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e07f7267746818734e6e6cd0ca52cd035dcc360769a9997c"
+}

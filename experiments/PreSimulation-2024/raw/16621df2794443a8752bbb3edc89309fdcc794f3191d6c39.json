@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europees energieprijsgewijze in evenwicht hangt af van Oekraïne's infrastructurele bescherming. Fluctuerende markten en transitie naar duurzame alternatieven vereisen actie. Lees verder bij IEA en IRENA.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16621df2794443a8752bbb3edc89309fdcc794f3191d6c39"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Te vaak worden diagnosefouten genegeerd. Het tij is rijp voor een harde en kritische blik op onze ziekenhuizen.",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e15f72613d5d96c45cec3ffdd19353c2f7e940d66931ec04"
+}

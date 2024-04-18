@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 Gesundheitsbürgern in Zeitalter von COVID-19 🤔 Wie gestalten wir die bezahlbare Gesundheitsversorgung? 💰💉 TailorMed zeigt den Weg! 🌐 Brian Urban teilt indess Sharethis-Artikel 📄 mit, ueberrascht von TailorMed's core Funktionen 🤖, die vae beyond simple payment assistance 💰 to a comprehensive affordability strategy 🏭💼. #HealthcareRethink 💡 #FinThrive 📈 #TailorMed 💻 #AffordabilityNetwork 🌐 #PatientCare 🥰 #MedicalDevices 🔧 #HealthcareSolutions 💪",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de51edfac9dfedf3505a8b99bbb03275d405a8a3fd4e7d7c"
+}

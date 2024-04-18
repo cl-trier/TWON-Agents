@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Bewahrt die Solidarität in der Gesundheitsversorgung: Die Gefahr der Privatisierung für das universelle Gesundheitssystem im Libanon\"",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b0a0ff32715ea37fb9ec52042f84c1bb90eea01bac3b7bb"
+}

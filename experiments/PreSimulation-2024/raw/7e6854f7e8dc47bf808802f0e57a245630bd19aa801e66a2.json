@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": " Russische invasie van Oekraïne: Lijst van sleutelgebeurtenissen, dag 783\"Onderwerp: Russia-Ukraine war: List of key events, day 783Bericht:🚨 Nieuwsflash! 🚨Het is nu dag 783 van de Russische invasie in Oekraïne en hier zijn de belangrijkste ontwikkelingen:🔹 Het Russische leger heeft zich teruggetrokken uit enkele gebieden in Oost-Oekraïne, maar de strijd raakt nog steeds geweldig.🔹 Er zijn nieuwe rapporten over mensenrechtenschendingen door beide partijen.🔹 De internationale gemeenschap blijft druk uitvoeren op een vredesoplossing, maar tot nu toe zonder succes.🔹 De humanitaire crisis escaleert met tienduizenden daklozen en slachtoffers.Laat ik weten wat jullie denken over deze ontwikkelingen! 🤔#RussiaUkraineWar",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e6854f7e8dc47bf808802f0e57a245630bd19aa801e66a2"
+}

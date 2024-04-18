@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Lebanon's Universal Healthcare unter Beschuss: Steigende Tendenz zur Privatisierung. Schützt unsere Sozialsysteme! 🇱",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "50b69d091ceec687623c96d6e1dc74e64318d0c8f66849dd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessant zu sehen, wie sich die wahrgenommene Gesundheitsversorgungs-Affordabilität in verschiedenen Ländern unterscheidet. Lasst uns über mögliche Faktoren und Lösungen diskutieren.\"",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a9ea636924602a9d3b9145eb8e3f5171c24d0a518feeea26"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing war between Russia and Ukraine is not just a localized conflict, but a global one, with multiple countries involved in supporting their respective allies. It's time for the international community to recognize this reality and work towards a peaceful resolution.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ec2e8076dc05d040dec6dc1b7ffb34c27c44df15cf4ac619"
+}

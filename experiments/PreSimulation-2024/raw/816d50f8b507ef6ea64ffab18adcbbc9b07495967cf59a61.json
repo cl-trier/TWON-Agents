@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely heartbreaking news from Ukraine, where over 50,000 Russian troops have tragically lost their lives in a conflict that should never have happened. We must continue to support and pray for the brave men and women fighting for freedom and peace in the region.",
+    "retrieved_source": "https://www.ndtv.com/world-news/over-50-000-russian-troops-have-died-during-war-with-ukraine-report-5462137",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "816d50f8b507ef6ea64ffab18adcbbc9b07495967cf59a61"
+}

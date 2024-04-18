@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Czechia's healthcare system is on the brink of collapse! 💥The financial sustainability is questioned by stakeholders, including the health minister. It's time for prevention schemes and greater efficiency NOW! 🕰️We need clear steps with a sufficiently large impact towards a more efficient healthcare system.",
+    "retrieved_source": "https://www.euractiv.com/section/health-consumers/news/czechias-healthcare-timebomb-prevention-schemes-and-greater-efficiency-needed-now/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86834449e9bfbde6ac3198c8182e9d1a19080d60ff1cefdd"
+}

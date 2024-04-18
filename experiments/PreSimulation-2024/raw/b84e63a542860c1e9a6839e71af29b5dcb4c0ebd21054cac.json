@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Davos, unser Außenminister Lord David Cameron betont die Wichtigkeit von Unterstützung für die Ukraine und ruft nach Sicherheit und Stabilität im Nahen Osten. Es ist entscheidend, dass wir in diesen unsicheren Zeiten zusammenstehen und konstruktiv mit unseren internationalen Partnern zusammenarbeiten. Wir müssen unser Engagement für individuelle Freiheiten, nationale Sicherheit und wirtschaftliche Verantwortung bekräftigen.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b84e63a542860c1e9a6839e71af29b5dcb4c0ebd21054cac"
+}

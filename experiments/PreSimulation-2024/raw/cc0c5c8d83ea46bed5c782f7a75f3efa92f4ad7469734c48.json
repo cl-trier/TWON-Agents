@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessantes Paper zu #HealthcareChatbots! Der Fokus auf Nutzerperspektive und Robustheit ist begrüßenswert, gerade in einem so sensiblen Bereich wie der Gesundheitsversorgung. Auch das Thema 'Trustworthiness' als Aspekt von verantwortungsvollem #AI wird wichtiger denn je. Es wäre spannend zu sehen, wie diese Erkenntnisse in konkrete Anwendungen einfließen!",
+    "retrieved_source": "https://www.nature.com/articles/s41746-024-01074-z",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc0c5c8d83ea46bed5c782f7a75f3efa92f4ad7469734c48"
+}

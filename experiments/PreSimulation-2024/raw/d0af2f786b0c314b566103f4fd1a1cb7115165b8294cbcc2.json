@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Sick of sky-high energy prices? Look no further than Ukraine's abundant natural resources. Time to put America first and end our dependence on foreign oil!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0af2f786b0c314b566103f4fd1a1cb7115165b8294cbcc2"
+}

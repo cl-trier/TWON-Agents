@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO facing new frontiers in cyber competition. Stability in cyberspace requires collaboration with technical, policy, & civil society communities. Challenges from Russia & China need collective efforts.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "843b0aa0e2a12ae547b7ba91b7f5dd48a0d6d10eb60b667a"
+}

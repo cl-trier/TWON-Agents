@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's attacks on Russian oil refineries are a necessary response to Russia's relentless aggression, and it's hypocritical for the US to condemn them while continuing to support Ukraine's defense efforts.\"",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a5d2b6f265fef03cca688cc46b23a3b4f84df7524b1f89b"
+}

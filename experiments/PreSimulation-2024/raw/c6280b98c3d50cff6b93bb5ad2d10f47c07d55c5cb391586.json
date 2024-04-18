@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die aktuelle Situation in der Ukraine zeigt yet again, why strong national defense and a non-interventionist foreign policy are crucial for global stability. Let's not forget, that the invasion of sovereign nations only leads to chaos and suffering.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6280b98c3d50cff6b93bb5ad2d10f47c07d55c5cb391586"
+}

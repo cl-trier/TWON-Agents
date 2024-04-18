@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🚨Exclusive: HealthKey secures £1.13M in seed funding to unlock preventative healthcare's front door! 💼🏥 We're bridging the gap between preventative healthcare and those who need it most, making it accessible and affordable for all.",
+    "retrieved_source": "https://techfundingnews.com/exclusive-healthkey-secures-113m-in-seed-funding-to-unlock-preventative-healthcares-front-door/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "677d9e143c0a92e72279909eebd5ad5c814f89ec4948e456"
+}

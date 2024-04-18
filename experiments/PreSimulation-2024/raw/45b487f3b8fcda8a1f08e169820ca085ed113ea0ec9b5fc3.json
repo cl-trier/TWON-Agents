@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨2023-2024 U.S. Flu Season: Preliminary In-Season Burden Estimates🚨💡Did you know that the CDC provides weekly updates on flu-related hospitalizations during flu season? 🤔📈According to their latest report, the preliminary in-season burden estimates are now available! 📊🔍But wait, there's more! These estimates are compared to end-of-season hospitalization estimates from previous flu seasons. 🤔💥The in-season estimates are preliminary and change weekly as new flu hospitalizations are reported to the CDC. 📊👀Want to know the best part? The estimates on this page are cumulative and will increase as the season progresses! 🚀💪So, stay informed and keep an eye on those numbers!",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "45b487f3b8fcda8a1f08e169820ca085ed113ea0ec9b5fc3"
+}

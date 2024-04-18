@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Deeply troubled by the Kremlin's warning on Middle East escalation, yet silence on ally Iran's attack. It's crucial for global powers to promote peace & diplomacy, addressing conflicts responsibly. We must stand together against any form of violence and work towards a just resolution for all parties involved.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9524558660074eaf582bc8050e63b66b02500fa1fcbf04d0"
+}

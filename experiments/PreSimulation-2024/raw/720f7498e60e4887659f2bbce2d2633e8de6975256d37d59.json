@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Private sector involvement in public healthcare? Not so fast! The expansion of private clinics in Ontario raises concerns about equity and access to care. Let's ensure that any changes made prioritize the needs of all patients, not just those who can afford it.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "720f7498e60e4887659f2bbce2d2633e8de6975256d37d59"
+}

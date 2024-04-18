@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report by PayZen reveals alarming patterns in Americans' ability to afford healthcare. On average, people can only cover $97/month in out-of-pocket costs. 49% skip preventive visits & 40% delay mental health care.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9a1c9a4d0188511189b02f4f4218ff4e503294be140bb2ea"
+}

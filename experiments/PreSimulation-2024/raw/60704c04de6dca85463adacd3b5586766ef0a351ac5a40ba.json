@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Prachtig nieuws voor migrainepatiënten: de langdurige toediening van atogepant resulteert in significante daling van migrainedagen! Nederlandse gezondheidsautoriteiten moeten snel actie ondernemen om deze behandeling beschikbaar te stellen voor onze burgers.\"Vertaling: \"Great news for migraine patients: long-term use of atogepant results in significant reduction of migraine days! Dutch health authorities should take swift action to make this treatment available for our citizens.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "60704c04de6dca85463adacd3b5586766ef0a351ac5a40ba"
+}

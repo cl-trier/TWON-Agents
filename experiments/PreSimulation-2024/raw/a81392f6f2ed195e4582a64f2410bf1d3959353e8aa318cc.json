@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's prioritize preventative healthcare! By investing in early detection & education, we can not only improve overall health but also reduce long-term healthcare costs. It's time for a system that truly cares for all its citizens.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a81392f6f2ed195e4582a64f2410bf1d3959353e8aa318cc"
+}

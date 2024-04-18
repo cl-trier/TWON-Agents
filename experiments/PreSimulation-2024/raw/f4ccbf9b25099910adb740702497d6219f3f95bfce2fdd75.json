@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "#Ukraine steht für internationale Stabilität auf dem Spiel. Wir dürfen nicht wegschauen, während Demokratie und Menschenrechte dort bedroht sind. Lasst uns zusammenstehen für Frieden, Gerechtigkeit und eine gerechtere Welt. #StandWithUkraine 🌍🕊️",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f4ccbf9b25099910adb740702497d6219f3f95bfce2fdd75"
+}

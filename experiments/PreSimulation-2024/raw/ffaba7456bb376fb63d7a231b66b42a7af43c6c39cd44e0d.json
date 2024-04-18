@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "European energy markets face uncertainty due to Ukraine's infrastructure struggles. Diversification and sustainable solutions are key. Stay informed via IEA & IRENA.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ffaba7456bb376fb63d7a231b66b42a7af43c6c39cd44e0d"
+}

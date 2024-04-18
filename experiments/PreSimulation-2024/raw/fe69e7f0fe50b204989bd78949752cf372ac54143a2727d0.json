@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schrikken we niet terug voor collectieve actie om ongelijke energieprijzen te bestrijden. Alle burgers verdienen toegang tot betaalbare energie, ongeacht achtergrond of status.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe69e7f0fe50b204989bd78949752cf372ac54143a2727d0"
+}

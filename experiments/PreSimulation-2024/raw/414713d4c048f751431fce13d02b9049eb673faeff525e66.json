@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇩🇪#Energiekrise auf dem Vormarsch! Die #EU warnt vor einem Heizkosten-Anstieg in diesem Winter, da der Russia-Ukraine Gasdeal ausläuft. Während wir alle hoffen, dass zentraleuropäische Länder auf alternative Versorgungsquellen umsteigen, erschwert #Deutschlands einseitige Gas-Steuer diese Bemühungen. Es ist an der Zeit, dass die #EU zusammenarbeitet, um unsere Energiesicherheit zu gewährleisten und protektionistische Maßnahmen abzulehnen!💡",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "414713d4c048f751431fce13d02b9049eb673faeff525e66"
+}

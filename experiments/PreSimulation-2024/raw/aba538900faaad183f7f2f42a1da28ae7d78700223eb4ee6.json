@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@Konservativer🚨Privatisierungswarnung!🚨 Die ER-Studien haben ergeben, dass die privat sector ER-Betreuung um 21% teurer ist als die VHA-Betreuung. Jeder dieser Follow-up-Dienst generates mehr Umsatz für VCCP-Anbieter, ohne den normalen Versicherungsutilization-Review unterliegen zu müssen. VHA-Anbieter müssen umfangreiche Schulungen durchlaufen, um besser veteran-spezifische geistige und physische Probleme zu verstehen und zu behandeln. Das Obama-Ära-Panel war mit Privatisierungsfans wie Darin Selnick besetzt, der in seiner abweichenden Meinung because it didn't go far enough in his favored direction. \"Plus, the nation will have lost its only model of comprehensive health care.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aba538900faaad183f7f2f42a1da28ae7d78700223eb4ee6"
+}

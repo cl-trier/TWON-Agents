@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO's gotta step up its game in cybersecurity! It's time to stop just playing defense and start taking on those Russian and Chinese hackers.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "66d6cda4f1d58fd1fc418f97439d36fa187c9675231acabb"
+}

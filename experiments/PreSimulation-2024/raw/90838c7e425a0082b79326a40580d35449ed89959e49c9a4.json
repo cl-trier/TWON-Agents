@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Calling all medical researchers & educators! Let's advance methods in healthcare research & education together. 💡👨‍⚕️👩‍🏫 I'm passionate about medical education, patient safety, global surgery, clinical microbiology, and infectious diseases. Let's collaborate and share knowledge to improve healthcare for all! 🌎",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90838c7e425a0082b79326a40580d35449ed89959e49c9a4"
+}

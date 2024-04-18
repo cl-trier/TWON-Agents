@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to see #HealthcareInformatics student Rudra Nagalia using his product dev & entrepreneurship skills for good, innovating tech solutions to address mental health challenges through the Remind-H project!",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76f4b1218c3a02e9d6aef624edd98ed4ec0972e176fe947e"
+}

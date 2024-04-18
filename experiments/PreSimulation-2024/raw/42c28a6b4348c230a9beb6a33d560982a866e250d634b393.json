@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nog steeds steun van de Wereldbank aan Oekraïne, maar wat over ons eigen Nederland? Hoeveel miljarden stroomt er het land uit in internationale hulpprogramma's? Het is tijd om onze nationale belangen prioriteit te geven en onze soevereiniteit te verdedigen.",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "42c28a6b4348c230a9beb6a33d560982a866e250d634b393"
+}

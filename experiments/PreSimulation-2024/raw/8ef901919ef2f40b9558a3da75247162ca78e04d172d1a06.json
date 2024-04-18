@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Providence St. Joseph Health System, prioritizing greed over patient care with unreasonable rate hikes. It's time for affordable healthcare for all! #BlueShieldCaliforniaStandsWithYou 🩺💰",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8ef901919ef2f40b9558a3da75247162ca78e04d172d1a06"
+}

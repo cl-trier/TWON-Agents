@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to hear about the incredible $20 million donation to Norton Healthcare's \"Just Imagine\" campaign from the late Dr. Elizabeth Cressman! Her legacy will live on through the expansion of the Cressman Parkinson's Movement and Disorders Center and Cressman Parkinson's Research. This generous gift will significantly improve care for those affected by Parkinson's disease, strengthening our commitment to healthcare access and innovation. Grateful for visionaries like Dr. Cressman who prioritize making a difference in people's lives.",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b0b67d4d4f63be845afc939d9dfb95e0cba8695c38a1af00"
+}

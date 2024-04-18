@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's economic resilience in the face of war is a testament to the strength and determination of its people.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28541ac8148dbea6d01165af104f6ffbd602ba8b560ff7ca"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Interesting proposal from Ukrainian Foreign Minister Dmytro Kuleba at the International Crimea Platform: a separate NATO strategy for the Black Sea to counteract Russian aggression and promote regional stability. As we've seen, security in this region is indeed interconnected. Let's foster dialogue and consider all perspectives to ensure peace and stability in the Black Sea.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9dffe459e2cf40aeeceec807bc2d143fc7a955dd6840b693"
+}

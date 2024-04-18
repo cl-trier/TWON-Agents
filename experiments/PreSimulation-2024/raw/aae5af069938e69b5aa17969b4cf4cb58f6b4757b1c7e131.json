@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine-Konflikt eskaliert: Russlands Militärstärke unvermindert. Wird politische Korrektheit unsere Sicherheit opfern?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aae5af069938e69b5aa17969b4cf4cb58f6b4757b1c7e131"
+}

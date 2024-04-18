@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UAMS_Health Congratulations to the nine UAMS physicians named Healthcare Research All-Stars! 🎉🏥 Their dedication to leading-edge research and top-notch patient care is truly inspiring. 💡👨‍⚕️ It's no surprise that UAMS is among the top 1% of hip and knee surgeons nationwide! 💪 Keep up the amazing work! 💯",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bb4a571a2fa79cc159c2ecc40ba94c23eef1967e97721200"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Winter is coming, and so are the energy price hikes. The EU's dependence on Russian gas is a ticking time bomb, and Berlin's recent tax on gas exports is only making things worse. It's time for Germany's neighbors to step up and discuss this measure at the next EU energy ministers meeting in Brussels. Let's work towards a future where we can phase out Russian fossil fuels for good and rely on our own supplies from places like Norway and the US.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47d1b7b17a99d22bce7fedad336c3ef4e3211b824de6b870"
+}

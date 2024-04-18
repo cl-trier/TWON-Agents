@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz 782 Tagen Krieg: Mainstream-Medien ignorieren nach wie vor die Seite der Russland-Treuen in der Ukraine-Krise. Es ist an der Zeit, dass wir alle Ansichten hören, nicht nur die genehmen!\"#RussiaUkraineWar",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a94588ac33ea87a626617947362479788325b2ecf012d38f"
+}

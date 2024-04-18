@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While the mainstream media ignores the daily struggles of ordinary Americans, a $20M donation for Parkinson's research shines a rare light on prioritizing health over political correctness. Let's bring this focus back to our forgotten communities!",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d56b0436c59489d0bf9b70ea6ca3c2c954cbc6f5ab612fd8"
+}

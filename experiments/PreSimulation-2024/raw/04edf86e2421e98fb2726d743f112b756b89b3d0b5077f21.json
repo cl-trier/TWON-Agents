@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Understanding that Ukraine is a sovereign nation and should be free from external coercion, I strongly condemn Russia's continued aggression. We must support Ukraine in defending its borders and upholding its democratic values.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04edf86e2421e98fb2726d743f112b756b89b3d0b5077f21"
+}

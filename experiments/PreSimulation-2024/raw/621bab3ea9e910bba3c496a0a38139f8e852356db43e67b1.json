@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Attention all Californians! 🚨🏡💰 As of April 1, 2024, new notice requirements for material change transactions will take effect. Stay informed and protect your healthcare rights! 💼👍",
+    "retrieved_source": "https://www.crowell.com/en/insights/client-alerts/california-office-of-health-care-affordability-notice-requirement-for-material-change-transactions-closing-on-or-after-april-1-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "621bab3ea9e910bba3c496a0a38139f8e852356db43e67b1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessant zu sehen, wie die Schätzungen der Influenzaburden für die laufende Saison 2023-2024 chaque Woche aktualisiert werden und verglichen werden mit denschätzungen der flu-related hospitalizations from previous flu seasons.",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43b1223323eddecd59f26bc5817216a832c9d4e4c28da291"
+}

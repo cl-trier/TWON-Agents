@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "NATO's proposed 100bn euro aid package voor Ukraine's verdediging is een belangrijke stap naar het vergroten van Europa's zelfverdedigingscapaciteit en ondersteuning van democratische waarden. Het is cruciale tijd om te investeren in vrede en stabiliteit in de regio.\" (\"NATO's proposed 100bn euro aid package for Ukraine's defense is an important step towards increasing Europe's self-defense capacity and supporting democratic values. It is a crucial time to invest in peace and stability in the region.\")",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fb2d2c9e98434b3cc5268e82ce5f2b520346a8c5a985bbba"
+}

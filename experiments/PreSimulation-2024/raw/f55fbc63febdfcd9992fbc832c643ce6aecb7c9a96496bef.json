@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@ApolloHospitals: #PreventiveHealthcare is the future of medicine! 💡💉 Did you know that preventive health checkups can help reduce healthcare costs by up to 70%? 💰🏥 It's time to prioritize your health and invest in a healthier tomorrow. #ProHealth #AIinHealthcare #HealthyFuture👀 Did you know that women's health is often overlooked in India? 🤦‍♀️ It's time to change that! We need to raise awareness about the importance of preventive health tests for women. Let's work together towards a healthier future for all. #WomensHealthMatters #PreventiveCare🌟 The National Health Profile is a valuable tool in understanding India's health landscape. 📊 Let's use this data to drive positive change and improve healthcare outcomes. It's time to take control of our health! #NationalHealthProfile #HealthData #Empowerment💻 And let's not forget the power of technology in healthcare! 💻 Our ProHealth program is leading the way in personalized preventive health checks. It's time to embrace AI and take our health into our own hands.",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f55fbc63febdfcd9992fbc832c643ce6aecb7c9a96496bef"
+}

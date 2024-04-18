@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Congratulations to the nine physicians at the University of Arkansas for Medical Sciences for being named Healthcare Research All-Stars! Their dedication to research and innovation in orthopaedic surgery, gastrointestinal surgery, and general surgery is truly admirable. It's no surprise that UAMS is among the top 1% of hip and knee surgeons nationwide. This recognition is a testament to their hard work and commitment to providing the best possible care for their patients.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77dac406b6b5d10b4555be682746cc152d8b1db1eed570e0"
+}

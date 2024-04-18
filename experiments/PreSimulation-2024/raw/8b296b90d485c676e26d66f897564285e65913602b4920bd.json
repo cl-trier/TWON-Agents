@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gen Z Virtual First voor Gezondheidszorg? 🤔 Natuurlijk! Dit geslacht wil een relatie op bouwen op basis van gebruiksvoorbeelden, niet op oude paradigma's. Ze willen een goede reden hebben om naar een fysiek locatie te gaan, anders blijven ze liever virtueel. Het is tijd dat de gezondheidssector zich aanpast aan de verwachtingen van Gen Z! 💻🏥",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b296b90d485c676e26d66f897564285e65913602b4920bd"
+}

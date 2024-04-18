@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine UAMS physicians recognized as Healthcare Research All-Stars! Their dedication to advancing healthcare through innovative research is truly commendable. It's great to see Arkansas' premier academic medical center, UAMS, leading the way in hip and knee surgery, orthopedic surgery, gastrointestinal surgery, and general surgery. The recognition of these physicians highlights the importance of evidence-based medicine and the impact it can have on improving patient outcomes. Let's continue to support and celebrate groundbreaking research that enhances the quality of healthcare.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11999d880f5dcb049e2ae2b57ce2c236377a2c899ba925d6"
+}

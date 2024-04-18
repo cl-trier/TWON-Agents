@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische agressie in Oekraïne: wij reflecteren op humanitaire impact, gewijzigde geopolitiek en EU/NATO-consequenties. Terwijl we oog hebben voor andere conflictgebieden, blijven we sterk staan voor soevereiniteit en vrede in Europa.\"(Vrij vertaald: \"Twee jaar na de Russische agressie tegen Oekraïne reflecteren wij over de humanitaire impact, de gewijzigde geopolitiek en de gevolgen voor de EU en NAVO. Terwijl we ook oog hebben voor andere conflictgebieden, blijven we sterk staan voor soevereiniteit en vrede in Europa.\")",
+    "retrieved_source": "https://www.clingendael.org/event/war-europe-impact-russian-aggression-ukraine-2-years",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be859b5deec3120e728bc89740c01516b003ce08d429d50d"
+}

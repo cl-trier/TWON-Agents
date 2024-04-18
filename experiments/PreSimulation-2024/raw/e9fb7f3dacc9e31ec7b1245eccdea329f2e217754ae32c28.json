@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gefeliciteerd aan de negen UAMS-artsenvorsers die All-Stars zijn geworden in gezondheidszorgsonderzoek! Hun werk verbetert levens en bevestigt het belang van kwaliteitsonderzoek in de medische praktijk.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9fb7f3dacc9e31ec7b1245eccdea329f2e217754ae32c28"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Angesichts des bevorstehenden Federal Budget 2024 von Premierminister Justin Trudeau erwarten wir mit Spannung Maßnahmen zur Förderung von Umweltschutz, sozialer Gerechtigkeit und wirtschaftlicher Stärkung. Hoffentlich sehen wir mutige Schritte wie Steuererleichterungen und Anreize für neue Lebensmittelketten, die nach Kanada expandieren, sowie Investitionen in KI und fortschrittliche Technologien zur Bekämpfung des Klimawandels. Wir hoffen, dass dies alles im Rahmen eines finanziell verantwortungsvollen Plans geschieht, der die Bedürfnisse aller Kanadierinnen und Kanadier adressiert.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ae001b64e9b2e9355dbf679dfa18922e0c9774fffe136845"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Niet alles kan door technologie worden opgelost. We blijven vechten voor sociale rechtvaardigheid en gelijkheid, met of zonder JavaScript.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2dc7e953-fc1f-11ee-a51c-c7acb68078f4&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fcf9558905cd40f37766f8a041b70696a118f621e5b83d2d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Forderung nach überzogenen Tariferhöungen durch Providence St. Joseph Health System setzt sich Blue Shield of California für einen offenen Dialog ein, um eine bezahlbare Gesundheitsversorgung für alle Mitglieder zu gewährleisten und gleichzeitig die Gemeinschaft durch bedeutende Beiträge zu unterstützen.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd438420ad9de7fbaea849edb5f334a65c0861a301b01392"
+}

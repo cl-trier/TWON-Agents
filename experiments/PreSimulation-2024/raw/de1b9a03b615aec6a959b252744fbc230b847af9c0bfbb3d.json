@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In Canada's healthcare crisis, plaats vertrouwen in #Medicare en sta op tegen elke vorm van privatizering! Stop met het blootstellen van kwetsbare groepen aan commerciële exploitatie.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de1b9a03b615aec6a959b252744fbc230b847af9c0bfbb3d"
+}

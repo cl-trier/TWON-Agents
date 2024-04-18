@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In Women's Health 2.0, AI kan onze blinde vlekken verhelpen en de gezondheidsgap sluiten, maar we mogen de unieke behoeften van vrouwen niet vergeten. Directe democratie is noodzakelijk om zeker te zijn dat vrouwen betrokken blijven bij beslissingen over hun gezondheid.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "21987fb0dc4b5bf134cb14933b83913a0f609e94a599e07a"
+}

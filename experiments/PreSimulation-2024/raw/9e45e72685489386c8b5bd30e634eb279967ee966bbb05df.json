@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade jetzt ist es entscheidend, unsere eigene Souveränität zu stärken, anstatt auf ausländische Abhängigkeit zu setzen. Lasst uns in uns selbst investieren, um unsere Verteidigung zu sichern!",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9e45e72685489386c8b5bd30e634eb279967ee966bbb05df"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unerschütterlich an der Seite der Ukraine: Deutschland setzt sich ein für ihre Verteidigung und den Wiederaufbau. Solange Russland seine Aggression gegen die Ukraine fortsetzt, werden wir unbeirrt an unserer Seite stehen und Konsequenzen fordern. Seid solidarisch und unterstützt die #NothilfeUkraine - jede Spende zählt! 🇩🇪🇺🇦",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "caacbb693b5efb4c65c81eabca3a8c7854de02ecad533f5b"
+}

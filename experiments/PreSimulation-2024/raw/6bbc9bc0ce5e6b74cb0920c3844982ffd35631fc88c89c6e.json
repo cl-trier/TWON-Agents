@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Decades of systematic defunding have crippled our healthcare system, and now privatization schemes are being pushed as the solution? We need government investment, not corporate takeover!",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6bbc9bc0ce5e6b74cb0920c3844982ffd35631fc88c89c6e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukrainian oil chief warns of energy price volatility due to potential attacks on infrastructure. Middle East tensions could exacerbate this issue. Current supply cuts aiming for higher prices make a price drop unlikely even without geopolitical unrest.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e31a5e6d7bdc534e497dc8543df4ca5c428ed4caac1a52bf"
+}

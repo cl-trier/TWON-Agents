@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "I can't afford healthcare and I have insurance! Premiums, deductibles, copays... it all adds up. And don't even get me started on prescription costs. It's like the system is designed to keep us in debt.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "641b972a6ef9fe85d65373425cb8b34f979dbbdb5e4e12bc"
+}

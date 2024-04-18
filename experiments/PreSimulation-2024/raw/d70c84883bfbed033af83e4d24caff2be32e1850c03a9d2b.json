@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Day 783 of the Russia-Ukraine war and still no end in sight. The conflict has caused unimaginable suffering for innocent civilians. It's time for the international community to take action and bring about a peaceful resolution.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d70c84883bfbed033af83e4d24caff2be32e1850c03a9d2b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarity with Ukraine! 🇺🇦 It's time for action, not just words. Germany must continue to support Ukraine militarily and economically in the face of Russia's brutal aggression. Let's work together towards a peaceful resolution and a better future for all Ukrainians.",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71069b2133bfba272fdaaa2bcab0b200e0e709390c1db6af"
+}

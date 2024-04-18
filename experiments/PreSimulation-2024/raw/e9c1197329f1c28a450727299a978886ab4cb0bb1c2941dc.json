@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Amerikaner sehnen sich nach bezahlbarer Gesundheitsversorgung. Durchschnittlich können sie nur $97/$Monat für außerplanmäßige Kosten aufbringen. Es ist an der Zeit, innovative Lösungen wie AI-gestützte Technologien zu nutzen, um diese Herausforderung zu meistern und die finanzielle Belastung für Patienten & Anbieter zu verringern.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9c1197329f1c28a450727299a978886ab4cb0bb1c2941dc"
+}

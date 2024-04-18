@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energiepreise in Europa am Rande des Abgrunds! Steht Ukraine vor der Zerstörung unserer Infrastruktur? Es wird Zeit, unsere Energiesicherheit ernst zu nehmen und für den Erhalt unserer nationalen Interessen einzustehen.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d74090ada91f527b57290703282cdbcc1f1b65a6fc10bb88"
+}

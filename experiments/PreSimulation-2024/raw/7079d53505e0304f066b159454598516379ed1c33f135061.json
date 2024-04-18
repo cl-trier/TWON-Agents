@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uitzonderlijke prestaties van 9 #UAMS artsen erkend als #HealthcareResearch All-Stars, met name het #HipEnKnee Chirurgenteam dat zich onder de top 1% van hip en knee chirurgen in de VS bevindt. Leeftijd niet bepalend voor expertise! @UAMSnews",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7079d53505e0304f066b159454598516379ed1c33f135061"
+}

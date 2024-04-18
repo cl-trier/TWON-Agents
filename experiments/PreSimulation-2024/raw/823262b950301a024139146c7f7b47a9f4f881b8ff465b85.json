@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek van Oxford University toont aan dat privatisering van ziekenhuizen leidt tot slechtere patientenzorg, met lagere personeelsniveaus en slechtere gezondheidssresultaten. We moeten ongelijkheid in de gezondheidszorg bestrijden!\"",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "823262b950301a024139146c7f7b47a9f4f881b8ff465b85"
+}

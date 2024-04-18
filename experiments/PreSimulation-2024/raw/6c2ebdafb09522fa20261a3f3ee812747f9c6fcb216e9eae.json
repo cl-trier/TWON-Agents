@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Lage in der Ostukraine spitzt sich zu! Russland verschärft seinen Angriff seit Putins Wiederwahl im März. Es ist höchste Zeit, dass unser Westen endlich mit wirksamerer Militärhilfe reagiert, um Moskaus Überlegenheit auszugleichen. Unsere Stimmen dürfen nicht länger ignoriert werden! #UkraineUnderAttack 🇺🇦",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c2ebdafb09522fa20261a3f3ee812747f9c6fcb216e9eae"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierende Erkenntnisse im neuen PayZen Report: 36% der Amerikaner*innen verzichten auf medizinische Versorgung, weil sie sie sich nicht leisten können. Die Krise der Gesundheitsversorgbarkeit ist real und betrifft besonders die Unversicherten (63%). Lasst uns über Lösungen sprechen, um diese Herausforderung zu meistern. #HealthcareAffordability #DataSpeaks\"*Beachte, dass ich \"Amerikaner*innen\" verwende, um alle Geschlechter einzuschließen und eine inklusive Sprache zu fördern.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "433ed43443b177df33f84d0f194c15b98fa9cb39bd6bc78a"
+}

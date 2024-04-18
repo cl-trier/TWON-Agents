@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Neue Studie zeigte einen Zusammenhang zwischen Krankenhausprivatisierung und schlechter Patientenversorgung🚨Eine Untersuchung der University of Oxford hat ergeben, dass die Privatisierung von Krankenhäusern zu einem Rückgang der Patientenversorgung führt. Die Studie wurde in The Lancet Public Health veröffentlicht und basiert auf 13 Langzeitstudien in verschiedenen hochentwickelten Ländern.Die Forscher untersuchten die Qualität der Patientenversorgung vor und nach der Privatisierung von Gesundheitsdienstleistungen, einschließlich des Personals, derPatientenzusammensetzung nach Versicherungsart, der Anzahl der Leistungen, der Arbeitsbelastung von Ärzten und den Gesundheitsausgaben der Patienten, wie z.B. vermeidbare Krankenhausaufenthalte.Die wichtigsten Ergebnisse zeigen, dass die Privatisierung zu einer Verschlechterung der Patientenversorgung führt. Dies betrifft auch die Qualität der medizinischen Behandlung, die sich negativ auf die Gesundheit auswirkt. Es ist wichtig, dass wir uns bemühen, eine umfassende und qualitativ hochwertige Gesundheitsversorgung für alle Menschen bereitzustellen.#Krankenhausprivatisierung",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "021878d083e2dc2a446f06edda0538a927875d6c31a726b7"
+}

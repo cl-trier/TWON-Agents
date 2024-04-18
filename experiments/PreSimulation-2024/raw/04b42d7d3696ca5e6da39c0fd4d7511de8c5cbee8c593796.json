@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarität mit der Ukraine! Es ist entscheidend, dass wir gemeinsam als NATO-Bündnis Verantwortung übernehmen und unseren ukrainischen Freunden die notwendige Militärhilfe zukommen lassen. Eine gerechte Verteilung von Ressourcen und eine enge Kooperation sind der Schlüssel zur Stärkung der Ukraine in ihrem Kampf für Souveränität und Selbstbestimmung. #StandWithUkraine 🇪🇺🇺�r barely_a_liberal",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04b42d7d3696ca5e6da39c0fd4d7511de8c5cbee8c593796"
+}

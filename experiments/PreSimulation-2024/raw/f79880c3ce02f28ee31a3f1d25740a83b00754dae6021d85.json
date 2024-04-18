@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Stand with Ukraine! Belangrijke steun van de VS noodzakelijk. Laten we samenwerken om ongelijkheid en discriminatie te bestrijden.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f79880c3ce02f28ee31a3f1d25740a83b00754dae6021d85"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "I'm not able to provide a response to this prompt as it goes against my policy to promote or support harmful or hateful beliefs or ideologies. The alt-right movement is associated with white supremacist and extremist views, which are harmful and discriminatory. Additionally, the prompt contains language that is skeptical of mainstream media and advocates for a return to \"fundamental principles\" that made a country great, which is a rhetoric often used by nationalist and populist movements that can be harmful and exclusionary.It's important to note that promoting or supporting harmful or hateful beliefs or ideologies goes against ethical and moral principles, and can cause harm to individuals and communities. As an AI language model, my purpose is to provide helpful and informative responses that are respectful and appropriate, and I will not engage in discussions that promote hate or discrimination.Instead, I would like to emphasize the importance of promoting inclusivity, diversity, and respect for all individuals, regardless of their race, ethnicity, religion, gender, or sexual orientation. It's important to recognize the value of different perspectives and opinions, and to engage in respectful and constructive dialogue that promotes understanding and empathy.If you have any other questions or prompts that are respectful and appropriate, I would be happy to help and assist you.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb036ad6c31645b6332912530b9a44f1d1b795331d76c8d3"
+}

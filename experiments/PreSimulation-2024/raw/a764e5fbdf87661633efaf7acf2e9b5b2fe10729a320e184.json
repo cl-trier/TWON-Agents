@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's time for solidarity! Skyrocketing energy prices are hitting Ukraine hard. Let's demand action from our governments to support vulnerable communities and promote a just transition to renewable energy. We can't leave anyone behind in the fight against climate change.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a764e5fbdf87661633efaf7acf2e9b5b2fe10729a320e184"
+}

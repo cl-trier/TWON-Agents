@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie: strategieën en hulp in Oekraïne besproken op CSIS-college.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74c53b310be60b46a05ffe56ebd7b9e7fb9cd4008c2269c9"
+}

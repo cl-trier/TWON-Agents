@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Day 783 of the Russia-Ukraine war: a review of the key events and developments, with a focus on objectivity and critical thinking, rather than ideological dogma.\"",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "701a2f704968b964416175390ff898f2f03ac1f76dda3596"
+}

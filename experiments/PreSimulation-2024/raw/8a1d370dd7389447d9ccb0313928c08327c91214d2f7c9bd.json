@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military struggles continue as Trypillya power plant is destroyed, leaving three regions without electricity. Delays in US aid put civilians & troops at risk. Maryan Zablotskyy warns of depleting military hardware. We can't let Ukraine lose this fight!",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a1d370dd7389447d9ccb0313928c08327c91214d2f7c9bd"
+}

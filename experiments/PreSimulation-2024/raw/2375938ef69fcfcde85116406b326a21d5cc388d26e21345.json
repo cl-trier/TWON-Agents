@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🇺🇸🇬🇧🇺🇦 Het is tijd voor wereldleiders om samen te werken en fresh thinking te brengen om de grote uitdagingen van ons tijdperk te lijf te gaan. Ik steun Ukraine in hun strijd voor een veilige toekomst en zal dit onderwerp bespreken met minister Dmytro Kuleba op het World Economic Forum.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2375938ef69fcfcde85116406b326a21d5cc388d26e21345"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Gen Z and healthcare? They'll never understand the struggle of getting a decent doctor's appointment or the satisfaction of having a personal relationship with their physician. It's all about virtual this, virtual that. They don't know what they're missing out on.",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11cec23010e19b047958f3a38b5a4d376eb7632026a62881"
+}

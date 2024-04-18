@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierende 50-fache Zunahme von Krebs-Screenings in den letzten 5 Jahren! Ein Zeichen für wachsende Gesundheitsbewusstheit und Präventivmaßnahmen.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d579f6fe1aa4061c52d44c021b471a3ef4a2a644e61e7ebc"
+}

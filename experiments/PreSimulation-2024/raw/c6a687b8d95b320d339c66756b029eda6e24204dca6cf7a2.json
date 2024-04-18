@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "With tensions escalating in the Middle East, energy price volatility is all but certain. The latest warnings from Andriy Kobolyev, head of Naftogaz, only serve to reinforce this reality. As global markets continue to grapple with the prospects of supply disruptions and geopolitical instability, it's clear that oil prices will remain high and potentially climb even higher. The recent production cuts agreed upon by Saudi Arabia and Russia only add fuel to the fire, making a strong case for why energy prices are unlikely to fall anytime soon.\"",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6a687b8d95b320d339c66756b029eda6e24204dca6cf7a2"
+}

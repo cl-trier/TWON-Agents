@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Hinter uns liegen 781 Tage des Russland-Ukraine-Konflikts - lasst uns heute auf die wichtigsten Ereignisse blicken und immer das Ziel der friedlichen Konfliktlösung im Auge behalten.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/15/russia-ukraine-war-list-of-key-events-day-781",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "557e80ca11326085bca0d80e00bc56bc400dd349a76da31c"
+}

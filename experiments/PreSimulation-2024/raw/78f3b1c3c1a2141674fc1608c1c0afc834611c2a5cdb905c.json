@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare professionals bullish on AI's future, but only 37% reviewing regulatory guidance. We need to prioritize compliance and safety to ensure a successful AI integration in healthcare.",
+    "retrieved_source": "https://www.healthcareitnews.com/news/study-providers-very-optimistic-ais-future-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78f3b1c3c1a2141674fc1608c1c0afc834611c2a5cdb905c"
+}

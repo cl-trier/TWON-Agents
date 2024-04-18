@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to share the upcoming #HFPP events! From regional gatherings to webinars, there's ample opportunity for collaboration in healthcare fraud prevention. Mark your calendars for the Executive Board Meeting on April 18th. Let's work together to foster a more transparent and secure healthcare system. Check out more events on our page.",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b2eba683dc98c5d689cbadfd822d14419c09660a44c6ed8"
+}

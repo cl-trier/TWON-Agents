@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Budget 2024: Trudeau's tricky balance between economic growth and environmental responsibility. Tax breaks for new grocery chains? Investments in AI and tech for climate action? The cost of promises can be steep, but the future of Canada is worth it.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7fe505af58684983aaf80a242b4f46dc581c11b01bf13a7e"
+}

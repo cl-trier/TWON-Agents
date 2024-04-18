@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatizing healthcare won't solve Canada's crisis. It's time to end systematic defunding & truly invest in our public system.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31a326b2225a007091e6a50cdb0656143b4eac9d29602a40"
+}

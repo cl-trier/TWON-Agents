@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De escalerende crisis in Oekraïne is een ernstige bedreiging voor internationale stabiliteit en verdient onze volle aandacht en betrokkenheid bij het zoeken naar vreedzame oplossingen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43b152dca447b64bef07c7a1d583a50a80aebef1fb6f0a90"
+}

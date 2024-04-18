@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ongelofelijk hoe eeuwigheid van #RussischeAgressie en #UkrainianGeleden wordt gesaneerd in de #WarOnUkraine. Solidariteit metallen Ukraine, tijd voor een diplomatieke oplossing is nu!\"",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "839a54cea80f3d689b32127fc4717765d14ec0fd203f9dae"
+}

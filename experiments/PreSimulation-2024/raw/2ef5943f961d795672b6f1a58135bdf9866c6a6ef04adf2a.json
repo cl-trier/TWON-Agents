@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Krankenversicherung: Viele Amerikaner leiden unter gesundheitlicher Schuldenlast. Wir müssen Kosten senken & individuelle Freiheiten stärken, statt in übermäßige Regulierung zu verfallen.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2ef5943f961d795672b6f1a58135bdf9866c6a6ef04adf2a"
+}

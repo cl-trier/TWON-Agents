@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne verdedigt onze gasvoorraden terwijl Europa slaapt. Tijd om te kiezen voor onze eigen belangen en soevereiniteit, voordat de gasstroom definitief stopt",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "46df2e3bfbabda3b924a9f8e0441096a99863b0beb4e5c9a"
+}

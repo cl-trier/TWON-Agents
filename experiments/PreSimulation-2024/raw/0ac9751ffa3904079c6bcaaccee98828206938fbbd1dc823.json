@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming new report reveals Americans struggling to afford healthcare, skipping crucial services despite high personal cost - it's time to prioritize affordable solutions & put patients first!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0ac9751ffa3904079c6bcaaccee98828206938fbbd1dc823"
+}

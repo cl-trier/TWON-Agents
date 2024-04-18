@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarity with Ukraine, not just a word but a deed. Time and time again, we've seen the devastating impact of Russia's aggression on innocent lives. It's our duty to support those in need, to stand up against tyranny & defend freedom.",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "704ca2488348c4761ff1b570d71fb35bdb51f2aab51aa3be"
+}

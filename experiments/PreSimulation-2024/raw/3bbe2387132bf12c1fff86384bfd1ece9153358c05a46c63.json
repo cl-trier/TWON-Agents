@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring #Ukraine's energy sector after a decade of war, we see significant changes: alignment with European rules, strengthened security, & financial sustainability. Despite ongoing Russian threats, Ukraine has transformed its energy markets to be more transparent, ended household subsidies, and reduced the state's role. A testament to resilience in the face of adversity.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3bbe2387132bf12c1fff86384bfd1ece9153358c05a46c63"
+}

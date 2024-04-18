@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The war in Ukraine is not just a local conflict, it's a global issue. Russia and Ukraine's reliance on international allies for supplies and support means that this conflict has far-reaching implications. It's time for the world to take notice and work towards a peaceful resolution.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "56595f7f9242a91b9a8efc5c855906de0bbaae82209231be"
+}

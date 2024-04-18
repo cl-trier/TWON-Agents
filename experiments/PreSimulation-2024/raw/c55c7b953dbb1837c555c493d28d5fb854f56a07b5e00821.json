@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking news of Russia's heinous double-tap strikes on innocent Ukrainian civilians and the brave rescuers who come to their aid. Such acts are not only a gross violation of international law but also an affront to humanity itself. It's time for the global community to stand up against this tyranny and support Ukraine in its fight for freedom, democracy, and self-determination. We must defend our shared values and hold those responsible accountable for their actions. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c55c7b953dbb1837c555c493d28d5fb854f56a07b5e00821"
+}

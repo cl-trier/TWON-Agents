@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's absurd that NATO expects the US to foot the bill for Ukraine's defense. The EU should step up and take responsibility for their own backyard.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f954916c6ae8d9a25cbd3b6265f29a17cc3eb871d04a333d"
+}

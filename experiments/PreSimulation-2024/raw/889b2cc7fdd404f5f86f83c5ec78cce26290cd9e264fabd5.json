@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezien studies die vooral privézorg thuis en in verpleeghuizen met slechtere uitkomsten koppelen, betrekken we veel oog om zorg dat #AlbertaHealthServiceshervormingen objectiviteit en bewijsgebaseerde besluitvorming behouden, ter voorkoming van verdere privatisering in ons gezondheidssysteem.\"(\"Given studies that largely link private care at home and in nursing homes with worse outcomes, we need to be vigilant to ensure that #AlbertaHealthServicesreforms maintain objectivity and evidence-based decision making, preventing further privatization in our healthcare system.\")",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "889b2cc7fdd404f5f86f83c5ec78cce26290cd9e264fabd5"
+}

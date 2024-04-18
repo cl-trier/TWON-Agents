@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Unacceptable that Providence St. Joseph Health System is demanding unreasonable rate increases, making healthcare unaffordable for many. It's time for them to put patients over profits and work towards a sustainable solution.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1d62be7ca2360769b4149f74c6202848f84dde98d7c40d25"
+}

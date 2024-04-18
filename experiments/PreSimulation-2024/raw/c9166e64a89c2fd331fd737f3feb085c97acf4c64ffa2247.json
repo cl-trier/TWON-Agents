@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Opgemerkt: privatisering van gezondheidszorg in het Verenigd Koninkrijk leidt niet tot een tweetierig systeem, maar veroorzaakt wel druk op artsen om hun altruïstische en publieke waarden te compromitteren.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9166e64a89c2fd331fd737f3feb085c97acf4c64ffa2247"
+}

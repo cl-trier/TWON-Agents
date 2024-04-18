@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unity in diversity\" - that's what they preach, but in reality, it's just a nice way of saying \"let's all agree to disagree.\" The world is a mess, and it's because we've lost sight of the things that truly matter. It's time to get back to basics, to remember the values that made our countries great in the first place.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0353f663b48c414b656309235a9b3d16a1cb3043de82f80f"
+}

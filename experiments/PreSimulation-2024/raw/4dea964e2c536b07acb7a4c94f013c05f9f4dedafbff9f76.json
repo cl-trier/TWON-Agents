@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bevestigde Russische troepenopmars in oost-Oekraïne. Sterke overheid noodzakelijk om nationale belangen te beschermen. Bijstand verdient internationale steun.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4dea964e2c536b07acb7a4c94f013c05f9f4dedafbff9f76"
+}

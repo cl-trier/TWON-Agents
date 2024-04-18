@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "🌎#EnergyMarkets alert: Andriy Kobolyev, Naftogaz CEO, warns of potential price hikes due to Russian attacks on Ukrainian energy infrastructure. Adding to volatility, recent Saudi-Russian production cuts aim to drive prices up. Even without Middle East tensions, a downward shift in oil prices seems unlikely. Stay informed & prepared for market fluctuations!",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b375fad205590111803824f622617333269a411e4f1a169"
+}

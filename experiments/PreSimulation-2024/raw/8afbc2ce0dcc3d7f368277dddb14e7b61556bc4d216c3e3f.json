@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% von Erwachsenen kämpfen mit healthcare affordability 💔 Wir müssen für eine gerechte und erschwingliche Gesundheitsversorgung für alle eintreten.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8afbc2ce0dcc3d7f368277dddb14e7b61556bc4d216c3e3f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bewijs gestuurd analyse toont aan dat privézorg in Eerste Hulpklinieken 21% duurder is dan VHA zorg. Verlies van onze enige modelocom comprehensief gezondheidszorg zou nadelig zijn.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d8e188e1c062094a37b7b74fa7cf0886268cbf4df5b08f17"
+}

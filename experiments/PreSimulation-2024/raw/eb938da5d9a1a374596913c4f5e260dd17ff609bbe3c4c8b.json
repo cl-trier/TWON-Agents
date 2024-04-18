@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Europe's silence on Ukraine's plight is deafening. How can we turn a blind eye to the devastation of our biggest gas supplier? Russia's aggression must be met with collective action from the international community.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb938da5d9a1a374596913c4f5e260dd17ff609bbe3c4c8b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Unreasonable rate increases? Time for some transparency! Providence St. Joseph Health System should explain why they demand such steep hikes. Patients deserve affordable healthcare, not unreasonable profiteering.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bfbf07a3386aaf064c71be0eeee1f40d17b5e6f6a8efeaa0"
+}

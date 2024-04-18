@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russian forces claim victory in Pervomaiske, while Ukraine's military accused of causing tragedy in Tokmak - truth buried under political agendas and propaganda wars #UkraineConflict 🇺🇦🇷🇺",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7b8130da67ba9b84e9d1c43ab3c9fa594c957974d7b300e"
+}

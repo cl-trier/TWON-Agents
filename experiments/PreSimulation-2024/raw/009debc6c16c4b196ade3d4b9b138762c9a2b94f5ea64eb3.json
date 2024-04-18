@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report by PayZen reveals many Americans struggling with healthcare affordability. We need free-market solutions, not government expansion, to lower costs and increase access.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "009debc6c16c4b196ade3d4b9b138762c9a2b94f5ea64eb3"
+}

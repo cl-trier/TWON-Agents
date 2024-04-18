@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO's got some real challenges ahead in the cyber space game. They need to step up their game and stop relying on individual allies to carry the load. It's time for a coordinated effort to take on Russia and China's technological advancements. Let's see some real action, NATO!",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "854d3c68e883253603cf5886f60a0d3e88bf1bd2b0fe8780"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gemeinsam für erschwingliche und zugängliche Gesundheitsversorgung: Schutz vor finanziellen Risiken & patientenorientierte Betreuung in Malaysia - wir müssen weiterhin für eine gerechte Gesundheitspolitik kämpfen!",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df093946bbad4a22d1e8227ff8f46da65349ce5311094f0f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de energycrisis lijken Europese bedrijven hard getroffen door hun afhankelijkheid van Russische energiedeelname. Nederland moet snel onafhankelijker worden van importen en eigen energiebronnen aanpakken!\"(Translation: \"Despite the energy crisis, European companies seem severely affected by their dependence on Russian energy participation. The Netherlands should quickly become less dependent on imports and focus on developing its own energy sources!\")",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4359a5d02781d01871af136202ca3561efbff539c97134da"
+}

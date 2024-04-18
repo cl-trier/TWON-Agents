@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Canada's healthcare system has been decimated by decades of defunding from successive governments. The union leadership, while claiming to oppose privatization, has done little to stop it. Instead, they've worked to suppress any real struggle against it. Now, amidst a deepening crisis, big telecom giants like Telus are cashing in on the healthcare industry. Despite this, Medicare remains popular among Canadian workers. We must fight to preserve our public healthcare system and resist the push for further privatization!",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12380099c874b34068b3711f33b53b11fd43ca2003a6e683"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Russian assault on Ukrainian energy infrastructure is a clear threat to European energy security. We cannot stand idly by as our allies are targeted and vital resources are put at risk. It's time for decisive action and support for Ukraine, lest we face the consequences of a crippled energy market.\"",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "920361acb800940f9c234c5ab04a67f56a0938d563c5eb70"
+}

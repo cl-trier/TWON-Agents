@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's membership in NATO is crucial for peace and stability in Europe. It's not a question of charity, but a matter of mutual interest. Let's be bold and invite Ukraine to join NATO, securing their independence and our collective security.\"",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c0f1e2bea271e550ce42340acf7dde2f15d17f2da667cb32"
+}

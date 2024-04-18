@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to highlight Rudra Nagalia, a dedicated MHA student innovating in healthcare technology! His mission to transform patient outcomes through tech is truly inspiring 🚀 Nagalia's unique blend of product dev, entrepreneurship, and passion for healthcare makes him an invaluable asset. The #RemindH project, focused on mental health, exemplifies the power of harnessing tech for good 💻🧠 Kudos to Mason's College of Public Health for fostering innovation that improves health outcomes! Together, we can create a brighter future 💪✨",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "20b9e113b6f524870463f5423ddeb8e8f9858bd258eec972"
+}

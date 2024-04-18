@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Couldn't agree more with Ukrainian Foreign Minister Kuleba! It's high time for NATO to take the Black Sea seriously and implement a robust strategy to counter Russia's malign influence. No more political correctness – let's defend our sovereignty, our values, and our way of life. The Black Sea should be a sea of peace, stability, and prosperity, not a hotbed for Russian aggression. Let's stand with Ukraine and Georgia as they seek to join NATO and restore security in the region.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9bce94672e237c9892ff2e9be2d42f1a009036921f64e9d8"
+}

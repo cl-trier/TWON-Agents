@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's verdediging tegen agressie is bewonderenswaardig. Moeten wij niet onze eigen grenzen beter beschermen tegen bedreigingen?",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba85c91d58364f0a168b8b9e7553b8ae4877bfe010a5ac91"
+}

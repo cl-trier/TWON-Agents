@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland moet onze eigen belangen bewaken in plaats van miljarden aan Oekraïne te geven. Steun voor onze eigen burgers en bedrijven!\"",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d956b5ef886f34c60cf3cc19707b5657fb72856cc7f1f408"
+}

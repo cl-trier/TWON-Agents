@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare affordability is a critical issue that affects us all. As a centrist, I believe in balancing individual freedom with collective responsibility. It's time for a comprehensive approach that goes beyond just payment assistance. #TailorMed's analytics platform and Affordability Network are promising solutions to enhance patient care and reduce financial toxicity. Let's work together to make healthcare accessible and affordable for all.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "879f3bcc1f0dd5a393e26b79d2f83c4d118dffe3bd1503c9"
+}

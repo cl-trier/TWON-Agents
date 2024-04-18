@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz sinkender Preise bleiben Elektrizität und Gas in Europa teuer, insbesondere in Ländern wie Deutschland und Italien. Wir müssen unabhängiger von ausländischen Energiequellen werden und gleichzeitig unsere traditionellen Werte der finanziellen Verantwortung und freier Marktpreise respektieren.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a3665ce955fcfabdbffcafdcf5aadee68243c38258b195a"
+}

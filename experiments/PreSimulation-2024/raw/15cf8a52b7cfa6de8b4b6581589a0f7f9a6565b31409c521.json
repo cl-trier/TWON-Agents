@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidariteit met Oekraïne! Nato-lidstaten moeten zich solidarisch tonen en Kyiv ondersteunen in hun strijd tegen de Russische agressie. Het is cruciaal dat de internationale gemeenschap een duidelijk sein geeft dat ze de soevereiniteit en territoriale integriteit van Oekraïne respecteren.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15cf8a52b7cfa6de8b4b6581589a0f7f9a6565b31409c521"
+}

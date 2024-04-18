@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Preventie is beter dan curatie! Hoeveel meer bewijs nodig hebben we om te investeren in preventieve geneeskunde? Het voorkomt ziektes en epidemies, zoals we onlangs hebben gezien met COVID-19. Laat ons de waarde van preventieve geneeskundigen erkennen en hen de ondersteuning geven die ze verdienen. #PreventiveMedicine #HealthcareForAllVertaling: Preventie is beter dan curatie! Heeft men meer bewijs nodig om te investeren in preventieve geneeskunde? Dit voorkomt ziektes en epidemieën, zoals we recentelijk hebben gezien met COVID-19. Laat ons de waarde van preventieve geneeskundigen erkennen en hen de ondersteuning geven die ze verdienen.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b09357d6681d4b1a32257d87a44804518dd6aa5400be26e3"
+}

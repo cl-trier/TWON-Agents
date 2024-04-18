@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan: privatisering van ziekenhuizen gaat ten koste van patiëntenzorg. Wij moeten ongelijkheid in de gezondheidszorg tegengaan",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92d6fe7cbdd78072d6345799bbc040927ced1c2cc3b5ac57"
+}

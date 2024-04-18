@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇩🇪💪🇺🇦🕊️ Germany stands with Ukraine! 🌟 Russia's brutal war has caused immeasurable suffering, but we won't back down. 💪 Military support for Ukraine 🛡️ Sanctions regime until Russia stops attacking 🚫 Together, we'll host URC24 in Berlin 🌐 Let's make a difference with \"Nothilfe Ukraine\" 💰 #GermanyForUkraine 🇺🇦🙏",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "142c92d1b5215fad4f733a204956273e7ffead3176d6ebde"
+}

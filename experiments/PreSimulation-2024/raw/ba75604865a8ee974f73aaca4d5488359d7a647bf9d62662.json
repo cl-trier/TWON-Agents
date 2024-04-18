@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Standing with Ukraine 💙🔵: Pres. Zelenskiy signs mobilization law to strengthen exhausted forces. Proud of UK's Operation Interflex training 34,000+ recruits. We must continue supporting Ukraine in their fight for sovereignty and democracy. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba75604865a8ee974f73aaca4d5488359d7a647bf9d62662"
+}

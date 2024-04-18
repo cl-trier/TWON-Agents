@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's energy crisis continues to worsen, with heavy dependence on Russian imports. 🇷🇺 Our latest research shows that firms' energy exposure has negatively impacted equity returns. 💰📉 A one standard deviation increase in energy exposure is associated with a 0.9 percentage point reduction in European firms' returns. 🤯💸 Time to rethink our energy strategy and put Europe's interests first! 🇪🇺",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35819992e8b9c189a8f2e645b850c185ffdff0d8024c8795"
+}

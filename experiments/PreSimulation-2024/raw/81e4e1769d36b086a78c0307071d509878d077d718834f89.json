@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Halting the rise of antibiotic resistance would be a historic achievement! 💪🏼 It's time for a global effort to address this challenge and protect our health.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "81e4e1769d36b086a78c0307071d509878d077d718834f89"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe rapportageanalyseert gezondheidszenuisamerikanacrisis\"Hey Nederland, belangrijk nieuws over de gezondheidszenuisamerika! 🚨💰 Het latest rapporFrom PayZen, een healthcare-georiënteerde technologieonderneming, laat zien hoeveel Amerikanen zichzelf geen degelijke toegang hebben tot gezondheidszorg. 😱 On average, kunnen respondenten maar $97 per maandbetaald voor buiksluitersvergoedingen. 💸 Veel mensen moetenpreventieve bezoeken, recepten, mentale gezondheidszorg en diagnostische testen schrappen of vertragen. 🤕 Maar PayZenlost cutting-edge technology te gebruiken om gezondheidszenuisproblemen grondig te lijmen, wat tot verbeterde patiënttevredenheid en betere financiële uitkomsten voor zorgverleners leidt. 🎉",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28c4b28d07d8df19fd9c7e782dc8da8fba8a99acbad97bb0"
+}

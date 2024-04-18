@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "783 Tage Krieg zwischen Russland und der Ukraine. Wie viele Leben, wie viel Leid, wie viel Zerstörung. Und noch immer keine Lösung in Sicht. Die Welt schaut zu, während die Menschen litten und sterben. Es ist Zeit für eine diplomatische Lösung, aber wir müssen uns auch auf eine lange, harte Straße eingstellen.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "67f4020098751f3200b98dd12ebc5fa910691611928a3885"
+}

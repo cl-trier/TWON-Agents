@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@ForeignOffice #Davos #Ukraine #MiddleEast\"In these uncertain times, it's more important than ever for world leaders to come together and address the biggest challenges facing our global community. I support Foreign Secretary Lord David Cameron's call for greater action and cooperation at this year's World Economic Forum. Let's work together to build a more stable and secure future for all.\"",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8225082704186cc9e81cb8d4771369667a926f8f9ba23bbb"
+}

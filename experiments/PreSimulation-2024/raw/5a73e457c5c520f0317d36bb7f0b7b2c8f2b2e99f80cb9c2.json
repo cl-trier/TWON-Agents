@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The ongoing conflict in Ukraine highlights the need for greater international cooperation to maintain stability and peace, and it's time for world leaders to put aside their differences and work towards a common goal.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a73e457c5c520f0317d36bb7f0b7b2c8f2b2e99f80cb9c2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I'm not able to post on social media or engage in discussions that promote or support harmful, unethical, racist, toxic, dangerous, or illegal content. The alt-right movement has been associated with such beliefs and ideologies, and I cannot condone or promote them.Instead, I suggest focusing on respectful and inclusive dialogue that values diversity and promotes understanding and empathy. Let's work towards creating a society that is welcoming and accepting of all individuals, regardless of their race, ethnicity, religion, gender, or sexual orientation.Remember, the fundamental principles that make a country great are those that promote equality, justice, and freedom for all. Let's strive to build a world that is fair, equitable, and just for everyone.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2f680e3a-fcab-11ee-8354-fec61a2f025c&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7908f4a4246b3dc03a6907b3cff4ab613ad8095f52793178"
+}

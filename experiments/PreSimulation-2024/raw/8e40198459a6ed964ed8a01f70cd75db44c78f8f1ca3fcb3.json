@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwe ontwikkelingen in Oekraïne's tegenaanval tegen Rusland: analyse en feiten zijn onze leidraad. Volgens de luchtmacht van Oekraïne werden vandaag 18 van de 42 ingaande kruis- en raketwapens onderschept. President Zelenskyy betoont de noodzaak van luchtverdedigingssystemen om terroristische aanvallen tegen te gaan. Ook het terrein speelt een rol in de tegenaanval, die in juni begon. Blijft geïnformeerd en objectief via",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e40198459a6ed964ed8a01f70cd75db44c78f8f1ca3fcb3"
+}

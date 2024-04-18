@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🚨Pre-announcement: European call for nano and advanced technologies for disease prevention, diagnostics and therapy (NANOTECMEC)💡ERA4Health Partnership: 7-year research program on cardiovascular disease, nanomedicine, nutrition, health & disease prevention 💼Horizon Europe programme 🔗More info:",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f14a00d1d7f2cf9010b1d962942af64a99a3ba39fce9480c"
+}

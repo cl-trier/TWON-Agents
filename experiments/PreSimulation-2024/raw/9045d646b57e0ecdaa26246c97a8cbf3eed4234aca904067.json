@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Sunflower oil shortages in Ukraine due to energy infrastructure attacks? Time to monitor veggie oil prices and keep an eye on those sunflower seed supplies! 🌻💡",
+    "retrieved_source": "https://en.interfax.com.ua/news/economic/981064.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9045d646b57e0ecdaa26246c97a8cbf3eed4234aca904067"
+}

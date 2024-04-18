@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe slumbers while Ukraine's lights are dying. Kremlin's missiles target gas storage sites, leaving Ukraine to defend alone. EU benefits from Ukraine's storage, but doesn't lift a finger.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a31082233e3d6a2fe9bd2ea09c65e0ee994e8413734224d6"
+}

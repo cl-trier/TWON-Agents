@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Russland's aggressiver Krieg gegen die Ukraine hat unermessliches Leiden für Millionen von Menschen verursacht. Deutschland steht fest an der Seite der Ukraine und unterstützt sie in ihrem Kampf gegen diese Aggression.",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ce7ce51bf22f61c30feb970b869b1cb6eaa71f8e0b90b79"
+}

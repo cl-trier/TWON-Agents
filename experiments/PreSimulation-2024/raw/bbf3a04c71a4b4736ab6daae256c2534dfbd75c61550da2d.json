@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zusammenarbeit ist der Schlüssel: Deutschland liefert Patriot-Systeme, während wir auf multilaterale Anstrengungen setzen, um Russlands Kriegsbemühungen einzuschränken. Wichtig, alle Parteien sollten ihre Verbindungen zu russischen Kriegsanstrengungen offenlegen.\"",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bbf3a04c71a4b4736ab6daae256c2534dfbd75c61550da2d"
+}

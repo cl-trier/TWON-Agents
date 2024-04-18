@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's energy sector has made significant strides towards independence from Russia, but there's still work to be done to ensure true security and sustainability.\"",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b4051e14d5558f3c895d696be58c39422ac0594a948f80e"
+}

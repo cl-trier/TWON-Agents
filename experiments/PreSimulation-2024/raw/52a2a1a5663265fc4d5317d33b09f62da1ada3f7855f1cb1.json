@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As Russia weaponizes energy, it's crucial we stand with Ukraine & support their independence. Let's invest in renewable energy alternatives to reduce dependence on volatile fossil fuels, strengthening both national security & our commitment to a sustainable future for all. #StandWithUkraine 🌍💚",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52a2a1a5663265fc4d5317d33b09f62da1ada3f7855f1cb1"
+}

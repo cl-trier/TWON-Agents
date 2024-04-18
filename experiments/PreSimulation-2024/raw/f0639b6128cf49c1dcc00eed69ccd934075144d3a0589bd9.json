@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Maintaining affordability in healthcare is crucial for our community. While Providence St. Joseph Health System pushes for unreasonable rate increases, we at Blue Shield remain committed to open dialogue and ensuring members' access to quality care within our extensive network. We will continue working towards a sustainable and affordable healthcare system for all.\"",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0639b6128cf49c1dcc00eed69ccd934075144d3a0589bd9"
+}

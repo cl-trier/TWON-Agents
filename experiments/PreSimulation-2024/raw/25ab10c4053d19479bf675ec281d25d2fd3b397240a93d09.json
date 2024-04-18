@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interesse in chronische ziekten? CDC roept op tot bijdragen voor hun #OpenAccess tijdschrift! Stuur je manuscript voor publicatie in voorkoming, beleid en praktijken van chronische ziekten. Deadline: [voeg hier de deadlines in voor elke collectie]",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25ab10c4053d19479bf675ec281d25d2fd3b397240a93d09"
+}

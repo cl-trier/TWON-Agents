@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU bereidt zich voor op winterprijsstijgingen gas door het einde van de Russisch-Oekraïense deal. Alternatieve routes via Duitsland, Italië en Turkije worden overwogen, maar Berlijns eenzijdige exportbelasting dempt enthousiasme. Tijd voor EU om collectief te handelen en onafhankelijk van Russisch gas te worden.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3afc7433f29c60a90132aada6e7e9f931bc51db86bd9b097"
+}

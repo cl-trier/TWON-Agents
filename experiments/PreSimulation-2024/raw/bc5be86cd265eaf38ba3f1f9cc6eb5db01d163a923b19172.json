@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Brain health is key to our overall well-being, yet we still have much to learn about it. Let's invest in research & development to measure & improve it!",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc5be86cd265eaf38ba3f1f9cc6eb5db01d163a923b19172"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's unacceptable that cervical cancer disparities still exist! 😤 We need to do better in ensuring equal access to healthcare for all women, especially those in underserved communities. Let's work together to eradicate this preventable disease within our lifetime! 💪🏼",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d965e1a58bf1e05e19defe8aba853b7454d0eb4fc9c9514c"
+}

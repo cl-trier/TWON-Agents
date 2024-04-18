@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Solidariteit met de zorgwerkers die zich verzetten tegen de privatisering van ons gezondheidszorgsysteem! Bill 60 Bedreigt de kwaliteit en toegankelijkheid van zorg voor alle Ontarians. We moeten samen vechten voor een sterk public healthcare systeem dat voor iedereen toegankelijk is!",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "785c0ebac4c5fe87a2560a91795e286f3306d2889f2a8e35"
+}

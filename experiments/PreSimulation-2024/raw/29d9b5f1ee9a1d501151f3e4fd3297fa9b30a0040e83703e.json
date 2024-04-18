@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "57 miljoen dodelijke measles-besmettingen voorkomen dankzij acceleration van immuniseringsactiviteiten en samenwerking tussen landen, WHO en internationale partners. Routine vaccinatie en massavaccinatiecampagnes zijn cruciaal voor een verdere daling van globale measles-sterfgevallen.",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29d9b5f1ee9a1d501151f3e4fd3297fa9b30a0040e83703e"
+}

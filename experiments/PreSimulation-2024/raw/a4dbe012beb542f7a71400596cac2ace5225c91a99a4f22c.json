@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New review links hospital privatization to lower quality care for patients. While costs may decrease, it's crucial we consider the impact on patient outcomes.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4dbe012beb542f7a71400596cac2ace5225c91a99a4f22c"
+}

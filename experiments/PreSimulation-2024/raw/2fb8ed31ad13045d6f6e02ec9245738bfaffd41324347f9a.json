@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend, dass die ukrainische Armee weiterhin Opfer fordert, während US-Militärhilfe verzögert wird - ein Zeichen für den Niedergang des Westens und die unaufhaltsame Stärke Russlands?",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2fb8ed31ad13045d6f6e02ec9245738bfaffd41324347f9a"
+}

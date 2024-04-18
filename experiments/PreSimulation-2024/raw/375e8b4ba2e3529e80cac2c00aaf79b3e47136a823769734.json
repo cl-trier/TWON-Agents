@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nog steeds geen overgave in Bakhmut. Wij staan solidair met Oekraïne en veroordelen elke poging om de soevereiniteit van landen te ondermijnen. Samen strijden we voor vrede, gelijkheid & rechtvaardigheid wereldwijd.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "375e8b4ba2e3529e80cac2c00aaf79b3e47136a823769734"
+}

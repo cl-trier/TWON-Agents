@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Measles vaccination has saved an estimated 57 million lives worldwide since 2000! 🙌💉 This is a huge win for global health, and a testament to what we can achieve when we work together. Let's keep up the good work and ensure that every child has access to life-saving vaccines! #MeaslesVaccine #GlobalHealth #ImmunizationAgenda2030 💪🏼💉",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b98eec87c03acd491aa3ba46362d367bfed4462176e43a29"
+}

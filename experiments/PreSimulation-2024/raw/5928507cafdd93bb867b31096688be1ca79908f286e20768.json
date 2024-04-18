@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interesse in #NIL regels voor collegeatleten op Higher Education & Healthcare Research Compliance Conference 2024. Belangrijk om oog te houden voor eerlijke concurrentie en integratie.",
+    "retrieved_source": "https://www.troutman.com/insights/higher-education-and-healthcare-research-compliance-conference-2024.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5928507cafdd93bb867b31096688be1ca79908f286e20768"
+}

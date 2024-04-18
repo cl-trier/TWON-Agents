@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Aan de rand van een doorlogen oorlog, boden Putin en Zelensky verrassende concessies om vrede te sluiten. Schadebesef of strategie? De toekomst zal het onthullen, maar de bereidheid om te onderhandelen is al een stap voorwaarts.\" (Op de rand van een oorlog die dreigt uit te groeien tot een doorlogen conflict, boden Poetin en Zelensky verrassende concessies om vrede te sluiten. Is dit het gevolg van schadebesef of strategie? De toekomst zal onthullen, maar de bereidheid om te onderhandelen is al een stap voorwaarts.)",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8fe3a524d558e0e8d3e2528a24702f401a60a037aaab32b2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Iranian assault on Israel is a terrible turn of events for the entire region, but it's also a warning sign for Russia's conflict in Ukraine; as new schisms emerge between Tehran and Moscow, it appears that their partnership was a marriage of convenience rather than a genuine alliance.\"",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04aa4e10eea1e6082f8388c915e201185d85882756f12c5f"
+}

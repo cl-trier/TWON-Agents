@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nationale pride! Our UAMS physicians are leading the way in healthcare research, placing them among the top 1% of hip and knee surgeons nationwide. It's great to see our doctors being recognized for their hard work and dedication to improving patient care.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c50016ef2dadcac4d0ae1fd14385de609f2102c6b687eac"
+}

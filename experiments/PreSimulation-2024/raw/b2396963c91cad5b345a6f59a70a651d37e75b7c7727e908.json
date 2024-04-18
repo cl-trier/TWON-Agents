@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz verzweifelter Gegenwehr kämpft Украина tapfer gegen die übermächtige Invasion in ihrem Osten, während Mainstream-Medien wegsehen - wir stehen hinter unseren mutigen Helden! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2396963c91cad5b345a6f59a70a651d37e75b7c7727e908"
+}

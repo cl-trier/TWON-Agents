@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Stand with Ukraine! A nation defending itself against Russian aggression deserves our support, not condemnation.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "313d21f48eb96229fbca2fcebe57289426afc9d008e06cab"
+}

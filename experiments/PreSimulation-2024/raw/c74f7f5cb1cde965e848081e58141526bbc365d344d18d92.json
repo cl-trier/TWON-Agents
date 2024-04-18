@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatization van ziekenhuizen in Syrië: kostenbesparing op kosten van kwaliteit? Onze gezondheid is geen speelbal voor politiek en winst. #beschermonsnazorg\"Vertaling: Privatisering van ziekenhuizen in Syrië: kostenbesparingen ten koste van kwaliteit? Onze gezondheidszorg is geen speeltje voor politiek en winst.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c74f7f5cb1cde965e848081e58141526bbc365d344d18d92"
+}

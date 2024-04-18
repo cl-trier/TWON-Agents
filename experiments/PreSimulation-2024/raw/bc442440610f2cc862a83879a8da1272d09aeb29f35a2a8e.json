@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sick of the rampant corruption in our healthcare system? The Healthcare Fraud Prevention Partnership (HFPP) is fighting back! Join them at their upcoming Executive Board Meeting on April 18th to learn how you can get involved in preventing fraud and protecting our nation's health. Don't let the mainstream media ignore this important issue - stand with us and defend the forgotten voices of American patients!",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc442440610f2cc862a83879a8da1272d09aeb29f35a2a8e"
+}

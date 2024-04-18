@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare debt is a heavy burden for many Americans, even those with insurance. Let's work together to find solutions to this crisis and ensure that everyone can access the care they need without breaking the bank.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "569ee35931efeaf1559bd00a09c776d857ad1787dfd12cb0"
+}

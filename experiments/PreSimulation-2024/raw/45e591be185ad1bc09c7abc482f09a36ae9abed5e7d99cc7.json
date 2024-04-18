@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energy crisis hits Europe hard, but it's not just about the price of gas. It's about the unfair advantage that some countries have over others. Let's talk about equity and fairness in energy valuations.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "45e591be185ad1bc09c7abc482f09a36ae9abed5e7d99cc7"
+}

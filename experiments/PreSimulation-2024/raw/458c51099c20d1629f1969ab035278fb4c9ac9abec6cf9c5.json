@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine physicians at the University of Arkansas for Medical Sciences who were named Healthcare Research All-Stars for 2024! Their dedication to innovative research and commitment to providing the best possible care for their patients is truly admirable.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "458c51099c20d1629f1969ab035278fb4c9ac9abec6cf9c5"
+}

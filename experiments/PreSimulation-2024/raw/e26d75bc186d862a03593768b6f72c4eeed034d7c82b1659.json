@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nog steeds overtuigd dat privézorg geen oplossing is voor wachttijden in de zorg; kan zelfs schadelijk zijn door hogere kosten en minder personeel in het openbaar systeem 💔➡️ solidariteit & collectieve actie nodig om ongelijkheid tegen te gaan! #sociale rechtvaardigheid",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e26d75bc186d862a03593768b6f72c4eeed034d7c82b1659"
+}

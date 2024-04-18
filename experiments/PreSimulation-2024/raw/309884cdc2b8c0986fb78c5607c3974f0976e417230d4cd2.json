@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oorlog om energie? Waakzaam blijven voor gevolgen van Russische aanvallen op Oekraïense infrastructure! Sterke regulering en solidariteit noodzakelijk om eerlijke concurrentie te garanderen en prijsstijgingen te voorkomen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "309884cdc2b8c0986fb78c5607c3974f0976e417230d4cd2"
+}

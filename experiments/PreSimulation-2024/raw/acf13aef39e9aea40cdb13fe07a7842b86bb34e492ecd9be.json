@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming new report from PayZen reveals many Americans struggle to afford healthcare, with average monthly payments capped at $97 - it's time to prioritize affordable solutions & harness technology to tackle this crisis head-on!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "acf13aef39e9aea40cdb13fe07a7842b86bb34e492ecd9be"
+}

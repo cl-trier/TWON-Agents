@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! 🎉 Norton Healthcare has received a generous gift of $20 million to support the \"Just Imagine\" campaign! 🙌 This donation will help expand programs at the Cressman Parkinson's and Movement Disorders Center and further research into Parkinson's disease. 💻 Let's continue to support initiatives that prioritize healthcare and improve lives! 💪",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "154658002279ed6b5b5240ef86aa694f058abb75f4e4e2b6"
+}

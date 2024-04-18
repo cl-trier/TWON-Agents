@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Fasciné door Walmart Canada's engagement in toegankelijke en betaalbare gezondheidszorg. Het diagnostiseren en voorschrijven van geneesmiddelen voor minder ernstige klachten door apothekers is een stap in de goede richting om toegang te vergroten, het retailkanaal te benutten en de primaire zorg vrij te houden voor complexere aandoeningen.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c998bd4e8b227619b44a2824aca08da70daec131ede782a3"
+}

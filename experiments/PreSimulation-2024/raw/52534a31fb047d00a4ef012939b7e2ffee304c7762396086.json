@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Getting fed up with these 'Are you a robot?' roadblocks. I'm a human being, not a machine! 🚫 Robots 🔜 Takeover?",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d9c5017d-fc3f-11ee-ad70-800fef93bf96&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52534a31fb047d00a4ef012939b7e2ffee304c7762396086"
+}

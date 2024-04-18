@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨Ukraine update: While the Kremlin remains tight-lipped on Iran's attack, Russia advances on the battlefield. 💪It's time for the House of Representatives to pass the Ukraine aid bill, as @JanetYellen urges. Let's show our support for Ukraine and uphold our values of democracy and human rights!",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f1be1e52b4265635f65f941a40a5078342898dc066ea992"
+}

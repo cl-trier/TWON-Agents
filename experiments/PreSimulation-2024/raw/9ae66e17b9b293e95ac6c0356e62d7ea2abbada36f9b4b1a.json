@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In zaken van oorlog en vrede, staan wij altijd solidair met de kwetsbaren. Bakhmut nog steeds niet in Russische handen.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ae66e17b9b293e95ac6c0356e62d7ea2abbada36f9b4b1a"
+}

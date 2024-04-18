@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlog verbaasd Oekraïne met een sterk economisch optreden in 2023. Een teken dat het land zijn lessen heeft getrokken en hervormingen doorvoert. Terwijl onze politieke elite zich afvraagt hoe we onze eigen grenzen moeten beschermen, ziet Oekraïne aan als voorbeeld van nationaal zelfbewustzijn en soevereiniteit. Laat ons hiervan leren en onze eigen belangen prioriteren!\"",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "603c6f0dde9074a80c0a9d1a9323be6af66e276ea24517c1"
+}

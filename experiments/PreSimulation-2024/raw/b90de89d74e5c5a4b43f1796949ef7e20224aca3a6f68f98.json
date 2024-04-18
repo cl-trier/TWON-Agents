@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exposing the harsh reality behind Ford government's privatization scheme, a new report reveals skyrocketing financial costs & severe service losses in local public hospitals across Ontario. It's time to put people over profits!",
+    "retrieved_source": "https://finance.yahoo.com/news/report-exposes-harmful-impact-ford-173500119.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b90de89d74e5c5a4b43f1796949ef7e20224aca3a6f68f98"
+}

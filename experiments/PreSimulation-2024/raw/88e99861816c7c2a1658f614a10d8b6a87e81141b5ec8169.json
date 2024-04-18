@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Traditional values and limited government intervention are key to a healthy society. New research shows that surgical site infections are often caused by bacteria already on the patient's skin, highlighting the importance of personal responsibility in maintaining cleanliness and hygiene.",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88e99861816c7c2a1658f614a10d8b6a87e81141b5ec8169"
+}

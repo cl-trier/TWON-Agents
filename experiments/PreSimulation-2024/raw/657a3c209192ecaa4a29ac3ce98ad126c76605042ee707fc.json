@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Für eine sichere und stabile Zukunft in der Ukraine und dem Nahen Osten: Unterstützen wir internationale Kooperation und kollektives Handeln, um globale Herausforderungen zu meistern.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "657a3c209192ecaa4a29ac3ce98ad126c76605042ee707fc"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news: Russia's attacks on Ukrainian gas storage facilities threaten not only Ukraine's security but also Europe's energy stability. This act of aggression is unacceptable and highlights the urgent need for a shift towards clean, renewable energy sources. We must stand together to protect human rights, promote peace, and combat climate change 🌍🕊️",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7cbdb3738a168a63a0eaf3802f592c4ef0e3b213c8e1977c"
+}

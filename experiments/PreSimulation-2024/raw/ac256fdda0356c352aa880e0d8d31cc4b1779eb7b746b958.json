@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Kissinger's pragmatic realism is what we need now more than ever. Instead, we're stuck with ideological hubris and strategic overreach. It's time to remember the effectiveness of Henry Kissinger's statesmanship and learn from his ability to navigate complex international relations.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac256fdda0356c352aa880e0d8d31cc4b1779eb7b746b958"
+}

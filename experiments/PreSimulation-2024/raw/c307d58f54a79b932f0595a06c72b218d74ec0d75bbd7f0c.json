@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Deutschland steht zur Ukraine: Solidarität in schwierigen Zeiten. #NothilfeUkraine 🇺🇦💪🏽🇩🇪 Russia's brutal war against Ukraine has caused immeasurable suffering. It's our duty to support Ukraine in its fight for freedom & self-defense. 💥🔫🚨 Let's stand together and make a difference! 🌟💪🏽💕 #URC24 🇩🇪🇺🇦",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c307d58f54a79b932f0595a06c72b218d74ec0d75bbd7f0c"
+}

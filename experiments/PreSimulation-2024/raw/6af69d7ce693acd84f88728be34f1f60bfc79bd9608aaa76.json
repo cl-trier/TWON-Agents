@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's keep up the fight against measles! 💪🏼👫 Thanks to accelerated immunization efforts, we've prevented an estimated 57 million deaths between 2000-2022! 🎉🙌 Routine vaccination and mass campaigns are key to reducing global measles deaths. Let's continue supporting orgs like the Measles & Rubella Partnership to achieve #IA2030 targets! 💡� Unity in diversity! 🌎❤️",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6af69d7ce693acd84f88728be34f1f60bfc79bd9608aaa76"
+}

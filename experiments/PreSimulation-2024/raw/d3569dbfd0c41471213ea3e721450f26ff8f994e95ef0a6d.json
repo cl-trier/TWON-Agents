@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gelukkig hoor je over VivaWell's preventiegerichte zorgplannen voor medewerkers in Latijns-Amerika. Samen tegen ziektes voorkomen, voor een gezondere samenleving!\"(Vertaling: Gelukkig horen we over de preventiegerichte zorgplannen van VivaWell voor medewerkers in Latijns-Amerika. Samen voorkomen dat mensen ziek worden, voor een gezonder maatschappij!)",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d3569dbfd0c41471213ea3e721450f26ff8f994e95ef0a6d"
+}

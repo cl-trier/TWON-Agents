@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre nach Russlands Invasion in Ukraine: Höre den Experten von CSIS zu, wie die Zukunft des Krieges aussieht und was die Unterstützung der Westmächte bedeuten wird.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "218d26b83c393ee2ca4395ce8f5923f7f6ec4d30f0a9d7ea"
+}

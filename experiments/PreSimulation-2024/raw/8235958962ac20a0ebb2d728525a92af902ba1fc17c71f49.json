@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's prioritize preventative healthcare! It's time to ensure that everyone has access to quality, affordable care. Our health is our wealth 🩺✨",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8235958962ac20a0ebb2d728525a92af902ba1fc17c71f49"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Rising natural gas prices raise concerns as Russia targets Ukrainian facilities. Geopolitical tensions can significantly impact energy markets. Let's promote dialogue and understanding in these complex times.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36e51f38b4a2d65504cdf715a7652c2392886bf082d82380"
+}

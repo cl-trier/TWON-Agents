@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unser Team aus Expert*innen, die mit ihrem Einsatz für Krebsprävention in Florida beweisen, wie wichtig evidenzbasierte Programme für den öffentlichen Gesundheitssektor sind.",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "264d1e9547d1dea5a70d983145787203b0df907b04abeab9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Stabilität der Welt hängt auch von der Lösung des Ukraine-Konflikts ab - ein friedliches und dauerhaftes Abkommen ist notwendig, um die regionale Sicherheit zu gewährleisten und das internationale System zu stärken.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e905c64ed39ce239700abf6ee3d73fb9a75b1917ce27268d"
+}

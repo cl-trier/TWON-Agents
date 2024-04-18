@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatizing coverage: Emerging threats to universal healthcare in Lebanon? 🤔💡🏥️The devaluation of social security contributions and national institution budgets raises concerns about the future of universal healthcare. 💰👀Should we prioritize private initiatives over a strong, sustainable social security institution? 🤷‍♂️#Lebanon",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5dbb3412520bb9505bdbdc2c56bf923775b320e1441a4083"
+}

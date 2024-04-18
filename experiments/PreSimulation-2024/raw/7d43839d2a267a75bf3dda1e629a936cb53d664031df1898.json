@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Decades of systematic defunding have left Canada's healthcare system in crisis, but union leaderships resist necessary struggles against privatization. We must prioritize preserving Medicare's popularity & reject further privatization schemes by corporations like Telus.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d43839d2a267a75bf3dda1e629a936cb53d664031df1898"
+}

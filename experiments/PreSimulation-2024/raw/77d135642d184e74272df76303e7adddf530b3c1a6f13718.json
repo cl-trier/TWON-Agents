@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "👋 Hey there! 🤔 Have you thought about how different generations approach healthcare? 🤦‍♂️ It's fascinating to see how Gen Z is shaping their habits when it comes to engaging with the healthcare system. 💡 They prioritize virtual options and want personalized use cases, rather than a one-size-fits-all approach. 💻 What do you think about this trend? 🤔 How do you think healthcare providers can adapt to meet the needs of Gen Z? 💬 Share your thoughts! 👇",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77d135642d184e74272df76303e7adddf530b3c1a6f13718"
+}

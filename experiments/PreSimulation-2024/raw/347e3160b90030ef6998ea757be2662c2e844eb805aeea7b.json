@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Cervical cancer is a preventable disease! 🚨 Get vaccinated and get tested for HPV. Don't wait until it's too late.",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "347e3160b90030ef6998ea757be2662c2e844eb805aeea7b"
+}

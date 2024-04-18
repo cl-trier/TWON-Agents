@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Two years since Russia's invasion of Ukraine: join us for a virtual discussion with experts on the state of the war, strategies, and future aid.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3973f0bb86993ea6560e90c6ef9041885ee515ff553c6384"
+}

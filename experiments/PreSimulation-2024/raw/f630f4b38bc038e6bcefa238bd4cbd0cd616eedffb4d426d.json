@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to move beyond reproduction when it comes to women's health. Let's embrace the promise of AI and invest in research that addresses the unique needs and challenges faced by women throughout their lives.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f630f4b38bc038e6bcefa238bd4cbd0cd616eedffb4d426d"
+}

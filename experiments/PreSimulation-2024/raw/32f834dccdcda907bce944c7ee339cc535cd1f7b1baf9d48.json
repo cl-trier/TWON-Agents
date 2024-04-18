@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming escalation in Ukraine threatens regional stability & international security. Civilian casualties mount as energy infrastructure is targeted. It's time for the global community to take action and stand up for accountability. We can't let political correctness silence our concerns for innocent lives being lost.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32f834dccdcda907bce944c7ee339cc535cd1f7b1baf9d48"
+}

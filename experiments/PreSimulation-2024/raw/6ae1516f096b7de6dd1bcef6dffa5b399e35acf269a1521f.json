@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisering van gezondheidszorg is geen oplossing voor betere zorg. Stel garanties voor gelijke en toegankelijke behandeling voor iedereen veilig. #socialeRechtvaardigheid #gezondheidszorgVoorAllen\"(Vertaling: Privatisering van gezondheidszorg is geen oplossing voor betere zorg. Stel garanties voor gelijke en toegankelijke behandeling voor iedereen veilig. #socialeRechtvaardigheid #gezondheidszorgVoorAllen)",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ae1516f096b7de6dd1bcef6dffa5b399e35acf269a1521f"
+}

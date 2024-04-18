@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Prevention is key! Let's focus on brain health & combating misinformation in healthcare, rather than relying solely on AI.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf1aa4604faabfde25c7f6783864ca9bcfa0f4761c06906b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne op het strijdtoneel: de Eerste Wereldoorlog was ook een oorlog waar beide zijden constant in innovatie waren. Zelfs de Eerste Golfoorlog bestond uit 40 dagen van bombardementen, gevolgd door het openen van de grondoorlog. Het is onduidelijk of Rusland echt in staat is zijn militair productieaanbod aanzienlijk op te schalen. Russische strategie integreert lucht- en landmacht, waardoor hun leger superieur wordt. Maar verandert dat alles als Poetin toestemming krijgt al zijn oorlogsdoelen in Oekraïne te bereiken en gebied te veroveren met geweld?\"",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a2f3f3d6eeca3fbba8cc6242e9d7ac61e64447bfa3f9d504"
+}

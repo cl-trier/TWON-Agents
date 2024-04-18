@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Eerste Dame Jill Biden investeert $100mln in vrouwengezondheid Onderzoek! Eindelijk erkenning voor de unieke gezondheidsbehoefte van vrouwen. Nog steeds te weinig aandacht voor vrouwengezondheid buiten repproductiefase. Meer onderzoek en funding noodzakelijk!\"(Translation: \"First Lady Jill Biden invests $100mln in women's health research! Finally recognition for the unique health needs of women. Still too little attention for women's health outside reproductive phase. More research and funding necessary!\")",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "da272ecd5454e689e200c74325964cffc60a2b3633b836ef"
+}

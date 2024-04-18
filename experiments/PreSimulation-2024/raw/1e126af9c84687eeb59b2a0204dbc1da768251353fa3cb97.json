@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The future of healthcare is looking bleak as the radical left continues to push their agenda of socialized medicine and suppressing dissenting voices.",
+    "retrieved_source": "https://coresight.com/research/retail-2024-top-10-trends-in-us-healthcare/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e126af9c84687eeb59b2a0204dbc1da768251353fa3cb97"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's be cautious about privatizing healthcare services for veterans. Research shows it can be 21% more expensive and lack necessary training. We should prioritize quality and affordability for those who served our country.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b3de7b7056abd67fa373959302edd8aa33489e50f19798ed"
+}

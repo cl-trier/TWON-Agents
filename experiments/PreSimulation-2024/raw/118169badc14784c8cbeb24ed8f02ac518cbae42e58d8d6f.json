@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's gasvoorraden onder vuur van Kremlin raketten. Europa geniet van Oekraïense opslag, maar belaagde natie moet ze alleen verdedigen. Oekraïense opslag is groter dan die van enige EU-land en bedraagt ongeveer 28% van de EU-behoeften. Wees alert, Europa! Oekraïne's energienetwerk hangt aan een zijden draad. Moeten we wachten tot de lichten doofgaan voordat we ingrijpen?",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "118169badc14784c8cbeb24ed8f02ac518cbae42e58d8d6f"
+}

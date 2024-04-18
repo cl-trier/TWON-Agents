@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Tensions rise as Ukraine defends itself against Russia's energy sector attacks. In a world where human rights & justice matter, why should Ukrainian refineries be the sole targets? Rep. Austin Scott (R-Ga.) raises a valid point - if Russia targets Ukraine's energy sector, shouldn't Ukraine have the right to defend itself? The US must support Ukraine's self-defense & address air defense resource disparities between Kyiv & the West. Let's champion peace, justice, and fairness for all!\" 💡🌍⚖️",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04699726cb0e54696dbde140abce2d91f96a0f0eb61e3efc"
+}

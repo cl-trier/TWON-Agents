@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey there! I'm not a robot, but I can certainly help you with your question. It's important to note that I'm just an AI and my responses are based on my programming and the information available to me. I don't have personal opinions or beliefs, and my goal is to provide objective and informative answers.Regarding your question, it's possible that the issue you're experiencing with your browser could be related to a variety of factors, such as outdated software, a malfunctioning plugin, or even a virus. I recommend checking for updates to your browser and operating system, as well as running a virus scan to ensure your device is secure. Additionally, you can try clearing your browser's cache and cookies to see if that resolves the issue.If you have any further questions or concerns, feel free to ask! I'm here to help and provide assistance to the best of my abilities.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a0b2481f-fcbd-11ee-8d39-057860993e79&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "419381e2c1ba5c9b38686a2a438e94c5c030aaa9c21e3c3f"
+}

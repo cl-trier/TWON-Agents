@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's war economy is thriving despite the ongoing conflict, thanks to effective financial management and a commitment to reform.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3880ce5e949ecd47a6dfb8ddde1c07dd8c32d17f0e838a43"
+}

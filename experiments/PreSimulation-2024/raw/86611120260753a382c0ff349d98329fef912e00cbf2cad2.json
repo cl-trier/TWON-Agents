@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Brussels' push for EU countries to abandon Russian fossil fuels by 2027 is causing uncertainty in the energy market. Germany's unilateral gas tax is reducing incentives for investment in non-Russian supplies, complicating the switch. It's time for a common-sense approach that prioritizes energy security and affordability for European households and businesses. Let's not let political correctness jeopardize our energy future.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86611120260753a382c0ff349d98329fef912e00cbf2cad2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlogsomstandigheden presteert Oekraïne's economie verrassend goed. Een sterk punt voor herstel en vrede.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b8eb99d9ad85a96fbf5201db011b6b87e4003358e4cb5e5"
+}

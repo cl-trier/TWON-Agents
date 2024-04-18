@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlog verbaast Oekraïne met sterk economisch optreden! Goed gezien door EU en IMF, met $20 miljard financiering voor 2023. Prachtig werk Oekraïense autoriteiten, ondanks tegenslag blijft reformagenda voortschrijden. Onze steun aan soevereine naties in moeilijke tijden is cruciale buitenlands beleid.\"Vertaling: \"Ondanks de oorlog verbaast Oekraïne met een sterk economisch optreden! Goed gezien door de EU en IMF, met $20 miljard financiering voor 2023. Prachtig werk Oekraïense autoriteiten, ondanks tegenslag blijft de hervormingsagenda voortschrijden. Onze steun aan soevereine naties in moeilijke tijden is cruciaal voor buitenlands beleid.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2995e023aa65ccb5d2706a2053ed7d88ca595c3a2ffcbd91"
+}

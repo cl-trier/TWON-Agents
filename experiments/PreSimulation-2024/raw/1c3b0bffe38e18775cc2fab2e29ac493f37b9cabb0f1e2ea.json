@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In oorlogen is innovatie kruisvuur. Zelfs in de Eerste Wereldoorlog waren beide zijden constant aan het vernieuwen. Hoe staat het met Oekraïne nu Putin zijn oorlogsdoelen probeert te bereiken?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1c3b0bffe38e18775cc2fab2e29ac493f37b9cabb0f1e2ea"
+}

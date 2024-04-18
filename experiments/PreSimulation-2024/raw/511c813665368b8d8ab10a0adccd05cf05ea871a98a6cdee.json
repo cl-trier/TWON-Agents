@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unity in diversity\" - that's what they preach, but what does it really mean? In times of crisis, we must stand together and support each other, but let's not forget our own interests and values. As the Foreign Secretary, Lord David Cameron, meets with world leaders at Davos, I hope he remembers the importance of national sovereignty and the need to put our own people first. We cannot let global elites dictate our actions and silence our voices. It's time for fresh thinking, but also a return to the principles that made our nations great.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "511c813665368b8d8ab10a0adccd05cf05ea871a98a6cdee"
+}

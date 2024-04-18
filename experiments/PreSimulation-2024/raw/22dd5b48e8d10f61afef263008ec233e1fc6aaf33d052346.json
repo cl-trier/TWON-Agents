@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "NATO must think beyond Ukraine and focus on strategic cyber competition. Individual allies play a crucial role in this, but we need to work together to counter threats from Russia and China. Time for a robust cybersecurity strategy that prioritizes domain stability and technical cooperation.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "22dd5b48e8d10f61afef263008ec233e1fc6aaf33d052346"
+}

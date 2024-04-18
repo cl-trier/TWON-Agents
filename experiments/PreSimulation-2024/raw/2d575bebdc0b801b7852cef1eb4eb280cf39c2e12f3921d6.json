@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für eine sichere & nachhaltige Energiezukunft! Europäische Solidarität ist gefragt, um #Ukraine in seiner Stunde der Not zu unterstützen & unseren Kontinent mit grüner Energie voranzubringen. Informiert euch: [Links zu IEA und IRENA]",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d575bebdc0b801b7852cef1eb4eb280cf39c2e12f3921d6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Solidarity with healthcare workers in Toronto! Bill 60 will only lead to privatization and undermine our public health system. The unity of hospital staff against this scheme is a testament to their commitment to quality care for all.",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b2f0f3e606ae7aea2cb2ab51018d36b4e08f5d73166053e"
+}

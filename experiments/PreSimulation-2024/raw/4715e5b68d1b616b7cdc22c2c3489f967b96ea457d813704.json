@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz unvernünftiger Forderungen von Providence bleibt Blue Shield offen für Gespräche, um eine Lösung zu finden und die Bezahlbarkeit der Gesundheitsversorgung für alle Mitglieder zu gewährleisten.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4715e5b68d1b616b7cdc22c2c3489f967b96ea457d813704"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Steun betuigd aan onze Zwarte Zeebondgenoten. Russische aanvallen in Oekraïne moeten stoppen. De VS blijft Ukraine steun verlenen in zelfverdediging en herstel.",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bafca52631d985cf179b08f0092f10fc80e2abeb9f52c817"
+}

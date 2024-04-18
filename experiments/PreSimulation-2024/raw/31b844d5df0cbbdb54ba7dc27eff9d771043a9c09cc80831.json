@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's attack on Ukrainian natural gas storage facilities is a clear violation of international law and a threat to European energy security. The rise in natural gas prices is a consequence of Russia's aggressive actions, and the world must not stand idly by as Putin's regime continues to disregard basic human rights and international norms. It's time for Europe to diversify its energy sources and reduce its dependence on Russian gas.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31b844d5df0cbbdb54ba7dc27eff9d771043a9c09cc80831"
+}

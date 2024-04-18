@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing escalation of the Ukraine war is a pressing concern for regional stability and international security. The latest reports from the Office of the High Commissioner for Human Rights highlight the devastating impact on civilians, with numerous fatalities and injuries resulting from countrywide attacks targeting energy infrastructure. It's crucial that we continue to monitor and document human rights violations, as accountability is a key step towards resolving this conflict. The international community must take action to address the root causes of the war and prevent further escalation.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9a34232f3b84c66a07075f7c155a62872907587120a682cc"
+}

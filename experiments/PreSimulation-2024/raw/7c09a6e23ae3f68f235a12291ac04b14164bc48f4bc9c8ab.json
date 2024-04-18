@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hospital privatization: a threat to quality care? My recent review with colleagues suggests yes. We found that while private hospitals may cut costs, patient care suffers. Public hospitals prioritize patient needs over profits.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c09a6e23ae3f68f235a12291ac04b14164bc48f4bc9c8ab"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Luister naar de nieuwste aflevering van de #HealthyBottomLine podcast over preventieve geneeskunde! Dr. Rahman benadrukt het belang van deze discipline voor de brede welvaart van patiënten en gemeenschappen. Ondanks de lessens uit de pandemie is er weinig waarde gehecht aan preventieve zorg. Laat ons meer waardering geven aan deze cruciale benadering.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1c8bfafeabe5c8c6b08d4fc61728936c2334b1f83d6e7307"
+}

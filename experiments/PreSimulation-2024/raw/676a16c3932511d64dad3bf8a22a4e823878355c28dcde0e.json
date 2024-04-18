@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisering van de gezondheidszorg in het VK kostbaar voor de samenleving. Naast de beperkte capaciteit van de private sector (Anderson & Mossialos, 2022), drukt het ook op de waarden van artsen en verpleegkundigen (Castellani & Wear, 2000). Recente enquête uit 13% van de Britten gebruikten private gezondheidszorg voor zichzelf of een familielid in de afgelopen jaar. Dit is geen commerciële aandrijving, maar angst om hun patiënten te helpen (Edwards, 2022).",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "676a16c3932511d64dad3bf8a22a4e823878355c28dcde0e"
+}

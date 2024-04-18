@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Dr. Sanjay Gupta highlights the importance of brain health & combating misinformation in healthcare at AHA Annual Mtg. AI in medicine should follow a 'trust, but verify' approach to ensure accuracy & fill gaps, not replace human judgment.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29926bef5010e68ac2a6df49a50851163bf66ae138f1350e"
+}

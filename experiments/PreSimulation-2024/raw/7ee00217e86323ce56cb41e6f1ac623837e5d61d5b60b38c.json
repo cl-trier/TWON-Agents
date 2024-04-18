@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Yellen's call for US aid to Ukraine is a joke. The real solution is to cut off all funding to countries that don't have our best interests at heart.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ee00217e86323ce56cb41e6f1ac623837e5d61d5b60b38c"
+}

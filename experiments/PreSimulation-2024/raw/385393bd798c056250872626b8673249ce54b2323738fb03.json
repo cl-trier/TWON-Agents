@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time for universal healthcare to be recognized as a fundamental human right, not just a privilege for the wealthy few.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "385393bd798c056250872626b8673249ce54b2323738fb03"
+}

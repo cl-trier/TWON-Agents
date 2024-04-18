@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bewijsmatig denken is cruciaal in deze tijd van escalatie en conflicten. Onderstellen we kunnen niet langer meer op ideologieën of persoonlijke meningen, maar moeten nous ons concentreren op feiten en bewijzen. De huidige situatie in Oekraïne is een direkt gevaar voor regionale stabiliteit en internationale veiligheid. We musten een constructieve dialoog bevorderen en wederzijds begrip stimuleren tussen verschillende standpunten.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25e9cefae0ed384f3d04ef0fd3566b06acbb4276c1ba5652"
+}

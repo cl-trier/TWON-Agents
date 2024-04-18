@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming: 27% of adults face severe healthcare affordability challenges, with even more delayed care due to costs. It's time for reform that prioritizes patient choice, competition, and market forces to drive down prices and increase accessibility.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3633516d3d5c73c57240c8066039abe29e7707cdf234bb51"
+}

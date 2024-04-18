@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "💡Prevention is the best cure! 💖VivaWell's healthcare plans prioritize illness prevention, offering a smart & sustainable solution for Latin American corporations. 🌟ROI already proven! 💰Investing in employee health = investing in a brighter future for all! 🌈🌎",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "917e0a4a90e955688a323c5126a44e6b3e35c733cfaaf94c"
+}

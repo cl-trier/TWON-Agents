@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw @DrugStoreNews item! Walmart Canada versterkt engagement voor toegankelijkheid en betaalbaarheid in de gezondheidszorg. In Canada kunnen apothekers nu ook diagnoser en voorschriften uitstellen voor minder ernstige klachten. Een stap in de goede richting om toegang tot zorg te verbeteren en het primaire zorgsysteem te ontlasten.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4305f923fd9ea2b5fda02e6a1bd4997bb5b0b064caa70ed3"
+}

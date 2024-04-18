@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schrikbarend hoe we ons militair steunpunt bij Oekraïne laten financieren door NAVO bondgenoten, terwijl wij onze eigen belangen dienen te behartigen. Directe democratie is nodig om deze eenzijdige beslissingen tegen te gaan!\"(Translation: \"Alarming that we let our military support for Ukraine be financed by NATO allies while we should prioritize our own interests. Direct democracy is needed to counteract these one-sided decisions!\")",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d63c416deac127f51f5530fbb77c297f6aa67f7f1e0b8fd5"
+}

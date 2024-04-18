@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@RFE/RL Live Briefing: Russia Invades Ukraine - It's time for the West to put their money where their mouth is. Stronger sanctions on Russia are a must to help Ukraine win this war. The world cannot stand idly by as innocent civilians suffer.",
+    "retrieved_source": "https://www.rferl.org/a/ukraine-russia-crisis-crosshairs-live-briefing/31668477.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "485f6c50aeaa8dad87836084f11d2ad1d6657af05e35fb7d"
+}

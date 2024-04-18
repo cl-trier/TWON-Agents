@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Frieden und Gerechtigkeit! 🌍🇺🇦 Wir begrüßen Chinas Vorschläge zur Lösung der Ukraine-Krise. Es ist ermutigend, zu sehen, dass internationale Gemeinschaft zusammenarbeitet. Jetzt ist es an der Zeit für den US Kongress, endlich die dringend benötigte Unterstützung für #Ukraine zu beschließen. Keine Ausreden mehr - lasst uns solidarisch sein! 💪⚖️",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "547813a4707dcbb54c066c1b6ff94803cf5600e10aba227f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "One year since the start of the civil war in Sudan, and the situation only gets worse. The conflict has spread to other parts of the country, including Darfur, and the risk of famine looms large. Food prices have skyrocketed by over 110%! It's a heart-wrenching reality that people are struggling to access basic necessities like food. We need to act now and support organizations working on the ground to address this crisis.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c990a25896815cb6b9e17179d801c29c0e262c550ddd85e5"
+}

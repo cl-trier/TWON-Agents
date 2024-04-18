@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir weiterhin Ukraine in ihrem Kampf für Stabilität und setzen wir uns für eine friedliche und prosperierende Zukunft im Nahen Osten ein - Lord David Cameron auf dem Weltwirtschaftsforum in Davos.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d79f1537c2efb299b37084db31eb912ca551e3e4f94d9ec"
+}

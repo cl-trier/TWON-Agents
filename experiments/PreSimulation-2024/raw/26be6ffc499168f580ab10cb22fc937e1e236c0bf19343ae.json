@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Exciting collaboration between @EmVenioResearch, @PrimeHealthcare, and @HealthWizz! 🤝🏼💡 The EmVenio Research Center at Prime Healthcare will provide access to clinical research for patients across the country. 🌎👨‍⚕️👩‍⚕️ Let's keep pushing the boundaries of healthcare! 🔬💻",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "26be6ffc499168f580ab10cb22fc937e1e236c0bf19343ae"
+}

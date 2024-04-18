@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Stel dat we NAVO's voorstel om Oekraïne een miljardenpakket aan militair steun te bieden over vijf jaar zouden aanvaarden. Dit zou onze bondgenoot versterken en de druk op de VS verlichten. Pragmatische benadering van internationale kwesties is noodzakelijk om stabiliteit en veiligheid te waarborgen.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e6491c4e314e5fd07d6988fea9eab4cecb5df316c6b21e3"
+}

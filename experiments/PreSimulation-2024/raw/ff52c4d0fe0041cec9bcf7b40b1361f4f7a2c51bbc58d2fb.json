@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ontwaak, Nederland! Als we onze energielvoorziening niet beschermen tegen deze olieoorlog, kunnen we rekenen op scherpe prijsstijgingen. Steun voor onze nationale soevereiniteit is crucialer dan ooit.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff52c4d0fe0041cec9bcf7b40b1361f4f7a2c51bbc58d2fb"
+}

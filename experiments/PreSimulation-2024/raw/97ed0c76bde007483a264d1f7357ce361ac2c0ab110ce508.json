@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Appalled by Providence St. Joseph Health System's unreasonable rate increases, threatening healthcare affordability for many. Let's prioritize accessibility & sustainability in our healthcare system, ensuring it works for all members.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97ed0c76bde007483a264d1f7357ce361ac2c0ab110ce508"
+}

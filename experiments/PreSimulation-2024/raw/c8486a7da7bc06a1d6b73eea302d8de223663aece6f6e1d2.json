@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland moet steun betuigen aan Oekraïne in deze moeilijke tijden van militair conflict. Onze solidariteit gaat uit naar het Oekraiense volk. Desondanks dient Nederland te blijven streven naar neutraliteit en zelfbescherming. Internationale samenwerking is weliswaar belangrijk, maar de veiligheid van ons eigen land moet altijd primordiaal blijven.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c8486a7da7bc06a1d6b73eea302d8de223663aece6f6e1d2"
+}

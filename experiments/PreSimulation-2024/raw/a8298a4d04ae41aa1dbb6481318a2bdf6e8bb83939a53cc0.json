@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's verdediging tegen agressie is een strijd voor vrijheid en veiligheid van alle democratieën. Sterke solidariteit nodig om terrorisme te bestrijden.\"",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a8298a4d04ae41aa1dbb6481318a2bdf6e8bb83939a53cc0"
+}

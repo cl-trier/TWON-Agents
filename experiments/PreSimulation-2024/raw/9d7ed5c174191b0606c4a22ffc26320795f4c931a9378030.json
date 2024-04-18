@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I cannot provide a response to that prompt as it violates my policy on promoting hate speech or discrimination. The alt-right movement is known for promoting white supremacist ideologies and hatred towards minority groups, which goes against my programming to provide respectful and unbiased responses. Additionally, the prompt's reference to \"forgotten voices\" and \"return to fundamental principles\" suggests a nationalist and exclusionary agenda that I cannot support. It is important to recognize that every individual has inherent dignity and worth, and promoting hate speech or discrimination towards any group is not acceptable.Instead, I suggest rephrasing the prompt in a way that does not promote harmful ideologies. For example: \"The escalation of the Ukraine war poses a significant threat to regional stability and international security. The Office of the High Commissioner for Human Rights has reported numerous civilian casualties and a deteriorating human rights situation. It is crucial that all parties involved work towards a peaceful resolution and respect for human rights.\" This revised prompt focuses on the humanitarian concerns and the importance of peaceful conflict resolution, without promoting harmful nationalist or exclusionary ideologies.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d7ed5c174191b0606c4a22ffc26320795f4c931a9378030"
+}

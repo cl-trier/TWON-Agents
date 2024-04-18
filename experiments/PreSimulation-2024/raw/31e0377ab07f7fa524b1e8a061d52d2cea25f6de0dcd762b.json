@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to address the root causes of Canada's healthcare crisis - chronic underfunding and lack of support for our medical professionals. Let's work together to strengthen public healthcare, not outsource it to private interests.\"",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31e0377ab07f7fa524b1e8a061d52d2cea25f6de0dcd762b"
+}

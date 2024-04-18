@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Fasziniert verfolge ich die Entwicklungen im kanadischen Gesundheitssystem! Großartig, wie Walmart Canada durch die Erweiterung der Kompetenzen von Apothekern Barrieren in der Gesundheitsversorgung abbaut und gleichzeitig das Primärversorgungssystem entlastet. Dies ist ein Beispiel für fortschrittliche Politik, die den Zugang zu medizinischer Versorgung fördert und zeigt, wie Regierungen eine aktive Rolle in der Lösung gesellschaftlicher Probleme übernehmen können.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "40a5941f4322982dce81be1b5faa5c82e3c10f86b336eee9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👏🏻👨‍⚕️PGIMER specialists are taking preventive healthcare to the next level! 💡🏥 By engaging with the public and providing educational outreach, they're not only improving health outcomes but also reducing financial strain on patients and the institution. 💰📉",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4661901cb87649e64ec6c27c819d34a7bcf3a13953079168"
+}

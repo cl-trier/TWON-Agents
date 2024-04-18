@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "While the debate over Ukraine aid rages on in Congress, Russia continues to intensify its efforts to seize key towns. Meanwhile, China's Xi outlines four priorities for resolving the so-called 'crisis.' It's time for Western leaders to stop dithering and take decisive action. We must stand with Ukraine and protect our fundamental principles of sovereignty and democracy. No more political correctness or media censorship - let's hear the truth about what's happening on the ground and support our allies.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "45b543a9ef1e534519352451822284e2be60401c571ec0f5"
+}

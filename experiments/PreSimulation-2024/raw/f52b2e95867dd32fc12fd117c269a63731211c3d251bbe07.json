@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russische aanval op Kyiv Oblast power plant is een schandelijke actie tegen burgers. Onze steun gaat uit naar allegenoemden die onder deze oorlog lijden.",
+    "retrieved_source": "https://kyivindependent.com/ukraine-war-latest-april-16/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f52b2e95867dd32fc12fd117c269a63731211c3d251bbe07"
+}

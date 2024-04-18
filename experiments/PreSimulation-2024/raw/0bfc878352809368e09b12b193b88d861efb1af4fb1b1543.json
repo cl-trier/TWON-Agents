@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gefeliciteerd aan negen UAMS-artsensemleden die tot de top 5% van de gezondheidsonderzoekers behoren! Hun innovatieve werk verbetert levens en draagt bij aan nationaal erkenning.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0bfc878352809368e09b12b193b88d861efb1af4fb1b1543"
+}

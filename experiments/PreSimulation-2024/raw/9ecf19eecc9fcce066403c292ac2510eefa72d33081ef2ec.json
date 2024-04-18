@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Deeply troubled by escalating tensions in the Middle East. Urge all parties, especially Russia & Iran, to promote diplomacy over violence. It's crucial for regional stability and global peace.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ecf19eecc9fcce066403c292ac2510eefa72d33081ef2ec"
+}

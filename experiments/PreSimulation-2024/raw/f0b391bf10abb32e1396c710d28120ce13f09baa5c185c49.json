@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Privatization Warning!🚨 The ER studies show that private-sector ER care is 21% more expensive than VHA care. VCCP providers profit from follow-up services while avoiding insurance reviews. VHA providers receive extensive training to treat veteran-specific issues. Don't let privatization fans like Darin Selnick dismantle our only comprehensive healthcare model!",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0b391bf10abb32e1396c710d28120ce13f09baa5c185c49"
+}

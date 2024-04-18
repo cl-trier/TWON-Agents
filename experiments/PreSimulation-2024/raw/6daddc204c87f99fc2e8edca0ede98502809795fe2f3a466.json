@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As we witness the heartbreaking conflicts in Gaza and Ukraine, let's not forget the ongoing civil war in Sudan, marking its 1-year anniversary. The people of Sudan, especially in Darfur, are facing immense hardships with skyrocketing food prices and looming famine. We must stand in solidarity with them and demand global action to address this crisis. The roots of hunger lie in access and funding, and it's our collective responsibility to ensure aid reaches those in need.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6daddc204c87f99fc2e8edca0ede98502809795fe2f3a466"
+}

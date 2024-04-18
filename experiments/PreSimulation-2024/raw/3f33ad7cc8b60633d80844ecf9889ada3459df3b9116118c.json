@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@LiberalerLeopold🌟💙Diabetes affects millions worldwide! 🌎 It's time to shed light on this silent epidemic and pave the way for prevention! 💪🏼🌟 Type 1 & type 2, different causes, same goal: healthy living! 🥗🏋️‍♀️👍 Let's make healthcare accessible, promote balanced lifestyles, and save lives! 💕😊",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3f33ad7cc8b60633d80844ecf9889ada3459df3b9116118c"
+}

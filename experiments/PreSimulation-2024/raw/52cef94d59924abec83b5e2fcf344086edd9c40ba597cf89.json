@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@SenatorJohnSmith: It's time to get back to basics with healthcare. We need to prioritize patient care over bureaucratic red tape and let the free market drive innovation. Let's work towards a system that puts patients first, not Washington politicians.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52cef94d59924abec83b5e2fcf344086edd9c40ba597cf89"
+}

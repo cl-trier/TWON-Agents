@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's relentless attacks on Ukraine's energy infrastructure are a blatant violation of human rights and international law. The intentional targeting of civilian facilities is a war crime that must not go unpunished. The global community cannot stand idly by as innocent lives are lost and critical infrastructure is destroyed. It's time for the international community to take action and hold Russia accountable for its aggressive actions.",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a115d3789baab5c231ca2785dfc63c2e3e94bf2d6a6c5466"
+}

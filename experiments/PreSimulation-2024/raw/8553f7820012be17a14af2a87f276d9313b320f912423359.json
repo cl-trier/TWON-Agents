@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Market forces don't work in healthcare\" - dit rapport onderstrekt nogmaals de noodzaak van een sterk public healthcare systeem. Privatisering leidt niet tot verkorting van wachttijden, maar eerder tot verlenging ervan. Meer outsourcen naar private partijen kan staffing shortages in het openbare systeem verergeren. Het is tijd dat we ons concentreren op het versterken van ons public healthcare systeem, inplaats van het te ontmantelen.",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8553f7820012be17a14af2a87f276d9313b320f912423359"
+}

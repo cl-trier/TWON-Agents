@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! A generous $20 million gift will enhance Parkinson's disease programs and research, bringing new hope to those affected by this debilitating illness. Let's keep supporting medical innovation and advancing towards a healthier future!\"",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ca17cc1d2f5751712ec3097be0a2518e4272d79307cba6d"
+}

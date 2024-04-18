@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "https://twitter.com/i/web/status/1637567335171371013🚨Kidney Patients Honor Top Physician for Disease and Infection Prevention! 🏥 Dr. Smith, member of @AAKPatients National Board of Directors, recognized with the Medal of Excellence for his dedication to disease prevention through community education & improved safety measures. 💪🏼",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e28cd537753aa2188a0ea6c010646da6212b729319a45ec8"
+}

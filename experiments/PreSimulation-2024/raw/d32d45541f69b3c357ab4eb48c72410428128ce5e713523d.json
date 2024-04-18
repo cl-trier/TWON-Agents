@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangstelling voor hersengezondheid en preventie groeit, evenals AI's rol in de medische wereld. Laten we vertrouwen, maar ook controleren om misleiding te voorkomen.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d32d45541f69b3c357ab4eb48c72410428128ce5e713523d"
+}

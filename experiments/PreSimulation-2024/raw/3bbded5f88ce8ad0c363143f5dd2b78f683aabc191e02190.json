@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlogstijd presteert Oekraïne's economie verrassend goed! Dankzij de EU en IMF is er $20 miljard aan financiering veiliggesteld, goed voor de helft van Oekraïne's begroting. Dit is een teken dat de Oekraïense overheid het goed doet, zowel qua dagelijks financieel management als qua voortgang hervormingsagenda.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3bbded5f88ce8ad0c363143f5dd2b78f683aabc191e02190"
+}

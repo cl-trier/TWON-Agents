@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! Norton Healthcare has received a generous $20 million gift from Dr. Elizabeth Cressman's estate, bringing her total contribution to $28 million. This donation will help expand programs at the Cressman Parkinson's and Movement Disorders Center and support crucial research. Let's continue to push for advancements in healthcare!",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c8e29d4e5a7dcf0e2672261bdb7b8c90f727e6676338ff5"
+}

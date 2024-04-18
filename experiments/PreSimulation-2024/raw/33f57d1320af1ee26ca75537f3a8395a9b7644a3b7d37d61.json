@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "🌐 #MiddleEast tensions could add fuel to energy price volatility, warns Andriy Kobolyev of Naftogaz. With recent production cuts by Saudis & Russians driving prices up, any disruption in the region might exacerbate the situation. Even without escalation, a case for falling oil prices is hard to make. Stay informed on global energy market dynamics! ⚡️🌍",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "33f57d1320af1ee26ca75537f3a8395a9b7644a3b7d37d61"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarity with Ukraine! 🇺🇦 Germany's support is crucial in these difficult times. Let's work together towards a peaceful resolution and support those affected by the conflict.",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f4f48bd8f91b3c28fb4de7400ff2bd4a7c7fce9c236dd05e"
+}

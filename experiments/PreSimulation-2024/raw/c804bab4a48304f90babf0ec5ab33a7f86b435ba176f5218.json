@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "2 jaar na de Russische invasie van Oekraïne blijft de situatie gespannen. Op 24 februari spreken we met deskundigen van het CSIS over de huidige staat van de oorlog, strategieën van zowel Oekraïne als Rusland en de toekomst van westerse steun. Samenwerken voor vrede is noodzakelijk.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c804bab4a48304f90babf0ec5ab33a7f86b435ba176f5218"
+}

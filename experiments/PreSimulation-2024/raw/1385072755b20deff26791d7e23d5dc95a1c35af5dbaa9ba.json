@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend zu sehen, wie Unternehmen wie VivaWell die Gesundheitsvorsorge in ihre Mitarbeiterbenefits integrieren! Priorisierung der Prävention statt Kurativmedizin kann nicht nur das Wohlbefinden der Beschäftigten steigern, sondern auch finanzielle Einsparungen für Firmen bedeuten. Lassen Sie uns mehr über evidenzbasierte Ansätze in der Gesundheitspolitik diskutieren!",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1385072755b20deff26791d7e23d5dc95a1c35af5dbaa9ba"
+}

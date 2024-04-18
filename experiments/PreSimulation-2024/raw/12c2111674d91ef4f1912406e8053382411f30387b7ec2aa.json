@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study reveals what we've been saying all along: privatizing hospitals sacrifices quality care for profit! 💰🏥 It's time to put people over profit and ensure everyone has access to top-notch healthcare.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12c2111674d91ef4f1912406e8053382411f30387b7ec2aa"
+}

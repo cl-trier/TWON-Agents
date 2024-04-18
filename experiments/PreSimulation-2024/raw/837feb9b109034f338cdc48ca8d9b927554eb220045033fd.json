@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks populariteit van #Medicare in Canada, regeringen hebben decennia lang systeem onderfinancierd. Bedrijven profiteren nu van de crisis. Pragmatisch antwoord nodig: bescherm het publieke gezondheidssysteem!\"(\"Despite the popularity of #Medicare in Canada, governments have underfunded the system for decades. Corporations are now profiting from the crisis. A pragmatic response is needed: protect the public healthcare system!\")",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "837feb9b109034f338cdc48ca8d9b927554eb220045033fd"
+}

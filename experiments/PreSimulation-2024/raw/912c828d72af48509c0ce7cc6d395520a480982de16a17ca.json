@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Luister naar de nieuwste aflevering van Healthy Bottom Line podcast over preventieve geneeskunde. Meer steun voor preventie is noodzakelijk om gezondheidswellbeing te verbeteren en dispariteiten te verkleinen",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "912c828d72af48509c0ce7cc6d395520a480982de16a17ca"
+}

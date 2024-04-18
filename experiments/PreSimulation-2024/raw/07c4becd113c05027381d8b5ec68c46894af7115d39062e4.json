@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Walmart Canada's commitment to accessible, affordable healthcare through expanded pharmacist roles - a shining example of free-market innovation that empowers individuals and eases burdens on primary care systems.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "07c4becd113c05027381d8b5ec68c46894af7115d39062e4"
+}

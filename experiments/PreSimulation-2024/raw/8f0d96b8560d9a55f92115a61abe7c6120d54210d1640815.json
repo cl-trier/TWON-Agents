@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "2 years since Russia's invasion of Ukraine, the war continues to devastate lives and reshape Europe's political landscape. Join us for a symposium on the impact of the war on geopolitics, EU-NATO relations, and Ukrainian society. Let's discuss the road ahead for peace and cooperation.\"",
+    "retrieved_source": "https://www.clingendael.org/event/war-europe-impact-russian-aggression-ukraine-2-years",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f0d96b8560d9a55f92115a61abe7c6120d54210d1640815"
+}

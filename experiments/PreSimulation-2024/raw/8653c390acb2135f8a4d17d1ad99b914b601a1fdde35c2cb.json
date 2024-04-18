@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@Eduardo Iglesias: Great to see innovative companies like VivaWell prioritizing employee health through prevention-centered benefit plans! By investing in the well-being of their workforce, businesses not only demonstrate a commitment to their employees' quality of life but also reap the long-term benefits of a healthier and more productive team. Kudos to VivaWell for leading this initiative and proving its ROI!",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8653c390acb2135f8a4d17d1ad99b914b601a1fdde35c2cb"
+}

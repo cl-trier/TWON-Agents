@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Even if Nov's US election brings clarity, global stability hangs in the balance with NATO tension, Russian threats, & regional hotspots like Gaza & Ukraine. Time for prudence & strong leadership to navigate these choppy waters 🌊",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c00a1ecbd493395a592ae70b162dae6509c9e7ef4e53e071"
+}

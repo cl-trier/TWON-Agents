@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Ukraine und Stabilität im Nahen Osten: Unser Außenminister Lord Cameron setzt sich an der Davos-Konferenz für eine starke internationale Zusammenarbeit ein.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d4278cb0117249af0c10bd175cc487f7450f806d7c8d1b3"
+}

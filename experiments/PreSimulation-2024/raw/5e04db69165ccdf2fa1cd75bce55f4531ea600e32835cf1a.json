@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@HealthHive🌟Shedding Light on Diabetes & its Global Impact! 💡👀 Did you know that diabetes affects MILLIONS worldwide? 🌎 It's time to explore the complexities of this silent epidemic, discuss its far-reaching consequences and pave the path towards a healthier future! 🌱💪",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e04db69165ccdf2fa1cd75bce55f4531ea600e32835cf1a"
+}

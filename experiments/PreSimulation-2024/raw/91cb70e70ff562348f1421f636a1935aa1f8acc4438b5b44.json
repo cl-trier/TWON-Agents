@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuw rapport: US adviseerde Oekraïne om aanvallen op Russische olieraffinaderijen stop te zetten. Het komt erop neer dat politiek complex en gevoelig is.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91cb70e70ff562348f1421f636a1935aa1f8acc4438b5b44"
+}

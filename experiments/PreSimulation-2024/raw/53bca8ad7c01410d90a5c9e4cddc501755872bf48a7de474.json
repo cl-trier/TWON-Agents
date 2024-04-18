@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die aktuellen Schätzungen für die Saison 2023-24 zeigen einen alarmierenden Trend: Die Anzahl der hospitalisierten Fällebecause of flu ist höher als in den vorherigen Jahren. Wir müssen uns bemühen, diese Entwicklung zu stoppen und die Menschen vor der Gefahr der Grippe zu schützen.\"",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53bca8ad7c01410d90a5c9e4cddc501755872bf48a7de474"
+}

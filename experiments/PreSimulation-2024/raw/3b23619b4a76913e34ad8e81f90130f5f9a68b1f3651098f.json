@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "😱 Did you know that more than 100 million Americans have medical debt? 💸🤯 It's true! And it's not just those without health insurance. 🤔 Even those with high-deductible health plans are struggling to pay their medical bills. 😩 In fact, a third of people with these plans are in medical debt, and many are having trouble affording basic needs like food and housing. 🍔🏠 It's unacceptable that medical costs are putting Americans in financial crisis. 💸🤯 We need to do better!",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3b23619b4a76913e34ad8e81f90130f5f9a68b1f3651098f"
+}

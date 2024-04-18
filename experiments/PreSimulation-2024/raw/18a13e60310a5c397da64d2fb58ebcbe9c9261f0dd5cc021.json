@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nine UAMS physicians named Healthcare Research All-Stars! 🌟🏥💡 Proud to see our hip and knee surgery team among the top 1%, orthopaedic surgery team among the top 3%, and gastrointestinal and general surgery teams among the top 5% nationwide! 💯👏",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18a13e60310a5c397da64d2fb58ebcbe9c9261f0dd5cc021"
+}

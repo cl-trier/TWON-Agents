@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe braces for higher energy prices as Russia-Ukraine gas deal ends. Winter is coming, and we must be prepared. Time to invest in alternative energy sources and reduce our reliance on Russian gas.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd03e14e8470400bb132bd506d8508d891d07de89a9d8b08"
+}

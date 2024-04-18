@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% of adults face at least one healthcare affordability challenge.\" This is a concerning statistic that highlights the need for policy changes to address healthcare financial strains affecting low- and middle-income families. It's time to prioritize the affordability of healthcare for all, regardless of income level.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a70be714b0935a973d8f88bcee94a292c1785d96f8a13d9c"
+}

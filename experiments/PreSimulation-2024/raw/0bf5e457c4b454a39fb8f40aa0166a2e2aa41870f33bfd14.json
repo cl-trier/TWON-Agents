@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schluss mit der Schwäche! Unterstützen wir unsere ukrainischen Verbündeten, indem wir ihre Souveränität und Grenzsicherheit stärken. Starke Armeen schützen Nationen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0bf5e457c4b454a39fb8f40aa0166a2e2aa41870f33bfd14"
+}

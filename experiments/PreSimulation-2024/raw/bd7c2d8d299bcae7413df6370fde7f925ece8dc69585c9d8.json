@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Good news! 🎉 Bakhmut is not occupied by Russia as of today, according to President Zelenskiy. 🇺🇦 However, the Wagner mercenary group claimed otherwise. 🤔 Let's stay vigilant and continue supporting Ukraine in their fight against Russian aggression.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd7c2d8d299bcae7413df6370fde7f925ece8dc69585c9d8"
+}

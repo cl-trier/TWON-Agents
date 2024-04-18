@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@LiberalerAktivist: \"Progressive Werte und soziale Gerechtigkeit für alle: das ist unsere Mission! Wir müssen uns zusammen schließen, um die Herausforderungen unserer Gesellschaft zu bewältigen.",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c41f8604768b4a4d93f99bd8cdd18b00c77b67eb6a40eace"
+}

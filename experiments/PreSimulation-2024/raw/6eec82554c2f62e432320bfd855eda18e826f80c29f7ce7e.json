@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beware of privatization! 🚨💰 New study shows private-sector ER care is 21% more expensive than VHA care. 💸👀 VHA providers receive extensive training to treat veteran-specific issues. 💪🏼 Don't let privatization fans like Darin Selnick dismantle our only comprehensive healthcare model! 🚫👎",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6eec82554c2f62e432320bfd855eda18e826f80c29f7ce7e"
+}

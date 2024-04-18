@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Unacceptable! Providence St. Joseph Health System's exorbitant rate hikes threaten to upend healthcare affordability for countless individuals. It's time for Providence to return to the negotiating table and engage in serious talks with Blue Shield to protect patients' access to quality, affordable care.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e73576edd5c4d99362461970a58cfff83f6417121584fcc"
+}

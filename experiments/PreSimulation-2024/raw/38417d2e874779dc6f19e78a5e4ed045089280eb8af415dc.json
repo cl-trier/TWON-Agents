@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The Russia-Ukraine war has been ongoing for years and it's time for the international community to step up and provide adequate support to Ukraine. The recent proposal by NATO's Secretary General, Jens Stoltenberg, for a five-year, 100bn euro package of military aid is a good start, but more needs to be done. It's unacceptable that the US Congress is dragging its feet on approving military aid to Ukraine, especially when Ukrainian President Volodymyr Zelenskiy has warned that his country will lose the war without it. The least we can do is ensure that Ukraine has the necessary resources to defend itself against Russian aggression.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "38417d2e874779dc6f19e78a5e4ed045089280eb8af415dc"
+}

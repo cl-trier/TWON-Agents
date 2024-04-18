@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Terug naar basics! Nederlandse gezondheidszorg moet eerst aan onze burgers dienen. Stop met buitenlandse focus, neem CDC-aanbieding aan en zorg voor ons eigen volk!\"",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "016fd4011a5d0669ef18ff20b13c20372ebb7e7694f76c8f"
+}

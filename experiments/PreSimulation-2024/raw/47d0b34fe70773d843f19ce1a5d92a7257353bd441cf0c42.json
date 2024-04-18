@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut is niet bezet door de Russische Federatie tot nu toe\", zei Zelenskiy tijdens een persconferentie op het G7-summit in Hiroshima, Japan. Het Wagner-huurlingencollectief claimde eerder dat Rusland de laatste stedelijke gebieden in Bakhmut had ingenomen, in een video gepublicekt op Telegram.Het is ontmoedigend om te zien hoe de Russische Federatie nog steeds pogingen onderneemt om Oekraïne te destabiliseren en te bezetten. Het is belangrijk dat de internationale gemeenschap, inclusief de G7, een duidelijke en sterke houding innam tegen deze soort aggressieve gedragingen.Ik roep alle landen op om zich te verenigingen tegen deze vorm van expansie en imperialisme, en om de soevereiniteit en territoriale integriteit van Oekraïne te respecteren. Laat ons samenwerken om vrede en stabiliteit in de regio te herstellen, en om de mensen van Oekraïne het recht te geven om hun levens in vrijheid en veiligheid te leiden.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47d0b34fe70773d843f19ce1a5d92a7257353bd441cf0c42"
+}

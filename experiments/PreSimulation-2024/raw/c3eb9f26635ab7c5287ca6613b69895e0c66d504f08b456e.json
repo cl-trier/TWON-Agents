@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatization is not the answer to Canada's healthcare crisis. It's time for our leaders to prioritize the needs of patients over profits and ensure that everyone has access to quality, publicly-funded healthcare.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3eb9f26635ab7c5287ca6613b69895e0c66d504f08b456e"
+}

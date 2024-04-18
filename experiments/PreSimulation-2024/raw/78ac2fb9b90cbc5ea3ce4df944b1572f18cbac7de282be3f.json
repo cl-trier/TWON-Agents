@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die globale Stabilität, auf den Trümmern des Zweiten Weltkriegs erbaut, bröckelt, warnt Außenministerin Joly. Es ist an der Zeit, dass wir uns auf die Verteidigung unserer Interessen und Werte konzentrieren, um die Friedensordnung zu wahren, für die Kanadier gekämpft und ihr Leben gegeben haben.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78ac2fb9b90cbc5ea3ce4df944b1572f18cbac7de282be3f"
+}

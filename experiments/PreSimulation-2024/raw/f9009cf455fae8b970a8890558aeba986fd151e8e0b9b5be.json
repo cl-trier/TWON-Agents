@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend, dass #Krebsscreenings in Indien seit 2016 um das 50-fache angestiegen sind! Dies zeigt nicht nur ein wachsendes Bewusstsein für Präventivmedizin, sondern auch einen positiven Schritt hin zu proaktiver Gesundheitsverwaltung - lasst uns die Dynamik von #Vorsorgeuntersuchungen weiter fördern! via @Healthians 💡",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f9009cf455fae8b970a8890558aeba986fd151e8e0b9b5be"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwe analyse suggereert dat Oekraïne in 2024 verslagen kan worden. Als land moeten we rekening houden met deze mogelijkheid en onze politiek en defensie strategieen aanpassen. Onze solidariteit met Oekraïne blijft onverminderd, maar pragmatisme is nodig om regionale stabiliteit te waarborgen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78be9e42dfc8aa975b82596f1666f367187ac6b1fcc043fe"
+}

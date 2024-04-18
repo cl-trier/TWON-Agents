@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Report suggests privatization of health care in Ontario may increase wait times, despite government's efforts to promote for-profit facilities. It's time to reevaluate the role of market forces in healthcare and prioritize patient needs over profits.",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ea138eaf90259a06c200087f412c24c9053efb6ee2a2fc18"
+}

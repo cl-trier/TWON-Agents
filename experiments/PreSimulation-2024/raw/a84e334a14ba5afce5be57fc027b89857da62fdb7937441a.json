@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report reveals Americans struggle with healthcare affordability, skipping essential care due to costs. AI-powered solutions like @PayZenHealth aim to change that narrative.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a84e334a14ba5afce5be57fc027b89857da62fdb7937441a"
+}

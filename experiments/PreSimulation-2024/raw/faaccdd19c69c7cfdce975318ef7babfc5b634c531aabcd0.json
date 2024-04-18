@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidarity with Ukraine! The international community must work together to ensure peace and stability in the region.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "faaccdd19c69c7cfdce975318ef7babfc5b634c531aabcd0"
+}

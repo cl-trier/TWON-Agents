@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "2 Jahre seit Russlands Invasion in der Ukraine vergehen am 24. Februar. Wir sollten die Lage im Auge behalten und uns auf die Erkenntnisse von Experten wie Dr. Seth G. Jones, Dr. Eliot A. Cohen, Emily Harding und dem Honorable Michael Vickers verlassen. Es ist an der Zeit, für unsere Interessen einzustehen und den Opfern in der Ukraine zu helfen. Unterstützt die Wiederherstellung von Ordnung und Frieden -",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "743076365d3a3ce5fbc6ff1421e3206fd7b7e54fe313e414"
+}

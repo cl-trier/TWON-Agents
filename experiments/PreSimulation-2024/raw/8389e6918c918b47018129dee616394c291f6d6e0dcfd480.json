@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's energy crisis continues to impact equity returns. Our analysis shows that firms with high energy exposure have seen a significant reduction in returns. Investors must consider the risks associated with energy dependence on Russia.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8389e6918c918b47018129dee616394c291f6d6e0dcfd480"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO muss über den Ukraine-Konflikt hinausdenken, um ihre zukünftige Rolle in der strategischen Cyberwettbewerbslandschaft zu definieren. Wir brauchen Stabilität im Cyberspace, aber bisher hatte NATO nur wenig Einfluss auf die technischen, politischen und zivilgesellschaftlichen Gemeinschaften, die diesen Raum pflegen. Der politische und technologische Druck von Ländern wie Russland und China erfordert ein entschlossenes Vorgehen von NATO im Cyberraum.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "744419be0d752d6941ae7c2f9fe60ee14cd25c328526acfe"
+}

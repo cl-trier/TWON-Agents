@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Surgeon Van Laarhoven's book 'Human & Planetary Health' onderstrept de noodzaak om één gezondheidsbeleid te ontwikkelen dat mens en planeet in harmonie brengt. Steun je eigen identiteit, cultuur en milieu: #OneHealth voor iedereen!",
+    "retrieved_source": "https://www.radboudumc.nl/en/news-items/2023/geef-milieu-en-preventie-een-plek-in-nieuwe-inrichting-gezondheidszorg",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53aacd158d0352fb008ed7dc4865d6403a1c5c923a82ab13"
+}

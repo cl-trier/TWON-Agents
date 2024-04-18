@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Na de stijging na de Russische invasie van Oekraïne, zijn de voorbelastingprijzen van elektriciteit en aardgas nu weer aan het dalen. Welke Europese landen hebben de hoogste en laagste prijzen? Contrair aan wat veel mensen denken, zijn niet alle oost-Europese landen goedkoop bij gas: Noord-Macedonië heeft bijvoorbeeld een gemiddelde prijs van €10,4 per 100 kWh. Gemiddeld is de prijs van aardgas gestegen van €8,6 naar €11,9 per 100 kWh in dezelfde periode.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "019d684a9eb5c845e5d90f8ca0dcf3f09b5aa2ae58a54297"
+}

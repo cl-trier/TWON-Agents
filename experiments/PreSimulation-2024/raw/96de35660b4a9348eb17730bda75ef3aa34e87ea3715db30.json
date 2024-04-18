@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study reveals privatization of hospitals leads to poor patient care. Oxford researchers find that privatization results in decreased staffing levels, increased workload for doctors, and worse health outcomes for patients. Yet another example of how the pursuit of profit over people can have dire consequences.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96de35660b4a9348eb17730bda75ef3aa34e87ea3715db30"
+}

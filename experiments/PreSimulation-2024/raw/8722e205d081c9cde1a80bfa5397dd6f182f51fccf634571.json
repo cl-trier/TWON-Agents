@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend, dass die Finanzierung der Verteidigung der Ukraine zum Politikum wird. Stoltenberg's Vorschlag eines 100 Milliarden Euro Pakets für NATO-Unterstützung ist ein Schritt in die richtige Richtung. Es ist an der Zeit, dass Europa mehr Verantwortung übernimmt und sich nicht länger auf die USA verlässt. Die Ukraine kämpft für ihre Souveränität und Freiheit, und wir sollten sie dabei unterstützen, ohne politische Spielchen zu spielen.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8722e205d081c9cde1a80bfa5397dd6f182f51fccf634571"
+}

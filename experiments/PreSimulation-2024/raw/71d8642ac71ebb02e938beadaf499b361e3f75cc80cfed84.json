@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante gesprek over #Canada's retail #gezondheidszorg op #DSN! @WalmartCA's #apothekers kunnen nu diagnoseren & voorschrijven voor minder ernstige klachten, verbeterend toegang & ontlastend de primaire zorg. Waardt het waard om te onderzoeken hoe wij onze systeem hier in NL kunnen optimaliseren.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71d8642ac71ebb02e938beadaf499b361e3f75cc80cfed84"
+}

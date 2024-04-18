@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Day 783 of the Russia-Ukraine war: a summary of key events. Let's take a look at the current situation and try to understand the complexities involved. It's important to approach this conflict with a critical and objective perspective, evaluating evidence-based arguments over ideological dogmas. Let's promote constructive dialogue and mutual understanding between different perspectives.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1458063130edbd91e83fab23cb26d767ba5596467b5a663c"
+}

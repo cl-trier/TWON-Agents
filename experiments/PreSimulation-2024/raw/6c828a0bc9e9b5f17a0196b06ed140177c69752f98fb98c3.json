@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@EUenergypricehikeThe recent ending of the Russia-Ukraine gas deal has raised concerns about a potential winter energy price hike in the EU. While it's good to see a reduction in Russian gas reliance, the unilateral tax on gas exports by Germany is complicating the possibility of swapping Russian imports for non-Russian supplies. Let's hope that the upcoming meeting of EU energy ministers in Brussels on Monday will help address this issue and provide more certainty in the pipeline.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c828a0bc9e9b5f17a0196b06ed140177c69752f98fb98c3"
+}

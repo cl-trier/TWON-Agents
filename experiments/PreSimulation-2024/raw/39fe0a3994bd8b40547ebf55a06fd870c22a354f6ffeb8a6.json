@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oorlog om energie? Voormalig oliebaas waarschuwt voor prijsstijgingen na aanvallen op Oekraïense infrastructuur - sterk geloven in objectiviteit en kritisch denken.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "39fe0a3994bd8b40547ebf55a06fd870c22a354f6ffeb8a6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "While Western leaders dither on providing critical aid to Ukraine, Russia ramps up efforts to seize key towns. It's time for action, not debate! China's Xi has outlined 4 priorities for resolving the 'crisis', but where is America's resolve? Let's put aside political correctness and stand up for our values. Support Ukraine now! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a821e2f7814608d4f959fa9646b15c0925db7c03f5da7822"
+}

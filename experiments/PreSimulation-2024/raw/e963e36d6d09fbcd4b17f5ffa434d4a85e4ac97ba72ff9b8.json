@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne staat mogelijk voor een nederlaag in 2024. Als land houden we van onze soevereiniteit en zullen nooit akkoord gaan met vreemde bezetting. Het is tijd om te investeren in nationale defensie en te staan voor onze eigen belangen. Directe democratie is de sleutel om het volk te horen en beslissingen te nemen die passen bij onze cultuur en tradities.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e963e36d6d09fbcd4b17f5ffa434d4a85e4ac97ba72ff9b8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheits-Chatbots benötigen starke Grundlagen: Benutzerorientierte Bewertungen & Robustheit sind entscheidend. Vertrauenswürdige KI ist unerlässlich für verantwortungsvolle Gesundheitsversorgung.",
+    "retrieved_source": "https://www.nature.com/articles/s41746-024-01074-z",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ed3e29a487ad8e538729c2cb1aa7e78a59d28ffdff891fe"
+}

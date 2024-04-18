@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Wake-up call for those who think privatizing hospitals is the solution! 🚨 New study shows privatized hospitals deliver lower quality care. 💥 Time to rethink our priorities and put patients before profits. 💰",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aee56ff0eafc0fb458b5239a8fe523dc7169d0c58144f7e6"
+}

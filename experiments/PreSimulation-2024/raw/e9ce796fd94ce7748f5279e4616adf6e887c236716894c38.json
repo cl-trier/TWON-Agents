@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Großartige Neuigkeiten: Dr. Elizabeth Cressman vermacht Norton Healthcare $20 Millionen für die Erweiterung des Cressman Parkinson's Movement and Disorders Center und Cressman Parkinson's Research - ein weiteres Beispiel dafür, wie wohlhabende Einzelpersonen unsere Gesundheitsversorgung verbessern können!\"(Wonderful news: Dr. Elizabeth Cressman bequeaths Norton Healthcare $20 million for the expansion of the Cressman Parkinson's Movement and Disorders Center and Cressman Parkinson's Research - another example of how wealthy individuals can improve our healthcare system!)",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9ce796fd94ce7748f5279e4616adf6e887c236716894c38"
+}

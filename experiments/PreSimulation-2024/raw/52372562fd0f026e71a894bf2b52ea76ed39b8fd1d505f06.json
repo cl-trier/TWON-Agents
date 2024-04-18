@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Governor Lamont Signs Legislation on Health Care Affordability? More like Governor Lamont signs legislation to further line the pockets of big pharma and the healthcare industry while forgetting about the forgotten voices of everyday Americans. This so-called \"multitrack approach\" is just a bunch of empty promises and half-measures that won't do anything to address the real issues facing our healthcare system. We need real change, not just more bureaucratic red tape and special interest handouts.",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52372562fd0f026e71a894bf2b52ea76ed39b8fd1d505f06"
+}

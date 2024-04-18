@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Fasziniert von medizinischer Forschung & Bildung, fordere ich zu Einreichungen für unser Symposium auf: 'Methodenvorance in Gesundheitswesen Forschung & Lehre' - Inkl. Patientensicherheit, Globalchirurgie, Mikrobiologie & Infektionskrankheiten 🔬🌍",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b89542348c7ff285070507c62dcd1b6ab80c1627e6e38cc"
+}

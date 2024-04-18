@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bewaak je van privatisering in de zorgsector - studies tonen aan dat particuliere ER-zorg 21% duurder is dan VHA-zorg, terwijl kwaliteit en veteranen specifieke behandeling op het spel staan.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2141474b43cc67af2b25822a3d8625025876b8641a534d35"
+}

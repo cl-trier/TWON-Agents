@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante #podcastaflevering over #gezondheidszorgtoegankelijkheid via @FinThriveInc. TailorMed's benadering gaat verder dan alleen betalingsassistentie - het is een holistische strategie om de kosten van medische behandelingen te drukken. Sterke analytics & netwerken kunnen helpen om financiële toxiciteit te verminderen en patiënten zo beter te ondersteunen 🤝",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "338297acfd92ce5e936acd12d8b3557cc8b1d6caf59cc01d"
+}

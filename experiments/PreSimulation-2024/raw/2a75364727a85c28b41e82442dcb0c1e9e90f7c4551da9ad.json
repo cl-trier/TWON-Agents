@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessant zu sehen, wie sich die Energiepreise in Europa entwickeln. Trotz der jüngsten Abnahme liegen die durchschnittlichen Strompreise in Deutschland immer noch bei den Höchsten auf dem Kontinent. Auch wenn unsere natürlichen Gasvorräte reichlich sind, zahlen wir immer noch mehr als viele andere Länder. Wir müssen unseren Fokus auf die Diversifizierung unserer Energiequellen und die Förderung von Wettbewerb legen, um unsere Bürger und Unternehmen zu entlasten.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a75364727a85c28b41e82442dcb0c1e9e90f7c4551da9ad"
+}

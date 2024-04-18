@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unsere #UAMS Ärzte, die als Healthcare Research All-Stars ausgezeichnet wurden, und auf die herausragende Leistung unserer Hip & Knee, Orthopädie, GI & Allgemeinchirurgie Teams - eine Bestätigung für unser Engagement für evidenzbasierte Medizin und Patientenversorgung!",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e85a0ea0e3f3ca36f58906c8cfa122836bcf03b7d5a243b"
+}

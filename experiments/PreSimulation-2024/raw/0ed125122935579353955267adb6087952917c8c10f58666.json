@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite Ukraine's energy woes, don't be fooled by mainstream media - Middle East tensions are the real threat to stable energy prices, a stark reminder of our dependence on foreign oil and the need for energy independence",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0ed125122935579353955267adb6087952917c8c10f58666"
+}

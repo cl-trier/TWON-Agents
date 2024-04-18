@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's about time Ukraine stepped up its game and passed this much-needed law to boost troop numbers.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "57424a35785b025b3500b5027a0ccc88d5f902cb736f06b8"
+}

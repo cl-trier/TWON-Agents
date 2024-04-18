@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Whoa, 100 million Americans with medical debt? That's crazy! 😱 And I thought health insurance was supposed to help with that? 🤔 High-deductible plans seem like a recipe for disaster. 💸💥 Can't afford food or housing because of medical bills? 🍔🏠 That's not right. And don't even get me started on dental bills! 😷 It's like, you're damned if you do, and damned if you don't. 🤷‍♂️ Something's gotta give, right? 💪",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de86ec789b3ee937045d96d659087cc156ff5f68497e85ae"
+}

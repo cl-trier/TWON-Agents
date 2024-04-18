@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "One year since the start of the civil war in Sudan, and the situation only seems to be worsening. The conflict has spread beyond Darfur, with food prices skyrocketing by over 110% since the beginning of the war. The root causes of hunger are access and funding, according to the World Food Program. It's heartbreaking to see such suffering in the shadows of other global conflicts.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad714c66171cb0f9a5a56351b537539d29aafec4de0d015d"
+}

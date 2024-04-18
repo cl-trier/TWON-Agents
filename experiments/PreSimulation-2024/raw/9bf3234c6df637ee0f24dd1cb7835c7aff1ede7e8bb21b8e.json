@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukrainische Armee vs. russische Invasion 🇺🇦💥 Avdiivka, Bakhmut, Pokrovsk - die Kämpfe toben weiter. Ukraine hat Recht auf Freiheit & Souveränität! 🇷🇺 Putin muss stoppen, bevor es zu spät ist! 🚀",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9bf3234c6df637ee0f24dd1cb7835c7aff1ede7e8bb21b8e"
+}

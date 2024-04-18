@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's struggle to protect its infrastructure has put European energy prices in jeopardy, highlighting the need for diverse energy sources and sustainable solutions.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23a8bbf6a148c8b81c99f848eb7f09d1108891fec9ea8eae"
+}

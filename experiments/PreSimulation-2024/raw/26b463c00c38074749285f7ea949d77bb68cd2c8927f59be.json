@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! 🏥 Nineteen UAMS physicians named Healthcare Research All-Stars for 2024, with top rankings in hip, knee, and general surgery. 🎉 Progressive healthcare starts with research.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "26b463c00c38074749285f7ea949d77bb68cd2c8927f59be"
+}

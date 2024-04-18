@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% of adults face at least one healthcare affordability challenge.\" And yet, we continue to pour billions of dollars into foreign aid and endless wars. When will we start putting America first?",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a1982269915d18a27860cc9d1e45e2d2832ce153c4dbadc4"
+}

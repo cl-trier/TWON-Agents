@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Congrats to the nine physicians at UAMS for being named Healthcare Research All-Stars! 🎉👏 It's great to see the hard work and dedication of medical professionals recognized. The data-analytics platform's recognition of the UAMS Hip and Knee surgery team as top 1% nationwide is impressive, and the orthopaedic surgery team's ranking in the top 3% and gastrointestinal and general surgery teams' ranking in the top 5% nationwide is equally noteworthy. Keep up the amazing work! 💪🏼",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c90870078e77e08c32ce5ceeb879b7991330c78f6a67b1a3"
+}

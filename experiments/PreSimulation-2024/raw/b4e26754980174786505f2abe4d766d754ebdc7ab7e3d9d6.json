@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwe cijfers over militaire hulp voor Oekraïne tonen een scherpe shift in het evenwicht van zware wapens op het slagveld, na meer dan 16 maanden oorlog: de tankvloot van Oekraïne is sinds het begin van de invasie gegroeid, terwijl die van Rusland is gehalveerd.",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b4e26754980174786505f2abe4d766d754ebdc7ab7e3d9d6"
+}

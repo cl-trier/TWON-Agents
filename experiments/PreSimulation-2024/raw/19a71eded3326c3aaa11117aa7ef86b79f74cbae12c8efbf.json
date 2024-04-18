@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampen met zorgtoegankelijkheidsproblemen, maar met breed gedefinieerde financiële druk stijgt dit naar 46%. Nieuwe #HealthAffairs studie onderstreept noodzaak van beleidswijzigingen voor betere healthcare-toegang & -betaalbaarheid.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19a71eded3326c3aaa11117aa7ef86b79f74cbae12c8efbf"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "#UkraineKrieg fordert schwere Opfer - zivile & militärische. Dringender Appell an #WestlicheUnterstützung: Verzögerungen bei US-Militärhilfe könnten fatale Folgen haben. #StayInformed 🇺🇦↔️🌍",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6c8ae6ce4fe028e5469521c6632811b1dd5289ab8f11eff"
+}

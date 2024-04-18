@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's come together to address the alarming racial disparities in maternal mortality 🤝 Black women are 3x more likely to die from pregnancy-related causes than White women. We must recognize urgent warning signs, ensure timely treatment, and deliver respectful, quality care for all. Social determinants of health contribute to these inequities, so let's tackle structural racism, implicit bias, and chronic conditions head-on 💪 During Black Maternal Health Week (April 11-17), let's commit to fostering dialogue, promoting understanding, and working towards a brighter future for every mom and baby",
+    "retrieved_source": "https://www.cdc.gov/healthequity/features/maternal-mortality/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db46d7cb828757066a8eccdaacc3941ce2495e312c5cac5b"
+}

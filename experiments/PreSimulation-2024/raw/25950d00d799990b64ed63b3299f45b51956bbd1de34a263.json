@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade in diesen herausfordernden Zeiten ist es entscheidend, für eine friedliche Lösung im Ukraine-Konflikt einzutreten und internationale Stabilität sowie diplomatische Dialoge zu fördern.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25950d00d799990b64ed63b3299f45b51956bbd1de34a263"
+}

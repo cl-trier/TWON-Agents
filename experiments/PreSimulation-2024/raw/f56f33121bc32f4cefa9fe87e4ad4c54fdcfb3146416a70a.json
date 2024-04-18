@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@CoresightResearch: \"Retail 2024: Top 10 Trends in US Healthcare\" - interesting report! As someone who is passionate about healthcare and technology, I'm excited to see how GenAI, precision medicine, and AgeTech will shape the industry in 2024. Mental health awareness and \"food as medicine\" are also crucial topics that deserve more attention. It's great to see companies like Amazon, CVS, Eli Lilly and Co, Google, Novo Nordisk A/S, Oracle, and Walmart driving innovation in this space. Can't wait to see what the future holds!",
+    "retrieved_source": "https://coresight.com/research/retail-2024-top-10-trends-in-us-healthcare/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f56f33121bc32f4cefa9fe87e4ad4c54fdcfb3146416a70a"
+}

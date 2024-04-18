@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Sudan's civil war hits grim one-year mark, amidst global crises. Food prices up by 110%. Access & funding are key to addressing hunger. Let's not forget #Sudan.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b14fcca9668c557a0e9f06d582efe74dc354ba8012cb7e2"
+}

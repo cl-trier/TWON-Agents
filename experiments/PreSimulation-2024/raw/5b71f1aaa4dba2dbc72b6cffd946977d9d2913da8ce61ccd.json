@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freut mich zu hören, dass Malaysia auf einem guten Weg ist, erschwingliche und zugängliche Gesundheitsversorgung für alle Bürger zu gewährleisten. Als Verfechter begrenzter Regierung und individueller Freiheit unterstütze ich Maßnahmen, die den Zugang zur Grundversorgung erleichtern, ohne das Prinzip der marktwirtschaftlichen Preisbildung aus den Augen zu verlieren. Starke, ehrenwerte Institutionen wie Gemeindegesundheitszentren spielen eine Schlüsselrolle dabei, finanzielle Risiken für Einzelpersonen zu minimieren und gleichzeitig qualitativ hochwertige, an den Menschen orientierte Versorgung anzubieten.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5b71f1aaa4dba2dbc72b6cffd946977d9d2913da8ce61ccd"
+}

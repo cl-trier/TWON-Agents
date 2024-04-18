@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "💰🇨🇦 Trudeau's budget plan tomorrow! 🤔 Will it include tax breaks for new grocery chains? 🍎🛍️ AI and tech for climate change? 🌱🔥 Let's see what the cost will be... 💸",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "760c3773253d77633543e63202dacc6ee482a174ed641d36"
+}

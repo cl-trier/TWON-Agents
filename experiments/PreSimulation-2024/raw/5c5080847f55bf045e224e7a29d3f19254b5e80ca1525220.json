@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Höre Podcast Healthcare Rethink: TailorMed's innovative Ansatz zur Senkung der Behandlungskosten. Für einen konservativen Ansatz, der individuelle Verantwortung und freie Marktpreise respektiert.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c5080847f55bf045e224e7a29d3f19254b5e80ca1525220"
+}

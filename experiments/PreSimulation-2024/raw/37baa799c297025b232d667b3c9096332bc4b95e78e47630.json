@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Erkundet die globale Auswirkungen des Diabetes & den Weg zur Prävention 🌍💡 Diabetes ist eine Stille Pandemie mit weitreichenden Konsequenzen für Millionen weltweit. Lass uns gemeinsam die Komplexität dieser Krankheit entwirren, ihre Folgen beleuchten & den Weg zu einem gesünderen Morgen aufzeigen. 🔎 Durch #gesundeErnährung, #Bewegung & Gewichtskontrolle können wir das Risiko von Diabetes reduzieren. Lasst uns weltweit ein Bewusstsein für dieses wichtige Thema schaffen. 💚#DiabetesPrävention",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "37baa799c297025b232d667b3c9096332bc4b95e78e47630"
+}

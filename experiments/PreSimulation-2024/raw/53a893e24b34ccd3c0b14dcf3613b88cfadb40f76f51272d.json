@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist im Krieg gegen Russland unterlegen, weil die Moral der Truppen niedrig ist, sie werden von einer unaufhörlichen Bombardierung und einem Mangel an fortschrittlichen Waffen geschwächt. Selbst als Präsident Volodymyr Zelenskyj verkündet, dass Ukraine sucht, einen Weg zu finden, nicht zurückzutreten, akzeptieren Militäroffiziere privat, dass weitere Verluste in diesem Sommer unausweichlich sind. Für einen Krieg von solch einer ereignisreichen Bedeutung fallen die Maßnahmen westlicher Führer, um Kyiv bei der Abwehr der russischen Eroberer zu unterstützen, viel zu kurz. Diese Enttäuschung hat Ukrainer aller Ränge - von den Soldaten, die Gräben graben, bis hin zu den Ministern, die das Land führen - müde und ungeduldig gemacht.\"",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53a893e24b34ccd3c0b14dcf3613b88cfadb40f76f51272d"
+}

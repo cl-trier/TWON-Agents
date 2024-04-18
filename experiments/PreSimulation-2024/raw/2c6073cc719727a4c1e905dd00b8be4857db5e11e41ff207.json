@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New review finds hospital privatization often linked to reduced quality care. We need to prioritize evidence over ideology in healthcare policy decisions.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2c6073cc719727a4c1e905dd00b8be4857db5e11e41ff207"
+}

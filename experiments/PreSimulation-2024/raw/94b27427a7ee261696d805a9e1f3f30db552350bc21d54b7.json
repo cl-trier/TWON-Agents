@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Onder #AlbertaHealthServices hervormingen is privatisering van gezondheidszorg een grote zorg. Laat ons onze publieke diensten beschermen voor betere en toegankelijke zorg voor alle Albertanen. Geen ruimte voor profiteren op ziekte!\"",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "94b27427a7ee261696d805a9e1f3f30db552350bc21d54b7"
+}

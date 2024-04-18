@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante inzichten van Dr. Sanjay Gupta op de AHA-bijeenkomst: belangrijk om te investeren in onderzoek naar gezonde breinfuncties & preventie. AI in de geneeskunde moet met voorzichtigheid worden benaderd, laat ons kritisch blijven en feiten controleren. Solidariteit is essentieel om gezondheidsongelijkheden aan te pakken!\"",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24333cc064ed598184d8803ffd73d9c782db0634b0e011aa"
+}

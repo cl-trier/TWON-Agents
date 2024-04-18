@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Bedrohen privatisierte Krankenversicherungssysteme die universelle Gesundheitsversorgung im Libanon? Wir müssen für eine starke und nachhaltige Sozialversicherungsinstitution kämpfen, um Gerechtigkeit für alle zu gewährleisten!",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0dc731601715fa6382770d5919ec6b4ddda52cd804528e08"
+}

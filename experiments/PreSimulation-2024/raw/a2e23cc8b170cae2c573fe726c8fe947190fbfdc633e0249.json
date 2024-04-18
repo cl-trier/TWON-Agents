@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gemeinsam können wir Antibiotikaresistenz bekämpfen und Geschichte schreiben - für eine Welt, in der Mensch und Tier gleichermaßen von Fortschritten im Gesundheitssektor profitieren.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a2e23cc8b170cae2c573fe726c8fe947190fbfdc633e0249"
+}

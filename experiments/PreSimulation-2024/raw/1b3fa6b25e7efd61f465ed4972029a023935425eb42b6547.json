@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Our hearts go out to the people of Ukraine as they endure relentless attacks on their energy infrastructure. We stand with you and call for immediate action from the international community to ensure your safety, sovereignty, and access to critical aid. #StandWithUkraine 💔🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b3fa6b25e7efd61f465ed4972029a023935425eb42b6547"
+}

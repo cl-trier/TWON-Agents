@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Science Translational Medicine: where cutting-edge science meets real-world medical solutions. Let's bridge the gap between research and patient impact!\"",
+    "retrieved_source": "https://www.science.org/journal/stm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ae9885ea4e523134eb9d8ec1486c20025ad5e2546831afb4"
+}

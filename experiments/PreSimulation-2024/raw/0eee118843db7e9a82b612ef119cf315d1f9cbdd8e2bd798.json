@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare costs are suffocating American families, and it's not just those without insurance who are struggling. Many of those with coverage are also burdened by medical debt. It's time for real reform, not just band-aid solutions.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0eee118843db7e9a82b612ef119cf315d1f9cbdd8e2bd798"
+}

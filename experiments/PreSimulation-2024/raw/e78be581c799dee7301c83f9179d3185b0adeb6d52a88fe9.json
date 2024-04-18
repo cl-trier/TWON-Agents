@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Military conflict in Ukraine is a complex issue that requires careful consideration and respect for all perspectives. Let's promote constructive dialogue and seek a path towards understanding and peace.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e78be581c799dee7301c83f9179d3185b0adeb6d52a88fe9"
+}

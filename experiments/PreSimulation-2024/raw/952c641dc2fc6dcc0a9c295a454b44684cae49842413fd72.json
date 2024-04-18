@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "One year since the civil war in Sudan began, and the situation only continues to worsen. The conflict has spread beyond Darfur, leaving countless innocent lives affected. It's heartbreaking to see food prices spike by over 110% since the start of the war. The root of the problem is access and funding, as stated by the World Food Program. We must continue to bring attention to this crisis and work towards a solution.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "952c641dc2fc6dcc0a9c295a454b44684cae49842413fd72"
+}

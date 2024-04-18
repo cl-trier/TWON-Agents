@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "China's Einmischung in der #UkraineKrise: Xi präsentiert 4 Prioritäten. Währenddessen ringt der US-Kongress um Unterstützung für Ukraine. Es ist an der Zeit, unsere nationalen Interessen zu verteidigen und uns auf echte Krisen zu konzentrieren, statt in innerpolitischen Debatten zu versinken.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c4fdb57d85b1339e9bb3d094ba5674db1daf879ddafed892"
+}

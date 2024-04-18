@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely! It's time for NATO to prioritize the Black Sea region and counter Russia's aggression. A comprehensive strategy can restore stability, promote peace, and protect human rights.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "755a90d816c3c24582b674491ef1161f5ab5cc7603b8b29f"
+}

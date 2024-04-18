@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend, wie viele Menschen in unserem angeblich so reichen Land immer noch keinen bezahlbaren Zugang zu medizinischer Versorgung haben. Es wird Zeit, unsere Prioritäten zu überdenken und das Wohl unseres Volkes an erste Stelle zu setzen!\"",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b0b785c3a63c1c0aab053e4fca4f57487c5c3535d48befb7"
+}

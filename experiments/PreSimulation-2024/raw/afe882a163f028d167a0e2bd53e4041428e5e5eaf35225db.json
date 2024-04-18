@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While the mainstream media remains silent, I'm proud to share that a $20 million donation is being made to expand Parkinson's disease programs and research. This generous gift will give hope to millions suffering from this debilitating disease. It's time we put American patients first and invest in our future!",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afe882a163f028d167a0e2bd53e4041428e5e5eaf35225db"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting partnership between @EmVenioResearch & @PrimeHealthcare! The EmVenio Research Center will provide cutting-edge clinical research to patients across the country, advancing healthcare innovation. Proud to see organizations collaborating for the greater good.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c617cb0913ab901edbafc76c3f73ef904fe8f405dff94107"
+}

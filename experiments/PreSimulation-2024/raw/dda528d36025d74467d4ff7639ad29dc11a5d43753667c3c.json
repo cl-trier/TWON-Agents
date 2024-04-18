@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just honored to learn about Dr. Smith's well-deserved recognition as a top physician in disease & infection prevention by the American Association of Kidney Patients! Their work in community education on food choices, nutrition, and safety measures is truly commendable and transformative for kidney health 🩺🎉#KidneyHealth",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dda528d36025d74467d4ff7639ad29dc11a5d43753667c3c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Luister naar de Healthy Bottom Line podcast over preventieve geneeskunde! Het is zeer teleurstellend dat ondanks de pandemie er nog steeds weinig waarde wordt gehecht aan preventieve zorg. We moeten solidair zijn met elkaar en samenwerken om te zorgen voor een gezonde toekomst voor iedereen, ongeacht hun achtergrond of sociaaleconomische status. Steun de preventieve geneeskunde",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e39fb76469f8d09d2fb90e5a0f668e9b804cb2191874483"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland belangrijke rol te spelen in het bevorderen van vrede tussen Oekraïne en Rusland. Pragmatisch economisch beleid nodig, maar niet ten koste van nationale veiligheid. Sterke overheid noodzakelijk om orde te handhaven.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0af925fd1184d7bad51ce3bebeb39c25f16b4d0dd9e9fb31"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's time for China to step up and use its influence over Russia to bring an end to this senseless war in Ukraine. The world is watching and waiting for action, not just words.\"",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529976.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c658de96ab63c8e267e3212802b7f9108ab0891cf4396f5"
+}

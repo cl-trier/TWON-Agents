@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "It's time for constructive dialogue and unity among G7 nations to address the Ukraine crisis, while also considering the risks and legalities involved in providing aid. Let's work together to find a peaceful solution that respects Ukraine's sovereignty and territorial integrity.\"",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "87bd4d16ad2ca67a86fc5fecf6642db9d6fdfe0d06aa4e18"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Prevention is the key to a healthier future!\" Dr. Sanjay Gupta emphasizes the significance of brain health and the importance of measuring it. Let's prioritize our well-being and combat misinformation in healthcare. #AI in medicine is promising, but we must ensure its accuracy with a \"trust, but verify\" approach. A healthy lifestyle is essential! 💪🏽🧠💻",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8cecc7a70f03fec62a0026d24de318e5d6ab1ccd29735f07"
+}

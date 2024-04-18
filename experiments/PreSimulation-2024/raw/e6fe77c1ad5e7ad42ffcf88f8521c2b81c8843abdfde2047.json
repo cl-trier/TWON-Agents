@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schrijf een few-word Twitter-bericht over het volgende onderwerp gebaseerd op je persoonlijkheid\":\"Russia, Ukraine, and the West: let's learn from history. Finland's neutrality during the Cold War could be a blueprint for peace in Ukraine. It's time for dialogue, not escalation.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6fe77c1ad5e7ad42ffcf88f8521c2b81c8843abdfde2047"
+}

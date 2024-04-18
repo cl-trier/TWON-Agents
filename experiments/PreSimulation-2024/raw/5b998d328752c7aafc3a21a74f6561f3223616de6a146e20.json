@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unsere #UAMS Ärzte, die von Avant-garde Health zu \"Healthcare Research All-Stars\" für 2",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5b998d328752c7aafc3a21a74f6561f3223616de6a146e20"
+}

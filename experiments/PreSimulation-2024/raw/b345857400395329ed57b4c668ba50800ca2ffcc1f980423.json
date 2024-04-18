@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gelijke toegang tot betaalbare gezondheidzorg is cruciaal voor financiële bescherming en mensencentrerte zorg in Maleisië.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b345857400395329ed57b4c668ba50800ca2ffcc1f980423"
+}

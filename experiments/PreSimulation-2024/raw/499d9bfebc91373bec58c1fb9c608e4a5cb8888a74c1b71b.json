@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare should be a basic human right, not a luxury for the wealthy. Let's work towards making it accessible and affordable for all.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "499d9bfebc91373bec58c1fb9c608e4a5cb8888a74c1b71b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidariteit met Oekraïne in hun strijd voor soevereiniteit en internationale stabiliteit. Alle landen moeten zich verenigen om agressie te weerstaan en vrede te bevorderen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1162868c1d7d02fe23076abf83d337cc10fa427c3be70f2d"
+}

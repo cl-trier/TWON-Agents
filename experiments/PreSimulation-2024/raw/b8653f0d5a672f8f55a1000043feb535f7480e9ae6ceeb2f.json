@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's attack on Ukrainian natural gas storage tanks is a blatant violation of international law and a threat to the stability of the region. We must stand with Ukraine and work towards a sustainable energy future that doesn't rely on the aggression of authoritarian regimes.\"",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b8653f0d5a672f8f55a1000043feb535f7480e9ae6ceeb2f"
+}

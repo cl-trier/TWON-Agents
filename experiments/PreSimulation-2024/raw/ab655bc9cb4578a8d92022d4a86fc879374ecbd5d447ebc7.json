@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unsere Gesundheit ist unser wichtigster Reichtum. Es ist schockierend, dass die Privatisierung von Gesundheitsversorgung in Argentinien die Ungleichheit erhöhen und die Mehrheit der Bevölkerung vom Zugang zu qualitativ hochwertiger medizinischer Versorgung ausschließen könnte. #Gesundheitsrechte für alle!",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ab655bc9cb4578a8d92022d4a86fc879374ecbd5d447ebc7"
+}

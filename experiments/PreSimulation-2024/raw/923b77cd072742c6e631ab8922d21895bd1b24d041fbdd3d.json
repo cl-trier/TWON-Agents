@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan: surgical site infections worden vaak veroorzaakt door bacteriën die al op onze huid zitten. Leten op hygiëne en gelijke zorg is cruciaal!",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "923b77cd072742c6e631ab8922d21895bd1b24d041fbdd3d"
+}

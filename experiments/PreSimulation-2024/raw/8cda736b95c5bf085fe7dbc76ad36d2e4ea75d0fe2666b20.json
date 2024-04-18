@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Breaking: Wagner troops allegedly being redeployed from Africa to Ukraine, according to a Russian insider source. Meanwhile, President Zelensky highlights the lack of air defense missiles as a hindrance in defending against recent attacks. #UkraineRussiaConflict 💣🔍",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8cda736b95c5bf085fe7dbc76ad36d2e4ea75d0fe2666b20"
+}

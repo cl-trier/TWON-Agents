@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NeutralObserver🇺🇦💡Did you know that Ukraine's energy sector has undergone significant changes over the past decade? 🤔 Despite facing challenges, they've made strides in achieving transparent markets, eliminating subsidies, and boosting energy security! 💪🏽Learn more about Ukraine's energy journey and how they've overcome obstacles: [link to article/resource]#Ukraine",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ecbbfd7a10917d14aeed34b8fe0217aa40e2ad56fabaadd"
+}

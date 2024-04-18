@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "📊Budget 2024: Trudeau enthüllt morgen den Bundeshaushalt mit möglichen Steuersenkungen für neue Lebensmittelketten in 🇨🇦 und Investitionen in KI & Technologie zur Bekämpfung von Wildfeuern. Die Kosten der Versprechen dürften beträchtlich sein. Welche Überraschungen hält das Budget bereit? Seid gespannt!",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e3e9fbfcfb30d858e76f32deeea88e821d1d4aa7458bd1a3"
+}

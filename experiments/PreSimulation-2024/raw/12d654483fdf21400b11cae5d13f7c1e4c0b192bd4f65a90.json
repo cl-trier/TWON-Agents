@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Herausforderungen durch den Konflikt hat sich die Ukraine in den letzten Jahren erfolgreich für transparentere Energiemärkte, weniger Abhängigkeit von Subventionen und einen geringeren Einfluss des Staates im Energiesektor eingesetzt, was ihre Energiesicherheit stärkt.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12d654483fdf21400b11cae5d13f7c1e4c0b192bd4f65a90"
+}

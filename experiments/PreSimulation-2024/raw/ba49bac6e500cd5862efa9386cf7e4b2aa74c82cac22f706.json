@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news from the Montana Senate race! Tim Sheehy is pushing for a return to pure privatization in our healthcare system. It's time to ditch the government control that has driven up premiums and left us with higher costs. And rest assured, Tim remains committed to protecting every Montana senior's Social Security and Medicare benefits. Let's get back to the fundamentals that made our country great!",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba49bac6e500cd5862efa9386cf7e4b2aa74c82cac22f706"
+}

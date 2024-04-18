@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% of adults facing healthcare affordability challenges? It's time to reassess our priorities and focus on creating a more sustainable and accessible healthcare system for all, rather than burdening individuals with unaffordable costs.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "650def0d418a374303f7ba4500167ade2a29ee1cb5f0cf40"
+}

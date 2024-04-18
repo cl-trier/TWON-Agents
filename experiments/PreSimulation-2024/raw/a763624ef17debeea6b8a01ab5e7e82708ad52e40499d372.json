@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Als pediater zie ik te veel jong leven worden weggevaagd door geweld met vuurwapens. Laten we dokters actief zijn in preventie & samen met politiek en gemeenschap oplossingen zoeken voor deze publieke gezondheids crisis.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a763624ef17debeea6b8a01ab5e7e82708ad52e40499d372"
+}

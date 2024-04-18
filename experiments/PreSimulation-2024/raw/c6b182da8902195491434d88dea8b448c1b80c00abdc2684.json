@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to get government out of healthcare and return it to the private sector where it belongs. We need a free market approach that promotes competition, innovation and patient choice, not more government control which only drives up costs and reduces access.\"",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6b182da8902195491434d88dea8b448c1b80c00abdc2684"
+}

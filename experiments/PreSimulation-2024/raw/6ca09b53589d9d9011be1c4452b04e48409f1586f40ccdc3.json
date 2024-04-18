@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nog steeds geen actie tegen de op creepende wijze verlopende privatisering van de zorg in Libanon. Zorg is een basisrecht en moet beschermd blijven door sterkte publieke instituties, niet door politieke partijen die profiteren van privé-initiatieven.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ca09b53589d9d9011be1c4452b04e48409f1586f40ccdc3"
+}

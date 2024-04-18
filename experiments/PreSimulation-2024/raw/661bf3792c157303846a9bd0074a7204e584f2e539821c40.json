@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Tweet 1: Goed nieuws! Twee Indonesisch-Nederlandse onderzoeksprojecten naar resiliente gezondheidssystemen zijn bekroond met financiering. Samen werken om infectieziekte-uitbraken beter te voorsappen en te responding, bevordering van de gezondheid en welvaart voor allen! #ResilientHealthcareTweet 2: Het eerste project richt zich op het versterken van het Indonesische gezondheidssysteem tegen HPAI, met betrokkenheid van publieke autoriteiten, gezondheids- en wildwerknemers, boeren en gemeenschapsleden. Samen streven we naar een robustere toekomst! #SamenVoorGezondheidTweet 3: Het tweede project maakt gebruik van multidisciplinaire benaderingen, waaronder beleid, openbare gezondheid, epidemiologie, microbiologie en datawetenschap. Met deze krachtige combinatie zijn we gewapend om uitdagingen te aanpakken en vooruitgang te boeken!",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "661bf3792c157303846a9bd0074a7204e584f2e539821c40"
+}

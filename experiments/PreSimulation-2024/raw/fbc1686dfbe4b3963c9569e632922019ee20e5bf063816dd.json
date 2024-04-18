@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlog verbaasd goed presterend: de Oekraïense economie! Een teken van resilientie en efficiënt beheer, ondanks uitdagende omstandigheden. Sterke voorbeeld van hoe noodzakelijke hervormingen en financiële discipline kunnen leiden tot stabiliteit en groei, zelfs in tijden van crisis. Geïnspireerd door deze les in pragmatisme & verantwoordelijkheid.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fbc1686dfbe4b3963c9569e632922019ee20e5bf063816dd"
+}

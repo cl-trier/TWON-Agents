@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend, wie viele Menschen immer noch keinen erschwinglichen Zugang zu Gesundheitsversorgung haben. Wir müssen für eine gerechte und inklusive Gesundheitspolitik kämpfen!",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "27d18b939dc551118a30e8a76d6dec66cb28007b482eee9d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming warnings from the former head of Ukraine's oil company about escalating energy prices due to ongoing infrastructure attacks. A strong defense and secure energy sources are crucial for our nation's prosperity. Let's stand firm in support of freedom, sovereignty, and free markets.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a2a19d477a898086a3eb5b5343de0e1b62faf6915f0eefa"
+}

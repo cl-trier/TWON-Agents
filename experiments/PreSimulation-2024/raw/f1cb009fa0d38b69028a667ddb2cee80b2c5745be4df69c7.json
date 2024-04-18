@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Endlich nimmt die Krebsvorsorge in unserem Land zu! Es ist ermutigend zu sehen, dass so viele Menschen ihre Gesundheit aktiv verwalten und auf potenzielle Probleme achten. Lassen Sie uns weiterhin für eine Zukunft eintreten, in der Präventivmedizin im Vordergrund steht.\"",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1cb009fa0d38b69028a667ddb2cee80b2c5745be4df69c7"
+}

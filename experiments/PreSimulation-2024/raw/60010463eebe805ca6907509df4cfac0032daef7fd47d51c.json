@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne vocht hard voor hun soevereiniteit, maar EU en NATO moeten hun beloftes nakomen om hulp en steun te bieden. Onze internationale solidariteit is noodzakelijk in tijden van militaire conflicten.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "60010463eebe805ca6907509df4cfac0032daef7fd47d51c"
+}

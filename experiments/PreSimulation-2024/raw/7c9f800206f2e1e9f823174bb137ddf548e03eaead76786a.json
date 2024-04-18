@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Halt strikes on Russian oil refineries?! Ukraine has every right to defend itself against Russian aggression. Solidarity with Ukraine in their fight for sovereignty and territorial integrity.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c9f800206f2e1e9f823174bb137ddf548e03eaead76786a"
+}

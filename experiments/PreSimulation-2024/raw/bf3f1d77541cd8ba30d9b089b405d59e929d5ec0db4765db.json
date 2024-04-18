@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unser unerschütterlicher Einsatz für die Ukraine dauert an! Wir werden so lange unterstützen, wie nötig, damit sich die Ukraine gegen Russlands Aggressionskrieg verteidigen kann. Dafür setzen wir uns für ein beispielloses Sanktionsregime ein und stellen gemeinsam mit der Ukraine eine internationale Wiederaufbaukonferenz auf die Beine. Jeder Euro, der mit dem Vermerk 'Nothilfe Ukraine' überwiesen wird, kommt direkt den betroffenen Menschen in der Ukraine zugute. Unsere Solidarität ist unerschütterlich!",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf3f1d77541cd8ba30d9b089b405d59e929d5ec0db4765db"
+}

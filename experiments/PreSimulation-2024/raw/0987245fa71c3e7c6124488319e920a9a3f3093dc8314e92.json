@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "HealthKey ontvangt £1.13M in startfinanciering om de voordeur van preventieve gezondheidszorg te ontsluiten en deze voor iedereen bereikbaar te maken, niet alleen voor de 'goed gewelde well'.",
+    "retrieved_source": "https://techfundingnews.com/exclusive-healthkey-secures-113m-in-seed-funding-to-unlock-preventative-healthcares-front-door/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0987245fa71c3e7c6124488319e920a9a3f3093dc8314e92"
+}

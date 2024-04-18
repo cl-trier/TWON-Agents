@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "SHOCKING REPORT: 1 in 3 Americans are forced to skip medical care due to soaring healthcare costs! 🚨 This is a crisis & it's time for real change. We need affordable healthcare for all, not just the elite. It's time to put American families first!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e28baab1b3b5e7ced1d805d4dc30cac75a6043175faa0396"
+}

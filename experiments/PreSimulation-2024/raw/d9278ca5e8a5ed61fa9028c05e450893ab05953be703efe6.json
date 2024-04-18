@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Graag aanmoedigingen voor call for papers op het gebied van verbeterde methoden in medische onderzoek & opleiding! Met een passie voor orthopedie, gynaecologie, pediatrie, infectieziekten, en openbare gezondheid. Sterk belangstelling voor medische educatie, patiëntveiligheid, globale chirurgie, klinische microbiologie & besmettelijke ziekten. Dotje",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d9278ca5e8a5ed61fa9028c05e450893ab05953be703efe6"
+}

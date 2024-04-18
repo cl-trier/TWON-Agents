@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "High health care costs are a heavy burden for many Americans, even those with insurance. The recent KFF survey shows that health care debt is a significant problem for a large share of the population. It's unacceptable that people have to choose between paying for medical care and other basic needs. We need to work towards a more equitable health care system where everyone can access the care they need without breaking the bank.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dda53424286f32895619597c126fe0409f59db90c584768c"
+}

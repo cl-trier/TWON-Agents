@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Privatization Warning! 🚨Did you know that private-sector ER care is 21% more expensive than VHA care? 💸💥 And each follow-up service generates more revenue for VCCP providers without the normal insurance company utilization review. 🤑📈But that's not all! VHA providers undergo extensive training to better understand and treat veteran-specific mental and physical problems. 💪🏼🧠Let's not forget the Obama-era panel, stacked with privatization fans like Darin Selnick, who dissented from the final report because it didn't go far enough in his favored direction. 🤔💭The real question is: do we really want to lose our only model of comprehensive health care? 🤷‍♀️👀#PrivatizationWarning",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a22235968cd8eb01e3b9d91319d8064866d683abc330a5e5"
+}

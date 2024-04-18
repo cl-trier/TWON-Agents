@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "AI in biomedical research and healthcare must benefit everyone equally, emphasizing the importance of incorporating social science perspectives in development to ensure intersectional fairness and equity.\"",
+    "retrieved_source": "https://www.universiteitleiden.nl/en/in-the-media/2023/09/new-article-by-elaw-fair-and-equitable-ai-in-biomedical-research-and-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "466cc630a2650e1493e42a843fa3d7afd839f282c00b76ab"
+}

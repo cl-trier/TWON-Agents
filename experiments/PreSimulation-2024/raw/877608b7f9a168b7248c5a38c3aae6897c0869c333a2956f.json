@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO, it's time to step up and implement a comprehensive strategy for the Black Sea region! 🌊🇺🇦🏴 The security of this region is indivisible and it's crucial that we counter Russia's aggressive influence. Let's make the Black Sea a sea of peace and stability, just like the Baltic Sea! 💪🏼",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "877608b7f9a168b7248c5a38c3aae6897c0869c333a2956f"
+}

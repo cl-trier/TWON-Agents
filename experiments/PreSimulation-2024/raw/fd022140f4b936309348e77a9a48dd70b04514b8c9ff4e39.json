@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Latin American companies embracing preventative healthcare through VivaWell's innovative plans, promoting employee wellbeing while driving fiscal responsibility in corporate benefits!",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd022140f4b936309348e77a9a48dd70b04514b8c9ff4e39"
+}

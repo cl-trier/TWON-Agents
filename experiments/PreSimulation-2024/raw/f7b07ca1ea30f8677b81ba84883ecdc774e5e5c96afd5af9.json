@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "China's Einmischung in der Ukraine-Krise und der Stillstand im US-Kongress für Unterstützungszahlungen zeigen, wie wichtig starke nationale Führung ist - es wird Zeit, die politische Korrektheit abzuschütteln und unsere Interessen zu verteidigen!",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7b07ca1ea30f8677b81ba84883ecdc774e5e5c96afd5af9"
+}

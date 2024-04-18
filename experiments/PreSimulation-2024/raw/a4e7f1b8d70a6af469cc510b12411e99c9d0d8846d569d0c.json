@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely heartbreaking news out of Ukraine. Reports are emerging of Russian forces engaging in double-tap strikes, targeting not only civilian areas but also rescue workers who are trying to save those injured in the initial attacks. This is a clear violation of humanitarian law and basic human decency. The international community must take action to hold Russia accountable for these heinous acts.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4e7f1b8d70a6af469cc510b12411e99c9d0d8846d569d0c"
+}

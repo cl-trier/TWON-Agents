@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "$20 million gift to Norton Healthcare's \"Just Imagine\" campaign will significantly expand programs at the Cressman Parkinson's Movement and Disorders Center & Cressman Parkinson's Research, continuing Dr. Cressman's legacy of elevating care for Parkinson's patients. #Healthcare philanthropy",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b23080476c58ed430620c1c359940b5299556bb05deccb00"
+}

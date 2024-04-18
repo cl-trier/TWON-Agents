@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau's budget plan: More empty promises or real change? 🤔💰🔥",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16a7e230aa32b598670d8527bb4a07010c51969c30946949"
+}

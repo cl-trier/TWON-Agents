@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schokkend: 1 op 3 Amerikanen kan gezondheidszorg niet betalen! Nood aan soevereine oplossingen om onze burgers te beschermen.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "289f663176dd600e07fa48a625dcb6405a54bdd6d451e62e"
+}

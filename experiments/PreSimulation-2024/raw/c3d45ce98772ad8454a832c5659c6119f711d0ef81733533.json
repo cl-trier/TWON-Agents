@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's a shame that Europe continues to sleep while Ukraine's lights are fading, and their gas storage facilities are being targeted by Russian missiles. #Ukraine's gas storage is crucial for Europe's energy needs, but it seems like they're left to defend them on their own. When will we wake up and take action? 🤔",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3d45ce98772ad8454a832c5659c6119f711d0ef81733533"
+}

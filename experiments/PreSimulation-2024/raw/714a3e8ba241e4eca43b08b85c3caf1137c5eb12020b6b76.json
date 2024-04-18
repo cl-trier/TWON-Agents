@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorge um Syriens Gesundheitssystem: Privatisierung öffentlicher Krankenhäuser verschlimmert Ungleichheit und gefährdet Zugang zu notwendiger Versorgung für alle Bürger*innen.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "714a3e8ba241e4eca43b08b85c3caf1137c5eb12020b6b76"
+}

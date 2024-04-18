@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🔍💡Did you know that Ukraine's energy sector has undergone significant changes over the past decade? 🤔 Despite the challenges posed by the ongoing conflict, Ukraine has made great strides in strengthening its energy security and aligning its legislation with European standards. 💪🏽 However, Russia's threats to Ukraine's energy sector continue, and it's crucial for Ukraine to remain vigilant in ensuring the security of its energy supply. 🚨💡",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3a36176c8af6fe15361157a229f812d1a932741acc104a59"
+}

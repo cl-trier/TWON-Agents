@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's stability is crucial voor Europees vrede en veiligheid. Internationale samenwerking noodzakelijk, maar Nederland dient ook eigen belang te behartigen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d19c174aad3e8a7977233e0d629bc53d09e3ca80e33dd2f5"
+}

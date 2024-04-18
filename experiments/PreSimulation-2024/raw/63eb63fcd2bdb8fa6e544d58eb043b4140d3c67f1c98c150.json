@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Frieden und Gerechtigkeit: Unterstützen wir die Ukraine jetzt! #StandWithUkraine 💙💛",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63eb63fcd2bdb8fa6e544d58eb043b4140d3c67f1c98c150"
+}

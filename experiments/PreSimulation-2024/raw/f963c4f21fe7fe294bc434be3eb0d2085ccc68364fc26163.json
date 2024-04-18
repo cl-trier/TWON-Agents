@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Volgens analisten riskiert Oekraïne in 2024 een nederlaag. De situatie is complex en gevoelig. Het is cruciaal om objectief te blijven en verschillende perspectieven te begrijpen. Alleen dan kunnen we een constructieve dialoog voeren en oplossingen vinden die recht doen aan alle betrokken partijen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f963c4f21fe7fe294bc434be3eb0d2085ccc68364fc26163"
+}

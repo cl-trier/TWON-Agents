@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The issue of healthcare affordability continues to be a pressing concern for many individuals and families. It's crucial that we prioritize making healthcare accessible and affordable for all, regardless of income or social status. Let's work together to find solutions that ensure everyone can receive the care they need without breaking the bank.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d3e22ef9943f7d6a18d83f3c44471b1fd80106be93f3b11"
+}

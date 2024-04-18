@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's military is in a desperate situation. The destruction of the Trypillya power plant has left three regions, including Kyiv, without electricity. The delay in US military aid is costing lives, both civilian and military. Maryan Zablotskyy, a member of the Ukrainian parliament, warns that Ukraine is running out of crucial military hardware. The Russian military technology is advancing rapidly, putting Ukraine at risk of losing the war. It's time for the West to step up and provide the necessary support to prevent a devastating defeat.\"",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce7c230e373ab53750211df40e3355c251e24b52f4570f10"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine in crisis, Putin's grip tightens. War rages on, innocent lives lost. We must stand united against aggression, defend territorial integrity. The world watches, will we act?\"",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "daeef4d95ecdcc8adeed8f30016697c2f0fff4272d1c6209"
+}

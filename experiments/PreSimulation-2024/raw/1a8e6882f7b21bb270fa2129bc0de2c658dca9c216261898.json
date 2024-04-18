@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Vandaag, day 782 van de Russia-Ukraine oorlog, zijn belangrijke ontwikkelingen aan de horizon. Zie hieronder voor een lijstje van de hoofdgebeurtenissen.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a8e6882f7b21bb270fa2129bc0de2c658dca9c216261898"
+}

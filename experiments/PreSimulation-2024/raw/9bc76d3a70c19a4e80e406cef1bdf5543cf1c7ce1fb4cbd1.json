@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must broaden its vision beyond the current conflict in Ukraine to address the complexities of strategic cyber competition. While NATO refrains from cyber operations outside of defense, individual allies' actions shape this domain. The stability of cyberspace, a common good, is maintained by a global multi-stakeholder community where NATO has historically had limited influence. Russia and China pose unique political and technological challenges in this realm. To ensure peace and security in the digital age, NATO must strengthen its engagement with technical, policy, and civil society communities. This is a critical step towards countering cyber threats and maintaining international stability.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9bc76d3a70c19a4e80e406cef1bdf5543cf1c7ce1fb4cbd1"
+}

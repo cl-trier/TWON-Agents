@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gemeinsam gegen Diabetes: Für eine gerechte Gesundheitsversorgung und Prävention weltweit. 🌍🔬 Type 1 oder Type 2 - lasst uns die Ursachen bekämpfen, nicht die Betroffenen. 💪",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e5e44740414c918b0b49e30cc3e5b09b071c71d5a5cafe2"
+}

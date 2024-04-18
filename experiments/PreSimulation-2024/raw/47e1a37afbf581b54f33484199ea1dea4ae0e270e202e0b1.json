@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine war updates: Kremlin won't say whether it was forewarned of Iran's attack; Russians closing in on battlefield target\"\"The US must do more to support Ukraine! The House of Representatives needs to pass the Ukraine aid bill NOW. We cannot let legal debates hold back our support for a nation fighting for its freedom and democracy.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47e1a37afbf581b54f33484199ea1dea4ae0e270e202e0b1"
+}

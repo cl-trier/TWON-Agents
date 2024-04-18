@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessante Entwicklung: Die USA drängen Ukraine, Angriffe auf russische Ölraffinerien einzustellen - zeigt es die Komplexität diplomatischer Beziehungen und Energiepolitik? Gerne mehr objektive Berichterstattung dazu!\"",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e3daeb78a761e714c85764257e6ec38bdb20c68f24b41dcf"
+}

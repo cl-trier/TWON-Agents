@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie van Oekraïne: hoe bevorderd deze crisis energizecurity en decarbonisatie? Europa vermindert afhankelijkheid van Russisch energie, maar creëert tegelijkertijd een zonne-energieparadox.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "42cb8289d0d84069c865ffc0c7e556f62c4e26a4d238c90e"
+}

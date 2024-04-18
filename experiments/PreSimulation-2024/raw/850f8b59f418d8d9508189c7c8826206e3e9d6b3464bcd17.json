@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisation in het Britse gezondheidssysteem heeft een twee-tier systeem opgeleverd. Het publieke segment wordt chronisch onderfinancierd, terwijl de private sector overcapaciteiten heeft. Dit resulteert in langere wachttijden en slechtere zorg voor patiënten. De artsen worden geprikkeld om hun altruïstische waarden en morele principes te compromissen. Volgens een recent onderzoek gebruiken 13% van de Britten private gezondheidszorg uit angst om de gezondheid van hun familieleden. Dit is een teken dat de privatisation mislukt is en we een andere benadering moeten zoeken.\"",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "850f8b59f418d8d9508189c7c8826206e3e9d6b3464bcd17"
+}

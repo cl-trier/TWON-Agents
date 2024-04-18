@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming ER study reveals private sector care costs 21% more than VHA care. We must prioritize fiscal responsibility and quality care for our veterans. Privatization threatens both.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9128ca2c43223270234a383f207bf0afbbb172a86c649b92"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neuer Bericht von PayZen enthüllt die Krise der healthcare Affordability in Amerika 🇺🇸. Schockierende Tatsache: Der Durchschnittsbürger kann maximal $97 pro Monat für außerplanmäßige medizinische Kosten aufbringen. Wir müssen zurück zu traditionellen Werten von individueller Verantwortung & begrenzter Regulierung, um die healthcare-Kosten in den Griff zu bekommen.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "701361fdeebc43937f2023bbb46eec07cc0c473a03c90253"
+}

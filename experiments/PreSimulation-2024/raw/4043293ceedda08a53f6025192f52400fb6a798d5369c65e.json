@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's attack on Israel could be bad for Russia's war in Ukraine",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4043293ceedda08a53f6025192f52400fb6a798d5369c65e"
+}

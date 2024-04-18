@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante blog over de toekomst van vrouwen­gezondheidszorg in het AI-tijdperk. Belangrijk om blind spots te adresseren en unieke behoeften van vrouwen te erkennen.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "826cbc97572c36e747a3707f36269c84d54b4c8c537f8edc"
+}

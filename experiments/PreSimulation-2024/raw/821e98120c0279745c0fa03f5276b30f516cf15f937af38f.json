@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@SarahPalin: Privatization Warning! 🚨 VHA care is more affordable than private sector ER care by 21 percent, according to studies. Yet, VCCP providers profit from each follow-up service without insurance company review. 💰 VHA providers receive extensive training for veteran-specific health issues. Don't let privatization fans like Darin Selnick dismantle our only comprehensive healthcare model! 🇺🇸",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "821e98120c0279745c0fa03f5276b30f516cf15f937af38f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke oproep van het CDC om bijdragen te leveren aan preventie van chronische ziekten 🔬🩺 Schrijf nu manuscript over openbare gezondheidszorg, praktijken en beleid. Laat ons samenwerken om ongelijkheden in de gezondheidszorg te verkleinen & alle mensen de kans te geven op een gezonder leven!",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5396fb55c8352f3bdb55a3696fa7c8e2a159c2dce773fa8c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Het is belangrijk dat gezondheidszorg betaalbaar en toegankelijk is voor iedereen. In Maleisië lijkt men hiervan aware te zijn en werken ze eraan om mensencentrale zorg te bieden.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be78e2ad6e1a3250f8bb0018bc39d9557003951024338bdf"
+}

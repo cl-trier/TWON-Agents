@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine is losing the war with Russia because of a lack of support from Western leaders. Despite their empty words, they have failed to provide the necessary weapons and resources to help Kyiv defend itself against Russia's invaders. The soldiers on the front lines are paying the price for this betrayal, and it's a disgrace to the international community.",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c595e2cd863d6b20a2f1ab7451571e7e256153729cefb76"
+}

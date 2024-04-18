@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts des Endes des Russia-Ukraine Gasdeals und der EU-Pläne zur Reduzierung von Russland-Energieimporten bis 2027 könnte die neue deutsche Gas-Exportsteuer Investitionen in alternative Versorgungsquellen erschweren, wie Experten warnen. Nun drängen Nachbarländer auf Diskussionen dieses Themas auf der EU-Energieministerkonferenz am Montag in Brüssel.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "57296661d5c6ee8831736571f66cdd5fc01d8adff946efd1"
+}

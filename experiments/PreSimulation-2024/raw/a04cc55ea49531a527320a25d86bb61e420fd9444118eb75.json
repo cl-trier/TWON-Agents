@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's attack on Israel could have far-reaching consequences, potentially disrupting Russia's influence in Ukraine and opening opportunities for China in the Middle East - a complex web of geopolitical implications 🌎",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a04cc55ea49531a527320a25d86bb61e420fd9444118eb75"
+}

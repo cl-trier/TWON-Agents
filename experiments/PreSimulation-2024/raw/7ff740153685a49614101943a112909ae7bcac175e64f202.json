@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Smoke rises over Chasiv Yar as Russia intensifies efforts, highlighting the dynamic and critical nature of this conflict zone in Ukraine. Let's promote constructive dialogue for understanding.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ff740153685a49614101943a112909ae7bcac175e64f202"
+}

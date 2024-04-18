@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan dat honden ouder worden veel aandacht nodig hebben. Eigenaars denken vaak dat veranderingen in oudere honden 'normaal' zijn, maar jaarlijkse controle door een dierenarts is essentieel. Samen werken voor een gezond en gelukkig leven van onze trouwe vrienden!",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e77b45bc8ef0e27787eb2e3bee0806be7ce99d2e8d4cab7"
+}

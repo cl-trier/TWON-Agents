@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Great news! Two research projects on Resilient Healthcare Systems for Pathogen Outbreak Preparedness have been awarded in Indonesia. This is a step in the right direction to make our healthcare system more resilient against infectious diseases. Let's work together to protect our communities and reduce the economic and social costs of pandemics.",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "00b2ccf09e4ee5d3db7aa3934325ea3ba594740d3a83ffec"
+}

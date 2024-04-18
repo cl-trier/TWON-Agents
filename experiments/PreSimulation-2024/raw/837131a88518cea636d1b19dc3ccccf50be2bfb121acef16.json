@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's verdediging tegen Russische agressie is crucial voor onze Europese veiligheid. Hoe lang zullen wij toestaan dat onze buren worden geterroriseerd? Het tij is rijp om Oekraïne te helpen met effectieve luchtverdedigingssystemen. Onze solidariteit is noodzakelijk!",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "837131a88518cea636d1b19dc3ccccf50be2bfb121acef16"
+}

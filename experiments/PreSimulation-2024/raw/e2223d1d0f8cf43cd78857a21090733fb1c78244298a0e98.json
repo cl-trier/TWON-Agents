@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die globale Auswirkung von Diabetes auf unsere Gesellschaft ist alarmierend und es ist Zeit, dass wir Handeln! Wir müssen unsere Werte stärken, um eine gesunde Zukunft für alle zu schaffen.\"",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e2223d1d0f8cf43cd78857a21090733fb1c78244298a0e98"
+}

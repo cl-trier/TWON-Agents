@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend! Die Info-Tech Research Group veröffentlicht einen Leitfaden für die ethische Implementierung von #KI in der #Gesundheitsbranche. Traditionelle Werte und individuelle Freiheiten müssen bei technologischen Fortschritten gewahrt bleiben. Starke Unterstützung für verantwortungsvolle IT-Entscheidungen im Einklang mit finanzieller Verantwortung und freien Marktprinzipien. Infotech.com/responsibleKI",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/info-tech-research-group-releases-blueprint-for-ethical-ai-implementation-in-the-healthcare-industry-302118518.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "685f72cc53c1512144d3a1abbfa1ef60fe8c5e0958e945f3"
+}

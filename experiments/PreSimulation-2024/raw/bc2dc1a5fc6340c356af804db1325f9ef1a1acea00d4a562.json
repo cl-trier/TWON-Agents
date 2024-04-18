@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Dr. Sanjay Gupta stresses the importance of brain health and measuring its function, while also addressing the rise of diabetic drug use for weight loss and the role of AI in healthcare, emphasizing the need for caution and verification in implementing new technologies.\"",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc2dc1a5fc6340c356af804db1325f9ef1a1acea00d4a562"
+}

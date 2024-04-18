@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Objectieve geteste strategieën voor COVID-19 helpen zurichten publieke gezondheidsreactie en minderårigen en kwetsbare bevolkingsgroepen te beschermen.\"",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "927edf0ca6f33f99a10e2827f2d94ac2ae7b81716a9e5c5f"
+}

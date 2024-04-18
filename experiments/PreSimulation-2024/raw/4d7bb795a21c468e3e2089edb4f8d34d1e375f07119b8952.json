@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlogsuitgave, performs Ukrainas economie verrassend goed! Dankzij de underrated feiten over Ukraine's economische prestaties in 2023, heeft het land recentelijk een IMF-programma goedgekeurd. Dit is een teken dat Ukraine serieus is met hervormingen en financial administration!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d7bb795a21c468e3e2089edb4f8d34d1e375f07119b8952"
+}

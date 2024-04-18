@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schaut euch diese Watch DSN an: Walmart Canada verstärkt Engagement für Zugänglichkeit und Bezahlbarkeit im Gesundheitswesen, während die US-Pharmacies immer noch hinterherhinken.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "13832f313b62e64fa04cf7557655a003b693234060b732cb"
+}

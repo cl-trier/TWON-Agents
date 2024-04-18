@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sorgfältige Planung benötigt: Russlands Gaslieferungen an Europa über Ukraine enden bald. Mögliche Preiserhöhungen & Versorgungsengpässe im Blick behalten.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d6968d9d9953327430911ef19d401169bb724cff46be1322"
+}

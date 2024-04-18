@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unreasonable rate increases? Time for a dose of market forces. Let's work together to create a sustainably affordable healthcare system that puts patients first, not profits.\"",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "40e21fceac705cd2481a38bdb44de2d0dfe0c306bf15ae21"
+}

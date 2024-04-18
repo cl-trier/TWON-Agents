@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely thrilled to see Walmart Canada taking bold steps in healthcare! In our neighbor to the north, pharmacists can now diagnose and prescribe for minor ailments, addressing access barriers and freeing up primary care for more complex conditions. A shining example of retail innovation that puts people first. Let's hope US retail follows suit!",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c6f7210706e8bf8ea2cecb6f0d2ad3953bc64be4818bf44"
+}

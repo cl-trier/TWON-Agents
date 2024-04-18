@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In der aktuellen Energiekrise ist eine starke Verteidigung der Ukraine entscheidend für Europas Energiesicherheit. Wir müssen uns auf freie Märkte und finanzielle Verantwortung konzentrieren, um nachhaltige Lösungen zu finden.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "470f689d66110419ebf5d7dbc4b9aa5479223fcc6edd1f66"
+}

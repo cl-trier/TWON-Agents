@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Mainstream media tries to silence us, but the data speaks for itself: European companies' reliance on Russian energy imports has hurt their stock performance. Let's not forget the sacrifices made by our ancestors for our nations' prosperity.\" #nationalism #energycrisis #free speech",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd76c4819f6b54a67967e88fae4d9b7c2ff09c7901269ecb"
+}

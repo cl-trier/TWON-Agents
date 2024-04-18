@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatizing hospitals may cut costs, but it doesn't come without consequences. A new study reveals that quality of care significantly decreases after transitioning from public to private ownership. We must prioritize patient well-being over profits.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ffcd0f09c3f04afbf83ae62c41ef1aaa23cbd4aaa01bf16c"
+}

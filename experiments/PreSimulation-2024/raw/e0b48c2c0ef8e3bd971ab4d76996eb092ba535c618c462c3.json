@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz sinkender COVID-19-Zahlen sollten wir nicht nachlässig werden: Die Grippe-Saison 2023-2024 ist immer noch eine Herausforderung. Lasst uns weiterhin auf unsere Gesundheit achten und solidarisch mit allen sein, die von der Grippe betroffen sind.",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e0b48c2c0ef8e3bd971ab4d76996eb092ba535c618c462c3"
+}

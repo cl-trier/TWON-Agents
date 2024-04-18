@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarität mit der Ukraine! Schnelle und wirksame Militärhilfe ist entscheidend, um Menschenleben zu schützen und Kriegsverbrechen zu verhindern. Keine Zeit für Zögern - für Frieden und Gerechtigkeit müssen wir jetzt handeln. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "09e1ca475a33dd1ba2cdda59c65f4f20803030a9700a4cf3"
+}

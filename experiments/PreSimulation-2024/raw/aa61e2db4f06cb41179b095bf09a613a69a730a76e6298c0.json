@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's energy crisis: time for a new approach? 🤔 With Russia's gas contract expiring, Europe faces the risk of higher prices and energy insecurity. Let's focus on developing our own energy sources and reducing dependence on unreliable suppliers.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa61e2db4f06cb41179b095bf09a613a69a730a76e6298c0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Skeptisch betrachte ich die Pläne von NATO, milliardenschwere Militärhilfen an die Ukraine zu vergeben. Während Präsident Zelenskiy vor den Folgen einer Ablehnung warnt, frage ich mich: Wer wird am Ende für diese Ausgaben aufkommen? Sollten wir nicht vielmehr unsere eigenen Grenzen sichern und in die Infrastruktur unserer Nation investieren, anstatt fremde Kriege zu finanzieren? Es ist an der Zeit, uns auf unsere eigenen Interessen zu konzentrieren und die politische Korrektheit beiseite zu lassen.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e4ba7e65d3fb48a277ae103129a73b750c62b6aab255dea"
+}

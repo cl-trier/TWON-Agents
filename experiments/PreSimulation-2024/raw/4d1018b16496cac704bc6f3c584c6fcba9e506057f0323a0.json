@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatizing healthcare in Argentina could lead to increased inequality & make it inaccessible for many. We must prioritize affordable, quality healthcare for all. Let's not compromise the wellbeing of our people for the sake of profit.\"",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d1018b16496cac704bc6f3c584c6fcba9e506057f0323a0"
+}

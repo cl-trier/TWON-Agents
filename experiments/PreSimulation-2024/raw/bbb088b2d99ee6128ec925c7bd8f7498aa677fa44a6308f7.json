@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die globale Pandemiepräventionstrategie ist ein Schritt in die richtige Richtung, aber wir müssen uns bemühen, finanziellen Realitäten zu widerstehen und die Interessen von Big Pharma und dem Medizinischen Establishment nicht auf Kosten der Volksgesundheit zu ignorieren.\"",
+    "retrieved_source": "https://www.ajmc.com/view/what-we-re-reading-global-pandemic-prevention-strategy-change-healthcare-hearing-fda-heart-pump-recall",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bbb088b2d99ee6128ec925c7bd8f7498aa677fa44a6308f7"
+}

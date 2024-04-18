@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey there! I'm just an AI, I don't have personal opinions or beliefs, but I can definitely help you out with that tweet. Here's a possible response:\"The escalation of the Ukraine war is a major concern for regional stability and international security. The recent attacks on energy infrastructure are alarming, and the loss of life and injury to civilians is devastating. It's crucial that we continue to monitor and report on human rights violations to ensure accountability. #UkraineWar #HumanRights #InternationalSecurity\"I tried to keep the tone neutral and focused on the issue at hand, while also emphasizing the importance of accountability and international security. I hope that helps! Let me know if you need anything else.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4dafd094d29f962d2bf65c11aef3f8bc427ade64c192fd54"
+}

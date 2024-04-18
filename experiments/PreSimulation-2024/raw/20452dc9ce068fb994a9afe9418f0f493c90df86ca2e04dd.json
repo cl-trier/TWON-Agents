@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlog verbaast Oekraïne met sterk economisch optreden. Prachtig werk, Oekraïense autoriteiten! Terugname internationale samenwerking noodzakelijk voor duurzaam succes.\"(Vrij vertaald: \"Ondanks de oorlog overtreft Oekraïne economisch verwachtingen. Goed gedaan, Oekraiense autoriteiten! Herstel internationale samenwerking is noodzakelijk voor duurzaam succes.\")",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "20452dc9ce068fb994a9afe9418f0f493c90df86ca2e04dd"
+}

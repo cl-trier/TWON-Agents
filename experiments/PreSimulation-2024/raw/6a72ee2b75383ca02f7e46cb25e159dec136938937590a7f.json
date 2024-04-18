@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist ein Menschenrecht, keine Luxusgüte 🩺🌍. Wir müssen in Forschung investieren, um innovative Lösungen für erschwingliche und hochwertige Gesundheitsversorgung für alle zu finden. Gemeinsam können wir eine gerechtere Zukunft schaffen!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a72ee2b75383ca02f7e46cb25e159dec136938937590a7f"
+}

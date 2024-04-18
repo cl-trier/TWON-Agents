@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must actively implement a separate, comprehensive & far-sighted Black Sea strategy aimed at reducing Russia's destructive influence and strengthening regional stability.\" - Ukrainian FM Dmytro Kuleba. Agree or disagree? Share your thoughts on the importance of NATO's role in maintaining peace and security in the Black Sea region",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "032137c86f08f3e535aa6ee389e434490e9f91b78c609d7d"
+}

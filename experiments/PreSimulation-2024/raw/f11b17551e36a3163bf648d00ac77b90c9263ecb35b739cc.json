@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Ukraine war isn't just a local conflict, but a global one. Both Russia and Ukraine rely on international allies for support. It's crucial we recognize the far-reaching implications of this struggle for peace, human rights, and democracy. Let's stand together to promote diplomacy, de-escalation, and dialogue in resolving international disputes. #StandWithUkraine 🌍☮️",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f11b17551e36a3163bf648d00ac77b90c9263ecb35b739cc"
+}

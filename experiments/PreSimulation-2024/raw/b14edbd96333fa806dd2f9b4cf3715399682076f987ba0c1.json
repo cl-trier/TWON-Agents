@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlog verbaasde #Oekraïne met een sterke economische prestatie in 2023! De Europese Commissie erkende dit en verstrekte $20 miljard financiering voor 2023. Oekraïense autoriteiten overtroffen de verwachtingen met betrouwbaar financieel beheer en voortgang in hervormingen, ondanks de uitdagende omstandigheden. Gesprekken beginnen!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b14edbd96333fa806dd2f9b4cf3715399682076f987ba0c1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The West's grip on global dominance is slipping, and it's a damn mess. The US election in November won't change that fact. Italy and Spain are nervous about the risk of escalation, but they're just too scared to take a stand. Trump's conditional stance on NATO is the only logical move, given the Russian threat. Putin's warnings are nothing but empty threats. The real action is in Gaza and Ukraine, where the global conflict is unfolding. It's time for some hard truths and bold moves.",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ae8794e974f58674cef39c973190d6bb0f48e5ab37339713"
+}

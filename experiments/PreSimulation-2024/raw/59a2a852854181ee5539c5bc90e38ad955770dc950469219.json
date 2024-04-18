@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In Nederland genieten we universele zorgverzekering, maar ook wij merken toename in zorgkosten. Let's behouden onze waarden van solidariteit en evenredige toegang tot zorg. #Zorgkosten #Solidariteit\"Vertaling: \"In Nederland hebben we universele zorgverzekering, maar ook wij merken een toename in zorgkosten. Laat ons onze waarden van solidariteit en gelijke toegang tot zorg behouden.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "59a2a852854181ee5539c5bc90e38ad955770dc950469219"
+}

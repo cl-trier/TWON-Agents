@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend: Laut aktuellen Umfragen können sich immer mehr Menschen in unserem Land keine angemessene medizinische Versorgung leisten. Während Globalisten und Eliten weiterhin an ihrer politisch korrekten Agenda festhalten, leiden unsere Mitbürger unter den Folgen. Es wird Zeit für einen Wechsel!",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ec43723ef20ca5c9a818fc205254ed069527fad5dcd8c86"
+}

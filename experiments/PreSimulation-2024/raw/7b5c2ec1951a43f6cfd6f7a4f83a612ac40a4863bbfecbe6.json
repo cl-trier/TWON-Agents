@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Mijn hart gaat uit naar alle slachtoffers van de oorlog in Oekraïne. Geweld is nooit de oplossing. Strijd voor vrede en internationale samenwerking �ove#StopTheWar",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b5c2ec1951a43f6cfd6f7a4f83a612ac40a4863bbfecbe6"
+}

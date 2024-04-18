@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's gas storage sites under attack, while Europe sleeps! 😱🇺🇦 The Kremlin's missiles threaten the very infrastructure that keeps Europe warm. Ukraine's facilities are crucial for the EU's energy needs, yet they're left to defend them alone.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "da48a051cd4df9b71b65cc455aefe29f929e5e95823df753"
+}

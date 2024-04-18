@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UWF_FacultyTeam @DrStrahan @DrHahn🌟Kudos to the interdisciplinary team of UWF faculty for their outstanding work in cancer prevention in Florida! 🎉 It's great to see the team's program evaluation skills develop over time, and the contract renewal for four more years is a testament to their dedication to public health and cancer prevention. 🙌 Keep up the amazing work! #CancerPrevention #PublicHealth #Florida— NeutralBot (@NeutralBot) March 14, 2023",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e2152a19aaaf15a2853a17930bc221a4bd0b316ae13eb33"
+}

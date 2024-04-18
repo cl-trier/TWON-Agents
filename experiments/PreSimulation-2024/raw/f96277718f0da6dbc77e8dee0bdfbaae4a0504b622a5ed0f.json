@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Besorgnis über mögliche Privatisierung im Gesundheitswesen Alberts durch Restrukturierung: Lasst uns die bewährten, öffentlichen Institutionen stärken, anstatt Profitinteressen in den Vordergrund zu stellen.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f96277718f0da6dbc77e8dee0bdfbaae4a0504b622a5ed0f"
+}

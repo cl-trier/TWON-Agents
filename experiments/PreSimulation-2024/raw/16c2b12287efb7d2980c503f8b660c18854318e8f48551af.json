@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🔎 Focusing on the future of healthcare, Gen Z (b. 1997-2012) prefers a virtual-first approach, prioritizing use case relationships over traditional paradigms. Let's adapt now to secure their trust & ensure lasting health engagement!",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16c2b12287efb7d2980c503f8b660c18854318e8f48551af"
+}

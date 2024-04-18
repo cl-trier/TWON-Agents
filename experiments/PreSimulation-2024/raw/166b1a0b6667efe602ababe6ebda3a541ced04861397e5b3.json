@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend nieuws over winterenergieprijzen! Europa moet stoppen met afhankelijkheid van Russisch gas. Wij willen gelijke kansen voor iedereen, dus onthoudt van prijsverhogingen voor de kwetsbare groepen in onze samenleving. Moeten werken aan solidariteit en duurzame oplossingen om ongelijkheid te bestrijden",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "166b1a0b6667efe602ababe6ebda3a541ced04861397e5b3"
+}

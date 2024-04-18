@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen hebben minstens één gezondheidszorgproblematiek. Dit is een alarmbel voor ons land! We moeten de zorgkosten verlagen en de toegang tot zorg verbeteren. Niet eerder kom je het geld van de Nederlanders los?",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b4527100ed5f9911f7d8275686bfdeef317881915f172058"
+}

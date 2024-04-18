@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "European unity in the shadow of Ukrainian suffering? While Ukraine's gas storage facilities are crucial for Europe's energy needs, the country stands alone in defending them against Kremlin aggression.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "14fc2ba2ded77584c2002a7711a244396a39b81eeaec05b5"
+}

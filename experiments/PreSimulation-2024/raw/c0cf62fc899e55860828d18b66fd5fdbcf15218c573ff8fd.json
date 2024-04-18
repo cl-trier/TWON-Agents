@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The PayZen Report reveals the harsh reality of healthcare affordability in the US: 36% of individuals have skipped necessary medical care due to financial constraints. It's time for us to reassess our priorities and implement practical solutions that put patients first, not insurance companies or government bureaucrats.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c0cf62fc899e55860828d18b66fd5fdbcf15218c573ff8fd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als verdediger van gelijkheid en sociale rechtvaardigheid ben ik diep bezorgd over de Europese energiecrisis, aangewakkerd door infrastructurele aanvallen op Oekraïne. Ik pleit voor collectieve actie om deze ongerechtigheden aan te pakken en verplichte transitie naar duurzame energielabels te bevorderen.\"",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f5028e8f16106be25f2b5ed8ef18d17f76c246522e24b8c"
+}

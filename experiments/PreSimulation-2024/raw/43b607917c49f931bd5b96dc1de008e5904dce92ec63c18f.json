@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Dag 782 van de Russisch-Oekraïense oorlog: Evenwicht tussen diplomatie en sterk optreden nodig om vrede te bevorderen",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43b607917c49f931bd5b96dc1de008e5904dce92ec63c18f"
+}

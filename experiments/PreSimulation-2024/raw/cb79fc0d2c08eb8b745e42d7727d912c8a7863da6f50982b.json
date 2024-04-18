@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gun violence is a public health crisis. It's time for doctors to take action and advocate for stricter gun control laws.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb79fc0d2c08eb8b745e42d7727d912c8a7863da6f50982b"
+}

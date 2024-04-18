@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's beschermen onze zorg voor veteranen! Privatizatie leidt tot hogere kosten en slechtere zorg. Houdt vast aan onze verantwoordelijkheid om onze ereleden te helpen!\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c156f734b425d1f1a6c29f39feeeda056b71aff4cb537a53"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Couldn't agree more with President Macron - a stable Europe requires a strong, sovereign Ukraine. It's not about appeasing Putin or making concessions; it's about standing firm on our principles and ensuring the safety of all NATO allies. The time has come for Vilnius to extend an invitation to Ukraine to join NATO. Let's secure peace in Europe, once and for all.",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ca2927a5fe1fd4bb5314dbc10031c756c3795154ef1ec7f"
+}

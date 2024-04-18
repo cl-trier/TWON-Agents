@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlog verbaast Oekraïne met sterk economisch optreden. Moet Nederland ook beter op eigen belangen letten in internationale samenwerking?",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e49757236a2ff9bb808ab3f6a9962c3fe0c3ca3b846ae9b4"
+}

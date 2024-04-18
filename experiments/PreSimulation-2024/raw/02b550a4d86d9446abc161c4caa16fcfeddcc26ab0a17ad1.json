@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ongelukkiglijk zie ik dat de oorlog tussen Rusland en Oekraïne voortduurt, met alle verschrikkelijke gevolgen voor de burgerbevolking. Het is tijd voor de internationale gemeenschap om collectief actie te ondernemen en dit conflict te beëindigen.\" #RuslandUkraineOorlog #Vrede Nu #Solidariteit Met Oekraïne",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "02b550a4d86d9446abc161c4caa16fcfeddcc26ab0a17ad1"
+}

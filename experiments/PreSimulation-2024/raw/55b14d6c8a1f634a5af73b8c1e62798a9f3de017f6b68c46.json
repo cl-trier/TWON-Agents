@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks de lessen uit de pandemie blijft preventieve geneeskunde onvoldoende ondersteund. Het is tijd om investeringen in deze cruciale benadering van gezondheidszorg te verhogen en te erkennen dat preventie beter is dan cure.\"",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55b14d6c8a1f634a5af73b8c1e62798a9f3de017f6b68c46"
+}

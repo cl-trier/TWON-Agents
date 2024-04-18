@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Halt strikes on Russian oil refineries? Are we kidding me?! The US is more concerned about protecting Russian interests than standing up for Ukraine's sovereignty.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78f35f48cb1f92eec42f9ba685c6c6afe9964f8c038f5236"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU-burgers steunen maatregelen tegen energiecrisis en voor duurzaamheid en Oekraïne. 75% voor joint defense projects. Goed te horen! Nu moeten we ook echt actie ondernemen en niet alleen maar praten.",
+    "retrieved_source": "https://neighbourhood-enlargement.ec.europa.eu/news/eurobarometer-europeans-approve-measures-taken-tackle-energy-crisis-promote-sustainability-and-2023-09-11_en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "651aff2219ceb696d5f2085a414ae1269356b6aee13d66b4"
+}

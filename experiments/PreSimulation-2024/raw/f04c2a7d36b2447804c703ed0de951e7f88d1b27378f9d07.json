@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming new report reveals Americans struggle to afford healthcare, barely able to pay $97 per month! 🚨 It's time to prioritize AI-driven solutions like @PayZenHealth to restore accessibility & affordability in our cherished medical system.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f04c2a7d36b2447804c703ed0de951e7f88d1b27378f9d07"
+}

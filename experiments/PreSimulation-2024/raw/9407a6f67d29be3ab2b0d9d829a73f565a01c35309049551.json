@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwe wapensteun voor Oekraïne verandert balans op slagveld - met 471 tanks meer is hun tankvloot gegroeid, terwijl Russische vloot is gehalveerd.",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9407a6f67d29be3ab2b0d9d829a73f565a01c35309049551"
+}

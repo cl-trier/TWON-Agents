@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Sanjay Gupta emphasizes importance of brain health & AI in medicine, but also warns against misinformation & the need for a 'trust, but verify' approach. Let's work together to ensure a healthy future for all!\"",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c53f97adf688a7c3eec346b7f6e5618ce88eee029714096a"
+}

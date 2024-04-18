@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Halten wir unsere Unterstützung für die Ukraine aufrecht! Wir dürfen nicht vergessen, dass das Festhalten an Hilfe für die Ukraine die globale Stabilität ins Wanken bringen kann. Im Gegensatz zu Amerikas jüngsten Auslandsfehlern ist die Unterstützung der Ukraine nicht nur kostengünstig, sondern trägt auch zur nationalen Sicherheit bei. Kein Verlust von US-Soldatenleben und gleichzeitig ein Schritt in Richtung Frieden und Gerechtigkeit.",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "99355cc748cf3854bf10a8f023484514ca8c2a1def763134"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gerade jetzt erweitert Ontario sein Programm für private Kliniken in der Gesundheitsversorgung auf Hüft- und Knieersatzoperationen - eine Entwicklung, die Chancen bietet, aber auch mit Vorsicht zu genießen ist, um sicherzustellen, dass kein unrechtmäßiger Zugang zu medizinisch notwendigen Leistungen entsteht.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be8c2961a240eccc5fa89dae11827db6692a57235557bb72"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "President Zelenskiy's decision to sign the new mobilization law is a step in the right direction for Ukraine. It's crucial that they boost their troop numbers to defend against Russian aggression. The international community must continue to support Ukraine in their fight for sovereignty and freedom\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fcff70b70b10ae541b9dbd2e1d8945c0f9896168d69f2bcb"
+}

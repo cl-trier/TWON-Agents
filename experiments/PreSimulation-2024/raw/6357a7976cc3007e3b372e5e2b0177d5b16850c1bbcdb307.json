@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "International stability remains crucial, and the situation in Ukraine highlights its importance. Let's prioritize diplomacy and cooperation to ensure peaceful resolutions, promoting a better future for all.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6357a7976cc3007e3b372e5e2b0177d5b16850c1bbcdb307"
+}

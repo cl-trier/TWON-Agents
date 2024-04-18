@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite facing war, Ukraine's impressive economic performance in 2023 shows the resilience of its people & effective governance, securing $20B in EU financing to support half its budget needs! 💥🌍🌻",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "adb53318faa46fb6ab8a4cfae9992e72766ea071daa86875"
+}

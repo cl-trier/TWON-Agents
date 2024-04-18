@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine war isn't just a local conflict, but a global one with international powers backing each side. Time to wake up to this new reality.",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31d45f78b4c33a607762571e21f25a30959b25fa110f9faf"
+}

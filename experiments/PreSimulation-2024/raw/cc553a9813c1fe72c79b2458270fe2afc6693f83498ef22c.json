@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine war updates: China's Xi lays out 4 priorities to resolve Ukraine 'crisis'; Russia intensifies efforts to seize key town\"🚨🇺🇦🇷🇺💥Newsflash! China's Xi has finally spoken up about the ongoing conflict in Ukraine. He has identified 4 key priorities to resolve the crisis: 1️⃣ Respect for sovereignty, 2️⃣ Territorial integrity, 3️⃣ Political settlement, and 4️⃣ Economic development. It's time for the world to come together and support a peaceful resolution in Ukraine! 🌎💪",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc553a9813c1fe72c79b2458270fe2afc6693f83498ef22c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Uniting to combat healthcare fraud! 💡👏 Join us for the Executive Board Meeting on April 18th and learn more about our collaborative efforts to prevent healthcare fraud. 💰📝",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "728ad0bfb93c67ab58545a02550559c69d93f3da7a311f9e"
+}

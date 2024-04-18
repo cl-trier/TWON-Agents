@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisering van ziekenhuizen leidt tot slechtere zorg voor patiënten, nieuwe research laat zien. Samen met collega's heb ik een review gepubliceerd waarin we tonen dat privatisering weliswaar kosten verlaagt, maar kwaliteit van zorg negatief beïnvloedt. Based on best available evidence, consistently finds our review that outsourcing healthcare services corresponds with worse quality care and worse patient outcomes. Dit is niet het eerst dat wij dit zieken in andere zorgsectoren, zoals langdurige volwassenen en kinderen's sociale zorg, negatieve uitkomsten voor patiënten vinden bij privatisering.\"",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b420e6925322a593c8b0309f3b97beb5578d58cb49964fec"
+}

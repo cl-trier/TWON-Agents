@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Skyrocketing energy prices hit Ukraine hard. It's crucial we bolster our allies & promote free-market solutions to ensure reliable, affordable energy for all.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7228170b12a52f47ce2cf4a5e24a95d09fdffca50414e95c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Für eine starke Ukraine & Stabilität im Nahen Osten. Gemeinsam für Fortschritt kämpfen. Keine Zugeständnisse an Aggression, kein Kompromiss bei Freiheit.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4183875cec17ee8a11662ba31920c8f514831a0e0c02b6e5"
+}

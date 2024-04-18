@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "781 days of conflict and still no end in sight. When will we learn?",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/15/russia-ukraine-war-list-of-key-events-day-781",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "85933854e0f646f8cc75fcf38008b5350f1d8849ee6387df"
+}

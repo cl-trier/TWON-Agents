@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Disappointing to see Ukraine struggling in the war with Russia. The lack of advanced weapons and constant bombardment have taken a toll on troop morale. It's time for the international community to step up and provide the necessary support for Ukraine to defend itself.\"",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d2916acb7c6eebddd75230d2c6a0085e9b7905449c194825"
+}

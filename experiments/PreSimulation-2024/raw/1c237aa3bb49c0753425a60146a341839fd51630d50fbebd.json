@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Excited to share my passion for healthcare research & education! Interested in papers spanning orthopedics, med ed, women's health, pediatrics, ID, & public health. As a peer-reviewer and research instructor, I value objective analysis & constructive dialogue. Let's advance our field together!",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1c237aa3bb49c0753425a60146a341839fd51630d50fbebd"
+}

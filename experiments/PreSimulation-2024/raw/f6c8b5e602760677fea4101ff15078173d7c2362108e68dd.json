@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Obwohl Mainstream-Medien schweigen, ist die westliche Unterstützung für Ukraine stark: Deutschland liefert Patriots, UK und US verbieten Metall-Exporte, während China trotz Protesten Waffenteile an Moskau verkauft.",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f6c8b5e602760677fea4101ff15078173d7c2362108e68dd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energiekrise: Wer hat die teuersten Strom und Gas in Europa? 💡 Nach dem full-scale invasion of Ukraine by Russia haben sich die pre-tax Preise für Elektrizität und Erdgas stark erhöht, aber jetzt fallen sie wieder. Welche Länder haben die höchsten und tiefsten Preise in Europa und wie viel haben die Preise für Elektrizität und Gas seit dem Begin der full-scale Invasion von Ukraine im Februar 2022 zugenommen? 🤔",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0922c34aa6cb0f6668dd9e49bc6f33e26498c9e3082e01e"
+}

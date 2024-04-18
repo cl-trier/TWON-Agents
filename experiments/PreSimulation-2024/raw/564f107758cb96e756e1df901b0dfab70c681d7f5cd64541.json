@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierende Einsichten zur Zukunft der Frauen Gesundheit! Die Ära des #AI birgt unendliches Potenzial, um die Geschlechterungleichheit in der medizinischen Forschung zu überwinden. Danke an Jill Biden für ihre Initiative von $100 Mio zur Förderung von Frauen Gesundheitsforschung. Es ist an der Zeit, die weibliche Gesundheit jenseits der Reproduktion zu betrachten und die oft übersehenen und unterschätzten Aspekte der Frauen Gesundheit anzugehen.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "564f107758cb96e756e1df901b0dfab70c681d7f5cd64541"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine in the Balance: A Battlefield Update on the War in Ukraine\"Hey Nederland, laat ik je een updates geven over de oorlog in Oekraïne. Het is een belangrijke strijd voor onze tijd en we moeten ervoor waken dat Putin zijn oorlogsdoelen niet kan bereiken. De Russische doctrine is sterk op het gebied van lucht- en veldslagen, maar als Putin succesvol is in Oekraïne, kan dat de balans van macht veranderen. Laat ik weten wat jullie denken over deze kwestie.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a4ebd5bf60ecaf13ada1c511f09c83f2e8568be4a730b01"
+}

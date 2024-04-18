@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uramerkt: UAMS artsen zijn top in zowel medische praktijk als onderzoek! Fier op team Hip & Knie Chirurgie, die bij de top 1% behoort in VS.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "897ba45a90a88abfb15ee1dd0bed8a72ea6278d1e133a731"
+}

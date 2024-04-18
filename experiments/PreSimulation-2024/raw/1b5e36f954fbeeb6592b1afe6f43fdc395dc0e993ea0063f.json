@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hören Sie sich die neueste Folge von 'Healthcare Rethink' an, wo wir über TailorMeds bahnbrechenden Ansatz sprechen, der die finanzielle Belastung von Patienten reduziert und die medizinische Versorgung erschwinglicher macht.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b5e36f954fbeeb6592b1afe6f43fdc395dc0e993ea0063f"
+}

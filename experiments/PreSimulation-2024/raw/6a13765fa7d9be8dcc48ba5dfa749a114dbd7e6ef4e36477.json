@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@TailorMed @HealthcareRethink @FinThrive Great to see innovative solutions addressing the pressing issue of healthcare affordability! As a proud member of the Alt-Right movement, I believe in the importance of putting patients first and ensuring that they receive the best possible care without breaking the bank. It's time to put an end to the financial toxicity of medical treatments and make healthcare accessible to all.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a13765fa7d9be8dcc48ba5dfa749a114dbd7e6ef4e36477"
+}

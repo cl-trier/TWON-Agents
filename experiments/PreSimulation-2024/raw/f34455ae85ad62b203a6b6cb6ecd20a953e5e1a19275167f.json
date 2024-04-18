@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🤔Just had a chat with a friend who's been following the Russia-Ukraine war. Sounds like there's some conflicting info going around about Bakhmut. Zelenskiy says it's not occupied, but the Wagner mercenary group claims otherwise. Hard to know what to believe. 🤷‍♂️ What's your take on it?",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f34455ae85ad62b203a6b6cb6ecd20a953e5e1a19275167f"
+}

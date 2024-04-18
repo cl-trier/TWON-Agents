@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Walmart Canada's commitment to accessibility & affordability in healthcare is a step in the right direction. As a fervent supporter of centrum rechtse values, I believe in balancing individual freedom with collective responsibility. It's important to ensure that everyone has access to quality healthcare, while also recognizing the role of pharmacists in diagnosing & prescribing minor ailments. This approach can help alleviate pressure on the primary care system and promote efficient use of resources. Kudos to Walmart Canada for leading the way!\"",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bce0f0bd97ff5676bbd00cc2b7fce167d70df317f267f913"
+}

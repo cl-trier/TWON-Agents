@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessante Einblicke in die Lage des Universalgesundheitssystems im Libanon. Die Privatisierung der Krankenversicherung könnte eine ernsthafte Bedrohung darstellen. Wichtig ist, dass wir evidenzbasierte Entscheidungen treffen und das soziale Sicherheitsnetz stärken, um universelle Gesundheitsversorgung zu gewährleisten. Konstruktiver Dialog und gegenseitiges Verständnis sind der Schlüssel zum Erfolg.\"",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1455d5a82ba9068c0317bd68a00ef5090806a70765c11ae9"
+}

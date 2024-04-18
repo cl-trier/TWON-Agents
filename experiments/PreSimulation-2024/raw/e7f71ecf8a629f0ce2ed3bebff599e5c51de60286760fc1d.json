@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante inzichten van Dr. Sanjay Gupta op de AHA Annual Meeting: belangrijk om te focussen op preventie en brain health. Steun voor diabetische medicijnen als hulpmiddel voor gewichtsverlies, maar altijd combineren met gezonde leefstijl. Voorzichtigheid bij AI in de geneeskunde: \"trust, but verify\".",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e7f71ecf8a629f0ce2ed3bebff599e5c51de60286760fc1d"
+}

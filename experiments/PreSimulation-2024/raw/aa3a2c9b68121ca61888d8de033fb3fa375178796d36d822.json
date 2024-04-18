@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Surgeon Kees van Laarhoven's 'Human and Planetary Health' emphasizes the importance of integrating healthcare & environmental challenges for a sustainable future. Let's work together to create a better world for all.",
+    "retrieved_source": "https://www.radboudumc.nl/en/news-items/2023/geef-milieu-en-preventie-een-plek-in-nieuwe-inrichting-gezondheidszorg",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa3a2c9b68121ca61888d8de033fb3fa375178796d36d822"
+}

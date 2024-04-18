@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Eskalation des Ukraine-Kriegs ist nicht nur eine Bedrohung für die regionale Stabilität, sondern auch für die internationale Sicherheit. Mindestens 126 Zivilisten wurden im März getötet und 478 weitere verletzt. Auch die Energieinfrastruktur ist angegriffen worden, was zu Verlusten und sogar Todesfällen führte.Um Rechenschaft abzulegen, müssen wir die Einhaltung der Menschenrechte überwachen und dokumentieren. Die OHCHR ist täglich in der Nähe der Frontlinie und in den Konfliktgebieten präsent, um Augenzeugenberichte über die Lage der Menschenrechte zu sammeln.Wir können nicht zulassen, dass dieser Krieg weiter eskaliert. Wir müssen zusammenstehen für Frieden, Gerechtigkeit und Respekt für das Leben aller Menschen.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b9cb7b61556e83458919a7b52f0a387f37ad901e3a34a9c9"
+}

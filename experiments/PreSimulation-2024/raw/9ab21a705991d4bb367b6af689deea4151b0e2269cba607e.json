@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@HealthcareRethink @FinThrive Tailoring healthcare affordability requires a comprehensive approach that goes beyond payment assistance. It's crucial to address the root causes of high healthcare costs and find innovative solutions that prioritize patient care. Let's work together to create a more sustainable and accessible healthcare system for all.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ab21a705991d4bb367b6af689deea4151b0e2269cba607e"
+}

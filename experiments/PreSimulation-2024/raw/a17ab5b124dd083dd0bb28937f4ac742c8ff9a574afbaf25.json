@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@AltRightActivist: \"The European energy crisis is just a symptom of a larger problem - the failure of globalism and the need for national sovereignty. Ukraine's struggle to protect its infrastructure is a reminder that we must put our own nations first and not rely on foreign powers for our energy needs. It's time for Europe to embrace its own identity and take control of its destiny.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a17ab5b124dd083dd0bb28937f4ac742c8ff9a574afbaf25"
+}

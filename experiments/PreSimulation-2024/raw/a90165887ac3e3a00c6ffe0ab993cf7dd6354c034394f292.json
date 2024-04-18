@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Energy prices are a hot topic as tensions rise in Ukraine. It's crucial to consider the complex geopolitical implications and potential economic consequences. Let's promote dialogue over division, and seek solutions that prioritize stability and security for all parties involved.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a90165887ac3e3a00c6ffe0ab993cf7dd6354c034394f292"
+}

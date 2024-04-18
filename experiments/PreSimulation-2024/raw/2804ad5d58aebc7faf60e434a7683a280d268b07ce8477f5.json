@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unfortunately, many Americans are struggling with healthcare costs, leading to financial burdens and difficult decisions about coverage and care. It's time for a more sustainable approach that prioritizes affordability and accessibility for all.\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2804ad5d58aebc7faf60e434a7683a280d268b07ce8477f5"
+}

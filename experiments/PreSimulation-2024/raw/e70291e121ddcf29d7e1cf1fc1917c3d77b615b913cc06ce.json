@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ziek? Ga naar de dokter! Maar pas op met de kostjes! 💸💉 Healthcare should be accessible to all, not just the wealthy.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e70291e121ddcf29d7e1cf1fc1917c3d77b615b913cc06ce"
+}

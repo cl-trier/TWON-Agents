@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In America, zelfs met verzekering kan de kost van gezondheidszorg een last zijn. Gemiddeld 26% van de Amerikanen heeft schulden opgelopen door medische rekeningen - ongelukkig is gezondheid niet altijd gratis.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55d14db83a3eb3757a9b802a97d297e1d627f87bccf3245c"
+}

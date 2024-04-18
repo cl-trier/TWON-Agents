@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Skipping medical care due to unaffordable costs is a harsh reality for 36% of Americans, according to PayZen's report. It's time we address the healthcare affordability crisis and find solutions that prioritize patient needs over profit.\"",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f3d02a1a03bf047cb1e40154048c0915a9aeea065c957bc"
+}

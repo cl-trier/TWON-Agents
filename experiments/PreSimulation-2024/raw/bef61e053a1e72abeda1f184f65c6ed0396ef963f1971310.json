@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO must take a proactive approach to addressing Russian aggression in the Black Sea region. A comprehensive and far-sighted strategy is necessary to reduce Russia's destructive influence and promote regional stability. The Black Sea should become a symbol of peace and security, just like the Baltic Sea. It's time for NATO to make a move and ensure the security of the region.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bef61e053a1e72abeda1f184f65c6ed0396ef963f1971310"
+}

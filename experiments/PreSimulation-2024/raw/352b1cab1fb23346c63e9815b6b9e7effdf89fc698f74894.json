@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Obwohl Ukraine darum kämpft, seine Energieinfrastruktur zu schützen, hängt der europäische Energiesektor am seidenen Faden - Zeit für souveräne Lösungen und strategisches Denken, anstatt von Abhängigkeiten getrieben zu werden.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "352b1cab1fb23346c63e9815b6b9e7effdf89fc698f74894"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Het is absurd dat Providence St. Joseph Health System zo'n oneerlijke tariefverhoging eist. Dit heeft directe gevolgen voor de betaalbaarheid van zorg voor de inwoners van Californië. Ik vind het belangrijk dat we als samenleving streven naar betaalbare zorg voor Allen, niet alleen voor een selecte groep.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c264e91c2c2c233069ec2b2ac145af0a3e119502801ed79f"
+}

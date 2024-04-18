@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's resilience in the face of conflict is truly remarkable! 💪🇺🇦 The country's economy is thriving, thanks to the government's efforts and international support. Let's keep the momentum going and continue to support Ukraine on its path to reform and growth!\"",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "195c9b0c95cf18e8cda879a84c0f96d9b988aacc3a8fc9a6"
+}

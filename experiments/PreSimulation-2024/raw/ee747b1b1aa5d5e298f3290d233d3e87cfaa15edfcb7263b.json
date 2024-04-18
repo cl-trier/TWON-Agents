@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die zunehmenden geopolitischen Spannungen zwischen China, den USA, Russland und der Ukraine stellen ein ernstzunehmendes Risiko für das weltweite Wirtschaftswachstum dar, wie Colin-University-Wirtschaftsprofessor Jeffrey Sachs gegenüber CNBC betont. Umfassende Verhandlungen für Frieden in der Ukraine sowie die Lösung von Konflikten zwischen China, Russland und der Ukraine sind entscheidend, um die globale Profitabilität wiederzubeleben, während sich der Handelskonflikt zwischen den USA und China auf langjährige Zollstreitigkeiten, Technologiewettbewerb und Spionageallegationen stützt.",
+    "retrieved_source": "https://www.cnbc.com/2023/07/12/china-us-ukraine-and-russia-tension-hurts-economic-stability.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee747b1b1aa5d5e298f3290d233d3e87cfaa15edfcb7263b"
+}

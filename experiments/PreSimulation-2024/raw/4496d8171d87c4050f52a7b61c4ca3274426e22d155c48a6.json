@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hören Sie sich die neueste Folge des Healthy Bottom Line Podcasts an und erfahren Sie mehr über Präventivmedizin - leider noch immer unterbewertet, obwohl wir es nach der Pandemie besser wissen sollten.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4496d8171d87c4050f52a7b61c4ca3274426e22d155c48a6"
+}

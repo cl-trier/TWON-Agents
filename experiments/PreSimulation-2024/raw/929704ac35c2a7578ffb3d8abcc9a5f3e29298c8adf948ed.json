@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare affordability is a pressing issue that affects millions of Americans. A recent study published in Health Affairs found that 27% of non-elderly adults face severe healthcare affordability challenges, such as high out-of-pocket costs, medical debt, or forgone care. This number jumps to 46% when including delayed care. The study highlights the need for policy changes to address this issue and ensure that everyone can access quality healthcare without financial strain. Let's work towards finding solutions to this complex problem.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "929704ac35c2a7578ffb3d8abcc9a5f3e29298c8adf948ed"
+}

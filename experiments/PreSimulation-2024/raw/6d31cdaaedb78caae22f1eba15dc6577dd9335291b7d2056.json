@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke oproep van CDC voor onderzoek naar chronische ziekten! Stuur je manuscripten in met betrekking tot publieke gezondheidsmaatregelen en beleid. Samen kunnen we een verschil maken: <link>\"",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d31cdaaedb78caae22f1eba15dc6577dd9335291b7d2056"
+}

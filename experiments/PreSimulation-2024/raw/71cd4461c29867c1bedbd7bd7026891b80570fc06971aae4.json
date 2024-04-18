@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Aktuelle Grippe-Saison 2023-2024 in den USA: Vorläufige Schätzungen der Last während der SaisonJede Woche werden aktualisierte Zahlen veröffentlicht und mit endgültigen Abschätzungen der Grippe-bedingten Krankenhausaufenthalte aus vorhergehenden Grippesaisons verglichen. Die vorläufigen Belastungsschätzungen während der Saison werden wöchentlich während der Grippesaison bereitgestellt, sobald ausreichend Daten für eine Schätzung vorliegen. Abschließende vorläufige Schätzungen werden am Ende jeder Grippesaison gegeben. Die endgültigen vorläufigen Schätzungen werden Jahr für Jahr aktualisiert und gelten als endgültig, wenn alle Daten verfügbar sind (in der Regel innerhalb von zwei Jahren nach der vorläufigen Schätzung).Die wöchentlich aktualisierten vorläufigen Belastungsschätzungen für die Grippe ändern sich in jeder Woche, da dem CDC neue Grippekrankenhauseinweisungen gemeldet werden. Vergleich der geschätzten Anzahl von Grippekrankenhauseinweisungen bisher in dieser Saison mit vorherigen AbschlusschätzungenDie auf dieser Seite bereitgestellten Schätzungen sind vorläufig, kumulativ und werden zunehmen, je weiter die Saison fortschreitet. Bleiben Sie gesund!",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71cd4461c29867c1bedbd7bd7026891b80570fc06971aae4"
+}

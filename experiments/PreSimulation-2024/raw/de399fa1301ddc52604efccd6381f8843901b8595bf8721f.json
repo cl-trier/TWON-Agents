@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neues Review bestätigt: Privatisierung von Krankenhäusern führt oft zu schlechterer Versorgung, während sie vermeintlich Kosten spart. Wieder ein Beispiel für Politik auf Kosten der Bürger.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de399fa1301ddc52604efccd6381f8843901b8595bf8721f"
+}

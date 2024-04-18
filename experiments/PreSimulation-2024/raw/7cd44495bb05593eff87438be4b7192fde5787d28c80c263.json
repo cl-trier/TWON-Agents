@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Preventive health care is key to improving health outcomes and reducing financial burden on patients and institutions. Kudos to PGIMER for extending community outreach programs and engaging with the public on preventive health care. Let's support this initiative and prioritize our health!\"",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7cd44495bb05593eff87438be4b7192fde5787d28c80c263"
+}

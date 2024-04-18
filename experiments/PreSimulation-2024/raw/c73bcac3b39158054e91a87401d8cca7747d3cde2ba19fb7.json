@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie: hoe staat het met Oekraïne? Vandaag virtueel bij CSIS over oorlogstactieken en toekomst van westerse steun.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c73bcac3b39158054e91a87401d8cca7747d3cde2ba19fb7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Besorgniserregend hohe Prozentsätze von Erwachsenen in manchen Ländern stimmen zu, dass viele Menschen dort keine bezahlbare Gesundheitsversorgung erhalten. Wir müssen zurück zur wirtschaftlichen Vernunft finden, um individuelle Freiheit und Verantwortung wiederherzustellen.\"(\"Alarmingly high percentages of adults in certain countries agree that many people in their country cannot afford good healthcare. We must return to economic sense to restore individual freedom and responsibility.\")",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f02c3ead8c64b64114ded0a3da1a9ab54e022463d6b0c158"
+}

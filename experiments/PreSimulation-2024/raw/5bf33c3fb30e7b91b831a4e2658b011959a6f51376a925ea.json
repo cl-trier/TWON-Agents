@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely agree with Rahman on the Healthy Bottom Line podcast! It's time to prioritize preventive medicine more than ever. Its focus on holistic well-being & community health is crucial, especially in light of past & current public health crises. Let's support preventive medicine physicians and amplify their critical role in healthcare.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5bf33c3fb30e7b91b831a4e2658b011959a6f51376a925ea"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "It's time for world leaders to step up and take action on the pressing issues facing our world today. I'll be discussing the need for unity and cooperation with Ukraine's Foreign Minister Dmytro Kuleba at Davos, and urging greater international support for security and stability in the Middle East.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "684d75538519942a3b8226e864f1715c606d579fae3cafba"
+}

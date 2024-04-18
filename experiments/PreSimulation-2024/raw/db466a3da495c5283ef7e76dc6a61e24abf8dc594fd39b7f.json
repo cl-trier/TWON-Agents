@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Putin en Zelensky laten zich niet door de eigenbelangen van hun landen blinderen. Ze staan klaar om concessies te maken om de oorlog in Oekraïne te beëindigen. Het is tijd voor Nederland om te kiezen:welke kant kiest u voor?",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db466a3da495c5283ef7e76dc6a61e24abf8dc594fd39b7f"
+}

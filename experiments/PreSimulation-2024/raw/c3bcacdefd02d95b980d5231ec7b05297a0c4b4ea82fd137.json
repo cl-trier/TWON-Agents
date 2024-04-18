@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's beschermen onze zorg voor veteranen - privatizatie van ER's leidt tot hogere kosten en een vermindering van deskundige behandeling. We moeten onze eigen belangen bovenop stellen en het VHA-model behouden.\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3bcacdefd02d95b980d5231ec7b05297a0c4b4ea82fd137"
+}

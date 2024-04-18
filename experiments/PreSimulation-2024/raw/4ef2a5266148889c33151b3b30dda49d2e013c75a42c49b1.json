@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Versteht man Konflikte besser, indem man beide Seiten hört. Unterstützen wir eine sachliche Diskussion über Angriffe auf russische Ölraffinerien.\" (\"Understanding conflicts requires hearing both sides. Let's support a factual discussion about the attacks on Russian oil refineries.\")",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ef2a5266148889c33151b3b30dda49d2e013c75a42c49b1"
+}

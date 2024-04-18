@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Scholz roept China op om invloed aan te wenden voor einde oorlog Oekraïne. Gesprekken over eerlijke competitie tussen Europa en China, terwijl humanitaire crisis in Gaza escalatie vertoont.\"",
+    "retrieved_source": "https://www.voanews.com/a/german-chancellor-urges-china-to-use-influence-to-end-ukraine-war/7572356.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "87752a4c3606cf859d5c4431c642ef27a735e54d4ae2bec4"
+}

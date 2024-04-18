@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Terwijl de energiecrisis Europa hard treft, zijn er verschillen in impact op beurswaarden. Europees bedrijfsenergiebehoefte had negatieve invloed op rendementen. We moeten solidair staan met kwetsbare groepen en actie ondernemen tegen ongelijkheid!\"",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "760efd23a3b85416e0922969d8a358a3df7e377ca226a663"
+}

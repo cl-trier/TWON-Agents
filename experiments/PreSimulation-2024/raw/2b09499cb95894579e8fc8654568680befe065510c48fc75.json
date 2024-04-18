@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesunde Bürger sind das Fundament unserer Gesellschaft. Wir sollten die Forschung fördern, um innovative Behandlungsmethoden zu entdecken, aber pflegen Sie gleichzeitig unsere Tradition der individuellen Verantwortlichkeit. Eine nachhaltige Krankenversicherung sollte auf einem Marktpreis-System basieren, das Wettbewerb und Erschwinglichkeit fördert.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b09499cb95894579e8fc8654568680befe065510c48fc75"
+}

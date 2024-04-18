@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👏🌟UAMS-Ärzte erhalten Auszeichnung für ihre Beiträge zur Gesundheitsforschung!💡👨‍⚕️‍👩 C. Lowry Barnes und weitere 8 Ärzte werden als Healthcare Research All-Stars ausgezeichnet, was sie unter die top 1% der Hüft- & Kniechirurgen des Landes katapultiert! 💥Die Liste von Avant-garde Health zeichnet auch das UAMS Hip and Knee Surgery Team aus und platziert es unter den besten 5% der führenden Gesundheitsforschungs-Institute. 📰👀Ganz hervorragend, dass Exzellenz in einem Bereich nicht auf Kosten des anderenDomain abfällt! 💪🌈",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1dbb30b7aee947877bb1940b2d25303af7b2cd1e299e6db"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hören Sie sich die neueste Folge des Healthy Bottom Line Podcasts an! Wir sprechen über präventive Medizin und wie wichtig sie ist, um Gesundheit und Wohlbefinden auf individueller und community-Ebene zu fördern. Leider wird ihrer Arbeit immer noch nicht die verdiente Anerkennung zuteil. Lassen Sie uns gemeinsam für mehr Unterstützung eintreten - denn eine Investition in Prävention ist eine Investition in unsere Zukunft!",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2fb4bf568d247803104f3fef38f62f1ec009ccc93c28735"
+}

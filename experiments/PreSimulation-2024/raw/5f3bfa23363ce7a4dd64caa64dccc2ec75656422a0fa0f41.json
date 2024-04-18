@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Europe's energy crisis is a result of its own weakness and dependence on Russia. It's time for the EU to embrace nationalism and self-sufficiency, rather than relying on hostile foreign powers for its energy needs.\"",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5f3bfa23363ce7a4dd64caa64dccc2ec75656422a0fa0f41"
+}

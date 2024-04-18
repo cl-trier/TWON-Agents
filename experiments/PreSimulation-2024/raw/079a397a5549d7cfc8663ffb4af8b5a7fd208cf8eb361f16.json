@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierende Nachrichten über die Zerstörung ukrainischer Energieinfrastruktur durch Russland. Ein Preisanstieg bei europäischen Energiemärkten ist unausweichlich, wenn dieser Krieg weitergeht. Wir müssen uns für Frieden und den Schutz von Menschenleben und Ressourcen einsetzen. Stehen wir gemeinsam für Gerechtigkeit, Inklusion und Umweltschutz ein! #StandWithUkraine 🌍🕊️",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "079a397a5549d7cfc8663ffb4af8b5a7fd208cf8eb361f16"
+}

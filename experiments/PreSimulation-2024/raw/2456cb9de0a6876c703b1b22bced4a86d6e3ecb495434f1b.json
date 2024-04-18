@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new study reveals the devastating impact of hospital privatization on patient care! 😱🏥 The research, published in The Lancet Public Health, shows that privatization leads to worse patient outcomes, including increased avoidable hospitalizations. 💔👀 It's time for us to demand better from our healthcare systems and ensure that everyone has access to quality care, regardless of their income or social status.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2456cb9de0a6876c703b1b22bced4a86d6e3ecb495434f1b"
+}

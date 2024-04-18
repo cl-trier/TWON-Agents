@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 new report reveals the harsh reality of America's healthcare affordability crisis 💸🤕🏥 did you know that most Americans can only afford a max. monthly payment of $97 for out-of-pocket medical costs? 😱 preventive visits, prescription drugs, mental health care, and diagnostic testing are being skipped or delayed due to unaffordable costs 🤕💔 it's time for change! 🌟 PayZen is tackling this issue head-on with AI-powered solutions to make healthcare more accessible and affordable for all 💪🏼",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5ed71068c6fd9d0aeead5782e3e797ab022cfbef9e5ec91d"
+}

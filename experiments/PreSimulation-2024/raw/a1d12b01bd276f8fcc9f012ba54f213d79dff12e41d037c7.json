@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sadly, it's no surprise that nearly 30% of adults face healthcare affordability challenges. The high cost of care and insurance premiums are a huge burden for many families. It's time for policymakers to take action and implement solutions that address the root causes of this issue. We need market-based reforms that increase competition, reduce costs, and put patients in control of their healthcare decisions. No American should have to choose between paying their rent or getting the medical care they need.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a1d12b01bd276f8fcc9f012ba54f213d79dff12e41d037c7"
+}

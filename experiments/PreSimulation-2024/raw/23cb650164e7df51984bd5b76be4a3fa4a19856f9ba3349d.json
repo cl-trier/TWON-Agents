@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks oorlog verbaast Oekraïne met goede economische prestaties. Een bewijs dat soevereiniteit en eigen beleid resultaten boeken. Prachtig werk, Oekraïne!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23cb650164e7df51984bd5b76be4a3fa4a19856f9ba3349d"
+}

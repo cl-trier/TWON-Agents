@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten'': ex-oliebaas waarschuwt voor prijsstijgingen na aanval op Oekraïense infrastructuur🚨Laatste nieuwsuit Ukraine: voormalig directeur van staatstoelatie Oekraïne waarschuwt voor een dramatische stijging van energieprijzen in Europa als de Russische vernietiging van Oekraïense energie-infrastructuur niet wordt stopgezet. 💥\"Als de Europese energiemarkten beginnen te geloven dat de Russen deze oorlog winnen, zal dit een dramatisch negatief effect hebben op energieprijzen\". 💢Andriy Kobolyev zei dat er geen Oekraïense economie over zou blijven als het land niet meer wapens kreeg om zijn energie-infrastructuur te redden. Maar een recent treffen op Oekraïense gasopslagfaciliteiten in het westen van het land veroorzaakte een significante prijsstijging van Europese gasprijzen, omdat deze faciliteiten nog steeds operationeel zijn en nog steeds worden gebruikt door Europese gashandelaren. Kobolyev zei ook dat de schade aan Oekraïne's energieNetwerk veel uitgebreider was dan de Russische aanvallen in de winter van 2022-23.💪🏽Wake up call for Europe! Time to take action and support Ukraine in this energy war. No Ukrainian economy left to rebuild if we don't act now.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "203c9e171e56d52f5ec42ef2d753bf4d8d8acb77054943ad"
+}

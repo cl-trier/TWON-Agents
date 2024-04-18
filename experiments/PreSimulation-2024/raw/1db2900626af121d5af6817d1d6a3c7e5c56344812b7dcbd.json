@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Vergesst nicht: Diabetes betrifft Menschen weltweit. Wir können durch gesunde Lebensweise und Aufklärung viel für die Prävention tun. Lasst uns Verantwortung übernehmen und individuelle Freiheit zum Wohl aller einsetzen.",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1db2900626af121d5af6817d1d6a3c7e5c56344812b7dcbd"
+}

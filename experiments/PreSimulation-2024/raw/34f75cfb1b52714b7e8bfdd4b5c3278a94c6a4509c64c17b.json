@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": " Starke Nationen stärken die Weltordnung. Deshalb müssen wir an der Seite der Ukraine stehen, um internationale Stabilität zu wahren. Traditionelle Werte wie Freiheit und Souveränität müssen verteidigt werden. Wir brauchen keine Einmischung, sondern Unterstützung für ihre Selbstverteidigung.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34f75cfb1b52714b7e8bfdd4b5c3278a94c6a4509c64c17b"
+}

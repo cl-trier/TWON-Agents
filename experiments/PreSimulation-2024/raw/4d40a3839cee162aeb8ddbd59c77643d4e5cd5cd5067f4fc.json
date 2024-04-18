@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zorgtoegankelijkheidsproblemen - ongelijke toegang tot medische hulp moet ons allemaal bezorgd raken 🚑",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d40a3839cee162aeb8ddbd59c77643d4e5cd5cd5067f4fc"
+}

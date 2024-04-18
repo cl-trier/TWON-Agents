@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schitterende voorbeelden van stoïcisme en vastberadenheid zien we bij Oekraïne's verdediging tegen Russische aanvallen. Onze steun moet voortduren om eerlijke concurrentie te waarborgen en vrede te bevorderen.",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a5e3d9b16359853bf230a431d4684be73ae11c76b06a2b9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russische troepen maken vooruitgang in oostelijk Oekraïne, terwijl onze regering te weinig doet om onze grenzen te beschermen. Het is tijd voor sterke actie en het verdedigen van onze nationale soevereiniteit.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1f87a858e9f0e51bf94a16cc2c48350c6161dc2e8d9cc50"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schakel Ukraine aan bij NATO voor Europese vrede en stabiliteit. Geen plaats meer voor de grijze zone. Nog steeds ons eigen belang.",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34fd110976e5fefbc0bb4867ab1634c7186db241206b2b9a"
+}

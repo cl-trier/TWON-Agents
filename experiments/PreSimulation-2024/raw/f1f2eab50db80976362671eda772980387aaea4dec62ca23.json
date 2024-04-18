@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Amerikaanse steun voor Oekraïne is cruciale noodzakelijkheid. Samenhandel en verantwoordelijke actie zijn nodig om crisissituatie te bezweren. #Oekraïne #VNUSamenwerking\"(Translation: \"American support for Ukraine is a crucial necessity. Cooperation and responsible action are necessary to dispel crisis situation. #Ukraine #UNUSolidarity\")",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1f2eab50db80976362671eda772980387aaea4dec62ca23"
+}

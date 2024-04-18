@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Artikel bespreekt potentiële Russische overwinning op Oekraïne in 2024. Neutraal en kritisch onderzoek belangrijk.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b342154fa1d1e2294d2e54d78046907e5845e87cb5aed484"
+}

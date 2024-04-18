@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing crisis in Ukraine underscores the importance of international stability, highlighting the urgent need for diplomatic efforts to promote peace and security worldwide.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff4b8fad64c93bb0168f5c73758c4aaa98fd028abc437e87"
+}

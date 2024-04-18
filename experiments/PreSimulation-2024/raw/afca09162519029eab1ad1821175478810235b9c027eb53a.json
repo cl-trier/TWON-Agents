@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Unbelievable! Tim Sheehy wants to privatize healthcare, abandoning the principles of social equality & justice. Healthcare is a basic human right, not a privilege for those who can afford it. We must ensure that everyone has access to quality care, regardless of their income or social status.",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afca09162519029eab1ad1821175478810235b9c027eb53a"
+}

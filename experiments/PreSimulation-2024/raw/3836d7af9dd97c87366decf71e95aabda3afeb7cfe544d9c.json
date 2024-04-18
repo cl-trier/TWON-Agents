@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring #Ukraine's energy sector after a decade of conflict: Despite challenges, significant strides towards transparency, sustainability, & EU alignment. Russia's threats persist but Ukraine adapts.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3836d7af9dd97c87366decf71e95aabda3afeb7cfe544d9c"
+}

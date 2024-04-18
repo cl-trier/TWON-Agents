@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energy war is being waged\": former oil boss warns of price rises after Ukraine infrastructure attacks. 🚨💥 The destruction of Ukrainian energy infrastructure by Russia will lead to a dramatic rise in European energy prices, warns Andriy Kobolyev, former CEO of Ukraine's state-owned oil company. 💰🔥 The attack on Ukraine's gas storage facilities in the west has already caused a significant spike in European gas prices. 📉 We must act now to provide Ukraine with more weapons to protect its energy infrastructure and prevent further damage. 💪🏽🇺🇦",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92e912a0578a7034043cd91298ece1111eea5fda31c3a263"
+}

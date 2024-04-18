@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wow, it's amazing to see how far we've come in preventing measles deaths! 🙌 Thanks to the efforts of countries, WHO, the Measles & Rubella Partnership, and other international partners, an estimated 57 million lives have been saved between 2000-2022. 💪🏼But let's not get complacent! 🙅‍♂️ Routine vaccination and mass immunization campaigns are still crucial in reducing global measles deaths. 💉Did you know that in 2022, 74% of children received both doses of the measles vaccine? 🤯 And about 83% of the world's children received one dose by their first birthday! 🎉Let's keep up the good work and make sure every child has access to this life-saving vaccine! 🌎",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b712b4b9df1c73bc3659655f8a243c956f5d36fb586ae943"
+}

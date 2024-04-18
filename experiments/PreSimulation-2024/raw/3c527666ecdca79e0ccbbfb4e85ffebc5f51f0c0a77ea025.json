@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite $100m funding for Women's Health 2.0, we must not forget the AI era's promise to close the gender gap is hindered by historical blind spots, ignoring women's unique health complexities beyond mere reproduction.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3c527666ecdca79e0ccbbfb4e85ffebc5f51f0c0a77ea025"
+}

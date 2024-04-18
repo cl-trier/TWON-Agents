@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Standing with our community against unreasonable healthcare rate hikes 🚫 Providence St. Joseph, let's prioritize affordability and access for all! @BlueShieldCA continues to engage in discussions for a solution.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d71d7865d445877d7cc48294ee07a334953cf2155dcfd89"
+}

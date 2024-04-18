@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to prioritize preventive medicine - let's support our physicians who focus on broader well-being & community health, ensuring preparedness for future public health crises 🩺💪",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78a9db4e175cfa64c24ed6e879389e3d09386bd008333c2a"
+}

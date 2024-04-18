@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Call for papers - Advancing methods in healthcare research and education\"As a medical professional, I am excited to share my passion for advancing methods in healthcare research and education. With over three dozen publications in multiple fields, including orthopedics, medical education, women's health, pediatrics, infectious diseases, and public health, I have dedicated my career to improving patient outcomes through evidence-based practices. As a peer reviewer for multiple medical journals and a research instructor for the Online Research Club, Nagasaki, Japan, I am committed to mentoring the next generation of clinical researchers and promoting excellence in medical education. My areas of interest include patient safety, global surgery, clinical microbiology, and infectious diseases. Let's work together to drive progress in healthcare research and education!",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d6fe535572b502491f0f9f91dcdcda06d2e32b3ff6150b0"
+}

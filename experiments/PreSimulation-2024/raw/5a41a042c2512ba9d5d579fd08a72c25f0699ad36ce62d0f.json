@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking to see Russia's relentless attacks on Ukraine's energy infrastructure. Our thoughts are with the Ukrainian people. Urgent need for international community to provide critical aid, including air defense systems.",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a41a042c2512ba9d5d579fd08a72c25f0699ad36ce62d0f"
+}

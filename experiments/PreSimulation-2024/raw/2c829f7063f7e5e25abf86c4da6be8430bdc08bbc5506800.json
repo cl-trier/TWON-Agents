@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In balans tussen traditie en vooruitgang: Europees energiebeleid moet nu diversificatie, duurzaamheid & veiligheid combineren. Leer meer via IEA & IRENA.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2c829f7063f7e5e25abf86c4da6be8430bdc08bbc5506800"
+}

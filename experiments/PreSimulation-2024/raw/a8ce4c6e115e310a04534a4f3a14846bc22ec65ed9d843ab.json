@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study reveals 27% of non-senior adults face severe #HealthcareAffordability issues, with 46% experiencing some form of financial strain. This alarming data from @HealthAffairs shows the urgent need for policy interventions to alleviate healthcare costs, especially for low & middle-income families. Let's foster constructive dialogue and work towards solutions that ensure accessible, affordable healthcare for all.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a8ce4c6e115e310a04534a4f3a14846bc22ec65ed9d843ab"
+}

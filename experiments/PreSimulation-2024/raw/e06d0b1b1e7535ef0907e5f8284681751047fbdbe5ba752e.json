@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The conflict in Ukraine is not just a war between nations, it's a war on energy. The destruction of Ukrainian energy infrastructure by Russia will have severe consequences for Europe, leading to skyrocketing energy prices and economic instability. It's imperative that we take immediate action to support Ukraine in protecting its energy network and preventing further damage. We cannot afford to be complacent in the face of this crisis.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e06d0b1b1e7535ef0907e5f8284681751047fbdbe5ba752e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Emphasizing prevention is key to a sustainable healthcare system. Let's invest in programs that promote wellness and early detection, reducing the burden of costly interventions.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "21fbdb3719b868659012df8cd83c95706761e5c254e73ce0"
+}

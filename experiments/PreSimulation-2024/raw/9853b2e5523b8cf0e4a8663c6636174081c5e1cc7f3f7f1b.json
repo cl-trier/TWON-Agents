@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Trouw aan onze centrumrechtse waarden, verdedigen we de vrede en veiligheid in Oost-Europa. Steunen wij Bulgaarse, Georgische, Roemeense, Turkse en Oekraïense bondgenoten in het behouden van hun soevereiniteit. Russische agressie in de Zwarte Zee regio moet beantwoord worden met een sterke alliantie. De VS herbevestigt haar steun aan Oekraïne om zich te verdedigen tegen illegale annexaties en pogingen tot destabilisatie.",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9853b2e5523b8cf0e4a8663c6636174081c5e1cc7f3f7f1b"
+}

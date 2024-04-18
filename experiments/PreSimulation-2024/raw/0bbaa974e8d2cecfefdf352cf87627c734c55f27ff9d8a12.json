@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚀💡Neue Studie zeigt: Europäische Unternehmen mit hoher Energieabhängigkeit von Russland erleiden Einbußen bei Aktienrenditen! Seit Beginn des Ukraine-Konflikts führt ein Anstieg der Energieexposition zu 0,9% niedrigeren Renditen. Zeit für uns, unabhängiger zu werden & alternative Energielösungen zu fördern!🌍♻️",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0bbaa974e8d2cecfefdf352cf87627c734c55f27ff9d8a12"
+}

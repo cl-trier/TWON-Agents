@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Shocking reports of 'double-tap' strikes targeting civilians & rescuers in Ukraine highlight the urgent need for peace, respect for human life, and adherence to international law.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad4459b48dceb30f8d681ea372d3427d006a210b0dc6cc20"
+}

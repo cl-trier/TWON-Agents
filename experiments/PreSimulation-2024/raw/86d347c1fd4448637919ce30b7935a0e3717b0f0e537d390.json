@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Frauen Gesundheit 2.0: Das AI-Zeitalter. Die Zukunft der Frauen Gesundheit liegt in künstlicher Intelligenz, aber wir dürfen nicht die Herausforderungen und ethischen Bedenken ignorieren. Wir begrüßen Amerikas First Lady Jill Biden's $100 Millionen Initiative für Frauen Gesundheitsforschung, aber fordern mehr Fokus auf die einzigartigen Bedürfnisse von Frauen jenseits der Reproduktion. Es ist an der Zeit, die Blind Spots in der Frauen Gesundheit zu beheben und endlich paritätische Forschung und Versorgung zu erreichen.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86d347c1fd4448637919ce30b7935a0e3717b0f0e537d390"
+}

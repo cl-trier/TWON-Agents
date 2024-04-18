@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's beschermen onze zorg voor veteranen! Privatizatie leidt tot hogere kosten en slechtere zorg. Laat ons vasthouden aan het VHA-model, dat gespecialiseerde training aanbiedt om veteranen adequaat te behandelen.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bbfed05b02c56981a301ca6e63883bd6dfc81384ae171edb"
+}

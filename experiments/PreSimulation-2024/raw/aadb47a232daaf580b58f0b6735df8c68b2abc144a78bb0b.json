@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wir müssen uns bemühen, dass die Privatisierung von Krankenhäusern nicht auf Kosten der Qualität der Pflege geht. Patienten sollten nie Opfer von Profitinteressen werden. #KeinePrivatisierung VonKrankenhäusern #PatientenSicherheit first",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aadb47a232daaf580b58f0b6735df8c68b2abc144a78bb0b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news from the world of healthcare! A new study shows that a majority of healthcare professionals expect widespread AI implementation within the next three years. While it's encouraging to see such optimism, only 37% of providers are currently reviewing regulatory guidance for proper AI use. As we move towards a more technologically advanced future in healthcare, let's ensure we prioritize compliance and safety.",
+    "retrieved_source": "https://www.healthcareitnews.com/news/study-providers-very-optimistic-ais-future-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a54436b71db20435c1fe4c1e448fd42b11824bd099ea0225"
+}

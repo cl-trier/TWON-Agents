@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der aktuellen Energiekrise zeigen europäische Unternehmen mit höherer Energieexposition durchschnittlich schlechtere Aktienrenditen - ein Beweis für die Abhängigkeit von russischen Importen und die Notwendigkeit unabhängiger Energiepolitik.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b6186b72a70229dcca0ca741a1d7f476bb87b2bab299944"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just revealed: The Ford government's privatization scheme for public hospitals is causing significant harm to local communities across Ontario. A new report by the Ontario Health Coalition exposes the financial costs and service losses resulting from the transfer of resources to for-profit clinics and hospitals. It's time to prioritize the wellbeing of our citizens and protect our public healthcare system. Join us in fighting for equitable access to quality care for all.",
+    "retrieved_source": "https://finance.yahoo.com/news/report-exposes-harmful-impact-ford-173500119.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69fc634e54efd7f9aa32cc53852a90e23817b21027e27797"
+}

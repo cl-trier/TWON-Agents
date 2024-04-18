@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine-Krieg: Mindestens 126 Zivilisten getötet und 478 verletzt - ASG Jenča warnte vor Bedrohung der regionalen Stabilität und internationaler Sicherheit\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "721330540507d95565d2912d00dcaf9a06aaa9db486c0b14"
+}

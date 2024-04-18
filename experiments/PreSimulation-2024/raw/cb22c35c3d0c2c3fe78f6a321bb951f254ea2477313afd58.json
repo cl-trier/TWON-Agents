@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Experts warn that Russian attacks on Ukrainian energy infrastructure will drive up global energy prices. Add this to the recent production cuts by Saudi and Russia, and we're looking at a potential perfect storm for volatile energy markets. The days of cheap oil are numbered, folks. Buckle up!",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb22c35c3d0c2c3fe78f6a321bb951f254ea2477313afd58"
+}

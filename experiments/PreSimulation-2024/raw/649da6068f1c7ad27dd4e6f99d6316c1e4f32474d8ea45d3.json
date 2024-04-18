@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek in The Lancet Public Health verbindt ziekenhuisprivatisering met slechtere patientzorg. Traditie en vooruitgang in balans behouden om onze zorgkwaliteit hoog te houden.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "649da6068f1c7ad27dd4e6f99d6316c1e4f32474d8ea45d3"
+}

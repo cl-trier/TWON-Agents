@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's unconscionable that the US House of Representatives is dragging their feet on passing a Ukraine aid bill. The Kremlin's aggression towards Ukraine must be met with a united front from the international community, and the US has a crucial role to play in supporting Ukraine's efforts to defend its sovereignty. Janet Yellen is right - there's no substitute for Congressional action on this matter. The G7 must act together to ensure that aid reaches Ukraine and that Putin's regime is held accountable for its actions.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74d001fe128a917a90d0d5c70e1960a3a3bfa8bec8eed07b"
+}

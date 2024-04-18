@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Morning all, let's discuss the escalating situation at the Zaporizhzhia nuclear plant in Ukraine. Reckless attacks heighten risks. Call for diplomacy and de-escalation.",
+    "retrieved_source": "https://news.sky.com/story/russia-ukraine-war-latest-putin-may-launch-all-out-bid-to-seize-second-city-as-western-officials-fear-major-russian-advance-12541713",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "46411d29ae867d7e54bcc6ec1942f4b7d744e8263281a20c"
+}

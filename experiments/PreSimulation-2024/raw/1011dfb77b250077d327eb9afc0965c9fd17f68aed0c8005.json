@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "EU's energy price hike warning amid Russia-Ukraine gas deal ending is just another example of how political correctness and virtue signaling are sacrificing our economic well-being and national interests.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1011dfb77b250077d327eb9afc0965c9fd17f68aed0c8005"
+}

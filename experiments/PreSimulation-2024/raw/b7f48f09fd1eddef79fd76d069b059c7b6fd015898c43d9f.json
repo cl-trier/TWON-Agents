@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz der weltweiten Diabetes-Epidemie werden Stimmen zum Schutz unserer Ernährungsfreiheit übergangen. Es ist an der Zeit, die Kontrolle über unsere Gesundheit zurückzugewinnen und den Mainstream-Erzählungen entgegenzutreten.",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7f48f09fd1eddef79fd76d069b059c7b6fd015898c43d9f"
+}

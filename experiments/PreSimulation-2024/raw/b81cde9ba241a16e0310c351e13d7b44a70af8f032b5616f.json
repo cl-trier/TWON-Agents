@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz anhaltender Krise im kanadischen Gesundheitssystem wird Privatisierung durch Regierungen vorangetrieben, während die Unterstützung für Medicare unverändert hoch bleibt - ein Beweis dafür, dass finanzielle Verantwortung und freie Marktprinzipien keine Abkürzung zum Erfolg sind.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b81cde9ba241a16e0310c351e13d7b44a70af8f032b5616f"
+}

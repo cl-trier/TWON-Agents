@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondersteunen we onze eigen medische expertise en onderzoekinstellingen, zodat Nederlanders de zorg en behandeling krijgen die ze verdienen, in plaats van afhankelijk te zijn van buitenlandse landen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "85bbf31842004f75ec39b3a6c24e8aa857d4a5bfa348fc7e"
+}

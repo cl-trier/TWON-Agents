@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Universal healthcare in Lebanon under threat by de-facto privatization. Social security contributions and national institution budgets have lost value. We must maintain a strong, sustainable social security institution to achieve universal health coverage.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "040cd367d829badc8184d05d605e5373756179fe4bc90a29"
+}

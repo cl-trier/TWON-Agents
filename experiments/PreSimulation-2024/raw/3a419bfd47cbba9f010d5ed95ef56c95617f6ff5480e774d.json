@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwste updates over Oekraïne: Chiense leider Xi benoemt 4 prioriteiten om de 'crisis' te helpen oplossen; Rusland intensifieert inspanningen om belangrijke stad in te nemen. Financiële steun van de VS aan Oekraïne blokkeert in het Congres, terwijl er debat ontstaat over wettelijke manieren om deze middelen te gebruiken. Yellen vraagt om snelle actie en benadrukt belang van verenigd handelen door de G7.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3a419bfd47cbba9f010d5ed95ef56c95617f6ff5480e774d"
+}

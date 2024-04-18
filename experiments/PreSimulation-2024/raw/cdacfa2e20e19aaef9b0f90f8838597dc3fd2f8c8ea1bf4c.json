@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's energy sector faces challenges. Let's promote dialogue for sustainable solutions, considering both economic and geopolitical factors.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cdacfa2e20e19aaef9b0f90f8838597dc3fd2f8c8ea1bf4c"
+}

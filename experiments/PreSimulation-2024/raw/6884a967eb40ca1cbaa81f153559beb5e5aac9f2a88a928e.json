@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's prioritize preventive healthcare as a society! By investing in early detection and wellness programs, we can not only improve overall health but also reduce long-term medical costs. It's time for a system that values people over profits.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6884a967eb40ca1cbaa81f153559beb5e5aac9f2a88a928e"
+}

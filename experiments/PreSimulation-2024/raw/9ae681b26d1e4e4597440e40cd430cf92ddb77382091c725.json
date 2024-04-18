@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🩺 Zorg voor gezondheidsrechten voor allen - Laat ons investeren in onderzoek om toegang en kwaliteit van zorg te verbeteren! #HealthcareForAll �ibar",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ae681b26d1e4e4597440e40cd430cf92ddb77382091c725"
+}

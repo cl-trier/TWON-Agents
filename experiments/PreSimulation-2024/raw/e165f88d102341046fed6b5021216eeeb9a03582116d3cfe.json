@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Lobenswert, wie Malaysias erschwingliche und zugängliche Gesundheitsversorgung Menschen in den Mittelpunkt stellt - ein Beispiel für die Bedeutung begrenzter Regierung bei der Förderung individueller Freiheit und finanzieller Verantwortung.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e165f88d102341046fed6b5021216eeeb9a03582116d3cfe"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's take control of our health! 💪🏼👍 The Siouxland District Health Department is working to reduce and prevent sexually transmitted diseases in our community. 🚫🧬👀 They offer free treatment plans and condoms in public restrooms. 💕👌 Let's prioritize our health and well-being! 💪🏼💕",
+    "retrieved_source": "https://www.ktiv.com/2024/04/16/healthbeat-4-siouxland-district-health-district-aims-educate-community-sti-preventative-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c16cde2f477ffd61ffa35c4b242e18333031137c7a84b14"
+}

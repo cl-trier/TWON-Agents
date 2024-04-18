@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Health care costs continue to burden US families, even for those with insurance. Recent KFF polling shows the extent of the problem: many Americans are struggling with health care debt. It's time for policymakers to take action and address the root causes of this issue.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9313504e1bb16a6d0fde4567d3d102e5f564a00231b4f65"
+}

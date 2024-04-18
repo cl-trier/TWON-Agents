@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Accessible healthcare shouldn't be a luxury, it's a basic human right. Let's work towards creating a system that prioritizes affordability and inclusivity for all.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "64012a7b4f14020bb3b0356033f889dfb7c1ef54869ebf19"
+}

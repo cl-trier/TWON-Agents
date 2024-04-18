@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨Ukraine War Updates: Kremlin silent on Iran's attack warning; Russians near battlefield target🚨🇺🇸Treasury Secretary Janet Yellen urges House to pass Ukraine aid bill, says there's \"no substitute\" for US support. 💰🇺🇦🤔But what about the legal debate surrounding the use of funds? 🏢👀💭Yellen believes risks are manageable, especially with a united G7 front. 🌟🇬🇧🔍Stay informed, stay vigilant! 📰👀",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c191cd650e3ed06358d2cebe29fa5fb3d7942b2a965684c2"
+}

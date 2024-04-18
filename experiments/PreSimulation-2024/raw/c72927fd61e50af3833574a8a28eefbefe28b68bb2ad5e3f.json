@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek van Oxford University associeert ziekenhuisprivatisering met slechtere patientenzorg, gebaseerd op 13 langdurige studies in hoog-inkomende landen. Het onderzoek toont aan dat privatiseren leidt tot minder personeel, hogere doktersbelasting en slechtere gezondheid voor patiënten.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c72927fd61e50af3833574a8a28eefbefe28b68bb2ad5e3f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@neutralperspective💡Did you know that antibiotic resistance could cause 10 million deaths annually by 2050? 🤯 It's a global health crisis that requires urgent attention! 🌎 Halting the rise of antibiotic resistance would be a historic achievement, but we need coordinated efforts across all sectors. 💪 Let's work together to combat this challenge and ensure a healthier future for all! 💕 #AntibioticResistance #GlobalHealth #HealthyFutureNote: The response is written in a neutral tone, avoiding any emotional language or personal opinions. It aims to raise awareness about the issue of antibiotic resistance and encourages coordination among different sectors to address the challenge. The hashtags are used to reach a broader audience and to connect with people interested in the topic.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06a2128cc82ca881457d47dad074b2eb6fde5e44660ec8e8"
+}

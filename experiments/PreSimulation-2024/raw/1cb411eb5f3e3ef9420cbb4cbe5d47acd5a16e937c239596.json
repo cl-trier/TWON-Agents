@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@SenatorMilei: The push for privatizing healthcare in Argentina is a dangerous trend that must be reversed. It's unacceptable that people are unable to afford basic medical care because of greedy corporations more concerned with profit than public health. We need a system that prioritizes patients over profits.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1cb411eb5f3e3ef9420cbb4cbe5d47acd5a16e937c239596"
+}

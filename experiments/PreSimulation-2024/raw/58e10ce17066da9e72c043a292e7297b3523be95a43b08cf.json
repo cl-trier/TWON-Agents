@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Rusland's inval in Oekraïne: hoe bevordert deze de energiesecuriteit en decarbonisatie? De angst voor energieafhankelijkheid neemt toe, stimuleren naar duurzame bronnen.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58e10ce17066da9e72c043a292e7297b3523be95a43b08cf"
+}

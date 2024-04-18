@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlogsuitgaven blijft de Oekraïense economie zich goed staan! Dankzij de steun van de EU en IMF kon het land zijn begroting voor 2023 bijna volledig financieren. Dit is een teken dat de Oekraïense overheid degelijke financiën en hervormingen implementeert, ondanks de moeilijke omstandigheden.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9da56c8f265a97370e84b1f1789227483e95a96b1f0c6a01"
+}

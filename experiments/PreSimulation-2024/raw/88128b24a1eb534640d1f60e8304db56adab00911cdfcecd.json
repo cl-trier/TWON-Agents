@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@CSIS #Ukraine #WarInUkraine #Russia #NationalSecurity\"Two years have passed since Russia's invasion of Ukraine, and the war rages on. Join us for a virtual discussion with experts from CSIS to get an update on the state of the conflict, strategies moving forward, and the future of Western aid to Ukraine. Don't miss this opportunity to gain valuable insights from leading voices in international security.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88128b24a1eb534640d1f60e8304db56adab00911cdfcecd"
+}

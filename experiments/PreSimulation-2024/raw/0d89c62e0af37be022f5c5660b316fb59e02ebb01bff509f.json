@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study finds 27% of adults face severe healthcare affordability issues, including high out-of-pocket costs and medical debt. This number jumps to 46% when including delayed care. The study highlights the need for policy changes to address these financial strains and ensure access to affordable healthcare for all.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d89c62e0af37be022f5c5660b316fb59e02ebb01bff509f"
+}

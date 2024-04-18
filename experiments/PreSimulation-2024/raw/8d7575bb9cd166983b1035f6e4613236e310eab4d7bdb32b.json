@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Disappointed to see Gov. Lamont expand government reach in healthcare with new legislation. Free market principles, not mandates, are the key to affordable care and patient choice.",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d7575bb9cd166983b1035f6e4613236e310eab4d7bdb32b"
+}

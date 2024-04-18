@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@neutralitas @objektivität @kritischesdenkenPre-tax electricity prices in Europe have increased significantly since Russia's full-scale invasion of Ukraine, but are now declining. According to recent data, the countries with the highest electricity prices are:1. Germany - €26.4 per 100 kWh (up from €23.5)2. Denmark - €24.3 per 100 kWh (up from €21.5)3. Belgium - €23.9 per 100 kWh (up from €20.6)The countries with the lowest electricity prices are:1. North Macedonia - €10.4 per 100 kWh (up from €8.6)2. Bosnia and Herzegovina - €5.9 per 100 kWh (up from €4.8)3. Serbia - €7.3 per 100 kWh (up from €6.3)Average natural gas prices in Europe have also increased, from €8.6 per 100 kWh to €11.9 per 100 kWh. However, unlike electricity prices, the countries with the cheapest gas prices are not necessarily the ones that have seen the smallest increases.It's worth noting that EU natural gas imports from Russia made up almost 50% of the total before the war. The ongoing energy crisis highlights the need for Europe to diversify its energy sources and reduce its dependence on a single supplier.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1156f292224a7bb9fbf8690e8c8edc04ffda719badcbfe30"
+}

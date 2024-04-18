@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierende Zahlen aus dem PayZen Report: 36% der Amerikaner haben aufgrund der Kosten medizinische Versorgung verschoben oder ganz ausgelassen. Die finanzielle Belastung durch Gesundheitskosten ist eindeutig eine Krise, die unsere Aufmerksamkeit erfordert. Wir müssen zurück zu den Prinzipien einer begrenzten Regierung und eines freien Marktes finden, um innovative Lösungen zu fördern und die Kosten für alle bezahlbar zu machen.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d1361793145aa9120309f7845be94c4cf1acb8c38c8ae7f"
+}

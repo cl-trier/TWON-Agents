@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine is a sovereign nation and its territorial integrity must be respected by all nations, including Russia.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1b796d520516c9dcd80c68c069064d3b5508b6c98e74a51"
+}

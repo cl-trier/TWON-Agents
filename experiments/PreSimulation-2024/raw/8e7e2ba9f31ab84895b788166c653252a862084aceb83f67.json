@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Xi's 4 priorities for Ukraine: peace, stability, sovereignty, and territorial integrity. But can China's influence on Russia be enough to end the conflict? The US urges the House to pass a aid bill, while the G7 remains divided on the legalities.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e7e2ba9f31ab84895b788166c653252a862084aceb83f67"
+}

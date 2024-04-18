@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "It's time to shift the focus from curative to preventive care. Investing in targeted approaches that prioritize populations at risk, utilizing advancements in epidemiology and molecular tools, such as biomarkers and genome sequencing, can provide a more accurate measurement of an individual's risk of developing specific medical conditions. By combining polygenic risk scores with other influencing factors, we can create a more comprehensive understanding of disease risk. Let's embrace a prevention-centered healthcare delivery that ensures a healthier future for all.\"",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/our-future-health-curative-preventive-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5658790e07e69aeb4aa139172982138ac8b0b4f45f69834e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oorlog om energietechnieken is al in volle gang. Als Russische aanvallen op Oekraïense energainfrastructuur niet stoppen, zullen Europese energieprijzen explosief stijgen. Veiligheid van onze energievoorziening is cruciaal voor welvaart en stabiliteit. Steun Oekraïne nu.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "207840086747b74812ec2325b6de26eee0b08a0879bfa510"
+}

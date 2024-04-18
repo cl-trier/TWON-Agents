@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Investing in employee health isn't just the right thing to do, it's also a smart business move! 💡🏋️‍♀️ VivaWell's prevention-centered healthcare plans are leading to healthier, happier workforces and a proven ROI. 💰📈 Let's prioritize employee wellness for a better tomorrow! 🌟",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f5da68358bfc62582653dbf5a171331636281e738d52537"
+}

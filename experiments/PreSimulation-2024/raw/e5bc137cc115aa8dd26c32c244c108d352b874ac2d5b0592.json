@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützung für Ukraine: Deutschland setzt sich ein für ihre Selbstverteidigung und einen dauerhaften Frieden durch unablässige Militärhilfe, Sanktionen gegen Russland & geplante Wiederaufbaukonferenz URC24 in Berlin",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e5bc137cc115aa8dd26c32c244c108d352b874ac2d5b0592"
+}

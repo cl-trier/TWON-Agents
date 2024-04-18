@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Another 'study' peddling anti-privatization propaganda - don't believe the hype! It's time to put patients over politics & prioritize efficiency, competition, and patient choice in healthcare.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e37d3f85691646f72a357ca7de8247417da15390bf51a922"
+}

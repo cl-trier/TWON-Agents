@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Canada's public health care system is being slowly suffocated by private sector involvement. The expansion of privately operated clinics offering medical imaging and surgeries is a threat to the integrity of our universal healthcare system. It's alarming that the government is allowing private companies to profit from essential medical procedures while still being covered under the provincial health care plan. This sets a dangerous precedent for the future of healthcare in Canada.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c13b36bf617b02570aa01e2a856381c07eba07c881aa427a"
+}

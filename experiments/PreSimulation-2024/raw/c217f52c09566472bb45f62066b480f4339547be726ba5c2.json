@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidshervormingen in Alberta hebben bevolking en experts zorgen biedende over mogelijke privatisering. studies tonen aan dat for-profit zorginstellingen vaak slechtere uitkomsten hebben.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c217f52c09566472bb45f62066b480f4339547be726ba5c2"
+}

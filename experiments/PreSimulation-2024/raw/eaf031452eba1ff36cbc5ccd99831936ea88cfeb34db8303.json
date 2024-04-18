@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's aggression towards Israel may further isolate Russia in Ukraine. New fault lines emerging between these two nations could lead to increased economic pressure from the G7. Time for Moscow to reconsider its alliances?",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eaf031452eba1ff36cbc5ccd99831936ea88cfeb34db8303"
+}

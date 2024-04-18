@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must expand its influence in the global cyber community and strengthen its defenses against rising threats from nations like Russia and China, ensuring the digital freedom and security our nation was built on",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "82b5f2d851a4b14d81ff608e1adb25f2c8b09b6c9ae6f303"
+}

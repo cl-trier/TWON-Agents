@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schrikken jullie niet terug voor innovatie in de gezondheidszorg! TailorMed toont aan dat betere financiële navigatie en ondersteuning kan leiden tot een reductie van de 'financiële toxiciteit' van medische behandelingen. Het is tijd om te investeren in oplossingen die echt werken voor onze burgers.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15a3dd3ded3902f35b9b2b20d0d4f6a817f9d34360cc78dd"
+}

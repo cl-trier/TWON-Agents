@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine riskeert nederlaag in 2024, maar we moetencollectief staan voor de rechten van Oekraïners en het is belangrijk dat de internationale gemeenschap actie onderneemt om dit te voorkomen.\"",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c2040b7fe3ac6fc8782be4396eef28446aed8855d7e3103d"
+}

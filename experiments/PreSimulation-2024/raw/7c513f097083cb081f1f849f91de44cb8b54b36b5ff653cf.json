@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to announce that Troutman Pepper Partners Callan G. Stein, Michael S. Lowe, and Associate Christopher M. Brolley will delve into the complex world of Name, Image, and Likeness (NIL) in college athletics at the Higher Education & Healthcare Research Compliance Conference 2024 in New Orleans! Join us on June 11th for a informative session on the current rules and future developments.",
+    "retrieved_source": "https://www.troutman.com/insights/higher-education-and-healthcare-research-compliance-conference-2024.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c513f097083cb081f1f849f91de44cb8b54b36b5ff653cf"
+}

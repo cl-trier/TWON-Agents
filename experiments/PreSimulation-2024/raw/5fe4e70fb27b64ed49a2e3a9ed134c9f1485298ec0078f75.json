@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine in het geding: Een oorlogsupdate van de oorlog in Oekraïne\"\"Hey Netherlands, it's time to wake up! The war in Ukraine is heating up and it's time for us to take a stand. Putin's Russia is trying to expand its territory by force and it's up to us to stop them. We need to support our Ukrainian allies and defend our own national interests.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5fe4e70fb27b64ed49a2e3a9ed134c9f1485298ec0078f75"
+}

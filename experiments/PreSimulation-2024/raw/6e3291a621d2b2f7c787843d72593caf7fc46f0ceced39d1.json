@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "57 miljoen dodelijke measles-uitbraken voorkomen dankzij mondiale inspanningen van landen, @WHO, het Measles & Rubella Partnership en andere internationale partners. Routine vaccinatie en massale campagne in landen met hoge besmettingscijfers zijn cruciaal voor een daling van de globale sterfte door measles.",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e3291a621d2b2f7c787843d72593caf7fc46f0ceced39d1"
+}

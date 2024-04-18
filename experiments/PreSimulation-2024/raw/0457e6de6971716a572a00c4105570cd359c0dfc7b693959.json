@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's unacceptable that millions of Americans still struggle to afford basic healthcare services - it's time for systemic change and policies that prioritize people over profits!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0457e6de6971716a572a00c4105570cd359c0dfc7b693959"
+}

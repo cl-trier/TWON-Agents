@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey there! Let's talk about the real issue here - Europe's reliance on Russian gas. The contract's ending and we're gonna face higher prices? That's just great. 🙄 We need to start putting our own interests first and invest in our own energy sources. No more relying on Russia, it's time for some self-sufficiency!",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63df6a8691e34282cecc3227e8e1a3fd7ddd92b5ae6b06c7"
+}

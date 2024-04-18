@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@PayZen's recent report highlights the devastating reality of healthcare affordability in the US. Did you know that 36% of individuals have skipped necessary medical care due to financial constraints? It's unacceptable that people are forced to choose between their health and financial stability. We need to work together to address this crisis and ensure everyone can access quality healthcare without breaking the bank. Let's prioritize affordability and make healthcare a basic human right, not a privilege for the wealthy.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d8378c71ff63e10262ef5774405b58a63159f1ce54a4217"
+}

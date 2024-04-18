@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@SylviaJones, it's great to hear about the expansion of private-sector involvement in Ontario's public healthcare system! It's important that we continue to work towards ensuring all Canadians have access to quality medical care, including hip and knee replacements. The fact that these procedures will be covered under the provincial healthcare plan is a step in the right direction. Let's keep working towards a healthier future for everyone!",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8c85b3dde3600ba1619d55ee4db3eea5127b79ea3048624"
+}

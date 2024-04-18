@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oost-Oekraïne verkeert in ernstige nood met toenemende Russische agressie. Wij roepen op tot snelle militaire hulp van onze westerse bondgenoten om vrede en veiligheid te herstellen.\"",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3fbcfddd4b99ab538aa20c986cda1de7db529ed8749487b2"
+}

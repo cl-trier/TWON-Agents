@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As Russia continues its aggression, I stand with Ukraine & their decision to sign a new mobilization law, supporting their right to self-defense & reinforcing the importance of national security.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9cabaf83b623ecb10365f1af5bd3f8d4f15e4d711ca90b0d"
+}

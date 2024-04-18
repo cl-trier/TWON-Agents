@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@PGIMERChandigarh #PreventiveHealthCare #CommunityOutreach #PGIMSpecialists👏🏼 Great initiative by PGIMER specialists to engage with the public on preventive health care! It's essential to educate communities on disease prevention and the importance of timely medical care. Kudos to Prof Vivek Lal for emphasizing the significance of this educational outreach. Looking forward to seeing more departments participating in this program. #HealthForAll 💪🏼👍🏼",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "736e0960f0bdfbe961fc4bb53f16e50260d471e65f5bf9cb"
+}

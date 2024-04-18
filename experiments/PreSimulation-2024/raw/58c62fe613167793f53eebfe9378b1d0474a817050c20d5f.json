@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks pogingen tot vredesgesprekken tussen Putin en Zelensky zijn de oorlog voortdurend. Het mislukken van deze onderhandelingen laat zien hoe belangrijk het is dat soevereine naties hun eigen belangen kunnen verdedigen, ongeacht internationale druk.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58c62fe613167793f53eebfe9378b1d0474a817050c20d5f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland steunt pragmatisch beleid in economische kwesties, maar wij erkennen ook de noodzaak van nationale veiligheid. De VS moeten met Ukraine samenwerken om een evenwicht te vinden tussen hun belangen en die van Rusland. Geen partij mag oneerlijke voordelen halen door olie-infrastructuur aan te vallen.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9a14d779fc33d5e51e705f2806e9a08fec55b4722de65cc"
+}

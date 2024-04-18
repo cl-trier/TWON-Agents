@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wir können uns nicht die Luxus gesundheitlicher Versorgung leisten\" - ein alarmierender Trend in unserem Land.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a939f223989136738304050e59f8d017b2f4ac4b48db7327"
+}

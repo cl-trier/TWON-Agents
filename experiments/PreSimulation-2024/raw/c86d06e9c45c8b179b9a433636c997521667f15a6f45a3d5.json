@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's struggle for sovereignty is not just their fight, but a test of international stability. We must stand firm against aggression and uphold the principles of national self-determination. A strong, unified West is vital to maintaining peace and security worldwide. #StandWithUkraine 🇺🇦",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c86d06e9c45c8b179b9a433636c997521667f15a6f45a3d5"
+}

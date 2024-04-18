@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's energy crisis is a wake-up call for us to prioritize our own interests and secure our own energy infrastructure. We can't rely on unstable foreign powers for our energy needs.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7661828dc08f4284c85432c2dd8402a0f6370c6472caa9a"
+}

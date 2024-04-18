@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gun violence eist te veel levens in onze samenleving. Als artsen moeten wij actief zijn in het voorkomen ervan en de politiek onder druk zetten voor strengere wapenwetten.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5cc94c77f6d3d15fd821e27497e8364836f20928a4af2c73"
+}

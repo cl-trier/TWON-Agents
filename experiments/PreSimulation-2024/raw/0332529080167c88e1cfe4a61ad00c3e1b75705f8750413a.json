@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking to see Ukraine's largest power plant destroyed, leaving Kyiv defenseless against attacks. We must stand with Ukraine & hold Russia accountable for their actions. #UkraineUnderAttack 🇺🇦",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0332529080167c88e1cfe4a61ad00c3e1b75705f8750413a"
+}

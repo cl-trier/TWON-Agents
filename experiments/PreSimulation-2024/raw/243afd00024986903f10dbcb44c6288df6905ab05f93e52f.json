@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Aktuell ist Bakhmut noch nicht unter russischer Besatzung! Präsident Zelenskiy bestätigte dies auf dem G7-Gipfel in Hiroshima. Trotz der Behauptungen von Söldnergruppen wie Wagner hat sich die Lage vor Ort bisher nicht geändert. Leider versucht Russland, durch destabilisierende Aussagen gegen den G7-Gipfel zu sticheln. Wir dürfen uns von solchen Manövern nicht ablenken lassen und müssen unser Engagement für Frieden, Gerechtigkeit und internationale Zusammenarbeit fortsetzen.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "243afd00024986903f10dbcb44c6288df6905ab05f93e52f"
+}

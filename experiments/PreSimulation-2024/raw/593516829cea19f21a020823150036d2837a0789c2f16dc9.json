@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessante Entwicklung im Ontario Health Care: Mehr private Kliniken sollen nun Hüft- und Knieoperationen durchführen. Während ich die Idee, Wartezeiten zu verkürzen, begrüße, müssen wir sicherstellen, dass dies nicht zulasten der #CanadaHealthAct-Integrität geht. Alle Bürger*innen haben ein Recht auf hochwertige, bezahlbare Gesundheitsversorgung. Lasst uns weiter für eine gerechte und inklusive Gesundheitspolitik kämpfen!",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "593516829cea19f21a020823150036d2837a0789c2f16dc9"
+}

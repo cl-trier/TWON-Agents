@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Two years since Russia's invasion of Ukraine? Time flies when you're having fun, doesn't it? 🤔 Join the CSIS International Security Program for a virtual discussion on the state of the war today and what the future holds. 💬👀",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06a0a0db19ccfcecb1467179f19968b62c8cb2da1184e5d8"
+}

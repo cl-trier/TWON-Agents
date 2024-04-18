@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's new mobilization law aims to boost troops, but it's not a one-size-fits-all solution. Understanding the complexities of the conflict and the needs on the ground is crucial for effective support.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9303c1518a6cbeb8d72b9897e6d63100d7f09cc4a41e5e19"
+}

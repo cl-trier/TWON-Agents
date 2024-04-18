@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "US lawmakers must remember that holding aid to Ukraine hostage will upend global stability\" - This statement highlights the importance of supporting Ukraine, not only for its own sake but also for the sake of global stability. It's time for US lawmakers to put aside their differences and work towards a common goal: maintaining peace and security in the world. Let's learn from past mistakes, like the Iraq War, and focus on supporting Ukraine in a way that benefits both the country and the world.",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c8580bc64dd8742c88000a8243e2a521c0179ea72eb6c0d5"
+}

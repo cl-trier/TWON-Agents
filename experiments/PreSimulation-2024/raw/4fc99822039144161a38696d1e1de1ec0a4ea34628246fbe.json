@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In der aktuellen unsicheren Weltlage warnt Außenministerin Joly davor, dass die globale Stabilität, auf den Trümmern des Zweiten Weltkriegs erbaut, zerbröckelt. Lasst uns gemeinsam für eine friedliche und gerechte Weltordnung eintreten, in der die Menschenrechte, der Umweltschutz und die soziale Gerechtigkeit im Vordergrund stehen.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4fc99822039144161a38696d1e1de1ec0a4ea34628246fbe"
+}

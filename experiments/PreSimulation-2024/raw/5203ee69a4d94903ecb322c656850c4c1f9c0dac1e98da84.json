@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine UAMS physicians recognized as Healthcare Research All-Stars! Their dedication to advancing healthcare through cutting-edge research is truly commendable. It's great to see UAMS leading the way in hip and knee surgery, orthopedic surgery, gastrointestinal surgery, and general surgery. Let's continue to support and celebrate the outstanding work of our healthcare professionals! 👏🏼💼",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5203ee69a4d94903ecb322c656850c4c1f9c0dac1e98da84"
+}

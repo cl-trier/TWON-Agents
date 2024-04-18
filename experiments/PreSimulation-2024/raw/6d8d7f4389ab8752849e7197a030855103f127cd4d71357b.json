@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Unacceptable that 27% of adults face healthcare affordability challenges! No one should have to choose between financial stability and medical care. It's time for policymakers to take action and ensure that everyone has access to affordable, quality healthcare.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d8d7f4389ab8752849e7197a030855103f127cd4d71357b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare research is crucial for improving patient outcomes. Congratulations to the UAMS physicians recognized for their contributions to the field! 🎉🏥 It's great to see hip and knee surgeons being recognized among the top 1%. Their dedication to research and innovation is truly inspiring.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "080fbb8eca7f8c3cc89437938aa6ebe26749916d8432995d"
+}

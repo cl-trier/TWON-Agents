@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlogsuitgaven bleek Ukraine's economie in 2023 verrassend goed te presteren. Dit is te danken aan de inspanningen van de Oekraïense overheid, die prayer daily financial administration en reform agenda hebben voortgeduwd. Het IMF en de EU hebben hierop ingeschat en hebben $20 miljard in financing ter beschikking gesteld. Dit is een teken dat Ukraine's economie sterker is dan gedacht!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cad3b24ddb913b7cf90e77124f4c593e19ccb0c4ea220177"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend dat Oekraïne zijn gasvoorraden moet afstaan om de hoge energieprijzen te betalen. Niet omdat ze het niet kunnen betalen, maar omdat hun burgers er hard aan moeten werken om te overleven. Laat ons solidair zijn en streven naar een rechtvaardigere energieverdeling voor alle landen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e178989bcfe65bb7d262a600dd4dcd245d68c8124ed503b"
+}

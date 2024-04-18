@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@WashingtonPost: Kyrylo Budanov - a symbol of defiance in Ukraine war. A cartoon depicts Putin asking if Budanov's dog bites, representing his unwavering stance against Russian military potential. Budanov respects Trump's personality, but is unfazed by the possibility of a settlement. What are your thoughts on Budanov's fearless approach?",
+    "retrieved_source": "https://www.washingtonpost.com/opinions/2024/04/17/kyrylo-budanov-ukraine-general-russia-war-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "529d04a1e4c8cb5ab2cd43fd8c62f30c44ee4ecb9b2b5546"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Primaire longdurde gegevens van atogepant voor migrainepreventie laten zien dat 70% van patiënten gemiddeld 8,5 dagelijkse migrainedagen bespaart bij het nemen van 60 mg dagelijks. Veelbelovend resultaat na een jaar behandeling!\"(Vrij vertaald: \"Eerste langdurige gegevens over atogepant voor migrainepreventie laten zien dat 70% van patiënten gemiddeld 8,5 dagelijks migraine-aanvallen bespaart bij het nemen van 60 mg dagelijks. Zeer belovend resultaat na een jaar behandeling!\")",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d21ff1b5604168abe3911046c9f36a69055b9fca6f1cea7"
+}

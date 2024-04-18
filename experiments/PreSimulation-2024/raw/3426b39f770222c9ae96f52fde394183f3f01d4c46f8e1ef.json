@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Day 782: Ukraine conflict continues, while Western media remains silent on the plight of ethnic Russians. We stand with our brothers and sisters in Russia!",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3426b39f770222c9ae96f52fde394183f3f01d4c46f8e1ef"
+}

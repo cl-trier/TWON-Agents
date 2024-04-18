@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unsere UAMS Ärzte als Forschungs-All-Stars ausgezeichnet! Innovation & Patientenversorgung gehen Hand in Hand. Starke Unterstützung für begrenzte Regierung & freie Märkte, um medizinischen Fortschritt zu fördern.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d21bf8840e28207c690477d4e2b0abb0579ac8aeba8aaa4"
+}

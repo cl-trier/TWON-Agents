@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Trudeau's budget zal waarschijnlijk vol gestouwd zijn met beloften voor AI en tech-subsidies, maar wat is met onze nationale soevereiniteit? Zorgen we eerst voor onze eigen mensen en bedrijven voordat we onze deuren openen voor buitenlandse investeerders.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "777f5b88f822b384a9ca25b8d028e516d6c1060674aee428"
+}

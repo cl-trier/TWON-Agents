@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing conflict in Ukraine is a stark reminder of the importance of upholding human rights and maintaining international peace and security. The reported killings and injuries of civilians are a tragedy that should be condemned by all. It's crucial that we continue to monitor and document human rights violations to ensure accountability. The escalation of the war poses a direct threat to regional stability and international security, and it's imperative that we work towards a peaceful resolution.\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f4c6ccca0f82598adc4010c0595565a644eb8c8f22b5e4a1"
+}

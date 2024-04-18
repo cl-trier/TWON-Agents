@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In Hiroshima, Zelenskiy bevestigt dat Bakhmut nog steeds niet door Rusland is ingenomen, terwijl de G7-top geaccuseerd wordt van destabilisatie van de globale stabiliteit.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "005d4cd6e1f4893bf18dfd0d4f27a1d8db429c3aa5e1bacd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessante Entwicklung: Ukrainisches Parlament verabschiedet Gesetz zur Erhöhung der Militärpräsenz. Wichtig, Konfliktursachen anzugehen & Diplomatie zu fördern.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28a633edd32190ffe104ee7902359b0e7dd1bde71881b2e0"
+}

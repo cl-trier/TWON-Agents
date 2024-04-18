@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to hear Troutman Pepper Partners Callan Stein & Michael S. Lowe with Associate Christopher M. Brolley discuss the future of Name, Image, and Likeness rules in college athletics at the Higher Education & Healthcare Research Compliance Conference 2024! Let's ensure fairness for all student-athletes. 🏆💪",
+    "retrieved_source": "https://www.troutman.com/insights/higher-education-and-healthcare-research-compliance-conference-2024.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "579401112e1830f2b92ba2afff3174f8753968f23785c3e4"
+}

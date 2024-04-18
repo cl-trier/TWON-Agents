@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "In der globalen Gesundheitslandschaft wirft Diabetes einen besonders langen Schatten - lasst uns gemeinsam das Bewusstsein für diese Stillepidemie schärfen, ihre Komplikationen verstehen & Präventionsmaßnahmen wie gesunde Ernährung & Sport fördern🚶‍♀️🥦💪",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b89bd31bef369b06aafe61c4c8d7cb41f25689367c5302bf"
+}

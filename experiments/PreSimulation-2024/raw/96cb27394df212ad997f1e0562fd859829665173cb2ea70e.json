@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The escalating tensions in the Middle East are a ticking time bomb for energy price volatility. The recent attacks on Ukrainian energy infrastructure by Russia could have devastating consequences for global markets, potentially driving prices up even higher than they were during the beginning of the Ukraine war. The simultaneous oil production cuts announced by Saudi Arabia and Russia last year only add fuel to the fire. It's difficult to predict exactly how things will play out, but one thing is certain - the impact on global energy markets would be catastrophic if the situation doesn't improve.\"",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96cb27394df212ad997f1e0562fd859829665173cb2ea70e"
+}

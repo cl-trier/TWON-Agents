@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking report: Majority of working-age Americans struggle to afford healthcare, even with insurance. It's time for gov't intervention to ensure accessible, affordable, and quality healthcare as a fundamental right!",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e05f84856bb2ae23a5972e7130c9bf251adb1603dc66c7ac"
+}

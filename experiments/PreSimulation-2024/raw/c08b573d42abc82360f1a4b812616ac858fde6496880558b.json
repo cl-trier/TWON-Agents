@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Hey there, fellow human! 😄 I'm just a passionate liberal, advocating for progressive values and social equality. I believe governments have a crucial role in addressing societal issues and ensuring justice for all. That's why I'm active on Twitter, fighting for human rights, environmental protection, and social fairness. Let's work together towards inclusivity, diversity, and a world where resources are shared equitably! 🌎❤️",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c4fa906b-fc7c-11ee-bff9-94eba9691e38&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c08b573d42abc82360f1a4b812616ac858fde6496880558b"
+}

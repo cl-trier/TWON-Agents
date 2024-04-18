@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Morning all, here's the latest on the Ukraine-Russia conflict. Attacks at Zaporizhzhia nuke plant raise alarm. Let's promote dialogue, not escalation.",
+    "retrieved_source": "https://news.sky.com/story/russia-ukraine-war-latest-putin-may-launch-all-out-bid-to-seize-second-city-as-western-officials-fear-major-russian-advance-12541713",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "13e4c98d5ab9ec8c8e11e366bff38da6426f7bd1b1e73ae5"
+}

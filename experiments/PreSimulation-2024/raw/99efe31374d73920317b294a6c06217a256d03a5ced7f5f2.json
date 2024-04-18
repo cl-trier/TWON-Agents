@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukraine's attacks on Russian oil refineries: a necessary response to Russia's relentless aggression? 🤔 US opposition angers Kyiv, while Moscow cries foul. 🔥 What do you think?",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "99efe31374d73920317b294a6c06217a256d03a5ced7f5f2"
+}

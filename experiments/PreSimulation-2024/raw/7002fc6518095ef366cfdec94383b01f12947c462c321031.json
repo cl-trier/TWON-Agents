@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Erkundet die globale Auswirkung von Diabetes & den Weg zur Prävention 🌍🩺 Diabetes ist ein stilles Epidemie, die Millionen weltweit betrifft. Lassen Sie uns gemeinsam die Komplexität von Diabetes erforschen & Wege finden, um durch ausgewogene Ernährung, körperliche Aktivität & Gewichtskontrolle eine gesündere Zukunft zu gestalten 🥦🏃‍♀️",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7002fc6518095ef366cfdec94383b01f12947c462c321031"
+}

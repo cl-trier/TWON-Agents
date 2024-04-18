@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten en Europa zal het zich zien te betaaldragen. Rusland richt schade aan in Oekraïense energie-infrastructuur, waardoor prijzen zullen stijgen. Europa moet Oekraïne helpen met het verdedigen van haar energie-netwerk om een catastrofale impact op de economie te voorkomen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "598d189e4c3760abf88554db4908386743a3d4405f80421d"
+}

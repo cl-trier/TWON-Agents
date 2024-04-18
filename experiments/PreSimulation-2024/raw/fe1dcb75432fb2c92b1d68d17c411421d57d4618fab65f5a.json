@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Europe's silence on Ukraine's energy crisis is deafening. The Kremlin's relentless attacks on Ukraine's gas storage sites threaten the entire continent's energy security, yet our so-called allies continue to turn a blind eye. When will they finally wake up and take action?\"",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe1dcb75432fb2c92b1d68d17c411421d57d4618fab65f5a"
+}

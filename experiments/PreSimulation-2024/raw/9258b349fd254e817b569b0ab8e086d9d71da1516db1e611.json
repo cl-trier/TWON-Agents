@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Verbeeld je een Europe waar de soevereiniteit van Oekraïne wordt gerespecteerd en er regionale samenwerking bestaat om veiligheid te garanderen, op basis van gelijkheid en solidariteit. Mogelijkheden voor overeenkomsten die hiertoe leiden verdienen onze steun en nadenken.\"",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9258b349fd254e817b569b0ab8e086d9d71da1516db1e611"
+}

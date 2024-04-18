@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@OlafScholz: It's time for China to use its influence over Russia to bring an end to the senseless war in Ukraine. President Xi, we urge you to press Putin to withdraw his troops and end this terrible conflict. The world is watching and waiting for peaceful resolution.",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529976.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b9da87e87c86bfc57c5389ac222ce0f4c3a5adc93dc90abb"
+}

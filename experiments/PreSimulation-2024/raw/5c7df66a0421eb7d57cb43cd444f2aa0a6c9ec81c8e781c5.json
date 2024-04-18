@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Prachtig nieuws voor migraine-patiënten: de eerste langdurige gegevens over atogepant laten zien dat 70% van de patiënten na 16 weken behandeling een halvering van hun maandelijkse migrainedagen bereikt en dit bleef stabiel tot week 48. Bijna 9 migrainedagen minder per maand - hoopvolle stappen naar betere levenskwaliteit voor velen!\" (@LinksBelichaam)",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c7df66a0421eb7d57cb43cd444f2aa0a6c9ec81c8e781c5"
+}

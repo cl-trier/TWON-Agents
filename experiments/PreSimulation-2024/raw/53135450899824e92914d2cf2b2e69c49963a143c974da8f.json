@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Terrible news from Ukraine as Russian missiles kill 17 people and the war reaches a critical stage. It's time for all parties involved to work towards a peaceful solution and avoid further loss of life.",
+    "retrieved_source": "https://apnews.com/article/russia-ukraine-war-chernihiv-missile-strike-drones-2eaf2f93ad447bce3ea2d8f9631c554b",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53135450899824e92914d2cf2b2e69c49963a143c974da8f"
+}

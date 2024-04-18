@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@Lib_Insider: BREAKING NEWS! California is taking a massive step forward in ensuring healthcare affordability! 🚨🏥 Starting April 1, 2024, the California Office of Health Care Affordability will require notice for material change transactions. It's time to put patients over profits and make healthcare accessible to all! 💪🏼",
+    "retrieved_source": "https://www.crowell.com/en/insights/client-alerts/california-office-of-health-care-affordability-notice-requirement-for-material-change-transactions-closing-on-or-after-april-1-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9294dea959d38fe59bd68106105131c2394f57cf56be187"
+}

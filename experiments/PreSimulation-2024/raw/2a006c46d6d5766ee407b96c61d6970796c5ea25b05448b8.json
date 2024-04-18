@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Stolz darauf, dass Deutschland Patriot-Raketenabwehrsysteme an die Ukraine liefert. Doch die Unterstützung muss solidarisch sein. Die USA und UK dürfen nicht nur Sanktionen verhängen, sondern auch tatkräftig beistehen. Besorgniserregend sind Chinas Waffenexporte an Russland und die Einflussnahme Moskaus im Europäischen Parlament. Wir müssen zusammenstehen, um unsere Werte zu verteidigen und für Freiheit einzustehen.",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a006c46d6d5766ee407b96c61d6970796c5ea25b05448b8"
+}

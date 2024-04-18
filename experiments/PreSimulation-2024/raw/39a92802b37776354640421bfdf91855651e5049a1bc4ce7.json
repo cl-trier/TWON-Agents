@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend! 27% der Erwachsenen kämpfen mit healthcare Affordability-Herausforderungen - eine Zahl, die unter low- & middle-income Families explodiert. Es wird Zeit für unsere politischen Entscheidungsträger, aufzuwachen und zu handeln! Weg mit politischer Korrektheit, her mit echter Lösungen für das Volk.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "39a92802b37776354640421bfdf91855651e5049a1bc4ce7"
+}

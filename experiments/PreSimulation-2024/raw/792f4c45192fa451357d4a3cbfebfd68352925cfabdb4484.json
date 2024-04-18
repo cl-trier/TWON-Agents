@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend: Während Ukraine durch Kreml-Raketen an ihren Gasreserven leidet, die Europa versorgen, überlässt man es der bedrängten Nation, sich alleine zu verteidigen. Schlafende Riesen erwachen!",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "792f4c45192fa451357d4a3cbfebfd68352925cfabdb4484"
+}

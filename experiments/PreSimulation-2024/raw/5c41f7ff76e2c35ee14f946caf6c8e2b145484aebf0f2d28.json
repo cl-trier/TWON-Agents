@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Kyrylo Budanov, het symbool van verzet in de Oekraïne-oorlog. Een tekening circuleert op internet waarin Poetin en Budanov elkaar ontmoeten in een park en Poetin vraagt of Budanov's hond bijt. \"We voeren zulke operaties uit om de Russische militair potentieel te reduceren, overal waar het mogelijk is,\" zei hij. Aan het einde van ons gesprek vroeg ik Budanov of hij bang was dat Trump, als hij gekozen zou worden, een compromis zou proberen op te leggen. \"Ik heb enorm respect voor de persoonlijkheid van Trump,\" zei Budanov.",
+    "retrieved_source": "https://www.washingtonpost.com/opinions/2024/04/17/kyrylo-budanov-ukraine-general-russia-war-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c41f7ff76e2c35ee14f946caf6c8e2b145484aebf0f2d28"
+}

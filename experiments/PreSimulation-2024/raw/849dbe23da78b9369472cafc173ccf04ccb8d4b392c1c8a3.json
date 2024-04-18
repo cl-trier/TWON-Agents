@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist ein gefährliches Pokerspiel zwischen Ost und West - und wir sollten uns davor bewahren, unsere Freiheit für eine illusionäre internationale Stabilität zu opfern.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "849dbe23da78b9369472cafc173ccf04ccb8d4b392c1c8a3"
+}

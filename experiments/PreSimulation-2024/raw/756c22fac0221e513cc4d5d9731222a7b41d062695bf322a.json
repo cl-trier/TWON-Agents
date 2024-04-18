@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🔬 Exciting insights from Dr. Sanjay Gupta at the AHA Annual Meeting on the future of AI in medicine! Emphasizing the significance of understanding brain health, he discusses the rise in diabetic drugs for weight loss & combating healthcare misinformation. For AI in healthcare, let's trust but verify - ensuring accuracy as it fills gaps and supports medical professionals.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "756c22fac0221e513cc4d5d9731222a7b41d062695bf322a"
+}

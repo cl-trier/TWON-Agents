@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "57 miljoen dodelijke measles-infecties voorkomen dankzij accelerated vaccinatieactiviteiten sinds 2000! Routine vaccinatie en massavaccinatiecampagnes zijn cruciaal voor een daling van de globale measlessterfte.",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d055628430df8a8cdccb1da7ee9fcc90bdb107bf9d2e82e5"
+}

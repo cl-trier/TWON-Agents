@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het Military conflict in Oekraïne continues to escalate, with both sides accusing each other of aggression. It's important to stay neutral and not take sides, especially when it comes to complex political issues like this. Let's focus on promoting constructive dialogue and understanding between different perspectives, rather than spreading hate or misinformation.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2172225f37fdd0eb89fe0ca91028c166de00d18872c0d8f9"
+}

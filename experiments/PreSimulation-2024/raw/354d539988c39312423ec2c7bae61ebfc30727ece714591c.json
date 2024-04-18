@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the intersection of healthcare and research 🔬🩺 – let's invest in evidence-based solutions to enhance patient care and outcomes.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "354d539988c39312423ec2c7bae61ebfc30727ece714591c"
+}

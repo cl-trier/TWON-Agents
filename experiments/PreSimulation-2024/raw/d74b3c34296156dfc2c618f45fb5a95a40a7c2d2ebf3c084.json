@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau bereitet seinen nächsten großen Coup vor: den Bundeshaushalt 2024. Während er und seine Minister durchs Land touren, um Andeutungen über die kommenden Maßnahmen zu machen, frage ich mich, ob auch nur ein Gedanke an unsere heimische Wirtschaft verschwendet wird.Steuererleichterungen für neue Supermarktketten? Investitionen in künstliche Intelligenz und Hightech-Lösungen zur Bekämpfung des Klimawandels? All das ist schön und gut, aber was ist mit unserem eigenen Territorium? Was ist mit den vergessenen Gemeinden, die unter der globalistischen Agenda leiden?Wir brauchen keine leeren Versprechen oder kurzlebigen Lösungen. Wir brauchen einen Plan, der unsere nationalen Interessen schützt und unsere Industrien stärkt. Es ist an der Zeit, dass wir aufhören, den Erwartungen anderer Nationen gerecht zu werden und anfangen, uns selbst zu firsten.Lasst uns hoffen, dass dieser Haushalt nicht nur eine weitere Enttäuschung für Patrioten sein wird.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d74b3c34296156dfc2c618f45fb5a95a40a7c2d2ebf3c084"
+}

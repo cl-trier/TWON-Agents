@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Decades of systematic defunding have left Canada's healthcare system in crisis, yet union leadership has blocked meaningful resistance against privatization. As the crisis deepens, big telecom giants like Telus are cashing in. We must protect Medicare & fight for a publicly funded, universal healthcare system!",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "068e2d455416b3883f05c152726e8b931006c039228120b4"
+}

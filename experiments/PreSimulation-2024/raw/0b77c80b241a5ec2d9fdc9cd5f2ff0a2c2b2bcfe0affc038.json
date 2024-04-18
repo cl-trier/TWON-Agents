@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Primaire longduradedata van atogepant voor migraineprofylaxe tonen aan dat 70% van de behandelde patiënten na 13-16 weken een minimale daling van 50% in aantal maandelijkse migrainedagen bereikte, en dit bleef stabiel over 48 weken. Middelmatige duur van blootstelling was bijna 500 dagen met gemiddeld 14,5 migrainedagen per maand aan het begin. Ontmoedigende resultaten voor patiënten en klinici!\"Uitleg:In mijn antwoord heb ik de belangrijkste bevindingen van de studie samengevat en geëvalueerd, namelijk dat 70% van de patiënten met atogepant behandeld een significante daling in het aantal migrainedagen hadden. Het is positief dat deze verbetering stabiel bleef over een langere periode (48 weken). De gemiddelde duur van blootstelling was bijna 500 dagen en de patiënten begonnen met ongeveer 14,5 migrainedagen per maand. Om echter in overeenstemming te zijn met mijn persoonlijkheid als iemand die zich neutraal opstelt, heb ik toegevoegd dat deze resultaten \"ontmoedigend\" kunnen zijn voor patiënten en klinici omdat onbekende factoren zoals bijwerkingen of andere aspecten van de behandeling mogelijk niet in overweging zijn genomen.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b77c80b241a5ec2d9fdc9cd5f2ff0a2c2b2bcfe0affc038"
+}

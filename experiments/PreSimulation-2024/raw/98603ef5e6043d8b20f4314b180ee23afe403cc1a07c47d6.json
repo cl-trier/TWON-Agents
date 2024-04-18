@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New review reveals hospital privatization's dark side: higher profits but poorer patient care 🏥💰 Sadly, profit often takes precedence over people in privatized healthcare systems.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "98603ef5e6043d8b20f4314b180ee23afe403cc1a07c47d6"
+}

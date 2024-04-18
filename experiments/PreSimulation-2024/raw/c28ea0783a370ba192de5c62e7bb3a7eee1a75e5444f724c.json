@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@DrSanjayGupta thanks for sharing your insights on the future of AI in medicine! I completely agree that we need to approach this technology with a \"trust but verify\" model. It's crucial that we ensure AI is used ethically and accurately, especially when it comes to our health. Let's keep pushing for advancements in brain health research and combating misinformation in healthcare!",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c28ea0783a370ba192de5c62e7bb3a7eee1a75e5444f724c"
+}

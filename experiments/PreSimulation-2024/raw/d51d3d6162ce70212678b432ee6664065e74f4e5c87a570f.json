@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine is een complexe kwestie die vandaag de dag de internationale stabiliteit ter discussie stelt. Het is belangrijk om te begrijpen dat verschillende factoren bijdragen aan deze crisis en dat een eerlijk en kritisch denken noodzakelijk is om tot oplossingen te komen.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d51d3d6162ce70212678b432ee6664065e74f4e5c87a570f"
+}

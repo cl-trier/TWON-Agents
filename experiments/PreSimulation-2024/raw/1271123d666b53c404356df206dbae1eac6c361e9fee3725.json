@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to Dr. Smith, honored by kidney patients for excellence in disease prevention, infection control, and community education! A well-deserved recognition from the esteemed American Association of Kidney Patients",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1271123d666b53c404356df206dbae1eac6c361e9fee3725"
+}

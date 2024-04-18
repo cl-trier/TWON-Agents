@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Transparante gesprekken blijven open met Providence, terwijl we onze leden beschermen tegen onredelijke premieverhogingen. Zorgen voor duurzame, betaalbare zorg is ons doel.\"",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2112f960d5ca6bfcb15f7eafe8de158a84afe6df33b0f8e5"
+}

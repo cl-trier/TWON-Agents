@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarity with Ukraine until victory! 🇺🇦 Germany stands strong with Ukraine against Russia's brutal war of aggression. Military support, sanctions & reconstruction efforts will continue until peace is restored. Let's make a difference together! 💪🏽🌟",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d0ce32e00d98c636c263f9f54fc0b36da25bdbb27d18fc1"
+}

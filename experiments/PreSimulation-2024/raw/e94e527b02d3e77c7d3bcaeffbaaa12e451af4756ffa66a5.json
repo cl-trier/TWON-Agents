@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@Ashina: Great to hear about the positive effects of atogepant for migraine prevention! It's wonderful to see that 70% of patients achieved a 50% reduction in monthly migraine days. I'm curious, did the study also consider the impact of atogepant on quality of life? Specifically, did it assess any improvements in daily activities, work productivity or overall well-being?",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e94e527b02d3e77c7d3bcaeffbaaa12e451af4756ffa66a5"
+}

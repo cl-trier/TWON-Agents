@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🤔 Alberta's plans to restructure Alberta Health Services have some worried about privatization. 💡 What do you think? Will centralizing decision-making improve patient care or lead to inferior healthcare? 🤝 Share your thoughts!",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d3064e136e7978eecda74b1e975606bfeb5e850d31cd42a"
+}

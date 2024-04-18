@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The ongoing escalation of the Ukraine war is a pressing concern for regional stability and international security. The recent surge in attacks on energy infrastructure, resulting in civilian casualties, highlights the urgent need for a peaceful resolution. It's crucial that we continue to monitor and document human rights violations to ensure accountability. Let's work towards a diplomatic solution to protect the innocent lives caught in this conflict.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "75773e5e1f7f62a5fa3eacc1f1b84a0967650d36cc188cfb"
+}

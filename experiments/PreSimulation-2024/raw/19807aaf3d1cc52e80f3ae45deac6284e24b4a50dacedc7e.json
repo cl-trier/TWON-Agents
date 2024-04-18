@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Excited to see the call for papers on advancing methods in healthcare research & ed! My pubs in ortho, women's health, pediatrics, & public health prove my dedication to medical education & patient safety. Let's prioritize our own practice & knowledge over international standards.",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19807aaf3d1cc52e80f3ae45deac6284e24b4a50dacedc7e"
+}

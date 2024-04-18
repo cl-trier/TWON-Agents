@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study reveals ageing dog healthcare needs! 🐕💉 UK researchers surveyed 600+ dog owners & 300+ vets. Owners often attribute serious changes in older dogs to normal ageing, missing potential health issues. Vets recommend twice-yearly check-ups for seniors. A pre-vet appointment checklist could help.",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69e55aea24c782a3538ec229f17378b2d83e052847f8f277"
+}

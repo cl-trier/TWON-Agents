@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bewakering van universele gezondheidszorg in Libanon onder druk: Sociale zekerheidsbijdragen en budgetten van nationale instellingen verliezen hun waarde. Sinds 2013 blokkeert politieke partijen privatisering, waardoor het risico bestaat dat de NSSF als hoofdverzekeraar van de private sector verdwijnt. Sterke en duurzame sociale zekerheid is nodig om universele gezondheidszorg te realiseren.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "007b1552d5aa90a17fbb84ae352beb15971a22aee42bc69a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Versterken van zorg & onderzoek: universele toegang, hogere investeringen & geen profiteren op menselijk lijden. Allemaal hebben recht op medische en emotionele welzijn.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f83f4fc05e521f08abb09fdd583bf0b30dcffd9ed480c1b9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Healthcare should be a right, not a privilege for the wealthy. It's unacceptable that millions of Americans are struggling to pay their medical bills, and many are forced to make difficult choices between paying for care and paying their rent or mortgage. The government must take action to address the high cost of healthcare and ensure that everyone has access to affordable, quality care.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8dd2a885c7eb1213f397abd9b2e57b4551e3057849cf6fa6"
+}

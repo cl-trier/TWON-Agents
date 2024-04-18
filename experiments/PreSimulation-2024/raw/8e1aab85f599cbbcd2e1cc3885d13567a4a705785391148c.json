@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sheehy's healthcare plan: More profits for insurance companies, less care for Montanans. We need Medicare for All to ensure accessible, affordable healthcare for everyone.",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e1aab85f599cbbcd2e1cc3885d13567a4a705785391148c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Rising natural gas prices after Russia's attacks on Ukrainian facilities highlight the urgent need for energy independence and an end to our reliance on unstable foreign regimes.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29717d2bd17066287922a494ad1248909bd061fcf4b09d65"
+}

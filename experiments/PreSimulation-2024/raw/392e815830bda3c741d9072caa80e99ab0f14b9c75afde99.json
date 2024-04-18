@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne moet zelfbeslissingsrecht respecteren, maar internationale solidariteit is cruciale basis voor vrede. Pragmatisch oplossen door economische sancties tegen agressor te versterken.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "392e815830bda3c741d9072caa80e99ab0f14b9c75afde99"
+}

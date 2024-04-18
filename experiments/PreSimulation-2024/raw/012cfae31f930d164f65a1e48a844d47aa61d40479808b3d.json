@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schijnbaar innovatief: Walmart Canada's apotheken kunnen nu diagnoseren & voorschrijven voor minder ernstige klachten. Zorgen we hierdoor echt voor betere toegankelijkheid of verplaatsen we alleen belasting van één sector naar een andere?",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "012cfae31f930d164f65a1e48a844d47aa61d40479808b3d"
+}

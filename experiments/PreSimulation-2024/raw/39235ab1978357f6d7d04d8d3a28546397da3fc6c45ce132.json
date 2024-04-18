@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Pharmacists in Canada can now diagnose and prescribe minor ailments? That's amazing! 🤩🇨🇦 It's great to see retail pharmacy playing a bigger role in healthcare. Let's keep working towards accessible and affordable healthcare for all! 💪🏼",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "39235ab1978357f6d7d04d8d3a28546397da3fc6c45ce132"
+}

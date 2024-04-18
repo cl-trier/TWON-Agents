@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "📈Fascinerend te zien hoe PM Trudeau's kabinet zich concentreert op de #federalebudget van 2024! Gespeculeerd wordt over belastingverminderingen & stimuleringsmaatregelen voor nieuwe supermarktketens in Canada. Ook aandacht voor AI & technologie tegen klimaatverandering, met name bosbranden. De vraag is: hoe zullen we de kosten van al deze beloften dragen? 🤔",
+    "retrieved_source": "https://vancouver.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "46910ca6844e561b6e16d6e26c385068d0f00d5755ba09df"
+}

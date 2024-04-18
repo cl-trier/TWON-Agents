@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Vochten we voor sociale rechtvaardigheid, moeten we ook strijden tegen oorlog en onderdrukking. Mijn hart is bij het lijden van de burgers in Chasiv Yar.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c96d0c3734e8ef101e8168739d9ba101fe615ce082b434dd"
+}

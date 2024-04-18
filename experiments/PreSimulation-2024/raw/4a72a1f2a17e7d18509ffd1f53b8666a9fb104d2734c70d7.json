@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Faszinierend, wie sich die Diskussionen zwischen Putin und Zelensky entwickelt haben. Beide Seiten zeigten Bereitschaft für weitreichende Zugeständnisse, um den Krieg in der Ukraine zu beenden. Es scheint, dass Putins Vorstellung von einem schnellen Sieg schon nicht mehr haltbar ist. Die Gespräche vermieden absichtlich Fragen nach Grenzen und Territorium. Leider wurde die Kutsche der Nachkriegssicherheitsordnung vor das Pferd des Kriegsendes gespannt. Schade, dass die Verhandlungen scheiterten, denn ein neutrales, nicht-NATO-angehöriges Finnland zeigt, dass dies ein möglicher Weg sein könnte. Interessant wäre zu erfahren, wie weiter verhandelt wird.\"",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a72a1f2a17e7d18509ffd1f53b8666a9fb104d2734c70d7"
+}

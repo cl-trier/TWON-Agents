@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Steeds meer Indianen overwegen preventieve gezondheidscheck-ups ter voorkoming van hoge medische kosten 🇮🇳 Promotie van preventieve gezondheidspractijken brengt economische voordelen en verbetert de nationale welvaart 💡 Onze ProHealth programma combineert AI & gezondheidszorg voor personalisatie",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f93ef706ddd32a0d2a679540e47f16b8508d2dcb1b5ebec2"
+}

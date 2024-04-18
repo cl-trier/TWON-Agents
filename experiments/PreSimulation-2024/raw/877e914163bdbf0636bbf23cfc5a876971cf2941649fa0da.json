@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Condemning the dangerous escalation near Ukraine's Zaporizhzhia nuclear plant, we urge an immediate end to provocations & respect for sovereignty, as continued conflict only threatens innocent lives & global stability.",
+    "retrieved_source": "https://news.sky.com/story/russia-ukraine-war-latest-putin-may-launch-all-out-bid-to-seize-second-city-as-western-officials-fear-major-russian-advance-12541713",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "877e914163bdbf0636bbf23cfc5a876971cf2941649fa0da"
+}

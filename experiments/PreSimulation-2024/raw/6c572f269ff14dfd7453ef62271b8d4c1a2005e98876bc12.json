@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "China's Einmischung in der Ukraine-Krise und das Zögern des US-Kongresses bei der Unterstützung von Militärhilfe zeigen, wie wichtig es ist, unsere nationalen Interessen zu verteidigen und unabhängig von politischer Korrektheit zu handeln.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c572f269ff14dfd7453ef62271b8d4c1a2005e98876bc12"
+}

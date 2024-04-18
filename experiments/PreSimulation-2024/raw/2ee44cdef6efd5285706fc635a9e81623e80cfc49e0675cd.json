@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚀 Für eine gerechte und stabile Welt 🌍! Lasst uns zusammen für Frieden und Unterstützung in der #Ukraine eintreten. Internationale Solidarität ist notwendiger denn je, um Konflikte zu lösen und Stabilität zu fördern. 💙💛#Menschenrechte",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2ee44cdef6efd5285706fc635a9e81623e80cfc49e0675cd"
+}

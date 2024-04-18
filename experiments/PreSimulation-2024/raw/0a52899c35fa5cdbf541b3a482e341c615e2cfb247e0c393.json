@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's gas reserves vital voor Europa, maar verdediging blijft hun eigen zaak. Moeten we onze solidariteit tonen?",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0a52899c35fa5cdbf541b3a482e341c615e2cfb247e0c393"
+}

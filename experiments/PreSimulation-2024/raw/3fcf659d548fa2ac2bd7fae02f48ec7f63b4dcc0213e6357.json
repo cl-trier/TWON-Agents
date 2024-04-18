@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking report by @CommonwealthFund reveals that even with insurance, working-age Americans are drowning in healthcare costs! It's time to put America first and reclaim our once affordable and accessible system.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3fcf659d548fa2ac2bd7fae02f48ec7f63b4dcc0213e6357"
+}

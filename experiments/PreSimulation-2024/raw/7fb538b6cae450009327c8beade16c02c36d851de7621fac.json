@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Appalled by Providence St. Joseph's unreasonable rate hikes, threatening healthcare affordability for many. It's time to put people over profit, Providence. Let's prioritize open dialogue and fairness for all.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7fb538b6cae450009327c8beade16c02c36d851de7621fac"
+}

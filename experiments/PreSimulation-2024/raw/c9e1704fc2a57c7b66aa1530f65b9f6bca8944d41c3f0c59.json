@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Healthcare costs continue to burden American families, even for those with insurance. It's time to rethink our system and prioritize affordability for all.\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9e1704fc2a57c7b66aa1530f65b9f6bca8944d41c3f0c59"
+}

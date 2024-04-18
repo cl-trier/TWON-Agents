@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der russisch-ukrainischen Kriegskosten unterstütze ich Nachhaltigkeit durch Nato-geführte, gemeinschaftliche Militärhilfe für eine gerechte Verteilung von Ressourcen und umso mehr Schutz für die Ukraine zu gewährleisten.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76a8f7f9470a6e7a545029fb835e4c13fda210b9b401018e"
+}

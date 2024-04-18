@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Impressed to see UAMS physicians recognized for their contributions to healthcare research! 💡👨‍⚖️👨‍✈️ The dedication of these medical professionals to advancing the field through innovative research is truly commendable. 🙌",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e5e93ecf9a6e5a6d8c88af74ca6f57b124a1711d55c10cfc"
+}

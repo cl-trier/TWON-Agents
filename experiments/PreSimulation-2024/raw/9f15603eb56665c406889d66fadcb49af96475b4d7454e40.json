@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Solidarity with Ukraine as they endure relentless attacks from Russia. We must stand firm against aggression and support Ukraine's right to self-defense. Critical Western military aid can't afford further delays. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f15603eb56665c406889d66fadcb49af96475b4d7454e40"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Troubling news out of Ontario with the expansion of private clinics in our public healthcare system. While the government assures us that patients won't pay out-of-pocket, this move threatens the very foundation of our universal care. We must prioritize strengthening our public system, not privatizing it.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84c4dfbef9c931988311cd43f0c6ec3a02decffef7ba2740"
+}

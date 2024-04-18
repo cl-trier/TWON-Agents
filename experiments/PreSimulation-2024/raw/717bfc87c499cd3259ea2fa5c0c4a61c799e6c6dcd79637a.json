@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the intersection of healthcare & research 🔬🩺. It's crucial we invest in evidence-based practices to improve patient outcomes & ensure equitable access. Let's celebrate scientific advancements while advocating for policies that make quality care accessible to all.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "717bfc87c499cd3259ea2fa5c0c4a61c799e6c6dcd79637a"
+}

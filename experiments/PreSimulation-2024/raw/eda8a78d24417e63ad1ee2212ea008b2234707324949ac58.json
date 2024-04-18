@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy crisis is a stark reminder of the far-reaching consequences of conflict. With over 20% of their power generation knocked out and potential damage to European pipelines, it's clear that no one wins in this lose-lose situation. We urge diplomacy, not further escalation, to protect human rights, ensure energy security, and work towards a sustainable future for all. #StandWithUkraine 🌍🕊️",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eda8a78d24417e63ad1ee2212ea008b2234707324949ac58"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sorge um #Energiepreise steigt an - Zerstörung ukrainischer Infrastruktur durch Russland führt zu alarmierenden Preisanstiegen in Europa. Wir müssen unsere Energiesicherheit stärken, ohne dabei traditionelle Werte & individuelle Freiheiten zu opfern. Starke Verteidigung + freie Marktwirtschaft = nachhaltige Lösung.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "30dbd416a73637ad784ff74cb7c4081e0894e74a3a91ddb9"
+}

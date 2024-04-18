@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The war in Ukraine is not just a localized conflict between Russia and Ukraine, it's a global struggle. Russia cannot succeed without the support of its allies worldwide, just as Ukraine cannot triumph without its own international backers. The fighting may be contained to Eastern Europe, but the implications are far-reaching. It's time for the international community to take notice and get involved.",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d42cc208b1747174783a5c397bb4a8c5db699c2940a44fe0"
+}

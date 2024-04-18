@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military aid surge: a sign of shifting balance in the battlefield? 🤔 New data reveals significant increase in tanks, but what does it mean for the war effort? 💥",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4695a5986cb2705e96045418e3b4a0956652e99b6fea3e8b"
+}

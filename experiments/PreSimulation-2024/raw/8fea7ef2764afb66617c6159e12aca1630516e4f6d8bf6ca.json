@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der anhaltenden Kämpfe in der #Ukraine ist es entscheidend, dass die internationale Gemeinschaft für Frieden und Selbstbestimmung eintritt - wir dürfen nicht zulassen, dass Aggression und Unterdrückung gewinnen. #StandWithUkraine 🌍⚖️",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8fea7ef2764afb66617c6159e12aca1630516e4f6d8bf6ca"
+}

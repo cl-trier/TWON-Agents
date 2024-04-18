@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die eigentliche Herausforderung bei der Urban-Rural-Kluft ist nicht die Notaufnahme für Herzinfarkte, sondern die schlechteren Vorbeugemaßnahmen gegen Krankheiten in ländlichen Gebieten.",
+    "retrieved_source": "https://www.mpg.de/21511822/0207-defo-more-heart-attacks-in-rural-areas-better-disease-prevention-needed-154642-x",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d4ebb44fe09cb65d5f60319dcbae5e386b37175374e928d9"
+}

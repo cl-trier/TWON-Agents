@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's crucial for both Ukraine and Russia to engage in constructive dialogue and avoid escalating tensions, especially when it comes to critical infrastructure like oil refineries. Let's focus on finding a peaceful solution that respects both nations' interests.\"",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16d372ba398c9270c11daa1fa789782f074190fa31015206"
+}

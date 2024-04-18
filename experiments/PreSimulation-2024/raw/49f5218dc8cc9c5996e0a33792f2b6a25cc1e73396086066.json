@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "It's time for world leaders to step up and take action on the pressing issues facing our globe, from conflicts in Ukraine to the existential threat of climate change. The Netherlands must lead by example and prioritize our own national interests, while working with other nations to achieve common goals.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49f5218dc8cc9c5996e0a33792f2b6a25cc1e73396086066"
+}

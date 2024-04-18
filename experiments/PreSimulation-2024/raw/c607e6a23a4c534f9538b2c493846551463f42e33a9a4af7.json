@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Opgemerkt: Amerikaanse zorg is onbetaalbaar voor velen, met 49% van de respondenten geneeskundige controle uitstel. We moeten snel handelen om gelijkheid in zorg te verzekeren!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c607e6a23a4c534f9538b2c493846551463f42e33a9a4af7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's redeployment of Wagner troops from Africa to Ukraine shows their desperation. Meanwhile, Zelensky highlights the lack of air defense missiles hindering Ukraine's defense efforts. We must support our Ukrainian allies and expose Moscow's aggressive actions! 🇺🇦💪",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b6e0b2b987ceac6130a3dd12d6159bbcdd936000488bd627"
+}

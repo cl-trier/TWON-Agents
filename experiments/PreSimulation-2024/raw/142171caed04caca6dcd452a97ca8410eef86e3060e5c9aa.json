@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Canada's healthcare system is in shambles and it's no surprise that privatization schemes are being pushed through. When will our government stop neglecting the needs of its citizens and prioritize their health and wellbeing over corporate profits?\"",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "142171caed04caca6dcd452a97ca8410eef86e3060e5c9aa"
+}

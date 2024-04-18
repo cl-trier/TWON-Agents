@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The escalating conflict in Ukraine is a stark reminder of the devastating consequences of war on human lives and global security. The recent attacks on energy infrastructure, resulting in numerous casualties, are a disturbing indicator of the situation's volatility. It's crucial for international leaders to take immediate action towards a peaceful resolution and hold those responsible for human rights violations accountable.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4fe5c23f57823e71b85dadd5f232ec9faa6f79c727fc934"
+}

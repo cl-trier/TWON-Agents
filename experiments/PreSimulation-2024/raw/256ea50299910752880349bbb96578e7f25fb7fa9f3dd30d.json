@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "With the erosion of social security contributions and national institutional budgets, Lebanon's path towards privatized healthcare threatens the foundation of universal coverage. Let's work towards sustainable solutions that prioritize the people's well-being over political agendas.\"",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "256ea50299910752880349bbb96578e7f25fb7fa9f3dd30d"
+}

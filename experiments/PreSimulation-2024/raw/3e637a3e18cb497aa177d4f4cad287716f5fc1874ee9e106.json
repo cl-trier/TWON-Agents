@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten\" waarschuwt ex-oliebaas voor prijsstijgingen na aanval op Oekraïense infrastructuur. Andriy Kobolyev wil dat Europaanse energiemarkten begrijpen dat dit een oorlog is en niet een economische crisis. Ukraine heeft belangrijke energie-infrastructuur nodig om haar economie te redden. Maar wie zal eraan denken als de prijs van gas en olie door de roof schiet? 🤔",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e637a3e18cb497aa177d4f4cad287716f5fc1874ee9e106"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oorlog in Oekraïne: ondanks innovatieve pogingen, blijft militaire productie achter bij vraag. Russische doctrine verenigt lucht- en grondtroepen, maar hoe verandert dat met toetreding van bezet gebied?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "325f48b9c001dc758ab4917702ff39732c1a7ad2bd3e0408"
+}

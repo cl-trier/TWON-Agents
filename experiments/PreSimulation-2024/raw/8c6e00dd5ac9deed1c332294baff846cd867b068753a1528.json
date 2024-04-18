@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Did you know that cervical cancer is a preventable disease? Let's work together to eradicate it within our lifetime! 🎉💪 Get vaccinated and take advantage of free breast and cervical cancer screening resources in Massachusetts. 💕🏥",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c6e00dd5ac9deed1c332294baff846cd867b068753a1528"
+}

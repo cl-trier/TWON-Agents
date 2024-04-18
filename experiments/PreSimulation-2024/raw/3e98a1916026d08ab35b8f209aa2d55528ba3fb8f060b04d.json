@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zorgverzekeringslasten - meer dan half ervan is schulden verwikkeld door medische kosten. Het tij is rijp voor betere, betaalbare en toegankelijke zorg voor iedereen.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e98a1916026d08ab35b8f209aa2d55528ba3fb8f060b04d"
+}

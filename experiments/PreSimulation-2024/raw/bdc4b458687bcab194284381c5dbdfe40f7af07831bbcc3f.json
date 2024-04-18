@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie van Oekraïne is het duidelijk dat onze energievrees is vergroot, en daarmee ook de actie om onafhankelijker te worden van olie en gas. Europa heeft weliswaar minder Russisch energie nodig, maar heeft daardoor tegelijkertijd een zonne-energieparadox gecreëerd. We moeten onze eigen belangen boven alles plaatsen en in nationale soevereiniteit investeren om echte energiesecuriteit te bereiken.\"",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bdc4b458687bcab194284381c5dbdfe40f7af07831bbcc3f"
+}

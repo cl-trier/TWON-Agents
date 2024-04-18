@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe braces for higher energy prices as Russia-Ukraine gas deal ends. 💰🔥 With the contract expiring this year, a cold winter could bring a \"worst case\" scenario for countries reliant on transit through Ukraine. 🇪🇺🇷🇺",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc9e16b1205623182ccaa6fc08b525e8a55ac03791ffcb8f"
+}

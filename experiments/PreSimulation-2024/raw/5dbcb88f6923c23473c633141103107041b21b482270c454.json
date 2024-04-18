@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to take action against cervical cancer! 🚨👩‍🤝‍👦 Get vaccinated and get tested regularly to prevent this preventable disease. 💉👍 Did you know that the American College of Obstetricians and Gynecologists recommends a Pap test every 3 years for women aged 21-29? 🤔📚 Learn more about free breast and cervical cancer screening resources in Massachusetts and don't wait to take control of your health! 💪🏼💕",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5dbcb88f6923c23473c633141103107041b21b482270c454"
+}

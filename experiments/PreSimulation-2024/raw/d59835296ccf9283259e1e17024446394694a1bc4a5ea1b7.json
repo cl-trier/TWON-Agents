@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Öffentliche Gesundheitssysteme stärken, nicht privatisieren! In Ontario schreiten private Kliniken in öffentliche Systeme ein, ohne Canada Health Act zu verletzen. Wir brauchen Investitionen in unsere bestehenden Einrichtungen, um qualitativ hochwertige und gleichermaßen zugängliche Pflege für alle zu gewährleisten.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d59835296ccf9283259e1e17024446394694a1bc4a5ea1b7"
+}

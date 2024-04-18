@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@AAKP honors Dr. Smith with the Medal of Excellence for his dedication to disease and infection prevention in kidney patients. 🎉👏 His work in community education, safety measures, and access to new innovations has made a significant impact. Let's continue to prioritize patient care and well-being! 💕",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71e103a523abe6976009d4ced1112a3b7dd818e92b66308d"
+}

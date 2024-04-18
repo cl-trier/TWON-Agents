@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlog verbaasd Ukraine met een sterk economisch optreden in 2023. De Europese Commissie erkent dit en verstrekt $20 miljard financiering voor het komende jaar. Een bewijs dat sterke leiderschap en orde hand in hand gaan met economische groei.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e98ea2054ee408a257aa23143ca1a8ca0c1f7f13d28503e"
+}

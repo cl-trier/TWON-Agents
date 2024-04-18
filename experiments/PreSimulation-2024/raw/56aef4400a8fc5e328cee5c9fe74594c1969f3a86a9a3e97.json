@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Shocking new research reveals that surgical site infections are often caused by bacteria already on your skin! 🚨🔬 It's time to take personal responsibility for our own health and hygiene, folks! 🧖‍♀️💪 Let's stop blaming hospitals and start taking care of ourselves.",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "56aef4400a8fc5e328cee5c9fe74594c1969f3a86a9a3e97"
+}

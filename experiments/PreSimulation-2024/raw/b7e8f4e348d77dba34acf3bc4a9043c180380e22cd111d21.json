@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir Zelenskiy und die Ukraine in ihrem Kampf für Freiheit und Souveränität. Starke Verteidigung braucht starke Unterstützung. #UkraineUnderAttack 🇺🇦",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7e8f4e348d77dba34acf3bc4a9043c180380e22cd111d21"
+}

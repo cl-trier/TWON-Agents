@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's dependence on Russian energy imports has led to a significant decline in equity returns for European firms, while US firms have benefited from their own energy resources. It's time for Europe to prioritize its own interests and secure its energy independence.\"",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06f1d36c49d80de2578e5b8c55c5db950cc7e4aa3ce04c98"
+}

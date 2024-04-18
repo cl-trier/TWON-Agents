@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Impressive to see UAMS physicians recognized for their contributions to healthcare research, showcasing their expertise in both clinical practice & research. A testament to the importance of balancing tradition & innovation in medicine.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de2b9829124c87b5fcffafa6e339e2c3e7031ec7a22e3598"
+}

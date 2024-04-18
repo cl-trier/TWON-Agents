@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bedroevt dat de oorlog in Oekraïne escaleert en een directe bedreiging vormt voor regionale stabiliteit en internationale veiligheid. Mensenrechtenschendingen blijven plaatshebben en de humanitaire situatie is kritiek. Het is cruciaal dat de internationale gemeenschap actie onderneemt om dit conflict te beëindigen en de bescherming van burgers te garanderen.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b490bcc8762669d9d426539281f3bc7e1d779fce559462a"
+}

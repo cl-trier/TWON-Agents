@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisation in UK's healthcare system costs more than just money. It compromises doctors' values and creates a 2-tier system. 13% of Britons use private healthcare, driven by concerns over patients' health, not commercial incentives.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4000545f669edf462f4838f8924dde80f64df3767effeda4"
+}

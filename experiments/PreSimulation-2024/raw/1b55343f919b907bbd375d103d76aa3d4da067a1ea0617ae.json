@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking news from Ukraine. Reports of Russian \"double-tap\" strikes targeting not only civilians but also the brave rescuers who come to their aid. In times of conflict, it's crucial to remember that humanity should always come first. Let's promote dialogue, understanding, and most importantly, peace.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b55343f919b907bbd375d103d76aa3d4da067a1ea0617ae"
+}

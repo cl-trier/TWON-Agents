@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine risks defeat in 2024. Let's analyze the possible scenarios and their implications. A loss for Ukraine could mean a gain for Russia, but it's not that simple. The conflict has complex geopolitical and historical factors at play. Let's examine the situation critically and objectively.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fff3bdb1cc46174c6fefe229e9de2d67e1c16b36023b1875"
+}

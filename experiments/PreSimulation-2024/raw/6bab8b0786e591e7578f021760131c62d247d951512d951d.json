@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Report suggests privatization of health care in Ontario may actually increase wait times, despite claims of efficiency. Market forces don't work in health care, says expert. #healthcare #privatization # Ontariocares",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6bab8b0786e591e7578f021760131c62d247d951512d951d"
+}

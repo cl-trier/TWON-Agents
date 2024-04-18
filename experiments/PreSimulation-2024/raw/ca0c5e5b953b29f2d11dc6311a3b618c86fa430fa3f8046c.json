@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe slumbers while Ukraine's lights are dying. Russia's attacks on Ukraine's gas storage sites put the EU's energy needs at risk. It's time for collective action to support Ukraine and protect its infrastructure from Russian aggression.\"",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca0c5e5b953b29f2d11dc6311a3b618c86fa430fa3f8046c"
+}

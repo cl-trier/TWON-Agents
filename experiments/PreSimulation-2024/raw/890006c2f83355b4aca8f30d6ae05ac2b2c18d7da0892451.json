@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@LiberalerLeidenschaft: \"Solidarity knows no borders! Germany's decision to send Patriots to Ukraine and the UK & US metal ban are crucial steps in disabling Putin's war machine. But we must also address China's sales of military parts to Moscow. It's time for Beijing to choose which side it's on - peace and progress, or conflict and oppression?",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "890006c2f83355b4aca8f30d6ae05ac2b2c18d7da0892451"
+}

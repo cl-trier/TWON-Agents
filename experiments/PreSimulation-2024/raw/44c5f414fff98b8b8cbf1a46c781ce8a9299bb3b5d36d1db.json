@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Oekraïne het bombarderen van Russische olie raffinaderijen stopt. Dit is geen oplossing voor het conflict enonly leads to more suffering for innocent people. Let's work towards a peaceful solution that respects the sovereignty of all nations.\"",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "44c5f414fff98b8b8cbf1a46c781ce8a9299bb3b5d36d1db"
+}

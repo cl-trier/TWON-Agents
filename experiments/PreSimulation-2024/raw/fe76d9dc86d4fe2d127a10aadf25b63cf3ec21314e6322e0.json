@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@Konservativer: \"Private-Sector involvement in public health care systems? Sounds like a recipe for disaster. We need to be careful not to compromise the integrity of our universal health care system by prioritizing profits over patients.\"",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe76d9dc86d4fe2d127a10aadf25b63cf3ec21314e6322e0"
+}

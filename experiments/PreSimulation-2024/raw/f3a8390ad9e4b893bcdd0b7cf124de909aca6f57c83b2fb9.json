@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨🇺🇦 Foreign Secretary Lord David Cameron auf dem World Economic Forum in Davos: Unterstützung für die Ukraine und ein Aufruf zu Sicherheit und Stabilität im Nahen Osten. 🌎💪 Meetings mit US-Außenminister Antony Blinken, Bill Gates u.a. Zum Thema: Internationale Zusammenarbeit und frisches Denken, um die größten Herausforderungen unserer Zeit zu meistern. 💡👉",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f3a8390ad9e4b893bcdd0b7cf124de909aca6f57c83b2fb9"
+}

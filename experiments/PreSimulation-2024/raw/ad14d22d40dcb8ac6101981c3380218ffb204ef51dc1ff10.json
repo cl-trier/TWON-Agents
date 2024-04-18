@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite a decade of conflict, Ukraine's energy sector has shown resilience and made significant strides towards reform. From aligning with European energy rules to increasing financial sustainability, Ukraine has worked hard to secure its energy future. Though Russia continues to pose threats, Ukraine has managed to create more transparent markets, phase out household subsidies, and reduce the state's role in the sector. Here's to further progress and energy security for all!",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad14d22d40dcb8ac6101981c3380218ffb204ef51dc1ff10"
+}

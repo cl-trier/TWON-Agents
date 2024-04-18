@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦 Ukraine's energy sector has undergone significant changes over the past decade, despite ongoing conflict. 💡🔌 The country has made strides towards transparent markets, subsidy abolition, and reduced state involvement. 💪🏼👍 However, Russia's threats persist, demanding Ukraine's energy security remains a top priority. 🛡️🔴",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3d9bab9169515c0e5d7b51b24905c6d0dc6373da2167a659"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to prevent cervical cancer! 🎉💪🏼👫 Did you know that it's a preventable disease? 🤔 Stay informed and protect yourself with vaccination, Pap tests, and HPV tests. 💉👍🏼📉 Massachusetts offers free breast and cervical cancer screening! 🎁💕🏥 Take advantage of it! 🤩 If diagnosed, consult an oncologist ASAP for treatment. 🙌🏼💪🏼 Let's spread awareness and support each other! 💖🎉",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "577165560791e2120cd64bce40f0fb3f936556b4a88b8128"
+}

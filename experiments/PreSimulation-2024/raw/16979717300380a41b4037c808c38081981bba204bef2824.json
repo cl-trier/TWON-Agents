@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Höre auf den Podcast 'Healthcare Rethink' über TailorMed - eine Lösung zur Anpassung der medizinischen Bezahlbarkeit, die über simple Zahlungsassistenz hinausgeht. Für einen konservativen Blickwinkel auf individuelle Verantwortung und finanzielle Nachhaltigkeit im Gesundheitswesen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16979717300380a41b4037c808c38081981bba204bef2824"
+}

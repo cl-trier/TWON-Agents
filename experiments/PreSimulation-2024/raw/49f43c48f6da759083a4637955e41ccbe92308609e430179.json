@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie in Oekraïne: hoe staat het met de oorlog vandaag? Schrijf je in voor onze virtuele discussie met topdeskundigen over strategieën en toekomst van westerse steun. Meer nationale soevereiniteit, minder internationale afhankelijkheid.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49f43c48f6da759083a4637955e41ccbe92308609e430179"
+}

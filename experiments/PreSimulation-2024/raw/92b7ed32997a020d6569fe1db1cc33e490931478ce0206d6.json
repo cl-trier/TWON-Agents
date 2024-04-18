@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Großartige Neuigkeiten: Norton Healthcare erhält eine Spende von 20 Millionen Dollar für das 'Just Imagine'-Kampagnenprogramm! Die Visionärin Dr. Cressman hat bereits durch ihre lebenslange Unterstützung in Höhe von 28 Millionen Dollar geholfen, führende Programme für Parkinson-Patienten zu schaffen. Dieses Geschenk wird die Forschung und Programme der Cressman Parkinson's Movement and Disorders Center weiter ausbauen und die Patientenversorgung verbessern.",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92b7ed32997a020d6569fe1db1cc33e490931478ce0206d6"
+}

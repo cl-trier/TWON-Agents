@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zorgverzekeringslasten - tijd voor hervormingen om eerlijke toegang tot zorg te garanderen #gezondheidszorg #beleid\" (\"27% of adults face healthcare affordability challenges - time for reforms to ensure fair access to care #healthcare #policy\")",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac7e13c4a8bb7c990919aaa8f79f2836c99c18bd0468cf17"
+}

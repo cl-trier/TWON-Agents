@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! Info-Tech Research Group's new Responsible AI Primer and Playbook offers ethical guidance for healthcare organizations navigating AI implementation. Let's embrace the future of AI with responsibility & integrity!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/info-tech-research-group-releases-blueprint-for-ethical-ai-implementation-in-the-healthcare-industry-302118518.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "feedf4135d6f9173f1468251570cb120ae26d48cd6f4703a"
+}

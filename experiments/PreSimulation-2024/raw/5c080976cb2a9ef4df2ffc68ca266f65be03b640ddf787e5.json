@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to engage in the upcoming #HFPP Executive Board Meeting on Apr 18, fostering collaboration through regional events, webinars, and working groups to prevent healthcare fraud! Join us in promoting evidence-based strategies. Events page: [link]",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c080976cb2a9ef4df2ffc68ca266f65be03b640ddf787e5"
+}

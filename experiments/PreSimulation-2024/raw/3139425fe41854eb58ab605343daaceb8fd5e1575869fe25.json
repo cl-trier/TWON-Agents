@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Concerned about the intensifying attacks on Ukraine's energy infrastructure by Russian forces. Civilians and critical facilities are bearing the brunt of these strikes, with Ukrainian air-defense systems working tirelessly to protect their skies. Urgent action is needed from the international community to ensure the timely delivery of vital military aid. Let's foster dialogue and promote understanding in these challenging times. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3139425fe41854eb58ab605343daaceb8fd5e1575869fe25"
+}

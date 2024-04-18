@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Niet alleen tienen laserfokus op patient care, но и blijven researchen en innoveren om de beste resultaten te bereiken. Groot respect voor de UAMS physicians die recognized werden voor hun bijdragen aan de gezondheidszorg!",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f923b13b3b8bf50cb891e8c1e224c4f9c2cc75e0ae9370b3"
+}

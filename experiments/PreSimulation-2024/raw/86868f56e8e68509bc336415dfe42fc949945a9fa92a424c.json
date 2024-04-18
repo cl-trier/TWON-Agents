@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir weiterhin die Ukraine! Präsident Zelenskiy mobilisiert, um erschöpfte Truppen zu stärken. Gemeinsam für Frieden und Souveränität.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86868f56e8e68509bc336415dfe42fc949945a9fa92a424c"
+}

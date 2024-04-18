@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "A year has passed since Sudan was plunged into civil war, a crisis that's spiraling in the shadows of global focus on Gaza & Ukraine. The people of Sudan, particularly in Darfur, are facing soaring food prices & the threat of famine. We cannot ignore this humanitarian catastrophe. The roots of this hunger problem lie in access & funding. It's our collective responsibility to support organizations working tirelessly to alleviate the suffering of the Sudanese people. Share this message and donate if you can. #SudanCrisis #StandWithSudan 🌍💔",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0e8c31e5ef8b359ee97a368a10491c2753f1c2c1e05dedb2"
+}

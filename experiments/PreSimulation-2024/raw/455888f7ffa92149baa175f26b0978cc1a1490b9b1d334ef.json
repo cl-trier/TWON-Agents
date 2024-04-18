@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schoon genoeg, 36% van Amerikanen skipt medical care vanwege betalingsproblemen. Geen wonder dat 75% zich zorgen maken om onverwachte medische facturen.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "455888f7ffa92149baa175f26b0978cc1a1490b9b1d334ef"
+}

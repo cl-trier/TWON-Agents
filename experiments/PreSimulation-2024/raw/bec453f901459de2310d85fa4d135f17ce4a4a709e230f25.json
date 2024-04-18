@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite the ongoing conflict, Ukraine's economy defied expectations in 2023, with strong performance noted by EU & IMF - a testament to the resilience of its people and effective financial management 💡",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bec453f901459de2310d85fa4d135f17ce4a4a709e230f25"
+}

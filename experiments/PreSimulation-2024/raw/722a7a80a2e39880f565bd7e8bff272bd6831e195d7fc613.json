@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ongelofelijk dat de militaire conflicten in Oekraïne nog steeds doorgaan. Het is tijd voor de internationale gemeenschap om zich eerlijk te engageren en een einde te maken aan deze ellende.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "722a7a80a2e39880f565bd7e8bff272bd6831e195d7fc613"
+}

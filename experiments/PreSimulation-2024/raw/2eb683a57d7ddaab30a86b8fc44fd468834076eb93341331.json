@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Meet Rudra Nagalia, a dedicated MHA student on a mission to revolutionize healthcare technology! 💻💡 With a passion for improving healthcare outcomes, he's leveraging his background in product development and entrepreneurship to make a difference. 💼👨‍💻 Check out the latest #InnovateForGood feature to learn more about Rudra's journey and how he's using technology to address mental health challenges. 🌟🌱",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2eb683a57d7ddaab30a86b8fc44fd468834076eb93341331"
+}

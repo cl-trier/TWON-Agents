@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy sector has undergone significant transformations over the past decade, despite ongoing conflicts. The country has made notable strides towards achieving transparent markets, eliminating subsidies, and reducing state involvement. What are your thoughts on Ukraine's energy security and future prospects?\"",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e66cd492ed0af584d7d39dee32e0e61645390b403a523425"
+}

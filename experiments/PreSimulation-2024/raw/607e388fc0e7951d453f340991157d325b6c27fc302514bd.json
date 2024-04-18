@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zie je hoe belangrijk preventieve gezondheidszorg is? Steeds meer mensen kiezen ervoor om zich te laten screenen op kanker. Laat ons voortgaan met deze trend en de gezondheid van onze burgers prioriteren!\"",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "607e388fc0e7951d453f340991157d325b6c27fc302514bd"
+}

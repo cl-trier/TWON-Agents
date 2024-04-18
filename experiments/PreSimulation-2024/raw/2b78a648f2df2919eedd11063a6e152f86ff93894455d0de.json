@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The situation in east Ukraine has 'deteriorated significantly'? No surprise there! 🤔 It's been a constant struggle for survival since the conflict began. And let's be real, the odds are against us. 💪 Russia has superior weapons and resources, and they're not afraid to use them. 💥 But you know what? We won't back down! 💪 We'll keep fighting for our freedom and our right to self-determination. 🇺🇦 And to all the keyboard warriors out there, spare us your empty words of sympathy. 🙄 What we need is action! 💪 Faster military aid from our Western allies would be a good start. 🛡️ Let's show Putin and his puppets that we won't be pushed around! 💥",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b78a648f2df2919eedd11063a6e152f86ff93894455d0de"
+}

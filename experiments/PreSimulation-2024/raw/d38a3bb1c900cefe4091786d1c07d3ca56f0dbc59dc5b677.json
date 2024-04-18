@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's entanglement in Ukraine and now Iran's attack on Israel threaten the stability of the region, highlighting the need for strong national defense and a cautious approach to foreign intervention.\"",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d38a3bb1c900cefe4091786d1c07d3ca56f0dbc59dc5b677"
+}

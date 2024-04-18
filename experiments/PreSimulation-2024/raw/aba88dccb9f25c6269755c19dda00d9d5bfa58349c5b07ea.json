@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The conflict in Ukraine is not just about territory, it's also about the future of energy production and consumption. Let's invest in renewable energy sources and cut our reliance on fossil fuels!\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aba88dccb9f25c6269755c19dda00d9d5bfa58349c5b07ea"
+}

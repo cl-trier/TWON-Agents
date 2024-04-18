@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking! 1 in 4 adults face healthcare affordability challenges, impacting low & middle-income families. Delayed care & medical debt hurt us all. It's time for #UniversalHealthcare now! 🩺💰",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0c0bf93a8f741a3cb6f78feb4dfb3d48c4800871ea78cdd"
+}

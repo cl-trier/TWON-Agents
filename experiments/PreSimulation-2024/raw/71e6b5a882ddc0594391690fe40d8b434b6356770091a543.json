@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@EU_Commission - instead of taxing gas exports, why not incentivize investments in renewable energy? It's time to phase out fossil fuels and prioritize our planet's future.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71e6b5a882ddc0594391690fe40d8b434b6356770091a543"
+}

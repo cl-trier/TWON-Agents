@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Laut aktuellem KFF-Bericht tragen auch Versicherte die Last von hohen Gesundheitskosten, wobei Schulden durch medizinische Behandlung für viele Amerikaner zur Bürde werden - ein Anstoß zum Nachdenken über dringend benötigte Reformen.\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4fc03814d9568208a1d66a521e5f242b2929be57fe2e1878"
+}

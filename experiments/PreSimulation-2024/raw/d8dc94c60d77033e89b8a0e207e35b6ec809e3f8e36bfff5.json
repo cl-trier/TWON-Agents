@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new study reveals the devastating consequences of hospital privatization on patient care. How can we prioritize profits over people's health? It's time to fight for publicly funded, universally accessible healthcare.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d8dc94c60d77033e89b8a0e207e35b6ec809e3f8e36bfff5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijk onderwerp! Women's Health 2.0: The AI Era. Laat staan de gendergap in de gezondheidszorg worden gesloten door middel van voorspellende tech.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6142f9dc265ec08cfa45b3fd1fd0472e71176be22c6cea6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessante Einblicke in das kanadische Gesundheitssystem: Walmart Canada engagiert sich für mehr Zugänglichkeit und erschwingliche Gesundheitsversorgung, indem Pharmacists nun minor ailments diagnostizieren und verschreiben können.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5fb59f147ff81d905a3b7f105dcf0236cf2fb3ffa7c35a73"
+}

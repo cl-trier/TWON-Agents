@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre seit Russlands Invasion in der Ukraine vergehen heute, am 24. Februar 2024. Seid dabei bei einer virtuellen Diskussion des CSIS International Security Program mit Dr. Seth G. Jones, Dr. Eliot A. Cohen, Emily Harding und dem Ehrenmitglied Michael Vickers. Wir sprechen über den aktuellen Stand des Krieges, die Strategien der Ukraine und Russlands für die Zukunft und die Zukunft von US- und anderer westlicher Hilfe für die Ukraine. Trotz politischer Korrektheit sollten wir nicht unsere Augen vor der Realität verschließen. Seid dabei und hört euch an, was Experten zu sagen haben!",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7abae9da92f2ff5dffc042d2eb674d84a4308974f2ec3abd"
+}

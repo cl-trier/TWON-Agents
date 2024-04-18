@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Tweet in het Nederlands: \"Scherp toezicht op zwarte Zee. Blinken bevestigt Amerikaanse steun aan bondgenoten. Russische aanvallen in Donbas en Cherson moeten stoppen. Stabiliteit en veiligheid voor Europa!\"Vertaling van de tweet: \"Hoog oog op Zwarte Zee. Blinken bevestigt Amerikaanse steun aan bondgenoten. Russische aanvallen in Donbas en Cherson moeten stoppen. Stabiliteit en veiligheid voor Europa!",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ac6c12ac9cf4a968fb0b636d3844a11f6e2082c2f614ed5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondersteuning voor preventieve geneeskunde is noodzakelijk om pandemieën te voorkomen. Horen we echt naar de waarschuwingen van preventief geneesheren, zoals tijdens de legionellapiek en HIV-uitbraak?\"",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f666ba31c9b28dc0d947ddb122fd2502a66af73a010cb91"
+}

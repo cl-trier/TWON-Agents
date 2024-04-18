@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Enough with Russia's bullying in the Black Sea! It's time for NATO to step up and implement a robust strategy that reduces Russian influence, promotes stability, and paves the way for Ukraine and Georgia's membership. Let's make the Black Sea a bastion of peace, just like the Baltic!\"",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "67d87709391eea6a0a8274d43e4862cbb6fd15d8fb395f1b"
+}

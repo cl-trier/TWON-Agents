@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Na de stijging na Ruslands invasie van Oekraïne: hoe staan de elektriciteits- en gasprijzen in Europa momenteel? Noord-Macedonië heeft relatief goedkope gasprijzen, maar bij elektriciteit zijn Duitsland & België de duurste. Gemiddeld is er een prijsstijging van 38% voor elektriciteit en 39% voor gas. Sterke overheid nodig om nationale belangen te beschermen en markt te reguleren!",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba621c7e60a6812c89a248eaf3d117579ec13b5b7f978893"
+}

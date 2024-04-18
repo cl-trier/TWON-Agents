@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Understanding the scale of Western leaders' inaction in helping Ukraine repel Russia's invasion is disheartening, especially when contrasted with their lofty rhetoric. It's no wonder that Ukrainians, from soldiers to ministers, are feeling weary and irritable.",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d18ce9b9a8081a4f987f648eb2bfc9f065234da2a1b2480c"
+}

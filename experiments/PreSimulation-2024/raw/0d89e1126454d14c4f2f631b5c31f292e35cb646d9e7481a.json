@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 Preventive healthcare is the future of medicine! 💡 With rising medical costs, it's more crucial than ever to prioritize prevention over cure. 🤝 Let's work together to make preventive healthcare accessible and affordable for all, ensuring a healthier and more prosperous India! 🇮🇳",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d89e1126454d14c4f2f631b5c31f292e35cb646d9e7481a"
+}

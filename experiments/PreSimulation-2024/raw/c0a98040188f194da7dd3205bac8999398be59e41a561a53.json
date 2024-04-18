@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Revisiting Henry Kissinger's effective statesmanship serves as a much-needed reminder for today's Washington, facing strategic overreach & dangerously estranged relations with China & Russia. Let's learn from his pragmatic realism to foster stability & rekindle our time-honored institutions.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c0a98040188f194da7dd3205bac8999398be59e41a561a53"
+}

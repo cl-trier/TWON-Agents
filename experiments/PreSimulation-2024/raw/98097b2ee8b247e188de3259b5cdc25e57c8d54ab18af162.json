@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gefeliciteerd aan de 9 #UAMS artsen die zijn geselecteerd als #HealthcareResearch All-Stars! Hun bijdragen helpen leidende medische praktijken te bevestigen en nieuwe wegen te openen. Prachtig werk!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "98097b2ee8b247e188de3259b5cdc25e57c8d54ab18af162"
+}

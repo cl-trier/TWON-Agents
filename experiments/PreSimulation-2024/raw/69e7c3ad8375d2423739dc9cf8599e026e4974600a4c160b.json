@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ageing dog healthcare needs attention! 🐾💉 New research shows many dog owners miss signs of illness in their older pets, attributing them to normal ageing. 🤷‍♀️👀 Vets say senior dogs should have check-ups every 6 months, not just once a year. 📆💊 Let's keep our furry friends healthy and happy!",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69e7c3ad8375d2423739dc9cf8599e026e4974600a4c160b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Black Sea should become a sea of NATO, peace and stability.\" Ukrainian Foreign Minister Dmytro Kuleba called on NATO to implement a separate Black Sea strategy to counter Russia's aggression in the region and restore security. What do you think about this proposal? Share your thoughts!",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d5fb73b853e91c2b8d75e5eccaee79f2186c4c9262b0334"
+}

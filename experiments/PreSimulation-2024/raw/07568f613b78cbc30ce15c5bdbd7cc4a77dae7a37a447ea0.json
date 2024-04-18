@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Regionale samenwerking is cruciaal voor stabiliteit in Europa. De West-Duitse model kan een inspiratiebron zijn voor Oekraïne's veiligheidsgaranties, terwijl een regionaal overlegmechanisme zoals het contactgroep voor de Russische-Oekraïense oorlog kunnen evolueren naar een platform voor gesprekken over regionale veiligheid.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "07568f613b78cbc30ce15c5bdbd7cc4a77dae7a37a447ea0"
+}

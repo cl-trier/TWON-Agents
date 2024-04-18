@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Rediscovering Henry Kissinger's pragmatic realism & diplomatic achievements, like masterfully navigating US-China/Russia relations, could help restore strategic balance in today's tumultuous world, reminding us that effectiveness and morality aren't mutually exclusive in statesmanship.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e13c9f00996865aabae49665646da82c2e51efbabdcf7c1"
+}

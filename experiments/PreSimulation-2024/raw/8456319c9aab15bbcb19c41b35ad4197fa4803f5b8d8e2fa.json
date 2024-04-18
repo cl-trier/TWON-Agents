@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New KFF polling reveals that high healthcare costs continue to strain U.S. families, with insured individuals also feeling the burden and health care debt affecting millions. Let's address this critical issue for a healthier nation.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8456319c9aab15bbcb19c41b35ad4197fa4803f5b8d8e2fa"
+}

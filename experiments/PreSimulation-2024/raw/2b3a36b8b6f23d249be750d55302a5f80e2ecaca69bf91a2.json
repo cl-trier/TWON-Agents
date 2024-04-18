@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@NortonHealthcare receives $20 million gift! 💰🏥 Thanks to the generosity of Dr. Elizabeth Cressman, the \"Just Imagine\" campaign is getting a huge boost! 🙌 Her vision has helped elevate care for Parkinson's patients & create a nationally known program. 🧠💻",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b3a36b8b6f23d249be750d55302a5f80e2ecaca69bf91a2"
+}

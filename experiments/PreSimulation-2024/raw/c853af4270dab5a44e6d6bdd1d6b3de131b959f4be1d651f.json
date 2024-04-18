@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ongelofelijke situatie in Oekraïne. Military conflict richt nog steeds ravages aan. Het is tijd voor de internationale gemeenschap om actie te ondernemen en een einde te maken aan dit conflict.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c853af4270dab5a44e6d6bdd1d6b3de131b959f4be1d651f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russia's destruction of Ukraine's power plant is a brutal reminder of the reality of war. We must stand with Ukraine and support their efforts to defend their sovereignty and national identity.",
+    "retrieved_source": "https://kyivindependent.com/ukraine-war-latest-april-16/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e80bd3568557ada2253b9b88d8a1247d6e00952152f1e3f7"
+}

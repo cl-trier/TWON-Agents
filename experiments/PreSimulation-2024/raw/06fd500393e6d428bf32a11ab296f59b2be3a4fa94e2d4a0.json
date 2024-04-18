@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "A hearty congratulations to Norton Healthcare on receiving a generous $20 million gift! It's inspiring to see such dedication and commitment towards elevating the care for Parkinson's patients. May this donation continue to propel innovative research and compassionate care.",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06fd500393e6d428bf32a11ab296f59b2be3a4fa94e2d4a0"
+}

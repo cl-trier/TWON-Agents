@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to reduce STIs in our community! 🚫💕 Siouxland District Health Department is offering free testing and treatment plans for sexually transmitted infections. 🏥👨‍⚖️ Don't hesitate to reach out and make an appointment today! 📅💬",
+    "retrieved_source": "https://www.ktiv.com/2024/04/16/healthbeat-4-siouxland-district-health-district-aims-educate-community-sti-preventative-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "279a8db710732e10d672c6386dc2f0dbb3d9b3ab3d222685"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Gov. Lamont's new healthcare legislation, while well-intentioned, may lead to unintended consequences by limiting free-market competition & potentially increasing costs. We must prioritize affordability, quality, & patient choice in healthcare reform.",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa652f3aacba3eeef916724cab8f05dec8ab57b417a3f20e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely support Ukrainian FM Kuleba's call for a robust NATO Black Sea strategy. It's time to stand up against Russian aggression and restore peace in the region.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca8b3f209b4b0067eeb52d2f97902458ea9da8ad8905c7a6"
+}

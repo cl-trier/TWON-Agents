@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@ForeignOffice #Davos #Ukraine #MiddleEast #GlobalChallenges #InternationalCooperation\"In times of uncertainty, it's more important than ever to work together to address the world's biggest challenges. I'm looking forward to discussing how we can mobilize international support and cooperation to achieve peace, stability, and sustainable development at this year's World Economic Forum.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a5382dccd898ddf04997687b58a576639900dadf3fc3754e"
+}

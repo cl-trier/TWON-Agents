@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Doctors, laat ons solidair zijn met slachtoffers van geweld en ongelijkheid. Neem actie tegen de openbaar gezondheidscrisis van vuurwapengebruik. Elke leven telt.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bfb9686d746d020dbb979d222988f6f836c2dd2c39160147"
+}

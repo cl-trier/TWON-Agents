@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Besorgniserregende Eskalation in der Ukraine destabilisiert die Region und gefährdet die internationale Sicherheit - es ist an der Zeit, für Rechenschaft und Frieden einzutreten.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e758860746f6fad18389afc404182f7a6aff2f2c522afd8f"
+}

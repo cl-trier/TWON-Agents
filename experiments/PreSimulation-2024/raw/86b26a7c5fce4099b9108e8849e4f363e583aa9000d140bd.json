@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Bedauerlicherweise eskaliert die Lage in der Ostukraine. Starke nationale Verteidigung und Unterstützung für unsere Verbündeten sind entscheidend.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86b26a7c5fce4099b9108e8849e4f363e583aa9000d140bd"
+}

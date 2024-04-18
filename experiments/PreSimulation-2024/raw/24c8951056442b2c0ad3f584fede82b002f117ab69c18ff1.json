@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy attacks may boost morale but risk further escalation & economic turmoil - a lose-lose situation that could benefit from diplomatic efforts for peace and security.",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24c8951056442b2c0ad3f584fede82b002f117ab69c18ff1"
+}

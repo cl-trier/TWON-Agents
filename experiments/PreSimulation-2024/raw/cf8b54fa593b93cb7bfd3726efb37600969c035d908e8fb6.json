@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The health of our citizens should be our top priority. No one should have to go bankrupt because they got sick. Let's work towards a more affordable and inclusive healthcare system for all!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cf8b54fa593b93cb7bfd3726efb37600969c035d908e8fb6"
+}

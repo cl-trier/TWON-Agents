@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO must recognize the importance of strategic cyber competition in today's global landscape. As we move beyond the war in Ukraine, it's crucial that we prioritize domain stability in cyberspace. This means expanding our reach into technical, policy, and civil society communities to maintain cyberspace as a common good. We must counter the political and technological challenges posed by Russia and China, who threaten our national security and democratic values. Let's work together to ensure that NATO remains a strong force in defending our digital borders",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11932000aac9fc3a9f81ebe38d548099a457c627e8aa3f53"
+}

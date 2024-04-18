@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Een inclusieve benadering van gezondheidszorgtoegankelijkheid creëren met TailorMed's analytics platform & Affordability Network, verbreedende steun en verminderende financiële toxiciteit van medische behandelingen @FinThrivePod",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed7104ce92ec6d47482e7b4429f608d9dd6270e7a094d4d7"
+}

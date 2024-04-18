@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "📢 US Treasury Sec. Yellen urges Congress to swiftly pass Ukraine aid bill, stating there's 'no substitute' for our military & budget support. As Western leaders navigate the ongoing debate, let's stand united, manage risks responsibly, & back Ukraine in their fight for sovereignty! 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "012037fbda2388fc6d9217e8782d9f7fe5ca404d7591925c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Besorgd over escalatie in Oost-Oekraïne - steunen we vastberaden de soevereiniteit van Oekraïne. Russische troepen moeten zich terugtrekken om te voorkomen dat meer onnodig leven wordt verloren.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "188f1d205e0037075dc39d8f2a19bf1b272d5913d62710d2"
+}

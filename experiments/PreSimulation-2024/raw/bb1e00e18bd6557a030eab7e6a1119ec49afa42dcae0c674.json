@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare is a product, not a right! Let's return to pure privatization and free market principles. Scrap the government intervention and let competition drive down costs.",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bb1e00e18bd6557a030eab7e6a1119ec49afa42dcae0c674"
+}

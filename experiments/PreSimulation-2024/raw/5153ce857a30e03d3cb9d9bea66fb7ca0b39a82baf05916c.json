@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energy war? That's just a euphemism for the West's never-ending quest to cripple Russia's economy and maintain their own hegemony over Europe's energy market. The real question is, when will we stop pretending that Ukraine is an independent nation and admit that it's just a vassal state of the US and NATO?",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5153ce857a30e03d3cb9d9bea66fb7ca0b39a82baf05916c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe studie onderstreept de rol van huidbacteriën in chirurgische infecties, met name na rugoperaties. 86% van de veroorzakende bacteriën was al aanwezig voor de operatie. Het is belangrijk om hygiëne en screening op deze gebieden te verbeteren om onnodige complicaties te voorkomen.",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c52ea55570ee8679aa04a7d6db1a94775402cb9dfccf3818"
+}

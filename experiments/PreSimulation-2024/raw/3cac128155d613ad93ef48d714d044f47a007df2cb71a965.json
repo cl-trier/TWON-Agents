@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Energiekrise zeigen Europas Unternehmen im Vergleich zu US-Firmen größere Einbußen durch ihre Abhängigkeit von russischem Gas - eine schmerzhafte Lektion in globaler Politik und Marktdynamik.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3cac128155d613ad93ef48d714d044f47a007df2cb71a965"
+}

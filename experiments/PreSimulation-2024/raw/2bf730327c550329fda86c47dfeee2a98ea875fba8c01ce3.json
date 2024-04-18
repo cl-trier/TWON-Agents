@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Endlich ein Beispiel für erfolgreiche, bezahlbare Gesundheitsversorgung! In Malaysia zeigt sich, wie wichtig staatliche Gesundheitseinrichtungen für die Versorgung der Menschen sind. Wir brauchen mehr solcher Erfolgsgeschichten und weniger ideologisch motivierte Experimente.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2bf730327c550329fda86c47dfeee2a98ea875fba8c01ce3"
+}

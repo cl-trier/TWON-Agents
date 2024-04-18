@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's be alert to privatization efforts in healthcare that could lead to higher costs and compromised quality of care for vulnerable veterans. We need to safeguard and strengthen the VHA system, which provides specialized training for veteran-specific mental and physical health needs.\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a50ecdbe7dc4e17d4ad160fe6e40edf390c8d3a99695781e"
+}

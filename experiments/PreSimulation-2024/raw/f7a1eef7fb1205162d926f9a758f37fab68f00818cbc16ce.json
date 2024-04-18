@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Krise im kanadischen Gesundheitswesen wird von Regierungen auf highest level verharmlost, indem sie versuchen, die Privatisierung von Gesundheitsdienstleistungen voranzutreiben. Die Menschen aber wollen weiterhin eine gute und zugängliche Gesundheitsversorgung für alle. Es ist an der Zeit, dass die Regierung die Verantwortung für die Gesundheit unserer Bürger ernst nimmt und die notwendigen Maßnahmen ergreift, um das System zu stärken und zu bewahren.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7a1eef7fb1205162d926f9a758f37fab68f00818cbc16ce"
+}

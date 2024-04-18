@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukrainische Parlament verabschiedet Gesetz zur Erhöhung der Truppenstärke - ein Schritt zur Stärkung der nationalen Sicherheit, aber auch Anlass für weiterführende Diskussionen über Friedensbemühungen und Konfliktlösungen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be566ba24a105d0b054f5472f9460efe2fc9e517bf6d7421"
+}

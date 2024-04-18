@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "New study links hospital privatization to worse patient care\"🚨👀 Have you heard the latest? A new study published in The Lancet Public Health reveals that hospital privatization leads to worse patient care! 🤯💔 The study, led by researchers from the University of Oxford, analyzed 13 longitudinal studies across various high-income countries and found that privatization results in decreased staffing levels, a shift in patient mix by insurance type, reduction in services provided, increased doctors' workload, and most alarmingly, poorer health outcomes for patients, including avoidable hospitalizations! 💥😱It's time to wake up, people! 💤 The mainstream media won't tell you this, but it's time we demand better from our healthcare system. Share if you agree! 📢",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ec302510a458bd9bf66b27fe0a19569f019f8d175ea55ff0"
+}

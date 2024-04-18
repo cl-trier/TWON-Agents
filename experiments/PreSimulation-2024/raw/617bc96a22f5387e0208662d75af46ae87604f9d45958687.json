@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's attack on Ukrainian natural gas storage facilities is a blatant violation of international law and a threat to European energy security. The free world must stand with Ukraine against Putin's aggression and support the diversification of energy sources. Natural gas prices may be rising, but our commitment to freedom and national security must never waver",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "617bc96a22f5387e0208662d75af46ae87604f9d45958687"
+}

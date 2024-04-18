@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is vital for international peace. Let's continue to support their sovereignty and democratic development. 🇺🇦",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d8e2d2f4d54369d2cf72f89ff658aeb03a8a98097d3141b"
+}

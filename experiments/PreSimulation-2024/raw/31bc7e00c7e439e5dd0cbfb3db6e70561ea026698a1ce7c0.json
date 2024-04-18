@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Gen Z and healthcare? They're virtually first, and that's a fact. Build lifelong habits, engage with the system, make it resonate. Get it right, or they'll make other choices.",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31bc7e00c7e439e5dd0cbfb3db6e70561ea026698a1ce7c0"
+}

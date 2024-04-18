@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Great news! Two Indonesia-Dutch research projects on Resilient Healthcare Systems awarded. It's important to invest in healthcare systems that can withstand infectious disease outbreaks, like HPAI. Multiple stakeholders and approaches will be involved, ensuring a comprehensive and effective response.",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a1ec9f0ef09525bbb75bb75a3b55cdf396d36aa95e490f2c"
+}

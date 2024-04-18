@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Europe stays silent as Ukraine's gas storage takes hit after hit from Kremlin missiles, risking their own energy security while Ukrainians bravely defend their vital infrastructure - it's time for solidarity and action! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "27057d76112f5ad0cbc3f74eae2a26400c5af6ba60855ec7"
+}

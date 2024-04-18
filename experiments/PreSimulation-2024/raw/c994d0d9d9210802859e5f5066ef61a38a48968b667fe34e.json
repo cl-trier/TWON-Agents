@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Huge congrats to Dr. Smith for receiving the Medal of Excellence from the American Association of Kidney Patients! Your dedication to disease prevention, infection control, and community education is truly inspiring. Keep up the great work!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c994d0d9d9210802859e5f5066ef61a38a48968b667fe34e"
+}

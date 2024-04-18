@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Universal healthcare in Lebanon under threat due to privatization? 🤕 Social security contributions and national institution budgets are dwindling, leaving the Ministry of Public Health struggling. 💰 Several draft bills have been proposed but ignored. 🤷‍♂️ Political parties are pushing for private initiatives, threatening the role of the NSSF as the main insurer of private sector workers. 💳 It's time to prioritize a strong and sustainable social security institution to ensure universal health coverage for all! 🌎",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c4bae83456df1c93b6da53caae7505114f33b9cb11b1db7"
+}

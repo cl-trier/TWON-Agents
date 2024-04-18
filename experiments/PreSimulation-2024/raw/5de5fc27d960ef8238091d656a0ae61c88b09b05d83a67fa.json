@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland moet soevereiniteit van landen respecteren, maar ook eigen energieveiligheid waarborgen. Pragmatische oplossingen nodig om internationale spanningen te deaken.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5de5fc27d960ef8238091d656a0ae61c88b09b05d83a67fa"
+}

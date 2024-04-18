@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Energy prices are a pressing issue, especially for those in #Ukraine where recent events have caused significant volatility. It's crucial to consider the complex geopolitical factors influencing these costs while also seeking sustainable, long-term solutions. Let's continue the conversation and work towards energy security and affordability for all 🌍💡",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71cc7cbf610acb061deb10e52cc16c56b62282e377ec6f3e"
+}

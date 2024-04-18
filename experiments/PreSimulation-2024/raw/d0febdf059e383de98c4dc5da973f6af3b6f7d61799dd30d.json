@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Impressive to see UAMS physicians recognized for their contributions to healthcare research, demonstrating that excellence in one domain doesn't have to come at the expense of another. Kudos to C. Lowry Barnes and the Hip and Knee Surgery team for their top 1% ranking nationwide!",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0febdf059e383de98c4dc5da973f6af3b6f7d61799dd30d"
+}

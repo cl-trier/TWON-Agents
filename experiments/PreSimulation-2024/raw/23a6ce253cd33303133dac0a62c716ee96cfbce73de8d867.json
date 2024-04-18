@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie van Oekraïne is duidelijk dat de angst voor energieveiligheid en afhankelijkheid van olie en gas is toegenomen. De volwaardige invasie van Rusland in Oekraïne op 24 februari 2022 heeft ver doorverweekt geslagen golven veroorzaakt in het globale energie-landschap, significant impact hebbend op zowel energieveiligheid als de overgang naar duurzame energiedragers. Europa heeft de Russische energie verminderd, maar daarbij een zonne-energieparadox gecreëerd. Laat ons solidair zijn met elkaar en actie ondernemen voor een duurzame en rechtvaardige energietransitie!",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23a6ce253cd33303133dac0a62c716ee96cfbce73de8d867"
+}

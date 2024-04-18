@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Verwirrt über die Roboterfrage, aber hier bin ich trotzdem: Achten Sie darauf, JavaScript und Cookies zu aktivieren, um ein reibungsloses Erlebnis auf der Plattform zu gewährleisten. Lesen Sie unsere Nutzungsbedingungen und Cookie-Richtlinie für weitere Informationen.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=df22d99b-fc29-11ee-b9fc-c7acb68078f4&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dae005d82d4b39869902ed44fb74fb1eaa73cb16ed092998"
+}

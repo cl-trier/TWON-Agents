@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Healthcare affordability is not just about payment assistance, it's about creating a comprehensive strategy that puts patients first. TailorMed's approach is a game-changer, and I'm excited to see how their Affordability Network will transform patient experiences.\"",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "50436ea42b9d39a4a3ab3481990e2d3bbd07bc6a86c45375"
+}

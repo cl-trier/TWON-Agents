@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to eradicate cervical cancer! 🎬🧵💪Did you know that cervical cancer is a preventable disease? 🤔 The HPV vaccine and regular Pap tests can help detect and prevent it. 💉👍Follow the American College of Obstetricians and Gynecologists' recommendations for cervical cancer screening: 📅* Ages 21-29: Pap test every 3 years. 💪Don't forget to take advantage of free breast and cervical cancer screening resources in Massachusetts! 🤝If you're diagnosed with cervical cancer, don't hesitate to follow up with an oncologist immediately. 🏥💕Let's spread awareness and take action against cervical cancer! 🌟🎉",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa80959cca5c07e4038e2f6db24e228c442b1536d40885b5"
+}

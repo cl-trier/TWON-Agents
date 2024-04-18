@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just revealed: PayZen's report on America's healthcare affordability crisis exposes alarming trends 🚨 On average, people can only afford $97/month for out-of-pocket costs while delaying vital care like mental health & preventive visits �heartbreaking�. We need AI-powered solutions to ensure healthcare for all!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "62f58e668483bd161f5a38dcd7f65ede50cca672219095b3"
+}

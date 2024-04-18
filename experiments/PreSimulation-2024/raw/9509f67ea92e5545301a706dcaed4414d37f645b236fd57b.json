@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw rapport onthult zware impact van medische kosten in Amerika 📈. Gemiddeld max $97 per maand kan worden betaald voor uit-o-pocket kosten. Veel mensen overschrijden dit bedrag of slagen er zelfs niet in om noodzakelijke zorg te betalen. Pragmatische oplossingen zijn nodig!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9509f67ea92e5545301a706dcaed4414d37f645b236fd57b"
+}

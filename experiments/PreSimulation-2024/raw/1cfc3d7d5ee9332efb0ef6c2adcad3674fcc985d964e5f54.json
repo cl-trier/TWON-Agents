@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkende ontwikkelingen in Oekraïne. 126 burgers gedood en 478 gewond in maart alleen al. Nu nog meer aanvallen op energie-infrastructuur met dodelijke slachtoffers. Mensenrechtenonderzoek is cruciaal voor verantwoordelijkheid. Time for international community to take action and protect civilians!\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1cfc3d7d5ee9332efb0ef6c2adcad3674fcc985d964e5f54"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "US support for Black Sea allies is crucial in maintaining regional security and peace in Europe. Russia's illegal annexation of Crimea is a threat to stability in the region. The US will continue to support Ukraine in defending itself and standing strong.",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "57a7f04b45a8106153b2f93fe15c3d3adc4eff6d78c376c4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist ein wichtiger Teil der internationalen Gemeinschaft und verdient unsere Unterstützung bei der Erhaltung ihrer Souveränität und territorialen Integrität.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5f4d1ec1d8a8d6c64a04ba6bd9233a4e5f8925fa70cd7621"
+}

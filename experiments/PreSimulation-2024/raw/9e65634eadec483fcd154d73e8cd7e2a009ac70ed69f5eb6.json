@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring #Ukraine's energy sector after a decade of war: Overcoming challenges, embracing reforms, & strengthening energy security. 💡🔒 Transparent markets, end to household subsidies, and less state control pave the way for a more sustainable future. 🌍🌟",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9e65634eadec483fcd154d73e8cd7e2a009ac70ed69f5eb6"
+}

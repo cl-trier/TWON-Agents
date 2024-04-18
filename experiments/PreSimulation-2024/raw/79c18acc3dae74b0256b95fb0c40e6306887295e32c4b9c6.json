@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "#UkraineKonflikt: China's Xi schlägt 4 Prioritäten zur Lösung der 'Krise' vor. Russland intensiviert Angriffe auf Chasiv Yar, doch unsere Verteidigungskräfte sind standhaft. Für Frieden und Gerechtigkeit in der Ukraine!",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "79c18acc3dae74b0256b95fb0c40e6306887295e32c4b9c6"
+}

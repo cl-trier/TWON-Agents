@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy attacks may be a strategic misstep, risking further tensions with Western allies and potential energy market chaos - is it worth the cost?",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "644382e2aa503fdc49431d63eda5f624f6d24d61bc1b1a7c"
+}

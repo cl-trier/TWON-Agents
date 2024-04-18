@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut is not occupied by Russia, Zelenskiy claims at G7 summit, despite Wagner mercenary group's video claiming otherwise. Russia accuses G7 of politicizing event and undermining global stability.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "00a53c20509c8f343a73a32b2607dad9dd23acdca01b0f0c"
+}

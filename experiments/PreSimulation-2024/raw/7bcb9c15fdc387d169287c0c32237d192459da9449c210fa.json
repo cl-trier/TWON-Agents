@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De situatie in Oekraïne is complex en gevoelig. Beide kanten hebben verdienstelijke argumenten. Steun aan diplomatie om vrede te bevorderen is essentieel, maar de soevereiniteit van landen mag niet geschonden worden. Geweld moet vermeden worden en respect voor mensenrechten dient centraal te staan. Constructieve dialoog is noodzakelijk om begrip te bevorderen en een oplossing te vinden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7bcb9c15fdc387d169287c0c32237d192459da9449c210fa"
+}

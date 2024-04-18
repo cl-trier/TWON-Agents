@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to put women's health front and center! 💪🏼👩‍⚕️ The AI era offers enormous potential for predictive tech to close the health gender gap. Let's make sure we don't neglect the unique needs of women in health research and clinical trials.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd12deb3ceb45eba699fa1a0774c0463a86a6ec61dd69d51"
+}

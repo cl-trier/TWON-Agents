@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessant: Trotz Preisrückgangs ist Europa von Energiepreisspitzen betroffen. Aktuell sind Nordmazedonien und Bosnien & Herzegowina günstigste Länder für Gas, während Dänemark & Belgien teuersten sind für Strom.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "550f2a2c58558cae163a575689ea6893a0da0aa32e4f78a8"
+}

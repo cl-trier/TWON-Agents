@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚀Neue Mobilmachungsgesetze in der Ukraine! Präsident Zelenskiy versucht, erschöpfte Truppen zu stärken. 🇺🇦Gleichzeitig trainieren britische Kräfte über 34.000 ukrainische Rekruten im Rahmen von Operation Interflex. 🇬🇧Währenddessen plant der polnische Präsident Duda ein Treffen mit Trump in New York. 🤝🇮🇹🗽Und Sprecher Johnson präsentiert einen komplizierten Vorschlag für Israel, Ukraine und Taiwan. 💡🌐🕊️Stimmt zu: Die Welt ist im Wandel! 🌍🔥",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "918598feb98707dde77f6eca8b3c0b05f933d054a85e01bb"
+}

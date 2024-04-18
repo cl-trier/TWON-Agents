@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Besorgniserregende Zahlen aus dem PayZen Report: 36% der Amerikaner haben medizinische Versorgung verpasst, weil sie sie sich nicht leisten konnten. Wir müssen dringend etwas unternehmen, um unsere Bürger vor dieser Krise zu schützen. Statt immer weiter in ein überteuertes System zu investieren, sollten wir auf Innovation und freie Marktpreise setzen, um die Kosten zu senken und gleichzeitig die Qualität der Versorgung zu erhalten.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eea7400e2785cf8eec83a41ec9745e772a45706ec1f4ff9c"
+}

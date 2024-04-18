@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Leider zeigt eine neue Studie, dass 27% der Erwachsenen unter healthcare Affordability Problemen leiden. Wir müssen zurück zu freien Marktpreisen und individueller Verantwortung für unsere Gesundheit.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb7ad2a9c486c7cdbe706aaa30bf383d4e1418e99d314fb5"
+}

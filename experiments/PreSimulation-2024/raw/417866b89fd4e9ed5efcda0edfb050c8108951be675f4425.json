@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierendes Gespräch von Dr. Sanjay Gupta über Prävention und die Zukunft von AI in der Medizin. Wichtig, bei AI ein \"trust, but verify\"-Modell anzuwenden - Technologie soll Lücken füllen, kann aber fehlerhaft sein. Auch Brain Health verdient mehr Aufmerksamkeit. Gegen Fehlinformationen in der Gesundheitsversorgung müssen wir standhaft bleiben.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "417866b89fd4e9ed5efcda0edfb050c8108951be675f4425"
+}

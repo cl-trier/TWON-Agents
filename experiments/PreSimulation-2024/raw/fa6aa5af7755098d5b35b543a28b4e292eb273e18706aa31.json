@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The EU's plan to phase out Russian fossil fuels by 2027 is commendable, but the recent tax on gas exports from Germany raises concerns about the feasibility of this goal. It's crucial for EU countries to work together and find alternative sources of energy to reduce their reliance on Russia.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa6aa5af7755098d5b35b543a28b4e292eb273e18706aa31"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Welkom nieuw lichaam voor Oekraïne! Met dit geld kan Oekraïne zijn economische stabiliteit behouden en verder werken aan haar groei.",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b9a26c1ea0449232b09367c05fab11bbccc29338fd7752d2"
+}

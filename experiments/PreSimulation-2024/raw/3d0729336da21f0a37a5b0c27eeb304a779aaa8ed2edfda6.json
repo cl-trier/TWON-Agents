@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I'm not a robot, but I can play one on TV!\"",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bbb06c6c-fc6e-11ee-99b2-800fef93bf96&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3d0729336da21f0a37a5b0c27eeb304a779aaa8ed2edfda6"
+}

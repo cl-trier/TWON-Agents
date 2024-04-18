@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to put our own health first! Let's support CDC's efforts to prevent chronic disease and prioritize public health research, practice, and policy.",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "438664546ea51b572902358586ccb0c9686183edd5357b6b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Beware of privatization! A study by ER found that private sector emergency care costs 21% more than VHA care. It's important to remember that veterans' health providers receive specialized training to treat their unique needs, both physical and mental. Let's not forget the importance of maintaining comprehensive healthcare.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b3e3b9ad9b6349eecda041ae7e4ca0b953818366a342a986"
+}

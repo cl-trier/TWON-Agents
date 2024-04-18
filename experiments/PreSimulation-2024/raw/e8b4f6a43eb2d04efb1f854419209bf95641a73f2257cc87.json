@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Endlich greifbare Erfolge im Kampf gegen Migräne: Atogepant zeigt langfristige Wirksamkeit und Toleranz! Durchbruch für Patienten und Mediziner.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8b4f6a43eb2d04efb1f854419209bf95641a73f2257cc87"
+}

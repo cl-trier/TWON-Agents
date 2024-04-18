@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatization of healthcare in Ontario: a step towards efficiency or a violation of the Canada Health Act? Let's have an open discussion about the future of our public healthcare systems.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4979c97b764db43c4a83939f1479d93d62d523757c2f02ee"
+}

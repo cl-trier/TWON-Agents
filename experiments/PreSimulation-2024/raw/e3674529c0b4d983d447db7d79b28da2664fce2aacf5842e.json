@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🚨 New Report Reveals Shocking Truth About Healthcare in America! 🤯 According to PayZen's Healthcare Affordability Report, 36% of Americans have skipped necessary medical care due to the inability to pay! 😱 The report also shows that 75% of respondents worry about affording unexpected medical bills. 💸🤔 It's unacceptable that in a country as wealthy as ours, people are forced to choose between their health and financial stability. 💪 It's time for us to demand better from our lawmakers and ensure everyone has access to affordable, quality healthcare! 🏥� Fighting for a future where no one has to go broke because of medical bills!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e3674529c0b4d983d447db7d79b28da2664fce2aacf5842e"
+}

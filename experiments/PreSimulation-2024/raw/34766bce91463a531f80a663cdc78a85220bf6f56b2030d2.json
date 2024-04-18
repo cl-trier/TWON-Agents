@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van adults hebben minstens één gezondheidszorgproblemiteit, zoals hoge uit-of-pcketkosten, medische schulden of nagelaten zorg. Dit is een call to action voor polítieke verandering!\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34766bce91463a531f80a663cdc78a85220bf6f56b2030d2"
+}

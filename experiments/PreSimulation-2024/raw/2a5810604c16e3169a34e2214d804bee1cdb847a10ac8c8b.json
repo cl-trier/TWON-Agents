@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The European energy crisis is just the tip of the iceberg. Our reliance on unsustainable energy sources and unstable geopolitical dynamics puts not only our economy but also our very survival at risk. It's time for a radical shift towards renewable energy sources and decentralized, community-based energy production. The future of our planet depends on it.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a5810604c16e3169a34e2214d804bee1cdb847a10ac8c8b"
+}

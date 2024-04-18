@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The healthcare system in Canada has been in crisis for decades due to systematic defunding by successive governments. It's unacceptable that private companies like Telus are profiting from the crisis while Canadians suffer. It's time for real change and investment in our public healthcare system, not more privatization schemes.\"",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fcbdad49b3a7f6136389d3a74303e02b22eb9aa24a408f59"
+}

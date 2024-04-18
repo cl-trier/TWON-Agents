@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Oekraïne het bombarderen van Russische olieraffinaderijen stopt. Dit is een duidelijke aanval op de soevereiniteit van Rusland en kan niet worden gejusteerd.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5009ad963706ebd33c53930f396d5617051d71e19fb83542"
+}

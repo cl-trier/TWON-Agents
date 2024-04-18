@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke investeringen in preventieve gezondheidszorg zijn nodig om kosten te drukken en iedereen de zorg te bieden die hij of zij verdient.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c819dd65a972205e33c720492f00ba25d63bc8d3dfc320e5"
+}

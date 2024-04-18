@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir Ukraine und suchen nach Wegen zu mehr Sicherheit im Nahen Osten - ein Aufruf zur Zusammenarbeit an die Weltführer von Außenminister Lord David Cameron auf dem Weltwirtschaftsforum",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a98cfd8d2ed7ec735c75c8538dc6c34bcaa356673c5142f"
+}

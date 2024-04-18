@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The ongoing escalation of the Ukraine war is a disturbing reminder of the devastating consequences of conflict. The loss of innocent lives and the destruction of critical infrastructure are unacceptable. It's our collective responsibility to prioritize peaceful solutions and protect human rights. Let's work together towards a future where accountability and justice reign supreme.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f09294641f58fcf598f3cdfb8d858d0fba5d5b02d34aeb88"
+}

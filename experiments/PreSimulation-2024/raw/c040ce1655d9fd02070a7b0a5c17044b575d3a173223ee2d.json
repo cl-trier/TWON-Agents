@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia-Ukraine war: List of key events, day 782\"* Ukraine claims that Russian forces have launched a \"large-scale\" attack in eastern Ukraine using drones, artillery, and tanks. * Russia denies any involvement in the drone strike on Ukrainian infrastructure. * The US imposes new sanctions on Russian officials and businesses over the war in Ukraine. * The UK pledges to send a squadron of fighter jets to patrol Polish skies amid increasing tensions between NATO and Russia. * The EU agrees to provide 1.5 billion euros in additional financial aid to Ukraine.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c040ce1655d9fd02070a7b0a5c17044b575d3a173223ee2d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russische troepen maken vooruitgang in oostelijk Oekraïne. Intense gevechten doken op in Bohdanivka, terwijl Russische en Oekraïense autoriteiten elkaar weerspreken over de controle van het dorp. Blijf kritisch en open voor feitelijke informatie.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca6e3eb2ec090fcaa275aef18a8087d304604b02e5f02f7a"
+}

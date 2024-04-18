@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuw EU waarschuwing voor winter energyprijsstijgingen na einde Russisch-Oekraïense gasdeal. Maar waarom moeten we afhankelijk blijven van Duitse, Italiaanse of Turkse gasleveranties? We hebben genoeg eigen gas en andere energiebronnen in ons land! Noem het maar: EU-bureaucratie en gebrek aan soevereiniteit. Hoe lang zullen we nog toestaan dat onze nationale identiteit en belangen ondermijnd worden?",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c1baecd12851d362b6ef4411fa9ed35748808397f4e3db3"
+}

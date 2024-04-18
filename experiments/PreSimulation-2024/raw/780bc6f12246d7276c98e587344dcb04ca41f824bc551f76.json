@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interesse in chronische ziekten? CDC's @PreventChronic zocht manuscripten voor hun collecties over openbare gezondheidspraktijken en beleid. Geen deadlines, maar snel insenden om prioriteit te krijgen!",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "780bc6f12246d7276c98e587344dcb04ca41f824bc551f76"
+}

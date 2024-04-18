@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Aktuelle Updates zur #UkraineKrise: 🇺🇦 China's Präsident Xi Jinping stellt 4 Prioritäten vor, um die Krise zu lösen. Währenddessen intensiviert #Russland seine Bemühungen, eine Schlüsselstadt einzunehmen.  Finanzministerin @JanetYellen fordert das Repräsentantenhaus der USA auf, einen Ukraine-Hilfsgesetzentwurf zu verabschieden und betont die Notwendigkeit von Militär- und Haushaltsunterstützung. Trotz debiler Diskussionen in den USA und Europa bleibt #Zusammenarbeit der Schlüssel für eine Lösung! 🌍🕊️",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c834ec7ec6e850373808b6a88341357e04a557d197d416c9"
+}

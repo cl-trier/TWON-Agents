@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine UAMS physicians recognized as Healthcare Research All-Stars for 2024! Impressive work in hip, knee, and gastrointestinal surgery, placing you among the top nationwide. Keep pushing the boundaries of healthcare innovation.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "05bf3710b275c53dd65da5695797d34d5b4dad0c3020d6f7"
+}

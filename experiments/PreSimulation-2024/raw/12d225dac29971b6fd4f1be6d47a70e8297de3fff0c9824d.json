@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's absurd that we're still discussing who will finance Ukraine's defense. The fact that NATO's Secretary General is proposing a 5-year, 100 billion euro package of military aid to Ukraine just shows how incompetent and weak our leaders are. They're willing to sacrifice the safety and security of their own citizens for petty political games. It's time for us to take a stand and remind them that national security should be our top priority.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12d225dac29971b6fd4f1be6d47a70e8297de3fff0c9824d"
+}

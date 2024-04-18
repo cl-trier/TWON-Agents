@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy crisis is a perfect example of why we need to prioritize national interests over globalist agendas. The West's crippling sanctions on Russia have only driven up energy prices and hurt innocent people. It's time to put our own citizens first and secure our energy independence.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "491e577035d1198f3e49fda4a3ff54af8690375f3970cd4c"
+}

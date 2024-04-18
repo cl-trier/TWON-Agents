@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Tijd voor wereldleiders samen te werken en de grootste uitdagingen van deze onzekere tijd aan te pakken. Ik ben solidair met Oekraïne in hun strijd en pleit voor stabiliteit in het Midden-Oosten. Samen kunnen we verandering bewerkstelligen.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b825b961a6c5d8ef035030382a5186da34a5b84045dd405"
+}

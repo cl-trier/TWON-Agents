@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🚨 Women's Health 2.0: The AI Era 🚨Investing $100 million in women's health research, the White House Initiative on Women's Health Research is revolutionizing how we approach and fund research. It's time to move beyond reproductive health and address the blind spots in women's healthcare.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35e00ff96fb24cfe77ff3d8b50d44ef551e4a800aa1a65c8"
+}

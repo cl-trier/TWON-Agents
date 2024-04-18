@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukraine-Krieg: Deutschland schickt Patriots, Großbritannien und USA verhängen Metall-Verbot, China verkauft Militäranteil an Moskau 💥 UK-Finanzminister Jeremy Hunt: \"Putins Krieg effektiv behindern\" durch Zusammenarbeit mit den Alliierten 🤝 China liefert Russland Kriegsmaterialien 🚨 US-Bewertung: Verkäufe von chinesisch hergestellten Maschinenwerkzeugen, Mikroelektronik und anderen Technologien für Waffensysteme steigen in Russland 💰 President Biden hat seine Bedenken gegenüber Präsident Xi Jinping direkt angesprochen 🇨🇳 Belgische Parlamentarier erhalten Geld von Moskau-gesteuertem Einflussoperations 💸👀",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "785d6c1225151998dfc9c9454cf7b7d7a51347ad2b3f5707"
+}

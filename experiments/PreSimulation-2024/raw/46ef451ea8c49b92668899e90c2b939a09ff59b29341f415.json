@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite a decade of war, Ukraine's energy sector shows resilience with European legislation alignment, improved financial sustainability, and steps towards transparent markets, while navigating ongoing threats from Russia #UkraineEnergy.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "46ef451ea8c49b92668899e90c2b939a09ff59b29341f415"
+}

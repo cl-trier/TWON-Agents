@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Waiting for aid while Russia gains ground in Ukraine is unacceptable. The US must take immediate action to support our allies and uphold international law.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/17/ukraine-war-briefing-fraught-path-through-us-congress-for-aid-as-russia-makes-gains",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf125ac471f31285640353eda29fab1271a9b0312f69f093"
+}

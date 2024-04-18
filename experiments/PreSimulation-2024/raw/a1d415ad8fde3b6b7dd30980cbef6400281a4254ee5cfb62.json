@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Stoer op voor onze openbare ziekenhuizen! We verzetten zich tegen de privatisering en staan achter onze hardwerkende medewerkers van Unity Health Toronto. #OntarioNeedsPublicHealthcare\" (\"Brave for our public hospitals! We stand against privatization and support the hardworking employees of Unity Health Toronto. #OntarioNeedsPublicHealthcare\")",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a1d415ad8fde3b6b7dd30980cbef6400281a4254ee5cfb62"
+}

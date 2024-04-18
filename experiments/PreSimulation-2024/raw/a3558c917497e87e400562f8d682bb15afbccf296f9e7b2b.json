@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Tijd voor Nederlandse belangen vooraan! Niet langer meewerken aan onevenredige bijdragen aan internationale organisaties. Concentreren op onze eigen soevereiniteit en bescherming van cultuur en tradities.\" (\"Time for Dutch interests first! No more disproportionate contributions to international organizations. Focus on our own sovereignty and protection of culture and traditions.\")",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a3558c917497e87e400562f8d682bb15afbccf296f9e7b2b"
+}

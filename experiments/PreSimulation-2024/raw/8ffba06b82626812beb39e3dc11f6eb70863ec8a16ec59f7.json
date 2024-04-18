@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante studie over de kosten van privatisering in het VK's gezondheidssysteem. Twee-tier systeem onwaarschijnlijk door beperkte capaciteit van privésector. Druk op artsen om altruïstische en publieke waarden te ondermijnen.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8ffba06b82626812beb39e3dc11f6eb70863ec8a16ec59f7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Decades of systematic defunding have left Canada's healthcare in crisis, but unions block genuine struggle against privatization. Amidst this, private corporations like Telus are cashing in. We must safeguard Medicare's popularity and resist further privatization to preserve quality care for all Canadians.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90ab2df7d9bb6e65fa1621c91f042ab4852f051494681f7f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Für ewige Zeiten: Deutschlands Unterstützung für die Ukraine\"Unterstützt militärisch die Ukraine, damit sie sich gegen Russlands Aggression verteidigen kann. Halten Sie das beispiellose Sanktionsregime aufrecht, solange Russland weiterhin brutal gegen die Ukraine vorgeht. Seien wir solidarisch und nehmen an der Internationalen Wiederaufbaukonferenz URC24 in Berlin teil. Verwenden Sie den Memo \"Nothilfe Ukraine\", um über Banküberweisungen Hilfsmaßnahmen für Menschen in der Ukraine zu fördern.",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "054f397cbbe3b5ace2ca776d3e0d9ac8a3baf5d20b964597"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely heartbreaking. The latest news from Ukraine is a grim reminder of the devastating consequences of war. Innocent lives lost, families torn apart, and rescue workers targeted. We must continue to stand with Ukraine and support their efforts to defend against Russian aggression.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8cf676bbdc15031f0a13a200ec3165452e56c1d8eabbd1b5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Frustrated with yet another encounter on this platform asking if I'm a robot 🙄 Do these companies not realize how invasive and annoying their verification processes can be? It's as if they don't want us regular folks to have a voice. Time to take back the internet for the people!",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d5d60607-fc25-11ee-a5de-4dba63b8ee72&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "48a9246a613e1915883e330ca4970e1e6839e647f1720166"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend zu sehen, wie #Ukraine unter russischen Angriffen auf seine Gaslager leidet, während Europa schweigt. Diese Lager sind für 28% des EU-Bedarfs verantwortlich. Wir können nicht zulassen, dass unsere Ukraine alleine kämpft! Wir müssen solidarisch sein und handeln, um Gerechtigkeit und Frieden zu gewährleisten. #StandWithUkraine 🌍💡❤️",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78a7396f56a55efbdaafcb8159a06d96b61ce7c368d6cf46"
+}

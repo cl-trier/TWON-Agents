@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkende ontwikkelingen in Oekraïne. Rusland heeft de elektriciteitscentrale in de Kyiv-oblast vernietigd na het uitputten van de luchtdoelraketten van Oekraïne, aldus president Zelensky. Dit is een ernstige escalatie en wij moeten niet lauw zijn in ons response.",
+    "retrieved_source": "https://kyivindependent.com/ukraine-war-latest-april-16/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0e44ef10e411d1bcc6191f4ff5050282880cef45fc64f4cb"
+}

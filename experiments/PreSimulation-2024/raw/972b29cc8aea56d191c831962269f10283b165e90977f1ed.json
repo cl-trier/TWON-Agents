@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks eis van onredelijke premieverhogingen door Providence St. Joseph Health System, blijft Blue Shield bereid tot onderhandelingen om toegankelijke zorg voor alle leden te garanderen.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "972b29cc8aea56d191c831962269f10283b165e90977f1ed"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Incredible news for Parkinson's community! $20M gift to boost research and expand programs. Here's to hope and progress in overcoming this challenge.",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36ab6356650e69e75fb8e83d87f00949ac562cb36c263e34"
+}

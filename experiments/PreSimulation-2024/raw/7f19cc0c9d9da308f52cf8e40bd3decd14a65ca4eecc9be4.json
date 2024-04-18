@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report from @commonwealthfund: Even with insurance, working-age Americans are struggling to afford healthcare. Skyrocketing premiums, deductibles, and copayments leave millions in debt. 💔 We need #MedicareForAll now! Healthcare is a fundamental right, not a luxury for the privileged few.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f19cc0c9d9da308f52cf8e40bd3decd14a65ca4eecc9be4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🚨New report from @PayZen exposes the harsh reality of America's healthcare affordability crisis! 💔On average, people can only afford $97/mo for out-of-pocket costs. This leads to sacrificing necessary care like preventive visits, prescriptions, mental health & diagnostic testing. 🤯We need FREE-MARKET solutions NOW!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b86dc9c87333c91ff9a85988f696b8fb26f07811d9da357"
+}

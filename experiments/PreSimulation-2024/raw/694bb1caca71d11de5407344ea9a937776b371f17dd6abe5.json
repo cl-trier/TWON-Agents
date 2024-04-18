@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@Konservativer123: \"Energy war\" auf Ukrainischem Territorium! Ex-Chef von Ukraines staatseigener Ölfirma warnt vor Anstieg der Energiepreise in Europa, wenn die Zerstörung der ukrainischen Energieinfrastruktur durch Russland weitergeht.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "694bb1caca71d11de5407344ea9a937776b371f17dd6abe5"
+}

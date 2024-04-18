@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Beware the push for privatization! The VHA provides better, more specialized care for our veterans at a lower cost than private providers. Let's not sacrifice quality and fiscal responsibility for the sake of privatization.\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b8dd60827b5bd17a7d8b12a0c683ac7e0a4b8f48ce3535e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's gasvoorraden onder vuur van Kremlin-raketten, maar Europa dat hiervan profiteert, blijft stil toezien. Is solidariteit een vergeten waarden?",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a0f890c6a82cfd0eb6374f970b93fe3ab787b3d70a0f986"
+}

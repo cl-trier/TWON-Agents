@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar geleden viel Rusland Oekraïne binnen. Vandaag laten we deCSIS International Security Program een virtuele discussie houden over de oorlog nu, Oekraïense en Russische strategieën vooruit en de toekomst van westerse steun aan Oekraïne. Met Seth G. Jones, Eliot A. Cohen, Emily Harding en de eerlijke Michael Vickers.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a56ed9b33a94ab3a97104aaaa03aae7f4ea1543d4b8f1619"
+}

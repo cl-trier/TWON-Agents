@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Revisiting Henry Kissinger's diplomatic prowess reminds us of the importance of pragmatic realism in foreign policy, especially as we face strategic challenges with China & Russia. Forgetting his legacy could lead to further ideological overreach and potential peril.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a6ec37a08e545c1e7d67014fd3a35231d337cbb843e0c93"
+}

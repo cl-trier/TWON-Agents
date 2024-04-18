@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schaut euch diese erfolgreiche Geschichte aus Malaysia an! 🇲🇾 Eine Hebamme und Gemeindekrankenschwester, Ismaziah Binti Ibrahim, betont die Bedeutung bezahlbarer und zugänglicher Gesundheitsversorgung. In ihrem Dorf-Gesundheitszentrum kümmert sich ihr Team um Mütter und Kinder. Wenn Probleme auftauchen, verweisen sie an Ärzte und Krankenhäuser. Trotz der niedrigen Kosten im öffentlichen Gesundheitssystem bevorzugen Patientinnen es, weil es \"menschenzentriert\" ist. Wir sollten aufhören, politische Korrektheit über die Bedürfnisse unserer Bürger zu stellen! 💪🩺🌍",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8621a597738e2a18ebaf6c224c263606ff1fd74474f934d9"
+}

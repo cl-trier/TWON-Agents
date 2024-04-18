@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Steeds meer Indianen kiezen voor preventieve gezondheidschecks om medische kosten te beperken en gezonder te leven. Samen werken we aan een toekomst waar iedereen de kans krijgt op evenveel gezondheid, ongeacht achtergrond of status.",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d8ae12ccc0cf0ace27ccd9d9cbb9a3d59e99399219de1f37"
+}

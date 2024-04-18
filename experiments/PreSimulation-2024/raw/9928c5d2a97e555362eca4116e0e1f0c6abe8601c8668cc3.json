@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Nederland zijn eigen belangen voorop stelt en een duidelijk stanpunt inneemt in de conflict between Rusland en Oekraïne.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9928c5d2a97e555362eca4116e0e1f0c6abe8601c8668cc3"
+}

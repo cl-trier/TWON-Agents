@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Two years since Russia's invasion of Ukraine, and the battle rages on. Join us for a virtual discussion with experts from CSIS to get an update on the war and the future of Western aid to Ukraine.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6f6309e4b0d6dccf92e28cd915ec8e98ea500c2b6579979"
+}

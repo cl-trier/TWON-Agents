@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Onder privatisering van de UK gezondheidszorg lijden we onder een twee-klassen zorgsysteem. Met beperkte capaciteit in de private sector, leidt dit voor dokters tot druk om morele waarden te compromitteren. Let's kiezen voor solidariteit en gelijkheid in onze gezondheidszorg!",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9fc87bb220796666b7e2942cac0f566fbe69ac58cab72e3d"
+}

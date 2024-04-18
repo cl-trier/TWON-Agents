@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Genug von der Politischen Korrektheit in der medizinischen Forschung! Es ist an der Zeit, die Stimmen vergessener Patienten wiederzuentdecken und nationale Interessen bei der Gesundheitsfürsorge zu priorisieren. Wir brauchen mehr unabhängige Forschung, um alternative Heilmethoden zu entdecken und unsere Selbstversorgung zu stärken. Lassen Sie uns die Macht zurückerobern, indem wir die Kontrolle über unsere #Gesundheitspolitik übernehmen! 🇺🇸🩺",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dba0ec624ebd411ce20edd98eb991bf888885adc8135233f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Reuniting with world leaders at Davos to reinforce UK's commitment to a stable Midden-Oosten & support for Ukraine. Discussing crucial collaborations for global challenges, from conflicts to climate change.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d5904c74a123784678f79ba6576992897662756760eb06e3"
+}

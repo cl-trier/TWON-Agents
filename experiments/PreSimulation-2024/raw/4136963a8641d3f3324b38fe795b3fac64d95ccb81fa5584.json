@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie: analisten bespreken oorlog in Oekraïne op 24 februari. Dr. Seth G. Jones, Dr. Eliot A. Cohen, Emily Harding en Michael Vickers discussiëren over huidige staat van de oorlog, toekomststrategieën van Oekraïne en Rusland en toekomst van westerse steun.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4136963a8641d3f3324b38fe795b3fac64d95ccb81fa5584"
+}

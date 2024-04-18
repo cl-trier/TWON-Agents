@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news: Wagner troops allegedly being redeployed from Africa to Ukraine. As Zelensky highlights the lack of missiles for defense, we must ask - where is the international community's support in ensuring peace and security?",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9fa13c70441688d85840b97e84edbd336fd58fb4017ce9c"
+}

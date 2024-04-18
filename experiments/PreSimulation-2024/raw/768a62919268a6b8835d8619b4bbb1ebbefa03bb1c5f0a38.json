@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's right to self-defense shouldn't be limited; standing with them against Russian aggression doesn't mean condoning every tactic, but we must prioritize our time & resources on protecting Ukrainian cities from escalating attacks. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "768a62919268a6b8835d8619b4bbb1ebbefa03bb1c5f0a38"
+}

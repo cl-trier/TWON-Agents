@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Stärkt NATO-Partnerschaft! Keine unbegrenzten Gelder für Ukraine. Verteidigungsfähigkeit stärken, statt abhängig zu machen.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "740500a64f414d396a8aebc765a0dd5110486e50aba06d98"
+}

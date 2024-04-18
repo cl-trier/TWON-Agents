@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine-Krise untergräbt internationale Stabilität. Widerstand gegen globalistische Einflussnahme ist notwendig, um nationale Souveränität zu wahren.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb567cf2e3db57770bad547d9a5cd40705765d721fb74d8d"
+}

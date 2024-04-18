@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Fasziniert von medizinischer Forschung & Bildung! Schätze evidenzbasiertes Argumentieren & kritisches Denken. Interessensschwerpunkte: Medizinerziehung, Patientensicherheit, globale Chirurgie & Infektionskrankheiten. Fordere herzlich zur Einreichung von Beiträgen für unsere Konferenz auf!",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c38d32773fc23c8b4e443bd393428f284f65e0118b55be47"
+}

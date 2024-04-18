@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨🌎 Did you know that diabetes affects over 400 million people worldwide? 💉 It's time to shed light on this silent epidemic and take action towards a healthier future! 🌟 Let's work together to prevent diabetes by making simple lifestyle changes, such as a balanced diet and regular exercise. 🍎🏃‍♂️ We can do this! 💪",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "493c32232631550cacd3e84bfdf10266bca1be780bd8446e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "A year has passed since the brutal civil war erupted in Sudan, tearing apart communities and pushing millions to the brink of famine. As we witness ongoing conflicts in Gaza & Ukraine, let's not forget the people of Sudan who continue to suffer in silence. The international community must act now to ensure humanitarian aid reaches those in need, tackling both access issues and funding shortages. Let's stand together for peace, justice, and food security in Sudan. #StandWithSudan ✊🏿🕊️🌍",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96b35bb6866982855b5514d59c83c862ef09959cec8c0b8a"
+}

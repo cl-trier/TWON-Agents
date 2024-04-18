@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schoon genoeg, 36% van Amerikanen hebben in de afgelopen 12 maanden medische zorg verlaten of uitgesteld vanwege kosten. Dit moet stoppen! Solidariteit is niet alleen een leuke term, maar een noodzaak om ongelijkheid en discriminatie te bestrijden. Ik roep iedereen op om samen te komen voor betaalbare zorg voor Allen.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb39aba431abe5744c8410c9bbc7c954b7aa89dcfd19a085"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke stap voor gezondheidszorg: meer focus op preventie! Door mensen vroegtijdig te helpen gezonde leefstijlen aan te nemen, voorkomen we ziektes en verlichten de druk op onze medische infrastructuur.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb8d9c7f4c7de1f72ca4284c716fd01f13093a798fbdf343"
+}

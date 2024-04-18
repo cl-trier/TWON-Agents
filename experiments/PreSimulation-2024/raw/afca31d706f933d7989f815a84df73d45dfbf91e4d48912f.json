@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oost-Oekraïne vertoont ernstige verslechtering volgens Kyiv commandant. Russische agressie neemt toe sinds Putins herverkiezing in maart. Oproep tot snellere wapensteun van Westers bondgenoten om Moskou's overmacht te compenseren.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afca31d706f933d7989f815a84df73d45dfbf91e4d48912f"
+}

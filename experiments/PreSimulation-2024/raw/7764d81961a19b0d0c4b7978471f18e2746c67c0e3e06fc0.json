@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De situatie in Oekraïne is complex en tragisch. Beide zijden hebben hun argumenten en belangen. Als samenleving hebben we de verantwoordelijkheid om te streven naar vrede, veiligheid & respect voor soevereiniteit. Gesprekken en diplomatie zijn noodzakelijk om een oplossing te vinden die lijden minimaliseert en stabiliteit bevordert.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7764d81961a19b0d0c4b7978471f18e2746c67c0e3e06fc0"
+}

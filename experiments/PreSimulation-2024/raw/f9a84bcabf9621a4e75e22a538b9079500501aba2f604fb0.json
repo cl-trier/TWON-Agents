@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijk: betaalbare en toegankelijke gezondheidszorg voor allen! 💰🏥 In Maleisië laten we dat soort centen niet liggen en bieden we mensencentrerachte zorg. #gezonder�iella",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f9a84bcabf9621a4e75e22a538b9079500501aba2f604fb0"
+}

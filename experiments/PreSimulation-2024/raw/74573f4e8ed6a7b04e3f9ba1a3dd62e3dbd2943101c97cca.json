@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oud-oliemagnaat waarschuwt voor prijsstijgingen op energie na aanvallen op Oekraïense infrastructuren; zonder effectieve tussenkomst dreigt een catastrofe voor het land's energienetwerk.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74573f4e8ed6a7b04e3f9ba1a3dd62e3dbd2943101c97cca"
+}

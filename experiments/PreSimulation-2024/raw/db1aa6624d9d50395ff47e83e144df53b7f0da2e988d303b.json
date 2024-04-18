@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energy War Alert! 🚨Former oil boss warns of price rises after Ukraine infrastructure attacks. 💸🔥Russia's destruction of Ukrainian energy infrastructure will have a dramatic negative effect on European energy prices, says Andriy Kobolyev. 🇷🇺💥The recent strike on Ukraine's gas storage facilities in the west caused a significant spike in European gas prices. 📉Kobolyev emphasizes that the damage to Ukraine's energy network is far more extensive than Russian attacks in the winter of 2022-23. 💔Ukraine needs more weapons to save its energy infrastructure, or there won't be an economy left to reconstruct! 💪🏽🇺🇦#EnergyWar",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db1aa6624d9d50395ff47e83e144df53b7f0da2e988d303b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "With Western Hegemony Failing, Global Stability Is On The Brink\"It's alarming to see how quickly the world is descending into chaos! The US presidential election in November may bring some clarity, but let's not hold our breath. Italy and Spain are right to be concerned about the threat of global conflict escalation given Trump's conditional stance on NATO defense commitments. Putin's warnings can't be ignored either. The situations in Gaza and Ukraine are spiraling out of control, it seems. Can we still prevent a full-blown global crisis? #GlobalStability #US Elections",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3013a902d9eae608718d087b38935c4d3642052fa7e0473a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Niet alleen hebben deze UAMS artsen hun plichten als dokters nagelaten, ze laten ook zien dat ze echte experts zijn in hun vak. Geweldig gezicht op de toekomst van de geneeskunst!\"",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dfca416ee5455bbeddd89336f21cb8994111d7d0a3d97df8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to prioritize healthcare that truly serves our people, not pharmaceutical corporations. We need more investment in research for affordable treatments and cures.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b4717b780850f6f5a6c9b9b1135f6088a7e3c6fb3e962971"
+}

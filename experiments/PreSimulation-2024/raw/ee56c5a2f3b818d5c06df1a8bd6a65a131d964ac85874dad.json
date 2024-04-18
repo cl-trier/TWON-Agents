@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau bereitet den Bundeshaushalt 2024 vor und verspricht mehr Ausgaben für AI & Technologie. Aber was ist mit Steuererleichterungen für Unternehmen und Hilfe für diejenigen, die unter Inflation und Teuerung leiden? Es wird Zeit, dass unsere Regierung anfängt, an die wirklichen Probleme der Menschen zu denken, statt an ideologische Spinnereien.",
+    "retrieved_source": "https://vancouver.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee56c5a2f3b818d5c06df1a8bd6a65a131d964ac85874dad"
+}

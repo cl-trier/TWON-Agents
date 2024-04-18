@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite mainstream media's spin on Bakhmut, I stand with Zelenskiy - no official occupation by RF as of now. Alarming to see G7 undermining global stability instead of focusing on real issues.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e41b7ef382387c03fc80253c9e30b0bf5451fa642e199b5c"
+}

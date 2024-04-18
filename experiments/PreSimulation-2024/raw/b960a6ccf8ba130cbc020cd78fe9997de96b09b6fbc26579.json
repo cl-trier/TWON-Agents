@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As NATO looks to the future, it must prioritize its role in strategic cyber competition. The alliance has traditionally had limited reach into the technical, policy, and civil society communities that maintain cyberspace as a common good. To effectively counter political and technological challenges posed by Russia and China, NATO must expand its efforts beyond defensive measures and work closely with these communities to ensure domain stability in peacetime.\"",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b960a6ccf8ba130cbc020cd78fe9997de96b09b6fbc26579"
+}

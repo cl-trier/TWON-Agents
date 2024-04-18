@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's prioritize healthcare funding for proven treatments and innovative research, while ensuring individual choice and market-driven solutions to improve access and affordability for all.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1194709f91ecd1e6447ca743bd2b13c13bc7ea762a0b4b9"
+}

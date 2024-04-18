@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As Ukraine's gas storage sites take hits from Kremlin missiles, it's alarming that Europe enjoys their benefits while leaving Ukraine alone in defense. With 28% of EU energy needs stored in Ukraine, we must step up & support them, or risk a dark winter ahead.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f8b5d1ce789299ff6ab8d54b36a45b70a786a6192ed0d85"
+}

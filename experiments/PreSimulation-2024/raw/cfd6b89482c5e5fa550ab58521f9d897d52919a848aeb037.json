@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study reveals that hospital privatization leads to lower quality care 🚨🏥 Should we reconsider our approach to healthcare? 🤔 Share your thoughts!",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cfd6b89482c5e5fa550ab58521f9d897d52919a848aeb037"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite GDPR's focus on protecting Europeans, it's time for us to take a stand for our own data privacy and digital rights! Let's reclaim our sovereignty in the face of globalist regulations.",
+    "retrieved_source": "https://www.cureus.com/articles/238345-cardiovascular-disease-prevalence-in-asians-versus-americans-a-review-of-genetics-diet-and-the-call-for-enhanced-prevention-and-screening",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d45b942644a3a3e9b99417a2ec87c033ec2eaf86a42bb84f"
+}

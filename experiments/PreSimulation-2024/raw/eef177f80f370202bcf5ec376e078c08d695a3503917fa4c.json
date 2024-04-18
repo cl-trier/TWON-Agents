@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Herausforderungen durch den Konflikt zeigt sich die Ukraine als Vorreiter für eine nachhaltige und unabhängige Energiepolitik, indem sie ihre Energiemärkte transparenter gestaltet, Subventionen für Haushalte abschafft und die Rolle des Staates im Energiesektor minimiert. #UkraineEnergyProgress 🇺🇦",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eef177f80f370202bcf5ec376e078c08d695a3503917fa4c"
+}

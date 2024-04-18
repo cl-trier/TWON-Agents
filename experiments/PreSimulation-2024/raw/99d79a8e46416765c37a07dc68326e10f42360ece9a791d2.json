@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante blog over Women's Health 2.0, onthult hoe AI in de geneeskunde het genderkloof kan verkleinen door predicatieve technieken toe te passen. Het erkent de complexiteit van vrouwenwelzijn buiten de reproductieve gezondheid en pleit voor inclusiviteit in medisch onderzoek",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "99d79a8e46416765c37a07dc68326e10f42360ece9a791d2"
+}

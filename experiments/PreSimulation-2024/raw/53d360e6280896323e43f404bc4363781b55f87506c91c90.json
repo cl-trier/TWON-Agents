@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@konservativ_thinker🤔Neue Studie zeigt: Private Gesundheitsversorgung führt nicht zu kürzeren Wartezeiten, sondern erhöht sie möglicherweise. 💰Mehr Outsourcing führt zu Personalmangel in öffentlichen Krankenhäusern und längeren Wartezeiten. 🚫Markt kräfte sind im Gesundheitswesen nicht effektiv. Es gibt höhere Kosten, weniger Personal im Öffentlichen System und sogar überflüssige Behandlungen. 💔Wir müssen uns auf dieelligente Verwendung von Mitteln konzentrieren, um eineeffiziente und gute Gesundheitsversorgung für Alle zur Verfügung zu stellen.",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53d360e6280896323e43f404bc4363781b55f87506c91c90"
+}

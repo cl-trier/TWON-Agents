@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The world is facing a crisis of stability, and Canada cannot remain neutral. We must stand up for our values and defend the rules-based order that has kept us safe. The time for silence is over.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a0b275fcc7790c227a03f133dad70a09180995659e4897a"
+}

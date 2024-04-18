@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "US lawmakers must remember that holding aid to Ukraine hostage will upend global stability\"",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c01e5d7187aa34d5d007e47e4a44678cb57585980d8c9eaa"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen hebben minstens één gezondheidszorgproblematiek faced due to affordability issues, pero que number jumps to 46% when we include delayed care. It's time for policymakers to take action and address the unaffordable cost of healthcare in our country.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1910a87daacbb842de16af9f58101b928f5532d7aa31cd2d"
+}

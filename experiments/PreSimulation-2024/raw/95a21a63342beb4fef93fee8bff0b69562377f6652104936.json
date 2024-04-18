@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The #UkraineWar is not just a regional conflict, it's a global battle for power and influence. Russia and Ukraine's allies are treating it like a world war, and we need to take notice.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95a21a63342beb4fef93fee8bff0b69562377f6652104936"
+}

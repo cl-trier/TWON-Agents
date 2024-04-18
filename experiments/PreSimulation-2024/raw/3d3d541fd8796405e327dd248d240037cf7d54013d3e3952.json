@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schokkend dat privatisering in het #VerenigdKoninkrijks gezondheidssysteem leidt tot twee-klassen zorg & druk op artsen om hun altruïstische waarden te verzaken. Ongelijkheid in toegang tot zorg is onaanvaardbaar",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3d3d541fd8796405e327dd248d240037cf7d54013d3e3952"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw itemsje op DSN: Walmart Canada herbevestigt commitment naar toegankelijkheid & betaalbaarheid in gezondheidszorg! In Canada kunnen apothekers nu diagnoses en voorschriften doen voor minder ernstige klachten. Een stap in de goede richting om toegang tot zorg te vergroten & primaire zorg vrij te houden voor complexe situaties.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71d9025158ba00e0f40da7e0a01bce368d3b47520d3e2643"
+}

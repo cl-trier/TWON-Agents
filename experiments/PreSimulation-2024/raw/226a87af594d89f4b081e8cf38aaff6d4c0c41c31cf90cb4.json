@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🐾💕New research reveals ageing dog healthcare needs! 🐾💕Did you know that many dog owners attribute changes in their older dogs to normal ageing, and therefore may not take them to the vet? 🤷‍♀️ This can lead to missed clinical signs and a lack of proper care for our beloved furry friends! 😔As a passionate animal lover and advocate for their well-being, I believe it's crucial for us to take action! 💪 Let's make sure our senior dogs receive the care they deserve by regularly taking them to the vet and being aware of potential health issues. 🐾💕The BSAVA PetSavers Ageing Canine Toolkit (ACT) is a fantastic resource for dog owners and veterinary professionals alike! 🌟 It provides a checklist of common missed clinical signs and offers guidance on how to ensure our ageing dogs live their best lives. 🐾💕Let's work together to improve the healthcare of our beloved senior dogs! 🐾💕 Share your thoughts and experiences in the comments below! 💬#AgeingDogs",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "226a87af594d89f4b081e8cf38aaff6d4c0c41c31cf90cb4"
+}

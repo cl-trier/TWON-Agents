@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne verdedigt onze gemeenschappelijke gasvoorraden terwijl Europa slaapt. Het is tijd voor solidariteit en actie om ongelijkheid en gevaren te bestrijden!\"",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "919708eeb14f74f895d94da4de45ce0bd3095131dfc9b4ac"
+}

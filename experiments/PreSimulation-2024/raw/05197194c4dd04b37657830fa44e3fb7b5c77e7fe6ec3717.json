@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Een praktische benadering van #GezondheidszorgBetaalbaarheid: TailorMed combineert analytics en een netwerk om financiële toxiciteit van behandelingen te verminderen. Podcast-aflevering van Healthcare Rethink, een FinThrive podcast, biedt inzicht.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "05197194c4dd04b37657830fa44e3fb7b5c77e7fe6ec3717"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@VivaWell is revolutionizing healthcare in Latin America! 🌎💪 Their prevention-centered benefits plans are not only improving employee health but also showing a return on investment for companies! 💰📈 It's amazing to see the positive impact of prioritizing health and wellness! 🧘🏼‍♀️🌟",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f469ed1e89f81c58b3f7bc4db3d1a530bc60e34d826bfec"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking news from Ukraine as Russian double-tap strikes target not only civilians but also rescue workers, highlighting the devastating human cost of conflict and the need for continued international pressure towards a peaceful resolution.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "89a4af7e5107ccc9d729c21a8ada94137825b28e267164d2"
+}

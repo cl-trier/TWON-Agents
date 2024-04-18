@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy sector has made significant strides towards independence from Russia despite a decade of war. The country has adopted crucial laws to align its energy legislation with European standards, strengthen energy security, and improve financial sustainability. Although Russia continues to threaten Ukraine's energy sector, the country has made notable progress in achieving transparent energy markets, eliminating subsidies for households, and reducing the state's role in the industry. A testament to Ukraine's resilience and determination to secure its energy future.\"",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "701451916b060fafc7eab8c5f05a909270eec3c33902e9a7"
+}

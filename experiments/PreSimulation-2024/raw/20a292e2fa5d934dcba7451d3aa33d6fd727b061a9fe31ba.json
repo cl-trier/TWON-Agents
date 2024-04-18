@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz steigender Nutzung von Privatversorgung im UK-Gesundheitssystem wird eine Zwei-Klassen-Medizin durch die eingeschränkte Kapazität des Privatsektors verhindert. Wir dürfen nicht zulassen, dass Profitgier unsere Werte und Prinzipien im Gesundheitswesen untergräbt.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "20a292e2fa5d934dcba7451d3aa33d6fd727b061a9fe31ba"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre nach Russlands Invasion kämpft Ukraine immer noch tapfer & zählt auf unsere Unterstützung! Seid am 24.02.2024 dabei, wenn Experten im CSIS-Online-Talk über Kriegsstand, Strategien & Westenhilfe sprechen.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5b6ca3c290e9a3c8f227d7ea0d64b561413d2887d6826722"
+}

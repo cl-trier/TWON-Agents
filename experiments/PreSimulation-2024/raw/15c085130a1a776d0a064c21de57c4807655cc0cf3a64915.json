@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Berlin, Brussel & andere Europese hoofdsteden bereiden zich voor op een koude winter zonder Russisch gas via Oekraïne. De afhankelijkheid vermindert, maar de prijzen kunnen stijgen. Nu is het tijd om in investeringen in duurzame energietechnologieën te storten en onafhankelijker te worden van externe factoren.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15c085130a1a776d0a064c21de57c4807655cc0cf3a64915"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Appalled by the devastating reports of Russian \"double-tap\" strikes targeting not only civilians but also the brave rescuers who come to their aid in Ukraine. These heinous acts are a blatant violation of international law and human rights. We must stand together to demand an end to these atrocities and hold those responsible accountable. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1aec3926a91f72d4ba6dcf4d6f754080700f883e017994b9"
+}

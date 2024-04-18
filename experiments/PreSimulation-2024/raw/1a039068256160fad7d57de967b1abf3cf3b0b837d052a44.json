@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beschermen we ons eigen volk en cultuur niet, dan zal niemand anders het doen. Laat uns nicht von der Pandemie overrompelt werden, sondern lasst uns objective en duurzame tests strategien implementieren.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a039068256160fad7d57de967b1abf3cf3b0b837d052a44"
+}

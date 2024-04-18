@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is crucial for maintaining international peace. Let's support diplomatic efforts for a sustainable resolution to the conflict 🌍🕊.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c35b9ecb16b6e3e4fb399b14a15e31c6c57e8291b36e7da"
+}

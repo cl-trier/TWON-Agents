@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "#SanjayGupta hebt die Bedeutung von Gehirngesundheit hervor & fordert mehr Forschung! 🧠 Bei der AHA Annual Meeting betonte er außerdem, wie wichtig es ist, Diabetes-Medikamente zur Gewichtsreduktion mit gesunder Lebensweise zu kombinieren. In Sachen #KI im Gesundheitswesen setzt er auf ein \"trauen, aber überprüfen\"-Modell: Technologie soll Lücken füllen, kann jedoch auch fehlerhaft sein. Lasst uns gemeinsam für evidenzbasierte Medizin eintreten! 🙌",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d82da03c1b33ac1ffab6da2fd0e3af0a8455cfcf99019cd"
+}

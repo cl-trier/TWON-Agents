@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@VoiceForReason: 🚨Privatization Warning!🚨 Don't be fooled by the push for private-sector healthcare. VHA providers receive extensive training to treat veteran-specific issues, unlike private sector counterparts. The Obama-era panel was stacked with privatization enthusiasts like Darin Selnick who want to dismantle our only comprehensive healthcare model! 💪🏽",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ba9ba1739b6af72db0a88d8b2546599786b1ae855031c53"
+}

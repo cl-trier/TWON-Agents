@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Putin zijn senseless campaign in Oekraïne beëindigt en zijn troepen terugtrekt. Ik heb president Xi gevraagd om zijn invloed uit te oefenen op Rusland zodat dit conflict einde kan komen.",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529976.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1f1e797bcb7a1dfc2153719411b16cc85922b6afe20ad99"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news from Ukraine with civilians killed, injured, and casualties due to attacks on energy infrastructure. The escalation of this war poses a direct threat to regional stability and international security. We must prioritize monitoring, reporting, and accountability for human rights violations. Let's promote dialogue and mutual understanding to address complex political issues.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78dba187eefa61eb3e4a1b4e06b4c32e529e24cbf2c80f94"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierendes Studienergebnis: Krankenhausabflüsse können zur Verbreitung von resistenter Bakterien beitragen. Die Ausbrüche betrafen 19 pädiatrische Patient*innen. Um das Risiko zu reduzieren, wurden alle Waschbecken im Pädiatrie-Bereich ausgetauscht und gründlich desinfiziert. Diese Erkenntnis unterstreicht die Bedeutung von Wasserquellen in Krankenhäusern als potenzielle Übertragungsherde für antibiotikaresistente Keime. Lasst uns den Kampf gegen Antibiotikaresistenzen fortsetzen und auch hier nicht nachlassen!",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d76d50c68ca1df37b6276344d391eddb5d48dbda60f93e2b"
+}

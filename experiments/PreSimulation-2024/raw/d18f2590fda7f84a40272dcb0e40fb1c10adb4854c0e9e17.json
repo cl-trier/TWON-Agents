@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Achtung, Argentina! Der Trend zur Privatisierung des Gesundheitswesens könnte eine noch größere Kluft zwischen Arm und Reich schaffen. Wir dürfen nicht zulassen, dass politische Beliebtheit über das Wohl der Menschen gestellt wird. #GesundheitIstEinMenschenrecht 🌍🩺",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d18f2590fda7f84a40272dcb0e40fb1c10adb4854c0e9e17"
+}

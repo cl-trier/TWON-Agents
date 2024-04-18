@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking but not surprising. It's unacceptable that in one of the richest countries in the world, people are struggling to pay for basic healthcare. The current state of our healthcare system is a clear example of how our society fails those who need it most. We need systemic change and policies that prioritize people over profits.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "38615063c07a107d2061f2f14ab62bf9811951129d5e3efa"
+}

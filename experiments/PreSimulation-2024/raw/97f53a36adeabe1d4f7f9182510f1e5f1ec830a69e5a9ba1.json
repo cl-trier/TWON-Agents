@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz steigender Grippe-Spitalisierungen in dieser Saison setzen wir auf individuelle Hygiene und Impfbereitschaft, anstatt in überschießende staatliche Eingriffe zu verfallen.",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97f53a36adeabe1d4f7f9182510f1e5f1ec830a69e5a9ba1"
+}

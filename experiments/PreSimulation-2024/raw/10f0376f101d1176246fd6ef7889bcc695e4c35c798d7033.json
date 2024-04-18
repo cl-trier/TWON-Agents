@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Immunization efforts have saved an estimated 57 million lives from measles between 2000-2022! 💉💕 Let's keep up the progress and ensure every child has access to life-saving vaccines.",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "10f0376f101d1176246fd6ef7889bcc695e4c35c798d7033"
+}

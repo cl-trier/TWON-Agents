@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to see innovative research promoting public health & traditional values! Submit your manuscripts to CDC's Preventing Chronic Disease - let's focus on fiscal responsibility, limited intervention, and effective policy-making in healthcare 🇺🇸",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18eecc63d3ca141a09339e31ca9b648f13425949679dc037"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Xi's priorities for resolving the Ukraine crisis are a step in the right direction, but let's not forget that actions speak louder than words. The US and G7 must continue to support Ukraine with military and economic aid to ensure a peaceful resolution.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "964e19ffb48ae9d8909a471406cacd1fc9720515a69523a4"
+}

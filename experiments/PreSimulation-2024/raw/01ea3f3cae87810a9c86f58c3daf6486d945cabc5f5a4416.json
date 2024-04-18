@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Krankenversicherung schultern viele Amerikaner*innen weiterhin die Last der Gesundheitskosten. Statt übergreifender staatlicher Eingriffe sollten wir an individueller Verantwortung und freien Marktpreisen festhalten, um finanzielle Belastungen zu minimieren.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01ea3f3cae87810a9c86f58c3daf6486d945cabc5f5a4416"
+}

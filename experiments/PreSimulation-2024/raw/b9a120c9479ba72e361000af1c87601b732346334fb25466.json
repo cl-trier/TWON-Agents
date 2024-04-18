@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Het is onze verantwoordelijkheid om de Nederlandse gezondheidszorg te beschermen en te versterken. Investeer in thuisscholing voor medische beroepen en steun onderzoek dat profiteert van onze eigen cultuur en tradities. Onze volksgezondheid staat bovenaan, niet die van buitenlandse belangen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b9a120c9479ba72e361000af1c87601b732346334fb25466"
+}

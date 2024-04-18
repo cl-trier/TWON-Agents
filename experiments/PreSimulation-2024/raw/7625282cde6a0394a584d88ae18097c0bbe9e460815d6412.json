@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇪🇺Die Energiepreise in Europa stehen auf Messers Schneide, während die Ukraine darum kämpft, ihre Infrastruktur zu schützen. Die geopolitischen Spannungen und der Übergang zu nachhaltigen Energien verlangen eine Diversifizierung der Energiequellen. Es ist an der Zeit für konsequentes Handeln - SICHERHEIT für kritische Infrastruktur UND FORTSCHRITT in Richtung erneuerbare Energien! Weitere Informationen: IEA 💡IRENA ♻️",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7625282cde6a0394a584d88ae18097c0bbe9e460815d6412"
+}

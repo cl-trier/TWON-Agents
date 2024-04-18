@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Scholz's beroep op China om invloed uit te oefenen op Rusland voor vrede in Oekraïne is een belangrijke stap. Wereldleiders moeten solidair zijn in het bestrijden van onrecht en strijd voor gelijkheid en rechtvaardigheid, waar ook ter wereld.\" (@LinkeStemNL)",
+    "retrieved_source": "https://www.voanews.com/a/german-chancellor-urges-china-to-use-influence-to-end-ukraine-war/7572356.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "780c6531f65d995b6996fc3d3eff71070e4403dcaa43d4ba"
+}

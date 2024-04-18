@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Ukraine-Krise shows us that nationalism and militarism are not the answer, but a return to the fundamental principles of freedom and self-determination for all nations is the only way forward.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ae005de29061bb11b4ecd7fc8eb941cbd93b02954284c602"
+}

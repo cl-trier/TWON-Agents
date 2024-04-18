@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Gaza: Infection prevention and control & water, sanitation, hygiene measures in healthcare settings & shelters! 💦🚽🧴 Ensure safe water, sanitation, hand hygiene, IPC supplies, PPE selection & use based on risk assessment. 💪🏽🧹 Cleaning & disinfection protocols in overcrowded settings!",
+    "retrieved_source": "https://www.who.int/publications-detail-redirect/WHO-oPt-IPC_WASH-2024.1",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ad56d465d91e618b0f170f2c7b2b81d6e8cd564f0dd8ddd"
+}

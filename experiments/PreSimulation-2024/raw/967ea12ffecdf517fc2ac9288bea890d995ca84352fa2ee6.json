@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gen Z is redefining the way we approach healthcare, and it's time for the industry to catch up. Let's focus on building lifelong habits and creating a virtual-first system that resonates with this generation's values.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "967ea12ffecdf517fc2ac9288bea890d995ca84352fa2ee6"
+}

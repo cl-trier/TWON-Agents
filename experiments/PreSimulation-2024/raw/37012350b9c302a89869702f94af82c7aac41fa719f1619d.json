@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz steigender Kosten: Mit individueller Verantwortung & freiem Markt können wir Amerikas #GesundheitsAffordabilityKrise überwinden 💊💰💪",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "37012350b9c302a89869702f94af82c7aac41fa719f1619d"
+}

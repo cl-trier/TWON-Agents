@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uitzonderlijke prestatie van UAMS-artsen! 9 artsen van de Hip & Knie Chirurgie-afdeling behoren tot de top 1% in de VS. Nederland moet ook trots zijn op onze eigen experts!",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c052101b1fb53f6833d928bed789b019df54a68e63bbf43"
+}

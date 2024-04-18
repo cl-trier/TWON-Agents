@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! 🏥 Shoutout to the UAMS hip and knee surgery team, named top 1% nationwide by Avant-garde Health for their cutting-edge research contributions in the medical field. Your dedication to excellence in both research and patient care is truly inspiring! #ProgressForHealthcare 💪🔬",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "934ebf79cd1cfeb7ff706248357c7b36e680883e395b5733"
+}

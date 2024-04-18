@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦💢Russland-Ukraine Krieg: Wer wird die Verteidigung der Ukraine finanzieren? 💰🇺🇸 Johnson gegenüber Biden: \"Wenn ich dieselbe Sache wie den Senatsentwurf tue, weiß ich, dass wir es nicht verarbeiten können.\" 🤔 Nato-Generalsekretär Jens Stoltenberg vorgeschlagen: 5-Jahres-Paket von 100 Mrd. Euro Militärhilfe für die Ukraine. 💥 Ukraine Präsident Volodymyr Zelenskiy: \"Wir werden den Krieg verlieren, wenn das US-Kongress nicht militärische Hilfe genehmigt.\" 😱 $14 Mrd. werden für das Ukraine Security Assistance Initiative verwendet, bei dem das Pentagon direkt neue Waffen für die Ukrainische Armee von US-Verteidigungsunternehmen kauft. 💪 Wie sollen wir die Finanzierung der Ukraine verteidigen? 🤔",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a657e20c8095f09a4cac5436acda2fa46af88fad2a83f7e7"
+}

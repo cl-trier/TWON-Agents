@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Winter is coming! 🌨️ Europe braces for higher energy prices as Russia-Ukraine gas deal ends. 💸🔥 The EU's reliance on Russian gas has been a major concern since the invasion of Ukraine. 🇷🇺💣 It's time for Europe to take back control and prioritize our own energy security! 🔌🇪🇺",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32226550341dc2b5d2ad51eda886b535000106d31d130a9e"
+}

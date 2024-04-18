@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukrainische Armee alarmiert: Russische Truppen vorstoßen in Ostukraine 🇺🇦 Oleksandr Syrskyi, Oberbefehlshaber der Ukrainischen Armee, teilt via Telegram mit, dass russische Truppen in der ostukrainischen Region Donetsk bedeutende Fortschritte gemacht haben. Die Russen haben laut Syrskyi die Dörfer Bohdanivka und Avdiivka erobert, beide in der Nähe der von den Russen besetzten Industriestadt Bakhmut gelegen. Die Ukrainische Verteidigungsministerium dementiert jedoch die Einnahme von Bohdanivka und meldet intensives Gefecht in der Region. Syrskyi betont, dass die Russen eine Übermacht an Feuerkraft und Personal haben und sich dies zu nutzen, um ihre Angriffe auf die Ukraine zu intensivieren. 💪🏽",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f2df8e1f7695525df578c586074eee02def77174b1b37177"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energie crisis in Europa dreigt door Oekraïne's infrastructuur aan te tasten. Military assistance is noodzakelijk om de energievoorziening veilig te stellen. Diversificatie van energiebronnen en duurzame energie oplossingen zijn belangrijk voor een stabiele toekomst.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "42e59cf3c8e6f16dbd17fc20db6b4d2383113f31116305dc"
+}

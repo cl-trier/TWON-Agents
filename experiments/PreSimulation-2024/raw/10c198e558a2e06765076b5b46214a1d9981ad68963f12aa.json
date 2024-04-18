@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir Ukraine in ihrem Kampf für Stabilität. Konflikte lösen durch Dialog und Zusammenarbeit. Für eine sichere und prosperierende Welt.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "10c198e558a2e06765076b5b46214a1d9981ad68963f12aa"
+}

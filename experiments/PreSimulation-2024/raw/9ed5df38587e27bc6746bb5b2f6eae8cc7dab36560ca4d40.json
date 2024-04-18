@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Privatisierung der Gesundheitsversorgung in Libanon: Bedrohung für die universelle Gesundheitsversorgung. Wir müssen unsere ehrwürdigen Institutionen schützen und eine finanziell verantwortungsvolle, marktorientierte Lösung fördern. Starke soziale Sicherheitssysteme sind der Schlüssel zur Gewährleistung von Gesundheitsversorgung für alle.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ed5df38587e27bc6746bb5b2f6eae8cc7dab36560ca4d40"
+}

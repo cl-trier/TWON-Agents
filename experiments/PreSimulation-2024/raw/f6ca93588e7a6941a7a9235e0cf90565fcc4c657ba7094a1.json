@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🌟Investing in prevention-centered healthcare plans is a win-win for employees and employers! 💼🏥💪 Proud to see VivaWell leading the way in Latin America. 🇨🇱👏 Let's keep pushing for a healthier, more productive workforce! 💪🏼",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f6ca93588e7a6941a7a9235e0cf90565fcc4c657ba7094a1"
+}

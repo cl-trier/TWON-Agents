@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Brain health and measurement, diabetic drug use for weight loss, and combating misinformation in healthcare - great insights from Dr. Sanjay Gupta at #AHAannualmeeting. AI in medicine? Let's verify before we trust.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db1aee1b4ae2739de2d7eaa60c258e40e4c5fad886340053"
+}

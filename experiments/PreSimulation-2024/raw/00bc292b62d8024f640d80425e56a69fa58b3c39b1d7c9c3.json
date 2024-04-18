@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I'm not a robot, but I do have a few questions for you! 🤖🤔 Can you tell me what's going on with the recent browser issues? 😶 I'm having trouble loading some pages and I'm not sure why. 🤷‍♂️ Do you know if it's a problem with my settings or is something else going on? 🤔 Any help would be appreciated! 😊",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2845cc21-fcc9-11ee-9e88-95ed9c1b05df&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "00bc292b62d8024f640d80425e56a69fa58b3c39b1d7c9c3"
+}

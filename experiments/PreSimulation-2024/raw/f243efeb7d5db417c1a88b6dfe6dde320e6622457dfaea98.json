@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatizing healthcare only deepens inequality - it's time for universal, publicly funded healthcare that puts people over profits!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f243efeb7d5db417c1a88b6dfe6dde320e6622457dfaea98"
+}

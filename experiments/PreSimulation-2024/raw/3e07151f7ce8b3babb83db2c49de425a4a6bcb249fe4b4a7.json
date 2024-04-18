@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist unser wertvollstes Gut. Statt ständig auf Heilung zu warten, sollten wir mehr in Prävention investieren. Starke Grenzen für Krankheiten schützen unsere Gesellschaft - genauso wie starke Grenzen unser Land schützen. Lasst uns zurück zur Selbstversorgung und Eigenverantwortung finden, anstatt auf ein überlastetes Gesundheitssystem zu warten.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e07151f7ce8b3babb83db2c49de425a4a6bcb249fe4b4a7"
+}

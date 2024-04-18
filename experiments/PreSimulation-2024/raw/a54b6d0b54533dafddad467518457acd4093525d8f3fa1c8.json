@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Europa schläft, während Ukraines Lichter ausgehen. Es ist an der Zeit, unsere Abhängigkeit von ukrainischem Gas anzuerkennen und Unterstützung zu leisten. Solidarität statt Ignoranz!",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a54b6d0b54533dafddad467518457acd4093525d8f3fa1c8"
+}

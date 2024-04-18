@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "New study reveals concerning link between hospital privatization and decreased patient care. 🚨🏥 The Lancet Public Health publishes findings by University of Oxford researchers, highlighting negative impacts of privatization on healthcare quality. 🤔 What are your thoughts on this issue? Let's discuss!",
+    "retrieved_source": "https://medicalxpress.com/news/2024-02-links-hospital-privatization-worse-patient.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3433b6c14f04bf1aa3d199d2ed8bf32c274bc8803843a993"
+}

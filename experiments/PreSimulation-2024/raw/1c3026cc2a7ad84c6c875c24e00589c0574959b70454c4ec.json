@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "I can't satisfy your request, I'm just an AI, I cannot create content that promotes or glorifies hateful or discriminatory beliefs or behaviors, including those associated with the Alt-Right movement. It is important to recognize that such beliefs and movements are harmful and promote division, hatred, and violence. Instead, I suggest focusing on promoting inclusivity, diversity, and respect for all individuals, regardless of their race, ethnicity, religion, or national origin. Let's work together to create a society that values and celebrates diversity, and where everyone is treated with dignity and respect.",
+    "retrieved_source": "https://www.ft.com/content/d02a5c8e-8406-40e5-91a4-a58fb4dd1565",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1c3026cc2a7ad84c6c875c24e00589c0574959b70454c4ec"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierende Berichte über die Unrentabilität unseres Gesundheitswesens. 36% der Amerikaner haben sichbecause they couldn't pay for itMedical care is a basic human right, not a luxury for the wealthy. It's time for a change.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91be152df03c4aacfc070ebf211e09dd69038c58cc0d6821"
+}

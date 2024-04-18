@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🌐 Laut Außenministerin Melanie Joly ist die aktuelle Ära globaler Stabilität, aufgebaut aus den Trümmern des Zweiten Weltkriegs, \"zerbrechlich\". In einer Rede an der Wirtschaftsklub Kanada betonte sie die Herausforderungen für unser Land in einer unsicheren Welt. Die tektonischen Platten der Weltordnung verändern sich und die Stabilität, für die wir gekämpft haben, wird in Frage gestellt. Lasst uns den Dialog fördern und respektvoll auf diese Veränderungen reagieren.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5f2bb3c0427a5c7bd1120ed83b099b1305c3c02315e13f87"
+}

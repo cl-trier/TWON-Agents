@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarmed by the potential increase of private healthcare providers under President Milei's administration in Argentina 🇦🇷 This move could widen health inequities & make essential care inaccessible for many. We must prioritize universal healthcare, a fundamental human right!",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d2ce11f626da653981f8b78c2bd176dd69768ce345c2dbc"
+}

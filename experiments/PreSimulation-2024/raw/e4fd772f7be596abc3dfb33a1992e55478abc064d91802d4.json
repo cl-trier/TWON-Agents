@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Europa schläft ein, während die Lichter in der #Ukraine ausgehen - wir profitieren von ihren Gasreserven, doch bei ihrer Verteidigung bleibt das Land auf sich allein gestellt. Steht solidarisch an ihrer Seite und fordert eine gemeinsame Sicherung der Energieinfrastruktur in Europa!",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4fd772f7be596abc3dfb33a1992e55478abc064d91802d4"
+}

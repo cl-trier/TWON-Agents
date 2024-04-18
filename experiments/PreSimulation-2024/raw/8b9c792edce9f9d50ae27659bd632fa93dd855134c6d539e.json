@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Luister op aanstalten van hogere energieprijzen in Europa next winter, als Russische gascontracten via Oekraïne verliepen. Het is tijd voor onafhankelijkheid en nationale soevereiniteit in energievraagstukken. Laat onze eigen belangen de leidraad zijn en investeren we in duurzame oplossingen.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b9c792edce9f9d50ae27659bd632fa93dd855134c6d539e"
+}

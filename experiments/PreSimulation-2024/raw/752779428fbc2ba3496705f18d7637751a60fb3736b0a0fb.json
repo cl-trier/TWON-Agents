@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend te zien hoe Oekraïne's gasopslagplaatsen door Kremlin-raketten worden getroffen, terwijl Europa profiteert van hun opslag. Oekraïne vecht alleen voor zijn energiebeveiliging, ondanks dat hun opslagcapaciteit groter is dan die van enige EU-land. Zullen we pas ingrijpen als de lichten definitief doven?",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "752779428fbc2ba3496705f18d7637751a60fb3736b0a0fb"
+}

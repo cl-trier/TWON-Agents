@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gefeliciteerd aan de negen UAMS-artsencollega's die zijn benoemd tot 'Healthcare Research All-Stars' vanwege hun toppublicaties over de afgelopen twee jaren. Hun inspanningen hebben het hip- en kniechirurgieteam, het orthopedische chirurgieteam, evenals de gastro-intestinale en algemene chirurgieteams van UAMS bij de top geplaatst in de natie. Uitmuntend werk dat resulteert in uitstekende zorg!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9655012d17858fe0ba4ea4280f9227f1b80a9c681d0ff7a"
+}

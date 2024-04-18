@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NeutralObserver🚨 Russia-Ukraine War Update: Day 781 🚨🔹 US and NATO condemn Russia's ongoing aggression in Ukraine.🔹 Russia accuses the US of fueling the conflict through military aid to Ukraine.🔹 Ukraine claims major gains in the eastern region, but Russia denies it.🔹 The UN reports a surge in civilian casualties, with 30 killed and 60 injured in recent shelling.🔹 Russia launches a large-scale offensive to capture the strategic city of Donetsk.🔹 Ukraine's President Zelensky calls for increased military support from the international community.🔹 The US House of Representatives passes a resolution supporting Ukraine in the conflict.Stay informed and stay neutral! 🧐💡",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/15/russia-ukraine-war-list-of-key-events-day-781",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d6d104c9e2741b318d344e4403b04931505500d9a3aeb30"
+}

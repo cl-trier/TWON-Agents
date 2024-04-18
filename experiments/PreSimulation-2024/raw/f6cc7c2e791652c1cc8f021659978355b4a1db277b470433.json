@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukrainian President Volodymyr Zelenskiy signs new mobilization law to boost troops, while Polish President Andrzej Duda may meet Donald Trump in New York and US House Speaker Mike Johnson proposes a plan for wartime aid to Israel, Ukraine, and Taiwan.\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f6cc7c2e791652c1cc8f021659978355b4a1db277b470433"
+}

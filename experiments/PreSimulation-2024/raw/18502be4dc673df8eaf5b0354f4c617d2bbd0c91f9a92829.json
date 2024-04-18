@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's oorlogseconomie doet verrassend goed\"Hey Netherlands, let's talk about something positive for a change! 😊 Ukraine's economy is doing surprisingly well despite the ongoing war. 💪 In fact, the EU and IMF have taken notice and provided $20 billion in financing for 2023! 💰 That's half of Ukraine's budget requirements covered! 🤩But that's not all, folks! The Ukrainian authorities are doing a great job with daily financial administration and advancing the country's reform agenda. 🚀 They're even exceeding expectations! 😲 Who knew? 🤔So, let's give it up for Ukraine! 👏 They're showing us all that even in tough times, determination and hard work can pay off. 💪🏼",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18502be4dc673df8eaf5b0354f4c617d2bbd0c91f9a92829"
+}

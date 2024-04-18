@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@LiberalVoiceHospital privatization is linked to worse quality care for patients - new research 🚨🏥💰👎 A recent review of peer-reviewed research on the effects of outsourcing on quality of care found that while privatization may cut costs, it's also linked to worse patient outcomes. 🤝🏼Let's keep healthcare public and prioritize patient care over profits! 💪🏼",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c54d14586c09a7b175cf55eaa97027f02ffb6437c948dc3"
+}

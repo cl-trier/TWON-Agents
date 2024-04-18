@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Accessible healthcare shouldn't be a luxury for the wealthy few. Let's work towards making it a basic human right for all, regardless of financial means.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4319a062b1f38f756f836d753c79dac1ad951e97ff757ab4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorgen over herstructurering van #AlbertaHealthServices: privatisering op komst? We moeten voorzichtig zijn met veranderingen in ons gezondheidssysteem. Privézorg kan leiden tot inferieure zorg en hogere kosten. Laat u horen bij uw vertegenwoordiger en maak duidelijk dat wij Albertanen onze openbare gezondheidszorg willen behouden.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0518a7e2f9faa5cf437e25f5a32a7e633c2b254f569c467"
+}

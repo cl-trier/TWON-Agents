@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Big win for Connecticut residents! Governor Lamont signs legislation to address healthcare affordability and improve delivery of care. 💪🏼👨‍⚕️ The multitrack approach includes tackling PBMs, improving access to preventive services, addressing social determinants of health, promoting integration of primary and behavioral healthcare, and more! 🌎💕",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "117efb91fe26669af02f4f3f132d9a791dbf4ee5d9c29e2c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unacceptable that medical debt is pushing millions of Americans into financial crisis. Healthcare should be a basic human right, not a luxury for the wealthy. It's time for policymakers to take action and implement a fair and inclusive healthcare system that prioritizes people over profits.",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7bb91686b223004a111dcde0b294a187602bba11a7b1cff"
+}

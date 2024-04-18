@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's gas storage sites, vital for Europe's energy security, are under attack. Despite benefiting from these reserves, Europe remains silent as Ukraine bravely defends them alone. These facilities account for 28% of EU needs, yet Ukraine faces this threat alone. We must not ignore this crisis. Let's stand in solidarity with Ukraine and work towards a solution before the harsh winter sets in.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0e1cc9bd0244a5612d32d3b3a77b1b0327f9c876f7570cf"
+}

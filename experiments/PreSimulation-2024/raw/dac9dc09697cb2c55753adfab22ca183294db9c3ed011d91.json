@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New research reveals that hospital privatization is linked to worse patient care! 🚨💔👀 It's clear that putting profits over people doesn't work. Let's keep healthcare public and ensure everyone has access to quality care.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dac9dc09697cb2c55753adfab22ca183294db9c3ed011d91"
+}

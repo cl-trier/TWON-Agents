@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "#EskalationUkraineKonflikt: Direkte Bedrohung für regionale Stabilität & internationale Sicherheit. Mindestens 126 Zivilisten getötet & 478 verletzt im März. Humanitäre Lage besorgniserregend.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3b3ef433efa146b16fbb41abc7c6547ac97e6da8b3652d25"
+}

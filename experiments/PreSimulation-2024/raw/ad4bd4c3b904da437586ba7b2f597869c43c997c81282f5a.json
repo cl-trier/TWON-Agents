@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unity in diversity - a strong message from the Foreign Secretary at Davos. Let's work together to build a better future for all, supporting Ukraine and promoting stability in the Middle East.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad4bd4c3b904da437586ba7b2f597869c43c997c81282f5a"
+}

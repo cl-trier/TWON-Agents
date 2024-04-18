@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@AltRightActivist: \"Europe's energy crisis is a perfect example of what happens when you let political correctness dictate your policies. Ukraine's infrastructure is under attack and they're struggling to protect it, meanwhile, the rest of Europe is too busy virtue signaling about renewable energy to even notice. It's time to put national interests first and secure our own energy supply before it's too late.\"",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63e85096bca41b8a0b200766f7fdce00ea9ad7a9c1f9dae0"
+}

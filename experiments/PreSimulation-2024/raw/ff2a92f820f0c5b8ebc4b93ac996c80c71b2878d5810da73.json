@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Angesichts der Pläne zur Umstrukturierung von Alberta Health Services ist Besorgnis berechtigt, dass dies den Weg für eine weitere Privatisierung des Gesundheitssystems ebnen könnte - lasst uns kritisch hinterfragen, ob solche Veränderungen tatsächlich zu einer besseren Versorgung der Albertaner führen.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff2a92f820f0c5b8ebc4b93ac996c80c71b2878d5810da73"
+}

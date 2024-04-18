@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The former chief executive of Ukraine's state-owned oil company, Andriy Kobolyev, has warned of a dramatic rise in European energy prices if Russia's destruction of Ukrainian energy infrastructure continues unchecked. This is not just an attack on Ukraine, but an energy war that will have far-reaching consequences for all of Europe. It's time for the international community to take action and provide Ukraine with the weapons it needs to protect its energy infrastructure. We cannot afford to let Russia dictate the terms of Europe's energy future.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4517ed419e0fea02a858c29772c449def8f5a718dee15d88"
+}

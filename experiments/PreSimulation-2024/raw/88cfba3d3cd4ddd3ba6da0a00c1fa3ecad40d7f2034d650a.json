@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energy crisis & market volatility: a perfect storm? 🌪️💰 Our analysis shows a negative impact of energy exposure on European firms' equity returns. 📉 But, is this a temporary setback or a long-term trend? 🤔 Join the discussion & share your insights! 💡",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88cfba3d3cd4ddd3ba6da0a00c1fa3ecad40d7f2034d650a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Genug ist genug! Die Unterstützung der Mainstream-Medien für den fortwährenden Konflikt in der Ukraine dient nur den globalistischen Eliten. Es ist an der Zeit, unsere nationalen Interessen zu verteidigen und sich hinter unsere mutigen Soldaten zu stellen. Wir müssen aufhören, die Opfer dieses Konflikts durch politische Korrektheit zu ignorieren.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e2c8f96b669afb998373641d6104eb918ac97249f700067f"
+}

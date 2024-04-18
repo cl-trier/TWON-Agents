@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwsbulletin: Bakhmut blijft onder controle van Oekraïne, volgens president Zelenskiy op G7-top in Hiroshima. Russia's foreign ministry accuses G7 of undermining global stability. Als je me vraagt, zouden ze beter moeten focussen op eigen aangelegenheden.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92c42fa194d5f6f8474af9342b8cda96bcd927424331c48a"
+}

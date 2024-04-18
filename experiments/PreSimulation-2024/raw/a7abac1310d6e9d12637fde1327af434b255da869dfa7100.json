@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schließen wir die Geschlechtergesundheitslücke, um nicht nur Chancengleichheit für alle zu fördern, sondern auch unserer globalen Wirtschaft ein Trillionendollarplus zu bescheren.",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a7abac1310d6e9d12637fde1327af434b255da869dfa7100"
+}

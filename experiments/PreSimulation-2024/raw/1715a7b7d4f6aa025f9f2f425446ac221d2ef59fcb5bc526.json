@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nurses, personal support workers, laboratory technologists, health care aides, cleaners, clerical staff, and many more unite against Ford government's privatization scheme! 🚨💪 Thousands of hospital workers from Unity Health Toronto sign petition against Bill 60. 📝👊 Don't let privatization ruin our public healthcare system! 🏥🚫",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1715a7b7d4f6aa025f9f2f425446ac221d2ef59fcb5bc526"
+}

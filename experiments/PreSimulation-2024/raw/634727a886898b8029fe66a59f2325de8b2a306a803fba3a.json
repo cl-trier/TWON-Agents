@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Caution! Privatization may lead to higher costs and lower quality care for our veterans. Let's look at the facts: a study by the ER found that private sector ER care is 21% more expensive than VHA care. And let's not forget that VHA providers receive specialized training to treat veteran-specific issues. Let's be careful not to sacrifice quality for profits.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "634727a886898b8029fe66a59f2325de8b2a306a803fba3a"
+}

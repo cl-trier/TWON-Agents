@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Show me the money!\" 💰🧁💡 Infection Prevention and Antimicrobial Stewardship shouldn't be an afterthought, it's time to make it a priority! 🚀 Join me at the Society of Epidemiology of America in Houston, Texas, from April 16 to 19, 2024, to learn how to create a business plan that will convince the C-suite to invest in your program. Let's make sure our hospitals are safe and healthy for everyone! 🏥🧬",
+    "retrieved_source": "https://www.infectioncontroltoday.com/view/show-me-money-marketing-infection-prevention-antimicrobial-stewardship-c-suite",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "666ecb0f637fdca7f20a9cb9cf050a9d7a60e8219d16e4e2"
+}

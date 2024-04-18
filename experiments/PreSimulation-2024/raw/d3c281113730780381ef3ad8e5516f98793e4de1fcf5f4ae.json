@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend, wie Europa schläft, während die Ukraine im Dunkeln tappt. Die Gaslager der Ukraine, von unschätzbarem Wert für den Kontinent, werden von Kremlin-Raketen bedroht. Statt Unterstützung zu leisten, überlässt man das abwehrbereite Land sich selbst. Die EU sollte ihre Verantwortung nicht ignorieren und solidarisch handeln.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d3c281113730780381ef3ad8e5516f98793e4de1fcf5f4ae"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Finally, a shift in focus to comprehensive #WomensHealth beyond just reproduction! Excited to see AI's potential in closing the gender gap in healthcare funding. No more forgotten voices!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "942d742ba3e31e7482e0703263de31bcf16b2324eb7fa831"
+}

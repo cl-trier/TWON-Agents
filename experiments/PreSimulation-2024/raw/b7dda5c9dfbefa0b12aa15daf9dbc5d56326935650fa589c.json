@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Terrible news from Ukraine. At least 10 people killed and several injured in Russian strike on northern Ukrainian region, according to official reports. My thoughts are with the families of the victims and I hope for a swift recovery for those injured. The international community must continue to put pressure on Russia to stop their aggressive actions.\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/17/russia-ukraine-war-live-kharkiv-at-risk-of-becoming-second-aleppo-unless-us-votes-for-further-aid-says-mayor",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7dda5c9dfbefa0b12aa15daf9dbc5d56326935650fa589c"
+}

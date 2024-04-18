@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Frauen verdienen eine ganzheitliche Gesundheitsversorgung! Dank #KI und $100Mio Bundesförderung zur Frauen Gesundheitsforschung rückt die Gleichstellung in greifbare Nähe. Es ist Zeit, unsere Aufmerksamkeit jenseits der Reproduktion zu erweitern & Blind Spots in der Forschung zu beseitigen.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "62d0c4347210c085cb3ca54a0080bd89936ee138e4ce5f54"
+}

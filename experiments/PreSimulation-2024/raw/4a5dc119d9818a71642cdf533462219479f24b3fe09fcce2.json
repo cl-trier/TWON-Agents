@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The high cost of healthcare is a heavy burden for many Americans, even those with insurance. It's unacceptable that medical bills are causing so much financial strain and restricting access to necessary care. We need to continue fighting for reforms that prioritize people over profits.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a5dc119d9818a71642cdf533462219479f24b3fe09fcce2"
+}

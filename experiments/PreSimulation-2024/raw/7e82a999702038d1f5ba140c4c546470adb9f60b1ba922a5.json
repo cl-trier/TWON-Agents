@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Understanding the severity of the situation, it's clear that we are in the midst of an energy war. The destruction of Ukrainian energy infrastructure by Russia will have a profound impact on European energy markets and result in significant price increases. It's imperative that Ukraine is provided with more weapons to protect its energy infrastructure, not just to support their economy but also to ensure the stability of European energy prices.\"",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e82a999702038d1f5ba140c4c546470adb9f60b1ba922a5"
+}

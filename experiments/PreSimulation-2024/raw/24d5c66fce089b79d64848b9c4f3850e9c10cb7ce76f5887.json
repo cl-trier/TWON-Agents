@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante ontwikkeling in Syrië: de regering overweegt privatisering van openbare ziekenhuizen. Doel is kosten te drukken & efficiëntie verhogen. Maar, is dit wel haalbaar in een land met zo'n ingewikkelde politieke situatie? En hoe zal dit invloed hebben op toegang tot zorg voor alle burgers? Objectieve dialoog over deze kwestie is noodzakelijk.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24d5c66fce089b79d64848b9c4f3850e9c10cb7ce76f5887"
+}

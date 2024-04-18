@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations, Dr. Smith, on receiving the Medal of Excellence for your tireless efforts in disease and infection prevention! Your dedication to community education and improved patient safety measures is truly inspiring. Thank you for your contributions to the kidney health community!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d07ab525971434a234b170a319c6ac5cced50ff89928e727"
+}

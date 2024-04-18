@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨Energiepreise in #Europa könnten cette winter due to the end of the Russia-Ukraine gas deal💸🔥 The EU's dependence on Russian gas is a major concern, especially since the invasion of Ukraine 🇺🇦 in 2022. It's time for Europe to take action and invest in renewable energy sources 🌱💚",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "134c5ad6f76cd039053ebf538d594738f923991c1f45e43f"
+}

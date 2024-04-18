@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite the challenges of war, Ukraine's economy has shown remarkable resilience in 2023, with strong performance and effective financial management. Kudos to Ukrainian authorities for their dedication to reform and stability in difficult times.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ecb37655bf9ec4b5b0230c92597a851b7e00ffbf1d78c244"
+}

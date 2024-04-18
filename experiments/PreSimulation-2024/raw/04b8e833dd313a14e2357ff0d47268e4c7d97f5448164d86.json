@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Gelukkig hoor dat de Wereldbank #Oekraïne steunt met $1,5 miljard om economische stabiliteit te blijven waarborgen. Noodzakelijk om concurrentie en vrije markt te stimuleren en sociale rechtvaardigheid te bevorderen. Samen voor een inclusieve groei",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04b8e833dd313a14e2357ff0d47268e4c7d97f5448164d86"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "War in Ukraine could have ended with talks, but Putin & Zelensky's willingness to consider concessions surprised everyone. They were ready to finish the war if Ukraine adopted neutrality & didn't join NATO, like Finland during the Cold War. Talks failed due to focusing on postwar security order instead of ending the war first. A lesson for all parties involved.\" #Ukraine #Russia #NATO #neutrality #peace talks",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a47c517308e975e5ec7f66ef70c4fed839eb56a835f440d"
+}

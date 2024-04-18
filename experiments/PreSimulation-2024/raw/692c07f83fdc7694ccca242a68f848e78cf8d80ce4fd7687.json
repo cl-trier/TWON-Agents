@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Imagine a world where 10 million lives are saved from antibiotic resistance by 2050 - let's make it happen through collective efforts in both human and animal health sectors!",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "692c07f83fdc7694ccca242a68f848e78cf8d80ce4fd7687"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Besorgniserregende Tendenzen der Privatisierung im libanesischen Gesundheitswesen! Steuerbeiträge & Haushalte nationaler Institutionen verlieren an Wert, während privatwirtschaftliche Initiativen auf dem Vormarsch sind. Ein starkes und nachhaltiges Sozialversicherungssystem ist unerlässlich für eine flächendeckende Gesundheitsversorgung. Schützen wir die Rolle der NSSF & setzen uns für soziale Gerechtigkeit ein!",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fce0faa7fc05a92931735a2123b6e53ef0554f7e9add7f06"
+}

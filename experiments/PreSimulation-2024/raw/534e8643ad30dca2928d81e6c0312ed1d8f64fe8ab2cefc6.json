@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nodig uit tot NAVO-steun voor Oekraïne, maar laat ons Nederlands belang niet vergeten: bescherming van onze eigen grenzen en cultuur is onontbeerlijk.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "534e8643ad30dca2928d81e6c0312ed1d8f64fe8ab2cefc6"
+}

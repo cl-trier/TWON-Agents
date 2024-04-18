@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The escalation of the Ukraine war is a dire threat to regional stability and international security. The loss of innocent lives and the destruction of infrastructure are unacceptable. It's time for the international community to take action and work towards a peaceful resolution.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "44f0f79784dca925a365c05d943ec2558e87c4816e3c2e7f"
+}

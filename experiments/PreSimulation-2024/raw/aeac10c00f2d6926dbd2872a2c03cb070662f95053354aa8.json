@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Ukraine krise shows us that the stability of international relations is more important than ever, and we must work towards a peaceful resolution that respects national sovereignty and territorial integrity.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aeac10c00f2d6926dbd2872a2c03cb070662f95053354aa8"
+}

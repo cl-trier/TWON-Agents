@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheitsversorgung in den USA: Eine Krise erschwinglicher medizinischer LeistungenNeue Studie enthüllt die Herausforderungen, vor denen Amerikaner bei der Bezahlbarkeit von Gesundheitsleistungen stehen. Laut des aktuellen Berichts von PayZen, einem auf die Gesundheitsbranche spezialisierten Technologieunternehmen, mit dem Titel \"The High Cost of Health: Analyzing America’s Healthcare Affordability Crisis\", haben viele US-Bürger Schwierigkeiten, notwendige medizinische Versorgung zu finanzieren.Die wichtigsten Erkenntnisse:- Die durchschnittliche monatliche Zuzahlungsbereitschaft für außerplanmäßige medizinische Kosten beträgt nur 97 US-Dollar.- Viele Amerikaner verzichten aus finanziellen Gründen auf Vorsorgeuntersuchungen, Medikamente, psychologische Betreuung und diagnostische Tests.Die fortschrittliche Technologie von PayZen zielt darauf ab, die erschwinglichkeit medizinischer Leistungen zu verbessern, was nicht nur das Wohlbefinden der Patienten steigert, sondern auch die finanziellen Ergebnisse für Gesundheitsdienstleister optimiert.Lasst uns über Lösungen sprechen und Wege finden, um den Zugang zu erschwinglicher medizinischer Versorgung für alle Bürger zu gewährleisten!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b4e5d3d75c6c46d2faed6e42cd5e6ba571029732cfe590f"
+}

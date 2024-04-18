@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieprecieën in Europa op het spel terwijl Oekraïne strijdt om infrastructuur te beschermen. Andriy Kobolyev's analyse wijst uit naar een kritische situatie met verreikende gevolgen voor de energiesector. Landen diversifiëren hun energiebronnen in het licht van geopolitieke spanningen en de dringende noodzaak om te transitioneren naar duurzame energiealternatieven. Nu is militaire bijstand nodig om Oekraïne's energienfrastructuur te beveiligen.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "793727a195f7f799a7e221858c08642458c063f3b4bcd971"
+}

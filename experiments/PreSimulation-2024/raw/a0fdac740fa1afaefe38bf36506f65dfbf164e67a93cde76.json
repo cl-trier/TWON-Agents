@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "2 Jahre seit Russlands Invasion in der #Ukraine. Lassen Sie uns am 24.02.2024 die Experten von @CSIS mit Dr. Seth G. Jones, Dr. Eliot A. Cohen & mehr über den aktuellen Stand des Krieges, zukünftige Strategien und Westliche Hilfe hören.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a0fdac740fa1afaefe38bf36506f65dfbf164e67a93cde76"
+}

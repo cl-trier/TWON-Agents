@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "27% of adults face healthcare affordability challenges, and 46% experience financial strain when including delayed care. It's time for policymakers to take action and ensure everyone can access the care they need without breaking the bank.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d7c670e056ba7c5c9c1abfab150a2a4a5826449a5edcee63"
+}

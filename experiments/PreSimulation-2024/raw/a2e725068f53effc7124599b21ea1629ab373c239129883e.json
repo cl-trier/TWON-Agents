@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "President Zelenskiy signs new army mobilization law to strengthen Ukraine's forces in the face of Russian aggression. We stand with Ukraine and its right to defend itself. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a2e725068f53effc7124599b21ea1629ab373c239129883e"
+}

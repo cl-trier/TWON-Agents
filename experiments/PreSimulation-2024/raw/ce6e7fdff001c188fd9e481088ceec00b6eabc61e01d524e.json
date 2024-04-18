@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The current healthcare system is unsustainable and unaffordable. We need to adopt a more market-based approach, where competition drives down prices and increases innovation. Government intervention only leads to inefficiency and waste. Let's repeal Obamacare and move towards a more sustainable healthcare system that puts patients first.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce6e7fdff001c188fd9e481088ceec00b6eabc61e01d524e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite $100m boost for Women's Health 2.0, we can't ignore the blind spots in AI-driven healthcare that perpetuate the historical marginalization of women's unique health needs. We must ensure inclusivity and diversity in health data to truly close the gender gap!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4cda7e43714a6d016c5376085ee387a8de4929de8ee734e5"
+}

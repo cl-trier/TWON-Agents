@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schade, dass Mainstream-Medien die komplexen Ursachen des Ukraine-Konflikts zugunsten einfacher Narrative ignorieren – es ist an der Zeit, die Wahrheit über diesen bedauerlichen nationalistischen Konflikt zu hören.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f154a9be89c30075aea0e304e9294e31ecff62df519298a7"
+}

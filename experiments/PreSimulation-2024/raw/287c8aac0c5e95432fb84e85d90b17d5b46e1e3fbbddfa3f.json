@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely shocking! Even with insurance, working-age Americans are struggling to afford healthcare due to skyrocketing premiums, deductibles, and copayments. It's time we put an end to this madness. Let's bring back true affordable healthcare for all.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "287c8aac0c5e95432fb84e85d90b17d5b46e1e3fbbddfa3f"
+}

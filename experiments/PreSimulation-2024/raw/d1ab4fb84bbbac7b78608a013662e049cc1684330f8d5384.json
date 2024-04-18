@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Under the guise of \"efficiency,\" Ontario's gov is expanding private-sector involvement in public healthcare, compromising the integrity of the system and putting taxpayer $ at risk.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d1ab4fb84bbbac7b78608a013662e049cc1684330f8d5384"
+}

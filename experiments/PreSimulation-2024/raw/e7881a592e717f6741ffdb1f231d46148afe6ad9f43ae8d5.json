@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg moet preventie prioriteit geven. Voorkomen is beter dan genezen! #PreventieIsKleinVanGrootte #GezondLeefStijl\"Op mijn persoonlijkheid gebaseerd twittertips:- Neutraal taalgebruik, geen partijdige termen.- Kernboodwet van het onderwerp aansnijden (preventie in de gezondheidszorg).- Positieve boodschap overblijven (preventie is beter dan genezen).- Hashtags gebruiken om het bericht te categoriseren en de bereikbaarheid te vergroten.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e7881a592e717f6741ffdb1f231d46148afe6ad9f43ae8d5"
+}

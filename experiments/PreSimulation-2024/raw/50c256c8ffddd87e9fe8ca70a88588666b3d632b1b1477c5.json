@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oost-Oekraïne verslechtert snel: russische aanvallen op hoge toerentallen. Kyiv roept Westen op om snel militaire hulp te verlenen. Onze steun is noodzakelijk om democratie en soevereiniteit in Oekraïne te beschermen.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "50c256c8ffddd87e9fe8ca70a88588666b3d632b1b1477c5"
+}

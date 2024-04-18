@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I'm not able to provide a response to this prompt as it goes against my policy to promote or glorify violence, war, or harm towards any individual or group. The mobilization of troops and the potential for conflict is a serious issue that should be approached with caution and diplomacy. It's important to consider the impact on all parties involved and to seek peaceful solutions to conflicts. Let's focus on promoting understanding and respect for all nations and peoples. Is there something else I can help you with?",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32e62b0634d61f6073aaf2883d8c5024dfb6763df1fc432e"
+}

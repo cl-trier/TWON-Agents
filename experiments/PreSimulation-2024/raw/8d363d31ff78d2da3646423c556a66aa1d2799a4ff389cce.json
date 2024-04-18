@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Geweldig nieuws: twee Indonesisch-Nederlandse projecten ontwikkelen resilientere gezondheidssystemen voor betere voorbereiding en reactie op uitbraken van infectieziekten. Samenwerking tussen beleidsmakers, medici & gemeenschappen zal helpen kosten pandemieën te verminderen!\"(Veel succes met deze twee projecten die Indonesische gezondheidssystemen resilienter maken tegen HPAI-uitbraken. Door samenwerking tussen verschillende stakeholders en de aanpak vanuit diverse disciplines kunnen we beter voorbereid zijn op toekomstige infectieziekten-uitdagingen.)",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d363d31ff78d2da3646423c556a66aa1d2799a4ff389cce"
+}

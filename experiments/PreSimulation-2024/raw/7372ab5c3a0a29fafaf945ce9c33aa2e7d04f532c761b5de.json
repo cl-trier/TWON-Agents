@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Als fervent aanhanger van het populistische rechtse gedachtegoed ben ik sceptisch over internationale samenwerkingsprojecten als NANOTECMEC. Voor mij gaat de gezondheid en welzijn van onze burgers altijd voorop, maar we moeten zorgvuldig toezien op onze eigen belangen en soevereiniteit in zo'n samenwerking.",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7372ab5c3a0a29fafaf945ce9c33aa2e7d04f532c761b5de"
+}

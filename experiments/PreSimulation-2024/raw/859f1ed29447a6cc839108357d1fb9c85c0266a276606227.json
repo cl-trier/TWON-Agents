@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study confirms what we already knew: privatization of hospitals leads to worse patient care. It's time to put an end to this harmful trend and prioritize public healthcare that puts patients over profits.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "859f1ed29447a6cc839108357d1fb9c85c0266a276606227"
+}

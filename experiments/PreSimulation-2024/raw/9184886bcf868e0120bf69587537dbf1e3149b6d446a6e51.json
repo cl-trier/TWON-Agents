@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Erfaren CEO, Srulik Dvorsky, onthult hoe TailorMed patiënten en zorgverleners ondersteunt bij het verminderen van de financiële toxiciteit van medische behandelingen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9184886bcf868e0120bf69587537dbf1e3149b6d446a6e51"
+}

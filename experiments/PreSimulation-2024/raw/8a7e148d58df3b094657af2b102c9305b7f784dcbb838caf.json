@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Lage in der Ostukraine hat sich unter Putins Wiederwahl drastisch verschlechtert. Wir müssen unsere Unterstützung für die Ukraine stärken und ihre territoriale Integrität verteidigen. Waffenlieferungen an die Ukraine dürfen nicht verzögert werden. Eine starke nationale Verteidigung ist unerlässlich, um Frieden und Sicherheit zu gewährleisten.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a7e148d58df3b094657af2b102c9305b7f784dcbb838caf"
+}

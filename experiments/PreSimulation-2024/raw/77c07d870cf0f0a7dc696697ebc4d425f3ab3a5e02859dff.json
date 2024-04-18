@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neues Jahr, neuer #AERs-Bericht! Die ECDC liefert wertvolle Daten zur Unterstützung der Entscheidungsfindung auf nationaler Ebene. Schauen wir uns die Trends für übertragbare Krankheiten in der EU/EWR an: [Link zu den Berichten]",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77c07d870cf0f0a7dc696697ebc4d425f3ab3a5e02859dff"
+}

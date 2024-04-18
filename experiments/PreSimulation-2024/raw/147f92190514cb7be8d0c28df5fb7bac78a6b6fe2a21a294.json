@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming escalation in Ukraine's war poses a serious threat to regional stability & intl security. Urgent action needed to protect civilians & hold perpetrators accountable. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "147f92190514cb7be8d0c28df5fb7bac78a6b6fe2a21a294"
+}

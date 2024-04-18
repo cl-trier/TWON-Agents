@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to highlight Rudra Nagalia, a driven MHA student using his product development skills & passion for healthcare to transform patient outcomes! Through his work on the Remind-H project, Rudra's discovered innovative ways to tackle mental health challenges 💡 A true example of #InnovateForGood in action. Keep up the great work, Rudra! 🚀Healthcare technology is rapidly evolving and it's inspiring to see students like Nagalia actively driving change and bridging gaps between diverse healthcare needs & technical solutions. Way to go, Rudra! 🌟#MasonFaculty",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "51a1dd1b28e2a18e2cc14350630d477e9e6ba2cb06389ab3"
+}

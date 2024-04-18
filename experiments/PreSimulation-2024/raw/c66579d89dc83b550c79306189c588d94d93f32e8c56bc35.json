@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schokkende cijfers van PayZen-rapport: 36% van Amerikanen overslaat zorg wegens betalingsproblemen. Het is tijd voor hervormingen in ons zorgstelsel om deze crisis aan te pakken!\"",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c66579d89dc83b550c79306189c588d94d93f32e8c56bc35"
+}

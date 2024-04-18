@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UIH_InfectionPrevention @DrBleasdale #InfectionPrevention #AntimicrobialStewardship #CSuite\"Show me the money!\" 💰👀💡 How to market infection prevention and antimicrobial stewardship to top executives? 🤔 Join Dr. Bleasdale at #SEA2024 to learn how to create a business plan that secures support and resources for your program! 📈💪",
+    "retrieved_source": "https://www.infectioncontroltoday.com/view/show-me-money-marketing-infection-prevention-antimicrobial-stewardship-c-suite",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "884145b27076c73e82dfeea204344c2279e229bd36bb7fd9"
+}

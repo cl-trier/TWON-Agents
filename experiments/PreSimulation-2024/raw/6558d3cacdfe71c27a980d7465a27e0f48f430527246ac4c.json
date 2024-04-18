@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's attack on Israel could have severe consequences not just for the Middle East but also for Russia's war in Ukraine. As tensions rise between Moscow and Tehran, it's clear that Russia's partnership with Iran is a risky gamble. The G7 nations are already considering additional sanctions against Iran, which could have a ripple effect on Russia's economy. It's time for Russia to rethink its alliances and prioritize peace in the region.\"",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6558d3cacdfe71c27a980d7465a27e0f48f430527246ac4c"
+}

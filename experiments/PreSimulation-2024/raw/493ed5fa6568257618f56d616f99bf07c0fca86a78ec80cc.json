@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zusammenarbeit ist Schlüssel: Deutschland liefert Patriot-Systeme, UK und US verhängen Metallembargo, doch China unterstützt Moskau weiterhin mit Militärteilen. Konstruktiven Dialog fördern & gegenseitiges Verständnis stärken.",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "493ed5fa6568257618f56d616f99bf07c0fca86a78ec80cc"
+}

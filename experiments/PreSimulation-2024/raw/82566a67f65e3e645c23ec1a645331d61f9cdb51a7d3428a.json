@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante studie over gezondheidsbehoeften van oude honden! Veel eigenaren negeren ernstige symptomen omdat ze 'normaal' ageing aanzien. Let op veranderingen en raadpleeg regelmatig de dierenarts, minstens elke 6 maanden volgens experts. Checklist voor klachten bij oude honden zou ondersteuning bieden. Zorgtijd voor onze vierbenige vrienden is belangrijk!",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "82566a67f65e3e645c23ec1a645331d61f9cdb51a7d3428a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Frieden und Gerechtigkeit: Wir dürfen nicht zulassen, dass autoritäre Regime unsere Demokratien untergraben. Deutschland liefert Patriots an die Ukraine, doch China unterstützt Moskau stillschweigend. Es ist an der Zeit, solidarisch zu handeln und für Menschenrechte und Frieden einzustehen. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3f49b788c85e073598224094dc479bba480c87ca89580d7c"
+}

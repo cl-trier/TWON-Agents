@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als verdediger van gelijkheid en sociale rechtvaardigheid hopen wij op echte dialoog tussen leiders om oorlogen te beëindigen. Gesprekken over neutraliteit en veiligheid zijn belangrijke eerste stappen, maar we moeten ook aandacht schenken aan grenzen en territoriale kwesties om blijvende vrede te bereiken.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "61d488c0eb08612743f7feb881a7c37a034b98cf652f4600"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nog een studie die het misprijst van privatisering van zorg blijkt: slechtere kwaliteit zorg en hogere sterftecijfers. Hoe vaak willen we nog bewijs dat publieke diensten beter functioneren? #StopPrivatization\" (\"Another study showing the downside of healthcare privatization: worse quality care and higher mortality rates. How much more proof do we need that public services work better? #StopPrivatization\")",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ffc87f8d6eddacaf9d0b40daefe46952108facafafa0e8c2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Privatization of public hospitals in Syria? That's a red flag! The health sector is in intensive care, and we need to be cautious about who we let in. The government's plan to open the door for investment might seem like a solution, but let's not forget that private interests can compromise public needs.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "478993205190e34621a2306f308680627395035f838e62f1"
+}

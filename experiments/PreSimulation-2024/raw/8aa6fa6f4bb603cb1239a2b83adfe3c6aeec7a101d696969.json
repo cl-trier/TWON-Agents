@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing crisis in Ukraine underscores the need for renewed international efforts to maintain global stability and promote diplomatic solutions.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8aa6fa6f4bb603cb1239a2b83adfe3c6aeec7a101d696969"
+}

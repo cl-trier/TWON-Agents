@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessantes Forschungsergebnis: Según una nueva investigación, las infecciones después de la cirugía son más probable que se deban a bacterias ya presentes en la piel del paciente que a microorganismos en el hospital. ¿Cuál es tu opinión al respecto? 🤔",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "44220d0a28ff08549d56e460a13c9b7c587b9636da34319a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hören Sie sich die neueste Folge von 'Healthcare Rethink' an, in der Srulik Dvorsky von TailorMed zeigt, wie innovative Lösungen den Zugang zu erschwinglicher medizinischer Versorgung verbessern und so die finanzielle Belastung für Patienten reduzieren.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7236f84155aea33fa020d5154bb1e014b9e3f3e7549e05c"
+}

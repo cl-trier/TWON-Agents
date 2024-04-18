@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Preventie is beter dan geneesmiddelen\": VivaWell's vooruitstrevende gezondheidsplannen helpen bedrijven hun medewerkers healthier te maken en demonstreren ROI.",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f3d6b5107341faad7a09ea275b7e9329b7d50a423a76ca31"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist ein Menschenrecht, kein Luxus! Wir müssen in Prävention investieren, um chronischen Krankheiten vorzubeugen und allen Zugang zu hochwertiger medizinischer Versorgung zu ermöglichen. Lasst uns eine gerechte und inklusive Gesundheitspolitik verwirklichen, die niemanden zurücklässt.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fc0aeb7cc0349e8079e6e4241cc4a08d67cb1a9888d25c2a"
+}

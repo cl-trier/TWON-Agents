@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend! Der Providence St. Joseph Health System fordert unverschämte Beitragserhöhungen, was die Gesundheitsversorgung für Mitglieder erschwert 🚨 Blue Shield ist offen für Gespräche und unsere Mitglieder haben nach wie vor Zugang zu unserem Netzwerk. Wir setzen uns ein für ein bezahlbares & gerechtes Gesundheitssystem, das die Bedürfnisse aller trifft 💪 Für aktuelle Infos: [news.blueshieldca.com](http://news.blueshieldca.com)",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "03ad967defb199a36a8ea81a5aab83cdc14fd9b94a8e93cc"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Steunendekker van de Wereldbank voor Oekraïne om economische stabiliteit te behouden\" 🇺🇦💰📈 Ukraine bent recent getroffen door een economic crisis en het is belangrijk dat ervoor gezorgd wordt dat er een stabiele ekonomie plaatsmaking om Private investeringen en productiviteit te stimuleren. De Wereldbank helpt hierbij met een lening van 1,5 miljard dollar om de groei potentie van Oekraïne te ondersteunen. Dit is een goed initiatief om de economische toekomst van Oekraïne te verzekeren en ik feliciteer de Oekraïense overheid met deze prestatie! 👏🏼 #Oekraïne #Wereldbank #economische stabiliteit",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f2dce1ba1cc70cc828ea62ba13b07f9112ce5046e3079a14"
+}

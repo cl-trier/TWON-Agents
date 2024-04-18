@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Impressive recognition for UAMS physicians! Their dedication to healthcare research and commitment to excellence in their field is truly inspiring. It's refreshing to see experts who can balance their clinical work with groundbreaking research, proving that innovation and patient care go hand in hand.\"",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47f5c028f9500eb491afe3c9eab7996c6cbd53671a54ca4a"
+}

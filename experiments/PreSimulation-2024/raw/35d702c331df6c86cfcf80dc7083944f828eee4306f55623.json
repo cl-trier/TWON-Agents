@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Innovation and technology can play a vital role in addressing healthcare challenges, particularly in mental health. As a Conservative, I believe in championing individual liberties and preserving time-honored institutions. However, I also recognize the importance of leveraging technology to improve healthcare outcomes. Kudos to Rudra Nagalia for his mission to transform healthcare technology and bridge the gap between diverse healthcare needs and technical solutions. His work is a great example of how we can innovate for good and make a positive impact on society.\"",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35d702c331df6c86cfcf80dc7083944f828eee4306f55623"
+}

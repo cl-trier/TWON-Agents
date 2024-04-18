@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "$20 million gift to Norton Healthcare! 💰🏥 This amazing donation will go towards expanding programs at the Cressman Parkinson's and Movement Disorders Center, making a huge difference for those living with Parkinson's. Let's keep pushing for advancements in healthcare! 💪",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "003294499d6e548c82ed972e40e2489521b773b1ca32dbd2"
+}

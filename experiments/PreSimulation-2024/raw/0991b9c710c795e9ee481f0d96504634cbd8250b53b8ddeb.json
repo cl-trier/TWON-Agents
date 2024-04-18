@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "This is a heartbreaking reminder of the devastating consequences of war. Over 50,000 Russian troops have lost their lives in the conflict with Ukraine, and the number continues to rise. It's unacceptable that so many young lives are being cut short due to political conflicts. We must continue to push for peaceful solutions and work towards a future where such losses are avoided.",
+    "retrieved_source": "https://www.ndtv.com/world-news/over-50-000-russian-troops-have-died-during-war-with-ukraine-report-5462137",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0991b9c710c795e9ee481f0d96504634cbd8250b53b8ddeb"
+}

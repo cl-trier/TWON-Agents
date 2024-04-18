@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@NortonHealthcare receives $20 million gift! 🎉🏥 The generous donation will expand programs at the Cressman Parkinson's and Movement Disorders Center and support research initiatives. Let's keep pushing the boundaries of medical innovation and making a difference in people's lives! 💡",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cba8c1d59ace98439d95e34e789f06db73a8cb2da878aaf2"
+}

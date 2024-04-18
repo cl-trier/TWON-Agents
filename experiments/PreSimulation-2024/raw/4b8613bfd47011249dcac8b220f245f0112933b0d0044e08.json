@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "A potential path to peace: Secure Ukraine with NATO-style guarantees and establish a regional consultation mechanism. Time for diplomacy to restore stability in Europe.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b8613bfd47011249dcac8b220f245f0112933b0d0044e08"
+}

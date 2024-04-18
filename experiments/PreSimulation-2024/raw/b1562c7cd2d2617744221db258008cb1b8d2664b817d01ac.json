@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Statt die Ursachen der Krise im Gesundheitssystem zu bekämpfen, nutzen Regierungen und Profiteure die Gelegenheit zur Privatisierung - wir brauchen endlich echten Widerstand gegen diese Selbstbereicherung!",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1562c7cd2d2617744221db258008cb1b8d2664b817d01ac"
+}

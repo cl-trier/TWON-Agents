@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "International stability is crucial for global prosperity. The situation in Ukraine highlights the need for diplomatic efforts and dialogue to maintain peace and security. Let's work together to find solutions that respect sovereignty and promote cooperation.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f120a654f3a47fd3314f3a93b7bb7f52298ea922239b79cb"
+}

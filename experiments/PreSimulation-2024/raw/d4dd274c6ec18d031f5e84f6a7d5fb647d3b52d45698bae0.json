@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The future of healthcare is virtual, and Gen Z is leading the charge. They're not interested in traditional doctor's visits or hospital stays - they want convenient, personalized care that fits their digital lifestyle. It's time for the healthcare industry to catch up and offer practical solutions that meet Gen Z's needs. Let's build a healthcare system that resonates with this generation and sets them up for lifelong health and wellness.",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d4dd274c6ec18d031f5e84f6a7d5fb647d3b52d45698bae0"
+}

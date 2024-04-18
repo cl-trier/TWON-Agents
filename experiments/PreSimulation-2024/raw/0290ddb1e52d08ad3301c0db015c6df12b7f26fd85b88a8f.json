@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau bereitet seinen nächsten großen Budget-Coup vor - doch was wird aus unseren wahren Prioritäten? Steuererleichterungen für Großkonzerne und Tech-Hype, während unsere nationale Souveränität und echte Lösungen gegen Klimawandel auf der Strecke bleiben. Wir brauchen keine politisch korrekte PR, sondern eine starke Führung, die sich um unsere Belange kümmert!",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0290ddb1e52d08ad3301c0db015c6df12b7f26fd85b88a8f"
+}

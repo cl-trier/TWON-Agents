@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energy exposure has had a negative impact on European firms' returns, with a one standard deviation increase in energy exposure associated with a 0.9 percentage point reduction in returns.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f468bf8e5eb72f4dc3d823c37f9fb4f9e9784b3a0cb7fcc5"
+}

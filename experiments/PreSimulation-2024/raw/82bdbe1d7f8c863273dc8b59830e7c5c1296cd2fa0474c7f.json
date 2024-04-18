@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Unconfirmed reports of Russian forces seizing Pervomaiske village in Donetsk, while Ukraine's military is accused of causing devastating shelling in Tokmak, resulting in tragic loss of life - it's time for the world to pay attention and challenge this dangerous escalation!",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "82bdbe1d7f8c863273dc8b59830e7c5c1296cd2fa0474c7f"
+}

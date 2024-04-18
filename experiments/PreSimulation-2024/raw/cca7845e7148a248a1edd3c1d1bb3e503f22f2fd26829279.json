@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@Konservativer tweet: \"Energy crisis in Europe? Time to embrace free market principles and let prices reflect true supply and demand, rather than relying on government intervention.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cca7845e7148a248a1edd3c1d1bb3e503f22f2fd26829279"
+}

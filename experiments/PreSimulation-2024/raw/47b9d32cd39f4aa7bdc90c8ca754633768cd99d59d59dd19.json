@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Incredible news! A $20M donation will boost Parkinson's disease research and programs, bringing us closer to finding a cure and improving lives. #ProgressForParkinsons 🧠💪",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47b9d32cd39f4aa7bdc90c8ca754633768cd99d59d59dd19"
+}

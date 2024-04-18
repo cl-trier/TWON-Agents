@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Zelenskiy asserts Bakhmut remains under Ukrainian control, while Russia's foreign ministry criticizes the G7 summit, accusing it of undermining global stability",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "182eed41accb9e0d4a8a4d5f4431b578dcc6ae4c4fdb9775"
+}

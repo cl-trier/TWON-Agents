@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Alarmed by the advances of Russian troops in eastern Ukraine, met name rond Avdiivka en Bakhmut. Intense strijd woedt nog steeds, terwijl Oekraïne dringend hulp nodig heeft om de ongelijke machtsverhouding te compenseren. Steun UA betekent steun voor vrede en gelijkheid.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ced6f35c9926c7c31b50b8b13c82441468b26255ee23fed"
+}

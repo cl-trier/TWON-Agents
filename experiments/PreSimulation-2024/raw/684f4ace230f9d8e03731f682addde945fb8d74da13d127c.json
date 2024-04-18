@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@HealthCervical Cancer Disparities: What to Know and Tips for PreventionCervical cancer is a preventable disease that we must eradicate within our lifetime with vaccination. An HPV test, which tests for the presence of the HPV virus that causes cervical cancer, is recommended by The American College of Obstetricians and Gynecologists for cervical cancer screening in individuals aged 21-29 every three years.Learn more about free breast and cervical cancer screening and resources in Massachusetts.If you are diagnosed with cervical cancer, it is essential to follow up with an oncologist immediately to learn more and begin treatment. Let's work together to eradicate cervical cancer!",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "684f4ace230f9d8e03731f682addde945fb8d74da13d127c"
+}

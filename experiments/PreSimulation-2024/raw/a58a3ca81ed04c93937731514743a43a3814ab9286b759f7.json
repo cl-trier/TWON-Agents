@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Access to affordable healthcare is a basic human right. Let's work towards a system that prioritizes people over profits.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a58a3ca81ed04c93937731514743a43a3814ab9286b759f7"
+}

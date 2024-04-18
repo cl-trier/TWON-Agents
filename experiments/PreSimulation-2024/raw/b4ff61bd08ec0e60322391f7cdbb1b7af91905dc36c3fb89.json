@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Opgeloste Russische gasvraag nog verre van zeker - solidariteit & ondersteuning voor kwetsbare Europese burgers cruciaal!\"",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b4ff61bd08ec0e60322391f7cdbb1b7af91905dc36c3fb89"
+}

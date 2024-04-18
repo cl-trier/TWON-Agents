@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukraine War Updates: China's Xi Lays Out 4 Priorities to Resolve Ukraine 'Crisis'; Russia Intensifies Efforts to Seize Key Town 🚨Janet Yellen, U.S. Treasury Secretary, emphasizes the importance of the U.S. Congress providing military and budget support to Ukraine, stating that there's \"no substitute\" for their aid. A bill that would provide fresh aid to Ukraine has been stuck in the House of Representatives for months, sparking a debate about the legalities of using these funds to support Ukraine. Yellen believes the risks are manageable, especially if the G7 acts as a united group.Meanwhile, China's Xi Jinping has laid out four priorities to resolve the Ukraine crisis:1️⃣ Respect for sovereignty and territorial integrity of all nations.2️⃣ Support for peaceful resolution and dialogue.3️⃣ Promotion of economic development and cooperation.4️⃣ Encouragement of international cooperation and multilateralism.Russia, on the other hand, has intensified its efforts to seize a key town in Ukraine. The situation remains tense, with both sides accusing each other of aggression.It's time for us to put aside our differences and come together to support peaceful resolutions and economic development in Ukraine. Let's work towards a future where all nations can coexist without fear of conflict or invasion. 🌎✨",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "46ad843936d8b9f9de46bd0a4d1386c77d7fdce63b42e85f"
+}

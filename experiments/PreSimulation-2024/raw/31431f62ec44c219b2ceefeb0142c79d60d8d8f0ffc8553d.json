@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee gezichten van één munt: Nederland moet soevereine beslissingen nemen om onze eigen energiebehoefte te garanderen en afhankelijkheid van Rusland verminderen. Nog steeds, de gevolgen voor onze bedrijven zijn zwaar. Meer nationaal zelfvoorzienend moet niet ten koste gaan van internationale samenwerking.\"Vertaling: \"Twee kanten van één munt: Nederland dient soevereine beslissingen te nemen om onze eigen energiebehoefte te garanderen en afhankelijkheid van Rusland te verminderen. Toch hebben de gevolgen voor onze bedrijven zware gevolgen. Meer nationaal zelfvoorzienend dient niet ten koste te gaan van internationale samenwerking.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31431f62ec44c219b2ceefeb0142c79d60d8d8f0ffc8553d"
+}

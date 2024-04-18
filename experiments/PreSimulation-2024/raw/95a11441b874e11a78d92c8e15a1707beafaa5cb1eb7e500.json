@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "An energy war is escalating, threatening to cripple Ukraine's economy & spike European prices if unchecked. Stand with Ukraine, protect time-honored institutions & free markets against Russian aggression.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95a11441b874e11a78d92c8e15a1707beafaa5cb1eb7e500"
+}

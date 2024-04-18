@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Impressive resilience! Despite facing ongoing conflict, Ukraine's economy has been thriving against all odds. Kudos to Ukrainian authorities for their exceptional performance in managing daily finances and driving crucial reforms. The European Commission's $20 billion financing further highlights Ukraine's potential and the international community's support for its recovery. #UkraineStrong 🇺🇦",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce49046fdde050bc9453b452db575856f8d3d93d5f3d679d"
+}

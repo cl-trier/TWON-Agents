@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy sector has undergone a remarkable transformation over the past decade, despite the challenges of war and Russian aggression. 💡🇺🇦 By adopting crucial laws and aligning with European standards, Ukraine has strengthened its energy security, improved transparency, and made significant strides towards a more sustainable future. 🌎💚",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96be97b7790a73b12dfae99c1e35ee8e9831a27a87730b3d"
+}

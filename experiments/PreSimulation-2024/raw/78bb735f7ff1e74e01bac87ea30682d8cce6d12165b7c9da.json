@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Medical debt is a ticking time bomb for millions of Americans, and our broken healthcare system is to blame.",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78bb735f7ff1e74e01bac87ea30682d8cce6d12165b7c9da"
+}

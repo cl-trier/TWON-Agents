@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Allegations of Russian forces seizing Pervomaiske in Donetsk need to be verified independently. Meanwhile, Ukraine's military is accused of a tragic attack in Tokmak, resulting in civilian casualties, including children. Political posturing aside, it's time for dialogue and resolution. Innocent lives are at stake.",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c0106bd8b70bbb856cd19c3102680f0b8e36430f9d264f2"
+}

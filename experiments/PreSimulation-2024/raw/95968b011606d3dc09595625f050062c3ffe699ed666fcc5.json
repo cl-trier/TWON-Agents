@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UIH_Quality: \"Show me the money\" - How to market Infection Prevention and Antimicrobial Stewardship to the C-suite? #InfectionPrevention #AntimicrobialStewardship #Healthcare #QualityPatientCare\"Marketing\" infection prevention and antimicrobial stewardship to top executives can be a challenge. As a chief quality officer, assistant vice chancellor of quality and patient safety, and medical director of infection prevention and antimicrobial stewardship at UIH, I understand the importance of communicating the value of these programs effectively. My presentation at the Society of Epidemiology of America in Houston, Texas, will focus on creating a business plan for infection prevention and antimicrobial stewardship, with a lead-in of \"show me the money.\" Join me to learn how teams can market their programs to secure the necessary support and resources.",
+    "retrieved_source": "https://www.infectioncontroltoday.com/view/show-me-money-marketing-infection-prevention-antimicrobial-stewardship-c-suite",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95968b011606d3dc09595625f050062c3ffe699ed666fcc5"
+}

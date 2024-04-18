@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🚨 Women's Health 2.0: The AI Era 🚨💬 Charting the evolution of women's healthcare in the AI era 💭🔍 Illuminating the promise and challenges of predictive tech to close the health gender gap 💻👩‍⚕️ Historically, women's health has been narrowly defined as reproductive health 🎉💪 It's time to recognize the unique biological and medical complexities of women's health 💪🔜 Join us in shaping a future where women's health is prioritized and understood 🌟#WomensHealth",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9799112e96713578b75e4f928d14ef5fe30129e0f4fb63c2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "2024 zal het jaar zijn van de grote doorbraak voor #GenAI in de gezondheidszorg. We zullen zien hoe kunstmatige intelligentie wordt gebruikt om precisiemedicijn te verbeteren en patiënten eerder te diagnosticeren. #AgeTech, #mentalhealthawareness en \"#foodasmedicine\" zullen ook belangrijke trends zijn. Klaar om mee te werken aan een betere toekomst voor iedereen?\"",
+    "retrieved_source": "https://coresight.com/research/retail-2024-top-10-trends-in-us-healthcare/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f23415884f056a5d62ddf84da0aa1b02d552e2c94b0298d"
+}

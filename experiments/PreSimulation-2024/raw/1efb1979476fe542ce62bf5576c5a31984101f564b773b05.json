@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Nederland zijn eigen belangen voorop stelt en zich niet langer laat dictaten door de EU en andere internationale organisaties. We moeten ons concentreren op de bescherming van onze eigen cultuur en tradities en strengere grenscontroles implementeren om ons land te beschermen tegen een massale instroom van migranten.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1efb1979476fe542ce62bf5576c5a31984101f564b773b05"
+}

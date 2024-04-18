@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Alert: Privatization threatens universal healthcare in Lebanon! 💡Social security contributions & national institution budgets are losing value. 💔Draft bills have been presented but ignored. 👀Political parties are moving towards private initiatives. 💪It's crucial to maintain a strong, sustainable social security institution for universal health coverage.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d7106a1e49e7d549f135bc7f10d6f6d4d12dd8b30cf42bef"
+}

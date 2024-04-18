@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Fascinating discussion on the future of AI in medicine with Dr. Sanjay Gupta at AHA Annual Meeting. Emphasis on trust, verification, and a healthy lifestyle for successful medical interventions. Let's keep learning about brain health and combating misinformation!",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31af736df9ff32e3eb9fc59c29ec0fd88b43d9cbe50b5aa9"
+}

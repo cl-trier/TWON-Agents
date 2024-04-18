@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke stap voor vrouwen­helt bij #AI-tijdperk: First Lady Jill Biden kondigt $100mln investering in onderzoek aan, herdefiniërend hoe de VS vrouwen­gezondheid benadert. Het gaat verder dan voortplanting!\" (\"Significant step for women's health in the #AI era: First Lady Jill Biden announces $100mn investment in research, redefining how the US approaches women's health. It's more than just reproduction!\")",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9961550f85f3826779191c9873875e6751a75eb77d269ad0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO must look beyond the Ukraine war when it comes to strategic cyber competition. While individual allies engage in cyber ops, NATO itself doesn't venture into offensive cyber territory during peacetime. This presents a challenge as Russia & China pose different political & tech challenges in cyberspace.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe3f7728e1de3fcf8647539abf33eeb85797889368009f90"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news for migraine sufferers! New data shows 70% of patients treated with atogepant 60mg daily experienced a 50% reduction in monthly migraine days at weeks 13-16, and this improvement was maintained over 48 weeks of treatment. Meaningful relief for those who thought they had tried everything!",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee81db743eff20494f8d339907e98c6b6629e9fa66f63470"
+}

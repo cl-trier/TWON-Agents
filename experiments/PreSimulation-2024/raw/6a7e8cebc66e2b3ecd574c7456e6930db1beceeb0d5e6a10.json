@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report reveals financial costs & service losses from Ford government's privatization scheme in local hospitals.",
+    "retrieved_source": "https://finance.yahoo.com/news/report-exposes-harmful-impact-ford-173500119.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a7e8cebc66e2b3ecd574c7456e6930db1beceeb0d5e6a10"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new report by PayZen reveals 36% of Americans are skipping necessary medical care due to affordability issues 💔. With 75% worried about affording unexpected bills, it's clear our healthcare system is failing the people. We need Medicare-for-all now!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "624495de3815473916fc64cd4140f669affae8f57512be72"
+}

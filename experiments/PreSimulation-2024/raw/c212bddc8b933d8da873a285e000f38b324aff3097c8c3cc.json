@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Accessible healthcare shouldn't be a luxury, it's a basic human right. Let's work towards affordable options for all.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c212bddc8b933d8da873a285e000f38b324aff3097c8c3cc"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De escalatie van de oorlog in Oekraïne dreigt rechtstreeks de regionale stabiliteit en internationale veiligheid te ondermijnen. Onthutsend hoor je over burgerdoden & gewonden. Het is onacceptabel dat de aanvallen op civiele doelen doorgaan. Noodzaak van solidariteit met Oekraïne & eis naar accountability voor mensenrechtenschendingen.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f62fd8a0f03747999e01497a7d97c9c4760c1d91acd450e"
+}

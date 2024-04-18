@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU urgently needs solidariteit in aanjagend transitie naar duurzame energie. Onrechtvaardige gasbelasting in Duitsland demotiveert centraal-Europese landen om in alternatieven te investeren. Laten we gezamenlijk werken aan een toekomst van gelijke kansen en milieubewustzijn.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49cfdce2b0aa355964869adf3e40fbcf50212c785a9c74dc"
+}

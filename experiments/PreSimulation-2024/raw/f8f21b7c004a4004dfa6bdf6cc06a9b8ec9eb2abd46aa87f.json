@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report reveals Americans struggle with healthcare affordability, skipping essential care. 1/3 delay diagnostic tests. On average, $97 is the max monthly payment for out-of-pocket costs. @PayZenTech works to address this crisis with AI solutions.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f8f21b7c004a4004dfa6bdf6cc06a9b8ec9eb2abd46aa87f"
+}

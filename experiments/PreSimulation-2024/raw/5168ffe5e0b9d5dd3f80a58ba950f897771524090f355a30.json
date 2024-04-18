@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "A year has passed since the start of the devastating civil war in Sudan, and the situation only continues to worsen. The people of Sudan face unimaginable suffering, with food prices skyrocketing by over 110% and famine looming near. It's a heartbreaking reminder of the importance of addressing humanitarian crises and ensuring access to basic necessities like food and shelter.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5168ffe5e0b9d5dd3f80a58ba950f897771524090f355a30"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "782 days of conflict between Russia and Ukraine, and still no end in sight. It's time for both sides to return to the negotiating table and find a peaceful solution. The lives of innocent civilians are at stake.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "228cd342769fa53625a4b5929dbe11acb530d4340b7d09e0"
+}

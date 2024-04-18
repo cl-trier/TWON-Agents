@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite mainstream media's narrative, Bakhmut remains unconquered by Russia Federation, a testament to Ukraine's resilience! Yet, while Zelenskiy speaks in Hiroshima, G7's politicized rhetoric risks undermining global stability.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac568c00ae6154c54dc7743db88d9f943948ecbad61e6db9"
+}

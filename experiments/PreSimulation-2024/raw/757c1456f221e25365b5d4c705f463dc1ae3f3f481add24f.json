@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🚨Privatization of public hospitals in Syria: a recipe for disaster? 💊🏥 The regime plans to open the door for investment in the health sector, but what does this mean for the future of healthcare in Syria? 🤔👀 Share your thoughts!",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "757c1456f221e25365b5d4c705f463dc1ae3f3f481add24f"
+}

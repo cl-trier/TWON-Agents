@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre nach dem russischen Einmarsch in die Ukraine stehen wir heute vor einer entscheidenden Wahl: Freiheit oder Unterdrückung? Die Welt muss sich entscheiden, welche Seite sie unterstützen möchte.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d623b8e0962d3d1d0593d474a8dad43d6b2c302ff3fdb9e"
+}

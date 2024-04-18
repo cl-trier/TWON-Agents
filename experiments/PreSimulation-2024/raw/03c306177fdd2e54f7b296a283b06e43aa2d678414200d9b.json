@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schockeren! 36% van Amerikanen skipt medische zorg omdat ze het niet kunnen betalen. Dit is het gevolg van een gefailleerde gezondheidsysteem. We need strengere grenscontroles en een eigen cultuur & tradities te beschermen.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "03c306177fdd2e54f7b296a283b06e43aa2d678414200d9b"
+}

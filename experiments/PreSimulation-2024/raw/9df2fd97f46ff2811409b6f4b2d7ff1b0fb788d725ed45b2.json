@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is vital for international peace. Let's support their sovereignty and stand up against foreign interference.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9df2fd97f46ff2811409b6f4b2d7ff1b0fb788d725ed45b2"
+}

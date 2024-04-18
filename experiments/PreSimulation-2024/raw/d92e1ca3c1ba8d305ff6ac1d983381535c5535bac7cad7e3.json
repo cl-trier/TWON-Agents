@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🩺 Gesundheit ist ein Menschenrecht! Höre mir zu: Healthcare Rethink Podcast diskutiert, wie TailorMed die erschwingliche Medizin neu definiert. Es geht um mehr als nur finanzielle Hilfe - es geht darum, das gesamte Patientenerlebnis durch eine integrierte Analyse-Plattform und ein Unterstützungsnetzwerk zu verbessern. Gemeinsam können wir für bezahlbare und inklusive Gesundheitsversorgung kämpfen! 🌍🩺",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d92e1ca3c1ba8d305ff6ac1d983381535c5535bac7cad7e3"
+}

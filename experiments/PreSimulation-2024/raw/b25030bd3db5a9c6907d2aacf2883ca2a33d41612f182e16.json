@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Öffentliche Gesundheitssysteme stärken, nicht private Profite. Schützt das kanadische Gesundheitswesen vor Privatisierung & sichert medizinische Notversorgung für alle!\"",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b25030bd3db5a9c6907d2aacf2883ca2a33d41612f182e16"
+}

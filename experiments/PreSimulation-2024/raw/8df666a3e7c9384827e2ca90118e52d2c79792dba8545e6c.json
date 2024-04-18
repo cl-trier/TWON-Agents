@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🇨🇦 Did you know that pharmacists in Canada can diagnose and prescribe minor ailments? 💊👨‍⚖️ Alex Hurd, VP Healthcare Services at Walmart Canada, shares how this move addresses access barriers and leverages the retail channel, all while freeing up the primary care system for more complex conditions. 💪🏼",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8df666a3e7c9384827e2ca90118e52d2c79792dba8545e6c"
+}

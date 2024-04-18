@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Middle East tensions + Ukrainian energy attacks = potential for skyrocketing global energy prices. Time for a serious conversation about energy independence & free-market solutions.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "66efe65641e5c175dd8e251da940b725287c34f16b255222"
+}

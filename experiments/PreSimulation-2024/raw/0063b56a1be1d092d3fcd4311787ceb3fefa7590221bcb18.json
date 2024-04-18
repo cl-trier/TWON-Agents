@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Emphasizing healthcare prevention is key to promoting wellness and reducing long-term costs. Let's invest in programs that empower individuals to take charge of their health!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0063b56a1be1d092d3fcd4311787ceb3fefa7590221bcb18"
+}

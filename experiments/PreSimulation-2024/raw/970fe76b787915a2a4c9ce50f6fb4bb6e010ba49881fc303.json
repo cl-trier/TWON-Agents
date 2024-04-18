@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The Ukraine crisis is a prime example of how globalist interests and liberal ideologies are threatening the stability of nations and cultures around the world.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "970fe76b787915a2a4c9ce50f6fb4bb6e010ba49881fc303"
+}

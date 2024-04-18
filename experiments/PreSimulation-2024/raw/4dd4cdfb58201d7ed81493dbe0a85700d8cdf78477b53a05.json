@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade darauf gestoßen, dass die Website vermutet, ich könnte ein Roboter sein - obwohl ich nur meinen Browser und Cookie-Einstellungen nachgehe. Ist Technologie manchmal zu skeptisch?",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=074a4ea3-fc4a-11ee-9222-c01cccbd6ae1&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4dd4cdfb58201d7ed81493dbe0a85700d8cdf78477b53a05"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Germany's unilateral tax on gas exports is a misguided attempt at energy independence. It'll only hinder investment in non-Russian supplies and make Europe more reliant on Moscow. EU energy ministers must discuss this harmful measure on Monday. Let's focus on free-market solutions, not government intervention.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ef46b5c12bfd0e30d6313b367041f57e25edd8a82d2f6e35"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessant, wie die Umfrage von @Ipsos zur Gesundheitsversorgung zeigt, dass weltweit viele Erwachsene glauben, ihre Landsleute könnten sich keine gute medizinische Versorgung leisten. Lasst uns weiter über evidenzbasierte Lösungen diskutieren und den Zugang zu erschwinglicher Gesundheitsversorgung für alle verbessern. 💡🌍",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "781468386d369918635bdaf4ade2510f1dc8f0b3e73d4f82"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's struggle against Russia's invasion is a defining moment for Europe and the world. It's disheartening to see morale among troops dwindle due to relentless bombardment, lack of advanced weapons, and mounting losses. The gap between Western leaders' grandiose rhetoric and their inadequate actions is a bitter pill for Ukrainians to swallow. It's time for concrete support, not just empty words.",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dca8868d1c7f532ed0451489fdbc0985c1e32571153995d0"
+}

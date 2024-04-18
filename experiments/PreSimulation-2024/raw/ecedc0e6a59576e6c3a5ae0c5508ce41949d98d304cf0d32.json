@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stärkung individueller Freiheiten im Gesundheitssystem: Unterstützen wir die Zunahme privater Einbindung in öffentliche kanadische Gesundheitssysteme, ohne traditionelle Werte und gesetzliche Vorgaben zu verletzen.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ecedc0e6a59576e6c3a5ae0c5508ce41949d98d304cf0d32"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Treasury Secretary Yellen urges US-Kongress zum Handeln, um Ukraine mit dringend benötigter Militärhilfe zu unterstützen, während China vier Prioritäten zur Lösung der Ukraine-Krise vorschlägt.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f653810b2c9568e27aa0a9767e3d541cbadb6fcd5d2aaa7"
+}

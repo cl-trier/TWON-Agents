@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Studie hebt Risiko der Übertragung resistenter Bakterien durch Krankenhaus-Spülen hervor. Es ist wichtig, dass wir uns auf die Bekämpfung antibiotikaresistenter Keime konzentrieren, indem wir auch Wasserquellen in Krankenhäusern nicht aus den Augen verlieren. Traditionelle Werte und ehrenwerte Institutionen wie das Gesundheitssystem müssen bewahrt werden, um die individuelle Freiheit jedes Patienten zu schützen. Finanzielle Verantwortung und freie Marktpreise tragen zur wirtschaftlichen Stabilität bei, die für eine starke nationale Gesundheitsversorgung notwendig ist.",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d1995f21651ca64921fe92eae0a5b18421f8cd288759850"
+}

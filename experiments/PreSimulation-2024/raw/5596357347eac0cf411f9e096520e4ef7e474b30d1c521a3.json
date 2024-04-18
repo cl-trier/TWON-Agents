@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Canada's healthcare crisis: a result of decades of defunding and lack of genuine struggle against privatization by union leaderships. Let's not forget the role of telecommunications monopolies like Telus in profiting from the crisis.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5596357347eac0cf411f9e096520e4ef7e474b30d1c521a3"
+}

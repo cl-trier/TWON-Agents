@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Latin American corporations embracing prevention-centered healthcare plans like VivaWell! Prioritizing employee wellness leads to improved health outcomes and a solid return on investment.",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "441237d4df65244769193809bd4340580ff26c87c7a68829"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨New Report: The High Cost of Healthcare in America💸🤕 Only 1/3 of Americans can afford more than $100 in monthly medical costs! 😱 Preventive care, prescription drugs, mental health, and diagnostic testing are being skipped due to unaffordability. 🚨It's time for change! PayZen is tackling healthcare affordability with AI-powered solutions. 💻💰 Join us in the fight for accessible healthcare for all! 🌎💕",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5528679185c43c72d10cca350d17709da0caad6f92e76c88"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oorlog is altijd een tragedie, ongeacht de context. Onze solidariteit gaat uit naar alle slachtoffers van oorlog en onrecht, inclusief het Volk van Oekraïne. Laten we samenwerken om vrede en rechtvaardigheid te bevorderen.\"",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "330ef36df28110e74d2277f44997fb47c6144fe1eb267efd"
+}

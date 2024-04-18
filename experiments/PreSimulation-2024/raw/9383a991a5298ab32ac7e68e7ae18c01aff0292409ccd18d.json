@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing conflict in Ukraine is a disturbing reminder of what's at stake when we neglect the principles of limited government and individual liberties. A strong national defense is crucial, but it's equally important to recognize that true security comes from promoting peace and stability through diplomacy and cooperation. The international community must take action to address this escalating crisis before it's too late.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9383a991a5298ab32ac7e68e7ae18c01aff0292409ccd18d"
+}

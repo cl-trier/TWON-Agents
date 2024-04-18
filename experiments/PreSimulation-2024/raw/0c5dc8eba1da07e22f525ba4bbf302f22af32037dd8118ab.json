@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der aktuellen Energiekrise und des Ukraine-Konflikts zeigen europäische Unternehmen im Vergleich zu US-amerikanischen immer noch negative Auswirkungen aufgrund ihrer Abhängigkeit von russischen Energielieferungen.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c5dc8eba1da07e22f525ba4bbf302f22af32037dd8118ab"
+}

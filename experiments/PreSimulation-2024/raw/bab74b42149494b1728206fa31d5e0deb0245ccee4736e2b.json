@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👍🏼💡👨‍⚕️👩‍⚕️PGIMER Specialists backing preventive health care! 🙌🏼💖Now, they'll engage with the public on preventive healthcare, an extension of their community outreach programs since 2023! 🎉🌟Doctors from different departments will be sent to adopted centers each month for direct community interaction! 🤝🏼👨‍💻Prof Vivek Lal emphasizes the importance of this educational outreach, aiming to improve health outcomes, reduce financial strain on patients & institute's resources! 💡👍🏼The department of nephrology will be the first to send doctors! 👨‍⚕️👩‍⚕️A monthly roster will be prepared, and awareness talks will be held for patients to feel at ease while interacting with them! 😊👍🏼Kudos, PGIMER! 👏🏼🌟Let's work together for better healthcare! 💕🤝🏼",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bab74b42149494b1728206fa31d5e0deb0245ccee4736e2b"
+}

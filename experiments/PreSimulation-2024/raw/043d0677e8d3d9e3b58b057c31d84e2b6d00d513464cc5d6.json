@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessanter Artikel über die USA und die Ukraine. Es ist wichtig, dass sich alle Seiten auf einen Dialog und eine friedliche Lösung konzentrieren. Krieg und Aggression führen nur zu mehr Leiden und Zerstörung.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "043d0677e8d3d9e3b58b057c31d84e2b6d00d513464cc5d6"
+}

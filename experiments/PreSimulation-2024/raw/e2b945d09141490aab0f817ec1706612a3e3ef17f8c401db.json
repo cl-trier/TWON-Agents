@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schappelijke zorg toegankelijk maken door individuele behoeften te begrijpen en brede ondersteuning aan te bieden - TailorMed's benadering verdient onze aandacht om de financiële toxiciteit van medische behandelingen te verminderen",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e2b945d09141490aab0f817ec1706612a3e3ef17f8c401db"
+}

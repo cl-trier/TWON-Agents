@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "🌎 #EnergyUpdate: Tensions in the Middle East could lead to increased volatility in energy prices. As Andriy Kobolyev, head of Ukraine's Naftogaz, warns about potential attacks on Ukrainian energy infrastructure, we must consider the ripple effects on global markets. Even with stable conditions, production cuts by Saudi & Russia make a strong case for higher oil prices. We must stay vigilant and support sustainable energy alternatives to reduce our dependence on volatile fossil fuels. #ClimateAction💚🌍",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1c50f8e4d363c1ad802989515c681add248f0064a182334d"
+}

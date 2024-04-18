@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is absurd dat wij, terwijl we zelf rijk zijn aan energiebronnen, afhankelijk zijn van Rusland voor ons gas en elektriciteit. Laat ik eerder bijdragen aan de ontwikkeling van duurzame energiebronnen en het beschermen van onze eigen belangen.\"",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55ad992c76a58402a38aeb839b37666a262ad164df73e05a"
+}

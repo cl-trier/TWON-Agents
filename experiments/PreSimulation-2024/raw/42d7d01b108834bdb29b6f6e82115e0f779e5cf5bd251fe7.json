@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine is a vital issue for international stability. It's time for the world to recognize the sovereignty of Ukraine and support its efforts to maintain peace and security in the region.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "42d7d01b108834bdb29b6f6e82115e0f779e5cf5bd251fe7"
+}

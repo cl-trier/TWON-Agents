@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Excited for the call for papers on #HealthcareResearch & #MedicalEducation! Met passie heb ik meer dan 30 publicaties op mijn naam in diverse disciplines, met een focus op global surgery, patiëntveiligheid & medische educatie. Ik ben vastberaden om de methodeën van gezondheidszorgonderzoek en -opleiding te verbeteren. Laat ons samenwerken voor meer gelijkheid in de gezondheidszorg!",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be4b80343f356aab8cd624a37c9d6ef9e5a423c2b52dba5d"
+}

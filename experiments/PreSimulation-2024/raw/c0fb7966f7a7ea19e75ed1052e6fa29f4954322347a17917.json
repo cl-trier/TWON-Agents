@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beter gesonde en toegankelijke zorg voor allen! 💪🏼 In Malaysia zijn de kosten van de overheid Gezonde diensten het laagst. 💰👍🏼 Mensen kiezen liever deze optie omdat ze zich dan niet in het buitenlandhoeven te begeven. 🌎",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c0fb7966f7a7ea19e75ed1052e6fa29f4954322347a17917"
+}

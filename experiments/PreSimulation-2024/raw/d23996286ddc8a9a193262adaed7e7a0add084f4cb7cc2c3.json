@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangstelling wekken voor Trudeaus federale begroting van 2024, met hoop op steun voor minderheden en duurzame technologie om klimaatverandering te bestrijden.",
+    "retrieved_source": "https://vancouver.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d23996286ddc8a9a193262adaed7e7a0add084f4cb7cc2c3"
+}

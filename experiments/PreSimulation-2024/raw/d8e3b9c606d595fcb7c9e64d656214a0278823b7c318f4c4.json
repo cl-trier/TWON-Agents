@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Accessible healthcare is a game-changer for mothers and children in Malaysia! 💪🏼👶🏻👦🏻 Village clinics providing affordable services, referring patients to hospitals when needed. 💰🏥 Government healthcare costs are the most affordable, making it a preferred choice for many. 🇲🇾🙏🏼",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d8e3b9c606d595fcb7c9e64d656214a0278823b7c318f4c4"
+}

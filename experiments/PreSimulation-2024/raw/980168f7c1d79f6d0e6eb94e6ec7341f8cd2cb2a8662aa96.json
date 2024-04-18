@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Laut einer neuen Übersichtsstudie verschlechtert sich die Qualität der Patientenversorgung häufig in nach Privatisierung, während Kosteneinsparungen im Raum stehen - ein Diskurs über Balance und Abwägung ist notwendig.\"",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "980168f7c1d79f6d0e6eb94e6ec7341f8cd2cb2a8662aa96"
+}

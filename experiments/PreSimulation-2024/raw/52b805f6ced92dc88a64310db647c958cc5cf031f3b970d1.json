@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Tijden van onzekerheid in Europees energiebeleid. Ukrainische infrastructurele aanvallen hebben grote impact. Natie first, internationale samenwerking nopenvolgend.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52b805f6ced92dc88a64310db647c958cc5cf031f3b970d1"
+}

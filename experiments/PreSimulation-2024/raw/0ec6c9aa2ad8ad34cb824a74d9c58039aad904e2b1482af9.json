@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Forschung zeigt, dass die Notaufnahmeversorgung im Privatsektor 21% teurer ist als bei der VHA. Bevor wir privatisieren, sollten wir das gut abwägen - schließlich ist die VHA ein Vorbild für umfassende Gesundheitsversorgung.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0ec6c9aa2ad8ad34cb824a74d9c58039aad904e2b1482af9"
+}

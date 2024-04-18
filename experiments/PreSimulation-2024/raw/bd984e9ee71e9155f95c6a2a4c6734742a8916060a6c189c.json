@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatiseren van gezondheidszorg in Canada? Dat is geen oplossing voor toegankelijkheid en kwaliteit! Onze cultuur en tradities belichamen zorg en verantwoordelijkheid jegens elkaar. Steun aan publieke sector blijft nodig.\"(Translation: \"Privatizing healthcare in Canada? That's not a solution for accessibility and quality! Our culture and traditions reflect care and responsibility towards each other. Support for the public sector remains necessary.\")",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd984e9ee71e9155f95c6a2a4c6734742a8916060a6c189c"
+}

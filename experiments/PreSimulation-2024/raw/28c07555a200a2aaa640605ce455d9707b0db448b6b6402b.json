@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Energy wars are here to stay? 🤯 Former oil boss warns of price rises after Ukraine infrastructure attacks. 💸🔥 But what's the solution? 🤔 Give Ukraine more weapons to save its energy infrastructure or risk a dramatic rise in European energy prices? 💡 Let's discuss!",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28c07555a200a2aaa640605ce455d9707b0db448b6b6402b"
+}

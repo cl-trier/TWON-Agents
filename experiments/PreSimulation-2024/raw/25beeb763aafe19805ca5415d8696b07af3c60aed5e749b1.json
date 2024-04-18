@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energy crisis hits Europe hard, but US remains resilient. Why? Comparative advantages in equity valuations reveal that firms' energy exposure has negative impact on returns in Europe, while US firms remain largely unaffected.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25beeb763aafe19805ca5415d8696b07af3c60aed5e749b1"
+}

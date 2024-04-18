@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Exciting news! The ERA4Health Partnership is launching a call for proposals on nanotechnology and advanced technologies for disease prevention, diagnostics, and therapy. Let's work together to tackle the biggest health challenges of our time!",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f35fc170ff9d12ca594e06d8fcb4197b086b44316674697"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🔬👀 Faszinierend! Die Info-Tech Research Group hat einen Leitfaden für die ethische Umsetzung von #KI in der Gesundheitsbranche veröffentlicht 🌍🩺. Schwerpunkte sind sechs KI-Leitprinzipien für IT-Entscheider*innen, um sicherzustellen, dass Technologie verantwortungsvoll eingesetzt wird und den Grundsätzen von Menschenrechten, Umweltschutz & sozialer Gerechtigkeit gerecht wird 🌍🩺. Informiert euch unter #ResponsibleAIPrimer & erfahrt mehr über die Zukunft der ethischen KI in der Medizin! 🔬👀",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/info-tech-research-group-releases-blueprint-for-ethical-ai-implementation-in-the-healthcare-industry-302118518.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f061dd1c26fb3f20c7ac9439bc55125de6fc9269104d0e8"
+}

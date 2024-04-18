@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Germany's unilateral tax on gas exports is a major obstacle to reducing our reliance on Russian energy. It's limiting investment in non-Russian gas supplies and complicating efforts to diversify our energy sources. The EU must address this issue and work towards a comprehensive energy strategy that prioritizes security and sustainability.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad3f1a96b7a19ee73dba4876645cbde5ac5a95d35f88832c"
+}

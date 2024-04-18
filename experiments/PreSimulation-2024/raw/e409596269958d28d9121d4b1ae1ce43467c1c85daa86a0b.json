@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend hohe Prozente von Erwachsenen in Ländern weltweit stimmen zu, dass viele Menschen in ihren Ländern keine bezahlbare Gesundheitsversorgung erhalten - es wird höchste Zeit für eine progressive und gerechte Reform!\"",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e409596269958d28d9121d4b1ae1ce43467c1c85daa86a0b"
+}

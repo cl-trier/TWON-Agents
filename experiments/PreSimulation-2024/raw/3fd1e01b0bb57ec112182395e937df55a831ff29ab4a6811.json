@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy sector has made remarkable strides in recent years, despite Putin's relentless attempts to undermine their progress. By embracing European standards and promoting transparency, they've taken a crucial step towards securing their energy independence.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3fd1e01b0bb57ec112182395e937df55a831ff29ab4a6811"
+}

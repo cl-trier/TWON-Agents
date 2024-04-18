@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Huge shoutout to Dr. Smith, top physician in kidney disease & infection prevention, honored with the Medal of Excellence by AAKP - a well-deserved recognition for his commitment to patient education and community safety!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31d2add69e06525aab398c5190979ae0b2a88711c6411a1f"
+}

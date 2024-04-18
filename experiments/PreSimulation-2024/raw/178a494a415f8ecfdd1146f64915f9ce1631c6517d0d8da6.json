@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Lobenswert, wie Malaysia mit erschwinglicher und zugänglicher Gesundheitsversorgung Mütter und Kinder schützt - ein Beispiel für die Kraft begrenzter Regierung und starker Gemeinschaften!\"",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "178a494a415f8ecfdd1146f64915f9ce1631c6517d0d8da6"
+}

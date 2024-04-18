@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Europa steigen die Energiepreise, insbesondere nach der Invasion der Ukraine durch Russland. Doch wer zahlt am meisten? Erstaunlicherweise sind es nicht die Länder mit den niedrigsten Löhnen. Es ist an der Zeit, uns von fossilen Brennstoffen unabhängig zu machen und in erneuerbare Energien zu investieren, um soziale Gerechtigkeit und Umweltschutz zu gewährleisten.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f66d9d63a0e3a93a07d3c8d044193c77c377d45875831ff4"
+}

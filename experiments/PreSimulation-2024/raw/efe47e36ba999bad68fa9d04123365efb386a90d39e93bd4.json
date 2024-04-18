@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Hospital privatization: a recipe for disaster. A new study confirms what we've long suspected - private hospitals sacrifice quality care for profit. Don't believe the lies that privatization is the solution to our healthcare problems. We need to return to a publicly-funded system that prioritizes patients, not profits.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "efe47e36ba999bad68fa9d04123365efb386a90d39e93bd4"
+}

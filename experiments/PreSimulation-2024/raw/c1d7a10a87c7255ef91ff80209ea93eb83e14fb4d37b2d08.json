@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau's budget plan for 2024 is eagerly anticipated, but will it address the pressing issues of our time? Let's hope for a comprehensive approach to climate action, social justice and economic equality.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c1d7a10a87c7255ef91ff80209ea93eb83e14fb4d37b2d08"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Habt ihr auch Probleme mit der Website? Stellt sicher, dass euer Browser JavaScript und Cookies unterstützt und diese nicht blockiert. Wir müssen unsere #Freiheit im Internet verteidigen, damit keine #Roboter unseren Spaß verderben!",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d7d67585-fc1f-11ee-8ee6-7b8b812d296e&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18be083695da2d326a7719519ede23f7d1ce97b15a8a45e0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Goed nieuws voor Oekraïne: #WorldBank keurt $1,5 miljard toe om economische stabiliteit te blijven ondersteunen. Scherpe focus op competitie, financiële sector, energiemarkten en hervormingen in handel & fiscaal beleid. Samen naar een duurzaam toekomstig Oekraïne!",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e50e542c059def54c17b3095ee7696397a43a239a3b19181"
+}

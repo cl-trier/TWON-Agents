@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news for migraine sufferers! Long-term data shows atogepant's effectiveness in reducing monthly migraine days by 8.5 on average. A promising development for patients and clinicians alike, promoting individual well-being while maintaining healthcare choice and affordability.\"",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7927013946b880343205bc4c8a7b995db1a96a675e2552ad"
+}

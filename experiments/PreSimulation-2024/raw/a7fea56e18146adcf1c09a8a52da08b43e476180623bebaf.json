@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming! Energy war escalates as ex-oil boss warns of skyrocketing prices due to Ukrainian infrastructure attacks. We must prioritize national energy independence to protect our economies and sovereignty.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a7fea56e18146adcf1c09a8a52da08b43e476180623bebaf"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante studie over privatisering in UK's gezondheidszorg: druk op artsen om morele waarden te compromitteren en beperkte capaciteit van privésector. Hoeweel efficiënt is privatisering echt als we belangrijke waarden in achterlaten?",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "205b717de9f51b04e79cafa2b176dec9a4de30ebc3bb198b"
+}

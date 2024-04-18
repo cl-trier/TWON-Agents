@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Excited to share my passion for healthcare research & education! With 30+ publications across orthopedics, med ed, women's health, pediatrics, ID, & public health, I value evidence-based approaches over ideological dogmas. Let's advance methods & foster constructive dialogue in this vital field.",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c63475e3ffb03f73ab01b59346aaa1bc4fdaedad097c3c8"
+}

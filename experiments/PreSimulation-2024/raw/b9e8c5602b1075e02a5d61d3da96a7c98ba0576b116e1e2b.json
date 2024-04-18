@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's prioritize preventative healthcare! By investing in wellness programs, early detection, and education, we can improve overall health while reducing long-term medical costs. It's a win-win for individuals and society.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b9e8c5602b1075e02a5d61d3da96a7c98ba0576b116e1e2b"
+}

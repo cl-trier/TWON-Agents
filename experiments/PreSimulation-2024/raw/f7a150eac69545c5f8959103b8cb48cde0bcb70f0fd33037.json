@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's commander-in-chief Oleksandr Syrskyi said Saturday on his Telegram channel that Russian troops are making significant gains in Ukraine's eastern region near the Russian-occupied industrial town of Avdiivka.\"It's not surprising to see Russia making gains in Ukraine, considering their superior firepower and personnel. It's a shame that Ukraine is running low on ammunition, but it's clear that they won't back down from the fight. The intense fighting in Bohdanivka shows that both sides are determined to win this conflict.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7a150eac69545c5f8959103b8cb48cde0bcb70f0fd33037"
+}

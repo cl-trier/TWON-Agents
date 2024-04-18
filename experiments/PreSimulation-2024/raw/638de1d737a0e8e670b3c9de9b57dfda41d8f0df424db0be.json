@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite a decade of war, Ukraine's energy sector is defying odds by embracing transparency, ditching subsidies, and reducing state control, all while standing up to Russian energy threats 💪💡",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "638de1d737a0e8e670b3c9de9b57dfda41d8f0df424db0be"
+}

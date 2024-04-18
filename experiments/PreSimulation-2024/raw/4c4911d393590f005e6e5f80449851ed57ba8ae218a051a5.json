@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie blijft Oekraïne vechten voor soevereiniteit 💔 Als voorstander van vrede en rechtvaardigheid hopen wij op een einde aan geweld en steunen we Ukraine's strijd voor zelfbeschikking. Samen staan we sterk voor democratie, gelijkheid & mensenrechten 🌍🕊",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c4911d393590f005e6e5f80449851ed57ba8ae218a051a5"
+}

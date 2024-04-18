@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schrikken we niet terug voor collectieve actie om gezondheidszorg betaalbaar te maken! Luister naar de podcast 'Healthcare Rethink' van FinThrive om hoe TailorMed hierin leiding geeft.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "901f84d815c3e1b9fe392c1cfe42b3228bbb766fc75d7d9d"
+}

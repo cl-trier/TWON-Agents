@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@Measles_Rubella 🚨Did you know that accelerated immunization activities have prevented an estimated 57 million deaths from measles between 2000-2022?! 💉🦠Routine vaccination and mass campaigns in high case countries are key to reducing global measles deaths. Let's keep up the progress! 🚀",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe1f1ded840a2f68d599189139ce3b5d2ffc34d4789cb745"
+}

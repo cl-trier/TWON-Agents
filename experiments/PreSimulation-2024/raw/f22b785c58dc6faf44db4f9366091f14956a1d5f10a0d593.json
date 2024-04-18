@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🚨 Women's Health 2.0: The AI Era 🚨👩‍💻 Predictive tech is revolutionizing women's healthcare, but are we addressing the gender gap in research funding? 💰🧬 #WomensHealth #AI #GenderEquality🔍 Beyond reproduction, women's health encompasses diverse aspects. Let's broaden our focus and allocate resources accordingly. 🌟 #InclusiveHealthcare💡 Did you know that women have been historically underrepresented in clinical trials? It's time to address these blind spots and tailor healthcare to women's unique needs. 👀 #WomenInResearch🤝 Let's work together to advance women's health research and create a brighter future for all. Join the conversation! 💬",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f22b785c58dc6faf44db4f9366091f14956a1d5f10a0d593"
+}

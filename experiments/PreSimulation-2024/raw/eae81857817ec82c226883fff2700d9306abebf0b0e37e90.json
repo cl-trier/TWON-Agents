@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade in diesen unsicheren Zeiten ist es entscheidend, an der Stabilität internationaler Beziehungen festzuhalten. Die Krise in der Ukraine zeigt jedoch, wie fragil diese Stabilität sein kann. Wir müssen zurück zu einer ehrlichen und offenen Diskussion über unsere nationalen Interessen, ohne von politischer Korrektheit behindert zu werden. Nur so können wir langfristige Lösungen finden, die auf Respekt und Verständnis basieren, anstatt auf Konfrontation und Eskalation.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eae81857817ec82c226883fff2700d9306abebf0b0e37e90"
+}

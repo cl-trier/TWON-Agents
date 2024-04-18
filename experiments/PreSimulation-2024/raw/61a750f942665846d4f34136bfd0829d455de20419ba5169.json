@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Europe turns a blind eye as Ukraine's gas storage, critical for European energy needs, faces relentless Kremlin attacks - it's time for solidarity and action before it's too late! #StandWithUkraine 🇺🇦🔴",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "61a750f942665846d4f34136bfd0829d455de20419ba5169"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "neutrality and non-alignment, a path to peace? lessons from Finland and Ukraine's failed talks. Let's prioritize ending wars over post-war security.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0df64c0029fc9092f79f28576ece6d9436ac53e736947156"
+}

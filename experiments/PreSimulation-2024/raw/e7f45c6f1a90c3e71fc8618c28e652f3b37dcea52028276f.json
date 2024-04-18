@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO's got some serious catching up to do when it comes to strategic cyber competition. It's time for them to step up their game and start thinking beyond the war in Ukraine. Russia and China are leading the way in terms of technological advancements, and it's up to NATO to counter their moves. It's not just about defense, it's about taking control of the cyber space and shaping the future.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e7f45c6f1a90c3e71fc8618c28e652f3b37dcea52028276f"
+}

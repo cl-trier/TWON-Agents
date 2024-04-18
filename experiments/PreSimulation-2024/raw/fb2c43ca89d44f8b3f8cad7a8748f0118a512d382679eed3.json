@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Besorgniserregende Eskalation im Osten der Ukraine. Notwendigkeit internationaler Unterstützung für den Frieden wird dringlicher.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fb2c43ca89d44f8b3f8cad7a8748f0118a512d382679eed3"
+}

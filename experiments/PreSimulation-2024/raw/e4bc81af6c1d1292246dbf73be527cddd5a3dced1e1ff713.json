@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's aggression towards Israel could further isolate Russia, complicating their Ukraine endeavors. New sanctions from the G7 could exacerbate Moscow's economic woes. Time for caution in Tehran and diplomacy in the international community.",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4bc81af6c1d1292246dbf73be527cddd5a3dced1e1ff713"
+}

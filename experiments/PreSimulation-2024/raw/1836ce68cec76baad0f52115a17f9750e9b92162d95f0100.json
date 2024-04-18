@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Het is tijd dat we de focus laten verschuiven van duurdere ziekenhuiskosten naar betaalbare gezondheidszorg voor Allen. Laat de marktwerking werken en laten we patienten de keuze hebben over hun eigen zorg.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1836ce68cec76baad0f52115a17f9750e9b92162d95f0100"
+}

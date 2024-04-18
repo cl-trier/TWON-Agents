@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz anhaltender Herausforderungen: Unsere Solidarität mit der Ukraine wächst. Bewahren wir unsere Werte und unterstützen den Frieden.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3969e5dcdc84c421f6d510cfb4d825d12004f9cca9c1bfe0"
+}

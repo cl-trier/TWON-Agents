@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Großzügige Spende fördert Parkinson-Forschung. Wichtig, innovative Ideen durch Privatinvestitionen zu unterstützen, anstatt in überbordende Staatsausgaben zu investieren.",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d4d2585b1d96e01b7b494141cf4dd86b530f710cc7ee90f"
+}

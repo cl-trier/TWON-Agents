@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend: Kremlin-raketten raken #Ukraine's gasvoorraden. Europa profiteert van deze opslag, maar laat Oekraïne alleen achter in hun verdediging. Deze opslagfaciliteiten zijn groter dan die van enige EU-land & bedragen 28% van de EU-behoefte. We moeten ons zorgen maken over Oekraïne's energieveiligheid - een wintercrisis is nabij als de aanvallen blijven voortduren.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7bc259c9d733d40799958c0b6fb4fa223f3c141c88d4021d"
+}

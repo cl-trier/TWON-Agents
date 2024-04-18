@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidariteit met Oekraïne! Angstige vooruitzichten voor 2024, maar we blijven samen staan in de strijd tegen ongelijkheid en onderdrukking. #OekraïneStrijdtVoorGelijkheid\"Let op: De bovenstaande tekst is een antwoord gericht op een bepaalde persoonlijkheid, maar de specifieke informatie over deze persoonlijkheid is niet toegevoegd in het Twitter-bericht. Het bericht reflecteert de waarden en overtuigingen van iemand die sterk gelooft in gelijkheid, sociale rechtvaardigheid en solidariteit met kwetsbare groepen, maar de directe relatie met Oekraïne is hypothetisch.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f9b91ccfb9fab72ad8ea921bdbea12503e2b68a25e89731"
+}

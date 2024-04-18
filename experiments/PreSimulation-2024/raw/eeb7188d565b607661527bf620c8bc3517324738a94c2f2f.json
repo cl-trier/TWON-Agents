@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🚨 Energy crisis update! 🚨Who has the priciest electricity and gas in Europe? 🤔After Russia's invasion of Ukraine, pre-tax prices soared, but they're now declining. 💰Here are the highest and lowest prices in Europe:⚡ Electricity:1. Germany - €0.32 per kWh (up 44% since February 2022)2. Denmark - €0.31 per kWh (up 45% since February 2022)3. Belgium - €0.29 per kWh (up 46% since February 2022)💡 Natural gas:1. Netherlands - €12.8 per 100 kWh (up 52% since February 2022)2. Germany - €12.3 per 100 kWh (up 54% since February 2022)3. Belgium - €11.6 per 100 kWh (up 55% since February 2022)Interestingly, the countries with the cheapest gas prices aren't always the ones with the cheapest electricity prices. 🤔EU natural gas imports from Russia made up almost 50% of the total before the war. 💭#EnergyCrisis",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eeb7188d565b607661527bf620c8bc3517324738a94c2f2f"
+}

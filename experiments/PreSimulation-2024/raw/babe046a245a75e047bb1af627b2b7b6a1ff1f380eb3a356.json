@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Putin's aggressie in Oekraïne mag niet onbeperkt zijn, wij moeten solidariteit tonen met de Oekraïense bevolking en hun recht op zelfbeschikking.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "babe046a245a75e047bb1af627b2b7b6a1ff1f380eb3a356"
+}

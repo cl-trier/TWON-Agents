@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Kudos to the nine UAMS physicians named as Healthcare Research All-Stars! Their dedication to advancing medical research and providing top-notch patient care is truly commendable. It's no surprise that UAMS continues to rank among the best in the nation with such talented individuals on their team.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "399decafe5fbb8ede6e7ac4e2ecac453a0fafa259465c6d7"
+}

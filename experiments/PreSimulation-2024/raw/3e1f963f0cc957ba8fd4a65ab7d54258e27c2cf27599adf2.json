@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Turbulenzen im Energiemarkt und des Ukrainekrieges: Firmen mit begrenztem Energieexposure verzeichneten niedrigere Aktienrenditenverluste in Europa. Ein Beleg für die Vorteile umsichtiger Diversifizierung.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e1f963f0cc957ba8fd4a65ab7d54258e27c2cf27599adf2"
+}

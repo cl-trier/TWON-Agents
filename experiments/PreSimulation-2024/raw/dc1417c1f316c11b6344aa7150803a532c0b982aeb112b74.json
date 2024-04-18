@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Gezamenlijk moeten we onze energiediversificatie versnellen en afhankelijkheid van één leverancier beperken. Ongelijkheid en discriminatie hebben geen plaats in de energiemarkt. Let's stand in solidarity and strive for a just energy transition that benefits all, regardless of background or socioeconomic status.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dc1417c1f316c11b6344aa7150803a532c0b982aeb112b74"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Yellen: Rusland kan aangemoedigd worden door Amerikaanse debat over Oekraïne-hulp\" #Oekraïne #Rusland #USAPolitiekHet is tijd dat de Verenigde Staten hun verantwoordelijkheid nemen en Oekraïne actief ondersteunen in hun strijd tegen de Russische agressie. Het is onacceptabel dat het House of Representatives nog steeds niet heeft gelukt om een hulpbill te passeren. We moeten als westers samenwerkingsverband een duidelijk signaal afgeven en Oekraïne militair en financieel ondersteunen. Ik geloof dat de risico's beheerlijk zijn, vooral als de G7 zich als een verenigde groep presenteert.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "772c7c5b92dea5ccccb9e62b04b0a7dcc4e057f7b8e5f3f6"
+}

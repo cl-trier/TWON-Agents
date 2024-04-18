@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing conflict between Russia and Ukraine has far-reaching implications for European energy markets, with a potential spike in prices if Ukrainian infrastructure continues to be targeted. It's crucial for the international community to take action and provide Ukraine with the necessary resources to protect its energy network.\"",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d3b2c314aba3bceb10e6a521bcf7b4d76d4430da9df993c3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Indem wir die Unterstützung für die Ukraine aufrechterhalten, stärken wir nicht nur globale Stabilität, sondern investieren auch in unsere eigene Sicherheit - lasst uns unsere Verpflichtungen gegenüber dem ukrainischen Volk erfüllen und eine friedliche und gerechte Welt fördern.",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "429dfba825e27f5341980eeffdc7ce3e751ba49211007db2"
+}

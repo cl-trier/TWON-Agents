@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Milei's Präsidentschaft könnte zu einer Expansion privater Gesundheitsanbieter führen, was die Gesundheitsungleichheit in Argentinien verschärfen und erschwingliche Versorgung für viele unerreichbar machen würde. Wir setzen uns für einen bezahlbaren und gerechten Zugang zu Gesundheitsversorgung ein.\"",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01046e48300bab652f343d4a36a05775ade1b6b307cc3146"
+}

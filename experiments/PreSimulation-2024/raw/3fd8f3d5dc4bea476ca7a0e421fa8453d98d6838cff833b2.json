@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Samen werken om gezondheidszorgfraude te voorkomen is belangrijk, laat ons door samenwerking en kennisdeling sterker staan in onze strijd voor rechtvaardigheid en gelijkheid. #HFPPevents #Solidariteit pic.twitter.com/aZgkUyD8Ow",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3fd8f3d5dc4bea476ca7a0e421fa8453d98d6838cff833b2"
+}

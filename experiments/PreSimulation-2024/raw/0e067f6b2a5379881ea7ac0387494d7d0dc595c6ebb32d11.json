@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare is a basic human right, not a luxury for the wealthy. Malaysia's affordable and accessible healthcare system is a great example of how financial protection and people-centred care can make a real difference in people's lives.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0e067f6b2a5379881ea7ac0387494d7d0dc595c6ebb32d11"
+}

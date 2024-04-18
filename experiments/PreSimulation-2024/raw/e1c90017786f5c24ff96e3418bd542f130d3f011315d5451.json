@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! 🎉 Nine pioneering physicians at UAMS have been named Healthcare Research All-Stars for 2024 by Avant-garde Health. Our Hip and Knee surgery team is in the top 1% nationwide, while Orthopaedic surgery ranks in the top 3%, and Gastrointestinal & General surgery make it to the top 5%! Kudos to our dedicated doctors, including C. Lowry Barnes, M.D., for their relentless pursuit of knowledge and commitment to improving patient care through research.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1c90017786f5c24ff96e3418bd542f130d3f011315d5451"
+}

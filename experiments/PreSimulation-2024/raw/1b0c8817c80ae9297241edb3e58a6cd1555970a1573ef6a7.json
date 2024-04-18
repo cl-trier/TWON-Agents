@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Stand with Ukraine! Solidariteit is kracht. Veroordeel agressie en bevorder rechtvaardigheid #RussiaUkraineWar #EindHetOorlog\"Vertaling:Steun voor Oekraïne! Solidariteit is sterkte. Veroordeel agressie en bevorder rechtvaardigheid",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b0c8817c80ae9297241edb3e58a6cd1555970a1573ef6a7"
+}

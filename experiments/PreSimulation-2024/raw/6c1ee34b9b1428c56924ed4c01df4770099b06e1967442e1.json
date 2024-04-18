@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sick of skyrocketing healthcare costs burdening American families! It's time to put our people first, reform the system, and eliminate the crippling debt holding us back.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6c1ee34b9b1428c56924ed4c01df4770099b06e1967442e1"
+}

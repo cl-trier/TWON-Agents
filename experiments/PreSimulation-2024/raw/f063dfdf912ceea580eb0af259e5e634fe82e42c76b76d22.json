@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bevestigd: Russische troepen maken vooruitgang in oostelijk Oekraïne. Sterke overheid nodig om nationale belangen te beschermen.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f063dfdf912ceea580eb0af259e5e634fe82e42c76b76d22"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 Women's Health 2.0: The AI Era 🚨👩‍💻 The future of women's healthcare is here, and it's powered by AI! 💻💡💪🏼 Closing the health gender gap with predictive tech! 💪🏼👩‍💼 Jill Biden's $100 million initiative for women's health research is a game-changer! 💰🔍 Beyond reproduction, it's time to broaden our understanding of women's health! 💬👩‍⚕️ Dr. Christina Jenkins: \"Women's health transcends reproductive health.\" 💭👀 Let's shine a light on the overlooked and underserved areas of women's health! 💡💔 It's time to break down the barriers and stigmas surrounding women's health! 💪🏼🌟 Let's work together to create a brighter, healthier future for all women! 🌈👏🏼",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa6b455899cec11e0aa73ae1812669e0e7946224c48e64cd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bijna 150 burgers gedood en 478 gewond in Oekraïne deze maand. Enerzijds zijn het landelijke aanvallen op energie-infrastructuur, met dodelijke slachtoffers tot gevolg. Dit is een directe bedreiging van regionale stabiliteit en internationale veiligheid.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca011f76537ba5b6732061d05599c8fd35d7091912f02cd6"
+}

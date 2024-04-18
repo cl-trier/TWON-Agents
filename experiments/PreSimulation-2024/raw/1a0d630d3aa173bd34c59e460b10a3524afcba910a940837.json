@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Natural gas en stroomprijzen variëren in Europa, met Nederland & Noorwegen relatief laag dankzij eigen voorraden. Sinds Russische invasatie van Oekraïne zijn prijzen gestegen, maar dalen weer. Aandacht voor duurzame oplossingen en diversificatie is cruciaal.\"Vertaling: \"De prijzen van aardgas en stroom verschillen in Europa, met Nederland en Noorwegen relatief laag dankzij eigen voorraden. Sinds de Russische invasie van Oekraïne zijn de prijzen gestegen, maar ze dalen weer. Aandacht voor duurzame oplossingen en diversificatie is cruciaal.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a0d630d3aa173bd34c59e460b10a3524afcba910a940837"
+}

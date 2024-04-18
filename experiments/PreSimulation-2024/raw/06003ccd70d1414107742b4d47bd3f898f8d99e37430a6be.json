@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Joly warnt vor zerbrechlicher globaler Stabilität. Wir müssen unsere Werte verteidigen und für eine starke, unabhängige Kanada einstehen.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06003ccd70d1414107742b4d47bd3f898f8d99e37430a6be"
+}

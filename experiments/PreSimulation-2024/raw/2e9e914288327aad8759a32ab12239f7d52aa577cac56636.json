@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Stärkung der nationalen Sicherheit ist eine oberste Pflicht. Unterstütze die Ukraine bei ihrem Recht auf Selbstverteidigung und territoriale Integrität.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2e9e914288327aad8759a32ab12239f7d52aa577cac56636"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hospital-Sink-Keime: Traditionelle Hygienestandards und regelmäßige Desinfektion sind entscheidend, um die Ausbreitung antibiotikaresistenter Bakterien zu verhindern.",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "99df93a9dd312bba836a1c6ca22c18b9815e60b8bf2e0ad1"
+}

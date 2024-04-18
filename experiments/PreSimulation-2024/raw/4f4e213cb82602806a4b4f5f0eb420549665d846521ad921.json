@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The High Cost of Health: Analyzing America’s Healthcare Affordability Crisis\" - a new report that highlights the unaffordable reality of healthcare in America. 🤯💸🏥 Did you know that Americans can only afford an average monthly payment of $97 for out-of-pocket medical costs? 😱 The report also shows that many people are skipping necessary care, like preventive visits and prescription drugs, due to the high cost. 🤕 It's time for a change! PayZen is tackling this issue head-on with AI-powered solutions to make healthcare more affordable for all Americans. 💪🏽🔍 Read the full report to learn more about the crisis and how we can work together towards a better, more affordable healthcare system.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f4e213cb82602806a4b4f5f0eb420549665d846521ad921"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to reduce Black maternal mortality! Recognizing urgent maternal warning signs, providing timely treatment, and delivering respectful quality care can prevent many pregnancy-related deaths. We must address the racial disparities that exist and ensure everyone has access to quality healthcare.",
+    "retrieved_source": "https://www.cdc.gov/healthequity/features/maternal-mortality/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e528031af185782374f1bb8f0f5d7c851028a9e7ad471f6b"
+}

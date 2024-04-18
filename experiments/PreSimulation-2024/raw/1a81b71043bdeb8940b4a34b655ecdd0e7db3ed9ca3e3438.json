@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Occupation is not the answer! Russia must respect Ukraine's sovereignty and territorial integrity. The world is watching and we will not stand idly by as innocent lives are affected.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a81b71043bdeb8940b4a34b655ecdd0e7db3ed9ca3e3438"
+}

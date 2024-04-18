@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russische agressie tegen Oekraïne onacceptabel! Nederland dient solidair te staan met onze Europese bondgenoten. Strikte sancties en militaire steun nodig. Ons land moet ook eigen veiligheid versterken en grenzen beter beschermen.",
+    "retrieved_source": "https://kyivindependent.com/ukraine-war-latest-april-16/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "725f2f1dd1daf30439ee602c322e07dd43eb13d490deb8ac"
+}

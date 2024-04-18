@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europese bedrijven lijden onder de negatieve impact van energieexposure na de Russische invasiën van Oekraïne, met gemiddeld 0,9% lagere rendementen bij een toename van één standaarddeviatie.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ede6c7c9136eb38b891b90e6975fff95ecd716fa56780fb"
+}

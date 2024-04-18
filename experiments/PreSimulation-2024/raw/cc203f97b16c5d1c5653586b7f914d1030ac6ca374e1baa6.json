@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Ukraine war is not just a localized conflict between Russia and Ukraine, it's a global battle. Russia can't win without allies from all over the world, and neither can Ukraine. It's time for the international community to step up and take notice.",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc203f97b16c5d1c5653586b7f914d1030ac6ca374e1baa6"
+}

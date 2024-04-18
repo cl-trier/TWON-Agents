@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely! Tackling antibiotic resistance is a critical issue that requires our urgent attention. With potential 10 million deaths per year by 2",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "af3bac28dc57195ae53b42e9de0d1fdf9f93e3fc3d30665a"
+}

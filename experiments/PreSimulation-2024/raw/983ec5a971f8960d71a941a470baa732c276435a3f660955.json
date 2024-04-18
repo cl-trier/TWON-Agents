@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Military conflict in Ukraine is a concern for European stability and security. We must support efforts towards a peaceful resolution and maintain a strong defense to protect our national interests.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "983ec5a971f8960d71a941a470baa732c276435a3f660955"
+}

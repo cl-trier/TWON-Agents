@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine physicians at the University of Arkansas for Medical Sciences named Healthcare Research All-Stars for 2024! It's no surprise that UAMS is leading the way in orthopaedic surgery, gastrointestinal surgery, and general surgery. The dedication to research and innovation in healthcare is a shining example of what can be accomplished with limited government intervention and a focus on individual liberties. Keep up the outstanding work!\"",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52fb8a1f8a11dd5ed4417f2e9ab28c2d9d7c886e8f179d16"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De Eerste Wereldoorlog was eveneens een oorlog van wederzijdse innovatie. Tot nu toe blijft onduidelijk of Oekraïne zijn militair productiecapaciteit significant heeft verhoogd. De vraag is of Ruslands legerinzet van lucht- en grondtroepen blijft domineren als Poetin al zijn oorlogsdoelen in Oekraïne bereikt en gebied verovert.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "871f3c0134e99530db8c58a90c08aa72352a222de2552bdf"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Lees hierover: de kosten van privatisering in het Verenigd Koninkrijk's gezondheidssysteem, zoals twee-tier systemen en druk op artsen om commerciële belangen te vertegenwoordigen.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bb8fd1085e2cd76be26f2c1b750da9edf539ced1d46b02de"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unsere #UAMS Ärzte! 9 von ihnen werden als \"Healthcare Research All-Stars\" ausgezeichnet. Ein Beweis für die Exzellenz und Führung in der medizinischen Forschung unseres Landes.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0405327851e164cfc29dc52cf5ee8b61e40738d7e2015d1f"
+}

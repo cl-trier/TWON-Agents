@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Präsident Zelenskiy's neues Mobilisierungsgesetz ist ein wichtiger Schritt, um Ukraine's erschöpfte Truppen zu stärken. Wir sollten die Unterstützung für das ukrainische Volk in ihrem Kampf für Souveränität und Selbstbestimmung fortsetzen. Auch Polens Präsident Duda bereitet sich auf ein mögliches Treffen mit Trump vor, während er New York besucht. Lasst uns weiterhin für Frieden, Menschenrechte und soziale Gerechtigkeit eintreten, egal wo in der Welt!",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d160c09ea6c2b46c88c4293a78236fc961bbc06d6e15d7f"
+}

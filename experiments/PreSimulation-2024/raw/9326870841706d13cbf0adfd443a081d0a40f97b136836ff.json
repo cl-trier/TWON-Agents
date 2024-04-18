@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Let's not ignore Henry Kissinger's strategic prowess & realist approach in dealing with global powers just because of ideological disagreements. It's time for Washington to rediscover the value of pragmatism over hubris, and learn from our past successes instead of repeating past mistakes.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9326870841706d13cbf0adfd443a081d0a40f97b136836ff"
+}

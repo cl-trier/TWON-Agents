@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bevreesd staan wij voor de humanitaire crisis in Oekraïne. Het tij is rijp voor verenigd handelen van de internationale gemeenschap om vrede, rechtvaardigheid en solidariteit te bevorderen.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "528910e06267c3f04389b93a845b432d37eba98e327fccf5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre nach dem Russischen Überfall auf die Ukraine: Was ist der Status quo der Kriegführung heute? Eine Analyse von Dr. Seth G. Jones, Dr. Eliot A. Cohen, Emily Harding und dem Honorable Michael Vickers auf der CSIS-Veranstaltung.\"",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a01888b665ea704bf8102eeff7b704ee70ef25d3168e19a9"
+}

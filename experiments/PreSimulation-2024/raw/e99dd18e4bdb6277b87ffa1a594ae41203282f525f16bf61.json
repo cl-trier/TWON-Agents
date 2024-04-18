@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new study reveals the devastating consequences of hospital privatization on patient care 😱🏥 The research, published in The Lancet Public Health, shows a clear link between privatization and decreased quality of care 💔👎 It's time for us to demand better from our healthcare system and ensure that everyone has access to the high-quality care they deserve 🌟💪",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e99dd18e4bdb6277b87ffa1a594ae41203282f525f16bf61"
+}

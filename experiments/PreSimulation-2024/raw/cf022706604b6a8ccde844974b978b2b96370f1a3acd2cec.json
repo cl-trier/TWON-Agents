@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Jede Woche verfolge ich die vorläufigen Schätzungen der Grippe-assoziierten Krankenhauseinweisungen für diese Saison. Lasst uns zusammenarbeiten, um eine effektive Prävention und Bekämpfung von Grippe zu fördern. Schützt euch, eure Lieben & Gemeinschaften!",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cf022706604b6a8ccde844974b978b2b96370f1a3acd2cec"
+}

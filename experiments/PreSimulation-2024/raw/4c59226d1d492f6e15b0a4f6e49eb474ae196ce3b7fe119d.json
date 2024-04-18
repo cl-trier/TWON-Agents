@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine-Konflikt eskaliert: Russland gewinnt Terrain im Osten. Intensive Gefechte um Bohdanivka andauern. Notwendig: diplomatische Lösungen, um Gewalt zu beenden und humanitäre Krise zu adressieren.\"",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c59226d1d492f6e15b0a4f6e49eb474ae196ce3b7fe119d"
+}

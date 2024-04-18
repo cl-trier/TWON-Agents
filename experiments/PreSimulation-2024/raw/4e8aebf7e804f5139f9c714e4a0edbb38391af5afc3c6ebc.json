@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante blik op de Canadese gezondheidszorg via @DrugStoreNews: Walmart Canada versterkt toezicht op toegankelijkheid & betaakbaarheid in farmacie. Fascinant dat Canadese apothekers nu kunnen diagnosticeren en voorschrijven voor minder ernstige klachten, waardoor toegangsaangedaanzen worden aangepakt & de basisverzorging wordt ontlast.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e8aebf7e804f5139f9c714e4a0edbb38391af5afc3c6ebc"
+}

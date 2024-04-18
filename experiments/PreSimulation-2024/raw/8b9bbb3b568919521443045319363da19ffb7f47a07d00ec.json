@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Vorsicht vor Trudeaus neuer Budget-Offensive: Steuererleichterungen gegen wachsende Staatsverschuldung eintauschen?",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b9bbb3b568919521443045319363da19ffb7f47a07d00ec"
+}

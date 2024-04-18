@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's absurd that the fate of Ukraine's defense is being decided by a bunch of bureaucrats in Washington. The real question is, who will finance Ukraine's defense? Will it be the US, NATO, or will Ukraine be left to fend for itself? It's time for the West to put their money where their mouth is and support Ukraine in its fight against Russian aggression.\"",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e57e6aae748877dc16090cea43888d48bb051a1aef7c5c36"
+}

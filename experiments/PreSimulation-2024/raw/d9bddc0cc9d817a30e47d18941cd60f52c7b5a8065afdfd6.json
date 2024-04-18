@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The push for privatized healthcare in Argentina is a recipe for disaster. It's unethical to profit off people's illnesses, and it will only widen the gap between the rich and the poor. We need to ensure that quality healthcare is accessible to all, regardless of their economic status.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d9bddc0cc9d817a30e47d18941cd60f52c7b5a8065afdfd6"
+}

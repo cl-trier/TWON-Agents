@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Onder aanval van Rusland lijdt Oekraïne en Europa krijgt te maken met hoge energieprijzen. Het is hoog tijd dat wij onafhankelijker worden van buitenlandse energietoevoer en meer in duurzame oplossingen investeren.\" (\"Under attack from Russia, Ukraine suffers and Europe faces high energy prices. It's high time for us to become less dependent on foreign energy supply and invest more in sustainable solutions.\")",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2742258ea3b204470d5f60e091ebcaaf29606062d4bf16a2"
+}

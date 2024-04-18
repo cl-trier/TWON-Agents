@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe rapportage onthult: Amerikanen worstelen met medische kosten. Gemiddeld max. $97 maandelijkse betaling voor uit-pk costs. Preventieve zorg en medicijnen worden het meest overgeslagen. #HealthcareAffordabilityCrisis @PayZenHealth",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d08fa8a23af307942b444925f800ba9c037e912fc2a1898f"
+}

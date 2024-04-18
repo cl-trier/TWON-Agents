@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend nieuws van Oekraïne! Steeds duidelijker dat onze energietechnologie in verkeerde handen is gevallen. Nederland moet haar eigen energievoorziening ter hand nemen en afhankelijkheid vermijden. Onze soevereiniteit gaat voor!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "547f3208d98edebbded5ad26b8113eb0f341e1ceb878c418"
+}

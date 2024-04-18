@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz des Ukraine-Krieges muss die NATO ihre Cyber-Strategie überdenken und ihre Präsenz in der globalen Multi-Stakeholder-Gemeinschaft ausbauen, um den politischen und technologischen Herausforderungen durch Länder wie Russland und China gerecht zu werden.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06510c3015425d344017f86a2bff54e52d72da1c7fa74e85"
+}

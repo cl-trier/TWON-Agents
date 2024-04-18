@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🚨World Bank steunt Oekraïne om economische stabiliteit te handhaven🇺🇦 De Wereldbank keurt een nieuw Beleidsondersteuning (DPO) goed voor Oekraïne ter waarde van $1,5 miljard. Dit om het groeipotentieel van het land te ondersteunen door zowel private investeringen als productiviteit te verhogen. 💰🚀Deze DPO richt zich op vier pijlers:1️⃣ Versterking van de economische beleidskader om een structurele verschuiving naar duurzame groei te faciliteren.2️⃣ Verbetering van de financiële sector om eerlijke concurrentie en efficiënte markten te stimuleren.3️⃣ Ondersteuning van energiemarkten om een veilige en duurzame energietoevoorziening te garanderen.4️⃣ Handelsreformen om dewelvaart te verbeteren en de concurrentiekracht van Oekraïne te verhogen.💡Deze steun van de Wereldbank is een belangrijk onderdeel van het internationale steunpakket voor Oekraïne om haar financieringbehoeften in 2024 te dekken.👏Wij feliciteren en blijven de Oekraïense overheid steunen in hun inspanningen om een stabiele en duurzame economie op te bouwen.",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "10120589cd63383e8c45e129b57a14ca4fb60686754740f9"
+}

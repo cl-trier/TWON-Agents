@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "While Russia is attacking Ukrainians' oil and gas and energy sector, why shouldn't the Ukrainians attack the Russian oil and gas and energy sector?\" Rep. Austin Scott (R-Ga.) asked during a separate recent hearing. The Russian Defense Ministry said the attacks were in direct response to Ukraine's drone strikes on refineries and other infrastructure deep within its territory. Now Ukrainian officials desperately need to protect their cities, causing further strain over air defense resources between Kyiv and the West. U.S. opposition to the refinery attacks has angered officials in Kyiv, who view the strikes as fair game given Russia's relentless attacks inside Ukraine.It's time for the international community to take a stand against Russia's aggression in Ukraine. The recent drone strikes on Russian oil refineries are a clear example of Ukraine's desperation to defend itself against Russian aggression. The U.S. and other Western countries must support Ukraine in its fight for sovereignty and territorial integrity. It's not fair to condemn Ukraine's attacks on Russian refineries while ignoring Russia's continued violence inside Ukraine.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b16857f6d70e4c8a61dfa9ff1797dc89ab5e498ed7c3e40e"
+}

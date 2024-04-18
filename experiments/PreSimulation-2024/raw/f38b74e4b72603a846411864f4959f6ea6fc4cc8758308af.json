@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierende neue Forschungsergebnisse zeigen, dass viele postoperative Infektionen nach Rückenoperationen von Bakterien auf der Haut des Patienten verursacht werden, nicht aus Krankenhäusern. Die Verteidigung individueller Freiheiten beinhaltet auch die Kontrolle über unsere eigene Gesundheit - daher ist es wichtig, hygienische Praktiken zu fördern, um Infektionen vorzubeugen. Eine starke nationale Verteidigung beginnt mit starker körperlicher Gesundheit!",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f38b74e4b72603a846411864f4959f6ea6fc4cc8758308af"
+}

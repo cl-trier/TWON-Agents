@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De escalerende oorlog in Oekraïne betekent een directe bedreiging voor regionale stabiliteit en internationale veiligheid, waarschuwt ASG Jenča, met burgerlijke slachtoffers van minstens 126 in maart en aanvallen op energie-infrastructuur die zouden hebben geleid tot doden en gewonden.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a15c1e8a569d468a40e7b7aafab8c6e62a94ac5350412bc0"
+}

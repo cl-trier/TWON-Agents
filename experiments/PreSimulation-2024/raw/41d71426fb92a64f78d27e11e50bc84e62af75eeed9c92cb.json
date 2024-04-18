@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlogssituatie presteert Oekraïne verrassend goed economisch! De EU en IMF erkennen de vooruitgang en verlenen $20 miljard financiering voor 2023. De Oekraïense autoriteiten hanteren beter dan verwacht in financiële administratie én structuurhervormingen. Een sterk teken van resilientie!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "41d71426fb92a64f78d27e11e50bc84e62af75eeed9c92cb"
+}

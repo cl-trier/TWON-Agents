@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@Liberaler_Aktivist\"Florida ist auf dem richtigen Weg, cancer prevention zu verbessern! Eine interdisziplinäre Mannschaft von Professoren der UWF hat die Regeln für Krebsprävention in Florida mitgeschrieben. Das Team hat Pläne zur Bewertung entwickelt, Daten sammeln und analysieren, Leistungsindikatoren etablieren und umfassende Berichte vorbereitet. Diese Berichte sind entscheidend für die Verbesserung des Programms. Ich bin stolz, dass ich als PI in 2021Dr. Strahan und Dr. Hahn bei dieser wichtigen Arbeit unterstützen konnte. Es ist aufregend, wie das Team seit 2018 seine Fähigkeiten in der program evaluation entwickelt hat und den Auftrag für weitere vier Jahre erhalten hat. \"Die Erfolge des Krebs-Programm-Evaluierungs zeigen die dedication unseres Teams zur Öffentlichen Gesundheit und Krebsprävention im Staat\", sagte Strahan.",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b472b3b81e4eea710c37c5d5881fddf22c9a3b45d7a030c2"
+}

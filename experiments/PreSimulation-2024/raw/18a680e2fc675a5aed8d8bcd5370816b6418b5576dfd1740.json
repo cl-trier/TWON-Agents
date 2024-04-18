@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Rising natural gas prices follow Russia's attacks on Ukrainian facilities. Let's prioritize diplomacy and stability to safeguard global energy security.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18a680e2fc675a5aed8d8bcd5370816b6418b5576dfd1740"
+}

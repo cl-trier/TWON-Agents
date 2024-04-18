@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Natural gas en stroomprijzen in Europa: wie heeft de duurste en goedkoopste? Na de invasie van Oekraïne door Rusland stegen de prijzen, maar ze dalen nu. De hoogste en laagste prijzen per land, en de prijsstijgingen van gas en stroom sinds februari 2022. Gemiddelde gasprijs steeg van €8,6 naar €11,9 per 100 kWh. Ondanks de hoge elektriciteitsprijzen hebben landen als Noord-Macedonië (€10,4) en Bosnië en Herzegovina (€5,9) relatief goedkope gasprijzen. Voor de oorlog bestond 50% van de EU-gasimport uit Russisch gas.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a31d152acd5d7981e0b087eee765a7fc742707c2de3fd41"
+}

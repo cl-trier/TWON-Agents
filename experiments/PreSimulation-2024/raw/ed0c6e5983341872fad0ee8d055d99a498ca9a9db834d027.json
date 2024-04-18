@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine UAMS physicians recognized as Healthcare Research All-Stars! Their dedication to advancing healthcare research is crucial in improving patient outcomes and pushing the boundaries of medical innovation. As a proud liberal, I am thrilled to see the UAMS Hip and Knee surgery team, Orthopaedic surgery team, Gastrointestinal surgery team, and General surgery team among the top percentile nationwide. It's a testament to the power of investing in quality healthcare and research. Let's continue supporting and celebrating our healthcare heroes!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed0c6e5983341872fad0ee8d055d99a498ca9a9db834d027"
+}

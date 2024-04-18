@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Health care costs continue to burden US families, even for those with insurance. Recent KFF polling shows the heavy toll of health care debt on Americans. It's time to reassess our priorities and work towards sustainable solutions that don't break the bank.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a6756d5ad68d8f5daf6ea5cfedd28b748774d9f93ade7f0b"
+}

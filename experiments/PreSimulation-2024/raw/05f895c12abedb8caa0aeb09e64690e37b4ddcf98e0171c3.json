@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energiepreise explodieren, während Alt-Linksextremisten Russlands Aggression gegen die Ukraine dulden. Es wird Zeit für handfeste Unterstützung unseres Nachbarn und eine Eindämmung der russischen Expansion!",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "05f895c12abedb8caa0aeb09e64690e37b4ddcf98e0171c3"
+}

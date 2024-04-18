@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Privatization Warning: Don't let profiteers compromise our vets' healthcare! 21% more expensive private ER care vs. VHA, & providers aren't held to the same standards.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96d87547c035b52dae7b9ece4fb5d02c8b6cf4f837b8bc1e"
+}

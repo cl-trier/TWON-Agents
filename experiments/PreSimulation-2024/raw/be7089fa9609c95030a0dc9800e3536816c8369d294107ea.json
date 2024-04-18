@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "One year since the start of the civil war in Sudan, and the situation only continues to worsen. The conflict has spread beyond Darfur, leaving countless civilians suffering and on the brink of famine. We must not turn a blind eye to this crisis.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be7089fa9609c95030a0dc9800e3536816c8369d294107ea"
+}

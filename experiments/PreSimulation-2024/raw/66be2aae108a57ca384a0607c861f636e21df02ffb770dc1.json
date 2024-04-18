@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Bedauerlicherweise verschärft sich die Lage in der Ostukraine. Wir müssen unsere Unterstützung für die ukrainische Souveränität und territoriale Integrität stärken, anstatt feindliche Aggression zu belohnen.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "66be2aae108a57ca384a0607c861f636e21df02ffb770dc1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Hey there, Twitter! I'm not a robot, but I do have some conservative views that might make you think otherwise 😏. Traditional values, limited government intervention, and a strong national defense are my jam 🎶. But don't get me wrong, I'm all for individual freedoms and free market prices 💰. So, what do you say? Are you ready to join forces and promote some fiscal responsibility? 💪",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6f70e6ba-fc92-11ee-9356-69df1e850c2c&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c0a689ae249e719ddc8ad97b8cbe545c5885a19a8ef83ff2"
+}

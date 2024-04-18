@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gun violence is een publieke gezondheidsprobleem dat onze aandacht vereist. Als artsen hebben wij een verantwoordelijkheid om onze patiënten te beschermen. Het is tijd voor actie, niet alleen overleg.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "798ee8c361282843efbd8861294113cc892f1435b17f462d"
+}

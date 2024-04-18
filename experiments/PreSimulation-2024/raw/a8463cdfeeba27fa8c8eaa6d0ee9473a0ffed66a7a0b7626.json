@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hören Sie sich die neueste Folge des Healthy Bottom Line Podcasts an, in der es um Präventivmedizin geht - eine Disziplin, die auch nach der Pandemie noch mehr Unterstützung verdient.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a8463cdfeeba27fa8c8eaa6d0ee9473a0ffed66a7a0b7626"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schaut euch an, wie die anti-russische Hysterie der EU unsere Energiesicherheit gefährdet - höhere Preise & mögliche Versorgungslücken im Winter. Wir brauchen endlich Vernunft und Unabhängigkeit in unserer Energiepolitik!",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f3f809535351eccd917749ec840d669b3df96d840ab24daf"
+}

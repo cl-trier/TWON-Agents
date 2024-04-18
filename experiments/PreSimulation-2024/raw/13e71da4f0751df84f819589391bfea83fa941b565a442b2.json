@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Volgende crisis in zicht? De Europese energieprijzen staan op het spel als Oekraïne worstelt om infrastructuur te beschermen. Duidelijke blik op marktvoorspellingen en duurzame oplossingen nodig. Lees meer via @IEA en @IRENA.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "13e71da4f0751df84f819589391bfea83fa941b565a442b2"
+}

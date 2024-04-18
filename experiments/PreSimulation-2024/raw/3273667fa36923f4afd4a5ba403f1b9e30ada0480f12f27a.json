@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In het licht van de escalerende militaire conflicten in Oekraïne is het noodzakelijk om objectieve feiten te scheiden van propaganda en een diplomatieke oplossing aan te moedigen die de soevereiniteit en veiligheid van alle betrokken partijen respecteert.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3273667fa36923f4afd4a5ba403f1b9e30ada0480f12f27a"
+}

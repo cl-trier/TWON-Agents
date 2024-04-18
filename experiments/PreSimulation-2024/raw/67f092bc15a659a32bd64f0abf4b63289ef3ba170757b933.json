@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine is losing the war with Russia because of low morale among troops, lack of advanced weapons, and continued losses on the battlefield. The country's leadership and citizens are also feeling the strain, with many privately accepting that more losses are inevitable this summer.",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "67f092bc15a659a32bd64f0abf4b63289ef3ba170757b933"
+}

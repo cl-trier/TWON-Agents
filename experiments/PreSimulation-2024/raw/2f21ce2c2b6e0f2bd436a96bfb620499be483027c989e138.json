@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Studie zeigt: Privatisierung von Krankenhäusern führt zu schlechter Patientenversorgung - und das obwohl die Mainstream-Medien uns immer noch mit Propaganda über die Vorteile des Free Markets überschwemmen.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f21ce2c2b6e0f2bd436a96bfb620499be483027c989e138"
+}

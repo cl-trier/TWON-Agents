@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The High Cost of Health: Analyzing America’s Healthcare Affordability Crisis\" - a new report by PayZen, a healthcare-focused technology company, reveals the harsh reality that many Americans struggle to afford basic healthcare services. On average, respondents can only afford a maximum monthly payment of $97 for out-of-pocket medical costs, leading to preventive visits, prescription drugs, mental health care, and diagnostic testing being skipped or delayed. It's time for change! PayZen is determined to tackle healthcare affordability issues using AI-powered solutions, resulting in better patient satisfaction and improved financial outcomes for healthcare providers.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f930dcc7c706f3beeb4ebc09aff2500c8aab34ecd4fde99d"
+}

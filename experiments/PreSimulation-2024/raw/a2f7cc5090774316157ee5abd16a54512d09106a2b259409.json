@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Luister naar de Healthcare Rethink podcast van FinThrive om te ontdekken hoe TailorMed healthcare affordability personaliseert. Het gaat over meer dan alleen maar betalingsassistentie; het is een holistische aanpak om financiële toxiciteit van medische behandelingen te verminderen en de patiëntenzorg te verbeteren. Fascinerend!",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a2f7cc5090774316157ee5abd16a54512d09106a2b259409"
+}

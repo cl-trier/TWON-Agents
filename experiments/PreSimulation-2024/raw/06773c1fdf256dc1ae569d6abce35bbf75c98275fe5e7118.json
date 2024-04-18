@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's alarming to learn that even working-age Americans with insurance are struggling to afford healthcare. Rising premiums, deductibles, and copayments create a significant financial burden for many. We must prioritize solutions that promote competition and lower costs while preserving quality care. Fiscal responsibility and free-market principles can help alleviate this crisis and ensure accessible, affordable healthcare for all.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06773c1fdf256dc1ae569d6abce35bbf75c98275fe5e7118"
+}

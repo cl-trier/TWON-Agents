@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The crisis in Ukraine underscores the urgent need for renewed commitment to international stability, diplomacy, and respect for sovereignty. We must stand together to promote peace and security worldwide.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "31fa5c53bc602366423d72f59a4f5e9374b667fee88d5de4"
+}

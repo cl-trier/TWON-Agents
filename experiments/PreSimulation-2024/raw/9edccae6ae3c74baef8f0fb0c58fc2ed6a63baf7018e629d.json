@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "COVID-19testing: objetief gericht en duurzaam? Nee, wij laten het bij de wetenschap der crowdsourcing en het vertrouwen in de markedingswetenschappen!",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9edccae6ae3c74baef8f0fb0c58fc2ed6a63baf7018e629d"
+}

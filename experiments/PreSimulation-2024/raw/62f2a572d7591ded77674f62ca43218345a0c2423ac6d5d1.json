@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "„Geschlechtergerechtigkeit in der Gesundheitsforschung: Eine Revolution durch AI und $100M für Frauen #WomensHealth2_0 #AIforEquity“",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "62f2a572d7591ded77674f62ca43218345a0c2423ac6d5d1"
+}

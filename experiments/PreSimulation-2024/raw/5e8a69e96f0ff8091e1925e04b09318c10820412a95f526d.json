@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Xi's 4 priorities for Ukraine are a step in the right direction, but we must ensure that any solution is accompanied by concrete actions and not just empty words. The US and G7 must continue to provide military and economic support to Ukraine while also addressing the root causes of the conflict.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e8a69e96f0ff8091e1925e04b09318c10820412a95f526d"
+}

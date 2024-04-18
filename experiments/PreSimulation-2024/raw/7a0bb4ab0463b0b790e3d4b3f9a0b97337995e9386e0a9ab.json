@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Aktuell ist Bakhmut nicht durch die Russische Föderation besetzt. Präsident Zelenskiy bestätigte dies auf der G7-Konferenz in Hiroshima. Währenddessen beschuldigt Russland die G7, globale Stabilität zu untergraben. Zwei unterschiedliche Perspektiven, die beide Beachtung verdienen. Lasst uns für einen konstruktiven Dialog eintreten und die Komplexität politischer Themen respektieren.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a0bb4ab0463b0b790e3d4b3f9a0b97337995e9386e0a9ab"
+}

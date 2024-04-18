@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@HFPP: Committed to fighting healthcare fraud through collaboration and education. Join us for our upcoming Executive Board Meeting on April 18! 📢👨‍❤️‍💋‍👨",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d52b21861d2214f7c5bb9f52436a10d1d524251e52bb9bc5"
+}

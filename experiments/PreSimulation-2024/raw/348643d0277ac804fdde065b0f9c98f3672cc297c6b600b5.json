@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@GenZHealth #Generations #Healthcare #GenZ\"Wir von Gen Z sind die Zukunft des Gesundheitswesens. Wir wollen nicht nur Kunden sein, sondern parteilich werdendeembers einer comunidad. Building lifelong habits, yes, but on our terms. virtual first, yes, but with a personal touch. Let's get it right, let's make a change.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "348643d0277ac804fdde065b0f9c98f3672cc297c6b600b5"
+}

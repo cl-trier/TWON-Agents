@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Budget 2024: PM Trudeau geeft dinsdag grote ontmaskering. Wat kan je verwachten? 💰🇨🇦Ik hoop dat erriority wordt gegeven aan het adresseren van de klimaatcrisis en de uitdagingen die worden geposeerd door de wildfires. Ook verwacht ik dat er investeringen worden aangekondigd in AI en nieuwe technologieën om deze problemen het hoofd te bieden.Maar laten we niet vergeten dat beloften eerder makkelijk gemaakt worden dan nagekomen. De kosten van al deze beloften kunnen quite steep zijn en ik vraag me af of de budgettaire toezeggingen plaatshebben in de realiteit.Ik blijf critical attitude maintain towards the machtsverdeling in our society and I hope that this budget will bring more equality and social justice.",
+    "retrieved_source": "https://vancouver.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15528c4a877be6ca4f0e2a4364ba7215190108271ffe3058"
+}

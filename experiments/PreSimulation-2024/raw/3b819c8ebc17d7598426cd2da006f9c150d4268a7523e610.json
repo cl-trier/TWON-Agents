@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to highlight Rudra Nagalia, a driven MHA student innovating in healthcare technology! His journey in product development & entrepreneurship has led him to our Remind-H project. By combining his expertise with a Master of Science in Healthcare Informatics, Rudra's on a mission to tackle mental health challenges using tech solutions. Kudos for bridging the gap between diverse healthcare needs and technical answers!",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3b819c8ebc17d7598426cd2da006f9c150d4268a7523e610"
+}

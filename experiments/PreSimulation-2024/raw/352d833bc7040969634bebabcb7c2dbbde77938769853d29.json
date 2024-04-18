@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bevorderen van gezondheidszorg voor iedereen is cruciaal. Ook onderzoek naar nieuwe behandelmethoden verdient aandacht. Laat ons objectief kijken naar beide kanten van de politieke spektrum om zo een inclusieve en effectieve zorg te realiseren.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "352d833bc7040969634bebabcb7c2dbbde77938769853d29"
+}

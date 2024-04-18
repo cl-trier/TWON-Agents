@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unterstützt Präventivmedizin stärker! 💪 Lest den neuesten Healthy Bottom Line Podcast, um mehr über ihren Wert zu erfahren. Es ist an der Zeit, die Gesundheit unserer Patienten und Gemeinschaften ganzheitlich zu betrachten und Präventivmedizin die Anerkennung zukommen zu lassen, die sie verdient. 🩺🌍",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d41fe0f8530b33f0934404cabe143408ff45df2f2f5c9ad"
+}

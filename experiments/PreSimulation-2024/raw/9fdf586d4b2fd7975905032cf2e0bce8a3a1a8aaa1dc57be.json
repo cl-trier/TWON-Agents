@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sickening that in the wealthiest country on earth, millions of working-age Americans are forced to choose between paying rent or medical bills, while insurance companies rake in profits. It's time for a revolution in healthcare, where everyone has access to affordable, quality care.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9fdf586d4b2fd7975905032cf2e0bce8a3a1a8aaa1dc57be"
+}

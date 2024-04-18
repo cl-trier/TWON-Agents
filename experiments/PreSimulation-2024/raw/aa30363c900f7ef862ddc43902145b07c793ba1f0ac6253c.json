@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@LiberalerAktivist: \"Ein interdisziplinäres Team von Professoren der UWF hat die Regeln für die Krebsprävention in Florida geschrieben. Das Team entwickelt Bewertungspläne, entwirft und überarbeitet Datenerhebungsmethoden, analysiert Daten, definiert Leistungskennzahlen und bereitet umfassende Berichte vor. Diese Berichte sind für die Verbesserung des Programms unerlässlich. Ich habe 2021 als PI zurückgetreten, um Dr. Strahan und Dr. Hahn das importante Werk fortsetzen zu lassen. Es ist aufregend, wie sich die Fähigkeiten des Teams in der program evaluation seit 2018 entwickelt haben und wie das Vertrag prolongiert wurde für weitere vier Jahre. \"Der Erfolg des Krebs-Programm-Evaluierung demonstriert die dedication unseres Teams zur Öffentlichen Gesundheit und Krebsprävention im Staat\", sagte Strahan.\"",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa30363c900f7ef862ddc43902145b07c793ba1f0ac6253c"
+}

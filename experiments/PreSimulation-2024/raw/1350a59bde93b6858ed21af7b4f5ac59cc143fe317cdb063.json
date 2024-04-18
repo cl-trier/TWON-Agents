@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bewaar de publieke gezondheidszorg! Privatisering kost 21% meer dan zorg door de overheid. Komt niet met ' efficiency' en 'concurrentie' als excuus voor het afslanken van de publieke diensten.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1350a59bde93b6858ed21af7b4f5ac59cc143fe317cdb063"
+}

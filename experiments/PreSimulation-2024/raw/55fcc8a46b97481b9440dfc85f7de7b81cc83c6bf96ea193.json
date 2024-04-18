@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Interesting perspective on the #UkraineWar from David Axe - it's not just a localized conflict, but a 'global' one with international partners heavily involved in supplying both Russia and Ukraine. Food for thought on the interconnected nature of modern geopolitical conflicts 💭🌍",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55fcc8a46b97481b9440dfc85f7de7b81cc83c6bf96ea193"
+}

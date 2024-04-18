@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Ageing dog healthcare needs attention! 🐕💉 New research reveals that many dog owners may be missing critical signs of illness in their older dogs, attributing them to normal ageing. 🤷‍♂️🐾 Vets recommend twice-yearly check-ups for seniors, but owners think yearly is enough. 📅👀 A pre-vet checklist could help ID missed signs. 📝💭 Support the BSAVA PetSavers Ageing Canine Toolkit (ACT) to improve care for our furry friends! 🐾💕",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b16275b54927fe86f53af1f61169b0ec9f890d890ca38be"
+}

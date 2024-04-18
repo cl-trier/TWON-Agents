@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Starke Unterstützung für die Ukraine! Internationale Stabilität hängt von solidarischer Zusammenarbeit ab. Für Frieden und Gerechtigkeit weltweit 🌍�ove",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6917416306ba2e8f5528a45d3010d19109df515a19ee8bf"
+}

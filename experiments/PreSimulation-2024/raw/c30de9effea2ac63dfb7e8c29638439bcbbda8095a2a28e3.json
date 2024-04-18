@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Es ist erfreulich zu sehen, dass die Ärzte der University of Arkansas for Medical Sciences (UAMS) für ihre Forschungsbeiträge zum Gesundheitswesen ausgezeichnet wurden. Die Ernennung von neun UAMS-Ärzten zur Healthcare Research All-Stars listawards shows that their hard work and dedication to advancing medical research has not gone unnoticed. It's particularly impressive that the UAMS Hip and Knee Surgery team ranked among the top 1% of hip and knee surgeons nationwide, demonstrating that excellence in one domain does not come at the expense of others. Congratulations to all the recognized physicians!\"",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c30de9effea2ac63dfb7e8c29638439bcbbda8095a2a28e3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "NANOTECMEC: Europa lanceert call voor nanotech en geavanceerde technologieën voor Ziektebeleid, diagnostiek en therapie. ERA4Health Partnership investeert 7 jaar in onderzoek naar cardiovasculaire ziekten, nanomedicijnen en voeding, gezondheid en preventie van ziekten.",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d817a961861a32ac0a5712cf8a78c81f67d5fd7599ec43b"
+}

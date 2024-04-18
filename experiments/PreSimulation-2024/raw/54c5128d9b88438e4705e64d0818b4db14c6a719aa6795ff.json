@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sorge um europäische Energiepreise steigt angesichts der Zerstörung ukrainischer Infrastruktur. Konstruktiven Dialog fördern wirkt Konflikten entgegen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "54c5128d9b88438e4705e64d0818b4db14c6a719aa6795ff"
+}

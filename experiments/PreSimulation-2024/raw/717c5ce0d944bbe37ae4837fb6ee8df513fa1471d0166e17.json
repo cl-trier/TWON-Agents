@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@LiberalerLeidenschaftlicher: \"Progressive Werte und soziale Gerechtigkeit fördern - das ist unser Ziel! Eine interdisziplinäre Arbeitsgruppe von ProfessorInnen der UWF hat die Regeln für Krebsprävention in Florida geschrieben. Wir sind stolz auf ihre Leistungen und freuen uns darauf, wie ihr Programm weiterhin Entwicklung takes!\"",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "717c5ce0d944bbe37ae4837fb6ee8df513fa1471d0166e17"
+}

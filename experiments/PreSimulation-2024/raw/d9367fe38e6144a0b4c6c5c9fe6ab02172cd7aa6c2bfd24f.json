@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe slumbers while Ukraine's lights are dying. Russia's relentless attacks on Ukraine's gas storage sites put the entire continent's energy security at risk. Ukraine's storage facilities are crucial for Europe, covering 28% of EU needs. It's time for Europe to wake up and support Ukraine in its fight against Russian aggression.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d9367fe38e6144a0b4c6c5c9fe6ab02172cd7aa6c2bfd24f"
+}

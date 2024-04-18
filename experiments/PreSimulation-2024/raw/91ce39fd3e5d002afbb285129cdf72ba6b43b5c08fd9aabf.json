@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy attacks may shift the war's momentum, but at the cost of potentially damaging relations with Western allies & further destabilizing global energy markets",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91ce39fd3e5d002afbb285129cdf72ba6b43b5c08fd9aabf"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Day 781 of the Russia-Ukraine war and the conflict continues to rage on. Let's take a moment to remember the innocent lives lost and the families torn apart by this senseless violence. The international community must do more to bring about peace and justice.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/15/russia-ukraine-war-list-of-key-events-day-781",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "508e5f5c756919e66615eb51ad685a95a47e5cb867ad7f82"
+}

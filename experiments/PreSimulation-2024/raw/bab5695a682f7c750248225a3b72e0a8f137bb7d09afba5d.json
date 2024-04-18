@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessant! In Kanada können Apotheker nun auch bei leichten Beschwerden diagnostizieren und verschreiben. Mögliche Lösung zur Überwindung von Barrieren im Zugang zu Gesundheitsversorgung & Entlastung des Primärsystems für komplexere Fälle.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bab5695a682f7c750248225a3b72e0a8f137bb7d09afba5d"
+}

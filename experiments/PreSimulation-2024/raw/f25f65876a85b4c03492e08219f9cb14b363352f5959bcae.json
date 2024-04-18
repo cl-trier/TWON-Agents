@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@AltRightVoice: \"New study links hospital privatization to worse patient care? 🤔 Can't say I'm surprised. When you prioritize profits over people, you get subpar care. Time to put the 'public' back in healthcare and make it about the patients, not the bottom line.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f25f65876a85b4c03492e08219f9cb14b363352f5959bcae"
+}

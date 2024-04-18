@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report reveals the harsh reality of America's healthcare affordability crisis and its impact on the wellbeing of citizens. It's time to address this issue and find solutions that prioritize patients' needs over profit\"",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06c2601f411bfe9b3c94bb6d198d1d119ea251d6ff4a6c5d"
+}

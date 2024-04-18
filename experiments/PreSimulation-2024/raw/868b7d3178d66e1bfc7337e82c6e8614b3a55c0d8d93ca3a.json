@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In Nederland moeten we ook inspelen op de nood aan betaalbare en toegankelijke gezondheidszorg! Onze politieke elite dient zich te richten op het belang van volksgezondheid boven winst. Directe democratie is nodig om de echte wensen van ons volk te horen. Zoals in Malaysia: gezondheidszorg voor iedereen, niet alleen voor de welgestelden.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "868b7d3178d66e1bfc7337e82c6e8614b3a55c0d8d93ca3a"
+}

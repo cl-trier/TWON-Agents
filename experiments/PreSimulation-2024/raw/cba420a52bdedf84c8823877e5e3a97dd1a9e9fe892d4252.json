@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Verwirrt über die Roboter-Anfrage – habe JavaScript und Cookies aktiviert, um sicherzustellen, dass meine individuelle Freiheit im Internet uneingeschränkt bleibt.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=67d84656-fc38-11ee-9557-c7acb68078f4&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cba420a52bdedf84c8823877e5e3a97dd1a9e9fe892d4252"
+}

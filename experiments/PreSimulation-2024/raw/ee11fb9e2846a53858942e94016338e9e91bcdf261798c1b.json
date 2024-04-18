@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hospital privatization linked to worse patient care, new research finds. 🤕🏥 Our review of peer-reviewed studies shows that while private hospitals may cut costs, they also tend to provide lower quality care and have worse patient outcomes. 🚑💔",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee11fb9e2846a53858942e94016338e9e91bcdf261798c1b"
+}

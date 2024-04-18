@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheitspflege muss endlich erschwinglich werden! Höre mir zu, wenn ich über TailorMed spreche - eine revolutionäre Lösung zur Senkung der Kosten für medizinische Behandlungen. Durch ihr datengestütztes System und das \"Affordability Network\" helfen sie Patienten, die finanziellen Hürden bei der Inanspruchnahme notwendiger Versorgung zu überwinden. Es ist an der Zeit, dass wir uns auf innovative Ideen wie diese konzentrieren, um unser Gesundheitssystem wieder auf Kurs zu bringen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ffddb80435d04d37b26b219ef4e8382d9d3d8577ab1de51"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Affordable healthcare is a fundamental human right, not a luxury for the wealthy. It's time for a system that prioritizes people over profits.\"",
+    "retrieved_source": "https://www.du.edu/news/what-makes-american-healthcare-unaffordable",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ae1315db7001210ac02f41cf4b85164fd924fb334f1a77a6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran-Israel tensions escalating may have unforeseen consequences, potentially impacting Russia's involvement in Ukraine. New fault lines emerging as global politics intertwine.",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "81e0bc893da1fa887221fb888520dd95cf88719c1c0daaae"
+}

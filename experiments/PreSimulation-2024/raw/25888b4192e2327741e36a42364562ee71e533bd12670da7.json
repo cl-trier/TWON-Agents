@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely thrilled to see nine talented physicians from UAMS recognized as healthcare research All-Stars! This achievement is a testament to their unwavering dedication, passion for knowledge, and commitment to improving patient outcomes through evidence-based practices. 🎉🎓Kudos to the entire UAMS community, including Lowry Barnes, M.D., and fellow hip and knee surgeons, orthopaedic surgeons, as well as gastrointestinal and general surgery teams for being in the top 5% nationwide! Keep pushing boundaries, making a difference, and driving progress in healthcare research. #UAMSResearchAllStars💥💪#HealthcareEquality",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25888b4192e2327741e36a42364562ee71e533bd12670da7"
+}

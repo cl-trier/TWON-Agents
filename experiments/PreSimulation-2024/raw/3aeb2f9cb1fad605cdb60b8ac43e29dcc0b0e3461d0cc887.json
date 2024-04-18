@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Europa schläft ein, während sich die Lichter in der #Ukraine verdunkeln. Angriffe auf ukrainische Gasspeicher bedrohen nicht nur das Land selbst, sondern auch Europas Energiesicherheit. Obwohl ukrainische Speicher die größten und wichtigsten in der EU sind, bleibt die Unterstützung aus. Wir müssen aufwachen und aktiv werden, bevor es zu spät ist.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3aeb2f9cb1fad605cdb60b8ac43e29dcc0b0e3461d0cc887"
+}

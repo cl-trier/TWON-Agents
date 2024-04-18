@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue KFF-Umfrage zeigt: Hohe Gesundheitskosten belasten viele US-Bürger*innen, auch Versicherte. Health Care Debt ist für einen Großteil eine Last.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d473c7146590e2258227ca7c020a571705e9c308979745a"
+}

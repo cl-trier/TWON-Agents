@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🇺🇦💥 Two years since Russia's invasion of Ukraine, a war that has caused immense human suffering & changed Ukrainian society forever. It's time for Europe to step up and take action! 🌎💪 Join our symposium to discuss the impact on geopolitics, EU/NATO, and the Ukrainian people.",
+    "retrieved_source": "https://www.clingendael.org/event/war-europe-impact-russian-aggression-ukraine-2-years",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a8c57e34564b2a4ae7d75c33b425f30695d3141a8d04772"
+}

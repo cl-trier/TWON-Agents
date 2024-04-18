@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Volgens Zelenskiy is Bakhmut nog steeds niet bezet door Rusland, terwijl de G7 ervan beschuldigd wordt globale stabiliteit te ondergraven. Gezondheidsupdate: ontwaakt op 5u met pijn en vreemde symptomen.\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ec9a1f08db8ba0893aec16f3908c669bbbdec59ddaae9182"
+}

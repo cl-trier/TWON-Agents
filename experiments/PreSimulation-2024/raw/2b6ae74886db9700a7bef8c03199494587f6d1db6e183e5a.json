@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut is niet bezet door de Russische Federatie op dit moment. Het is belangrijk dat we de nationale soevereiniteit en territoriale integriteit van Oekraïne respecteren.\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b6ae74886db9700a7bef8c03199494587f6d1db6e183e5a"
+}

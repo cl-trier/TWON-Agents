@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Erkundung der globalen Auswirkungen von Diabetes & Weg zur Prävention 🩸👀 Ein Blick auf Typ-1 und -2, ihre Ursachen & Folgen. Keine Heilung, aber wir können vorbeugen: gesunde Ernährung, Bewegung & Gewichtskontrolle. Lass uns Verständnis fördern!",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe9f97082d0e9733f16e0dfaf02c2fa4d098dbff137dee33"
+}

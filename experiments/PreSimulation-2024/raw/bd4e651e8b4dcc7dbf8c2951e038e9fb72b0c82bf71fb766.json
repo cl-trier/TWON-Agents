@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Bewahrt unsere Energiesicherheit! Stoppt Russlands Angriffe auf Ukrainias Infrastruktur. Unkontrollierte Preissteigerungen vermeiden. Starke Verteidigung & diplomatische Lösungen fördern.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd4e651e8b4dcc7dbf8c2951e038e9fb72b0c82bf71fb766"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Everyone deserves access to quality healthcare, regardless of their financial situation. It's unacceptable that in a wealthy nation like ours, millions are forced to choose between medical bills and basic necessities. Let's make healthcare a human right, not a luxury for the privileged few.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "08f894ca72f8332ddd80c67e02af01b785a9b809f70d3b9c"
+}

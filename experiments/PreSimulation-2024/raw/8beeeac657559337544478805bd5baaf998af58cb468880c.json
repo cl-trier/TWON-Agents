@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützung für so lange, wie nötig: Deutschland steht an der Seite der Ukraine 🇩🇪🇺🇦Die Russische Aggression gegen die #Ukraine verursacht unermessliches Leid für Millionen von Menschen. Militärische Unterstützung für die Ukraine ist entscheidend, damit sie sich gegen Russlands Angriffskrieg verteidigen kann.Solange Russland grausame Angriffe auf die #Ukraine fortsetzt, müssen Konsequenzen folgen. Wir werden weiterhin an einem beispiellosen Sanktionsregime arbeiten und gemeinsam mit der Ukraine die Internationale Wiederaufbaukonferenz URC24 in Berlin vom 11.-12. Juni 2024 veranstalten.Mit dem Vermerk \"Nothilfe #Ukraine\" bei Banküberweisungen können Spenden direkt für Notfallmaßnahmen für die Menschen in der Ukraine eingesetzt werden. Gemeinsam für Frieden und Demokratie 🌍✊🇺🇦",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8beeeac657559337544478805bd5baaf998af58cb468880c"
+}

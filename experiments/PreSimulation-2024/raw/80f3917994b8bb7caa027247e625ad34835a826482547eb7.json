@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gemeinsam für erschwingliche Gesundheitsversorgung 🇺🇸 Laut aktuellen Umfragen der KFF ist die hohe Kostenbelastung im US-Gesundheitssystem nach wie vor ein großes Problem für viele Familien - auch für Versicherte. Health Care Debt belastet einen bedeutenden Anteil der Amerikaner*innen. Lassen Sie uns für eine gerechte, erschwingliche und hochwertige Gesundheitsversorgung für alle eintreten!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "80f3917994b8bb7caa027247e625ad34835a826482547eb7"
+}

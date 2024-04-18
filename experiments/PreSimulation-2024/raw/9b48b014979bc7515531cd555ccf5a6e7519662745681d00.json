@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely shocking news of the destruction of Ukraine's largest power plant in the Kyiv region. Our hearts go out to those affected by this senseless act of aggression. It's clear that Ukraine is desperately crying out for help as they run out of missiles to defend themselves. The so-called \"mainstream media\" continues to ignore this ongoing crisis, but we won't stay silent. We stand with Ukraine and her people in their fight for freedom. #StandWithUkraine #StopRussianAggression 🇺🇦",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b48b014979bc7515531cd555ccf5a6e7519662745681d00"
+}

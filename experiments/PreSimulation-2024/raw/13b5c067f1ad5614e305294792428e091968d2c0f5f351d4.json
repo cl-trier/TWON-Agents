@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nine UAMS Physicians Named Healthcare Research All-Stars! 💪🏼👨‍⚖️👩‍⚖️ Lowry Barnes, M.D. and team, you're the real MVPs! 🙌🏼💕",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "13b5c067f1ad5614e305294792428e091968d2c0f5f351d4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freudig entdecke ich die jährlichen Epidemiologischen Berichte des ECDC! Sie bieten wertvolle Einblicke in Kommunikable Diseases unter EU und EEA Beobachtung. Durch die Unterstützung von Entscheidungsträgern auf nationaler Ebene tragen sie zur Stärkung der öffentlichen Gesundheit bei. Lasst uns für eine informierte Politik eintreten!",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c4c730a7c088e0bc0f35b1471287cbb404c9970226e2e1d"
+}

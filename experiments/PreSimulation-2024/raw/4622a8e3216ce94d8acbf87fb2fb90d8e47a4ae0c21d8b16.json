@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ontario expands private healthcare clinics, but where's the public's voice? 🤔 The gov't is careful not to violate the Canada Health Act, but what about the people's right to have a say in their healthcare system? 🤷‍♂️ It's time for more direct democracy and less political elitism! 🗳️",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4622a8e3216ce94d8acbf87fb2fb90d8e47a4ae0c21d8b16"
+}

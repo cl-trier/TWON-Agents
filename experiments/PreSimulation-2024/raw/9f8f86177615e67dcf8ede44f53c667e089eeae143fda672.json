@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "#Geschlechtergesundheitslücke: Nicht nur ein Frauen*thema! Hier sind die Gründe. Schließen dieser Gesundheitslücke ermöglicht mehr Frauen am Arbeitsmarkt teilzunehmen, was der globalen Wirtschaft bis zu 1 Billion $ bringen könnte. Diese Lücke betrifft uns alle: Familien, Gemeinschaften, Arbeitsplätze, Gesellschaften. Die Forschung fordert dringend Maßnahmen zur Überwindung dieser Lücke und Geschlechtergesundheitsparität ein.",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f8f86177615e67dcf8ede44f53c667e089eeae143fda672"
+}

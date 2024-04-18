@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "PM Trudeau is set to unveil the 2024 federal budget tomorrow, and Canadians are eagerly awaiting the details. While it's unclear what exactly will be included, rumors suggest tax breaks and incentives for new grocery chains, as well as investments in AI and new tech to combat climate change. But let's not forget, these promises come with a hefty price tag. It's important to ensure that any spending is done responsibly and with a focus on long-term sustainability.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1fc3003391002bc3dedd77d9a4456ff516b665086eb6db2"
+}

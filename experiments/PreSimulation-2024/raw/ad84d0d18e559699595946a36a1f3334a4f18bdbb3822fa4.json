@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Providence St. Joseph Health System dwingt onredelijke premieverhogingen op, waardoor zorg voor leden minder betaalbaar wordt. Blue Shield is bereid te onderhandelen en leden hebben gewoonlijk toegang tot onze netwerkzorgverleners.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad84d0d18e559699595946a36a1f3334a4f18bdbb3822fa4"
+}

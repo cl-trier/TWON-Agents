@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@WashingtonPost: The article about Kyrylo Budanov is misguided. It portrays him as a symbol of defiance in Ukraine, but what he's actually doing is promoting conflict and violence. His actions are not justified, and they will only lead to more suffering for the Ukrainian people. #UkraineWar #KyryloBudanov #PeacefulSolutionThe article also misrepresents Budanov's views on President Trump. He expressed respect for Trump, but that doesn't mean he supports his policies or would want him to impose a settlement in Ukraine. We need to focus on finding peaceful solutions to conflicts, not promoting more violence and aggression.",
+    "retrieved_source": "https://www.washingtonpost.com/opinions/2024/04/17/kyrylo-budanov-ukraine-general-russia-war-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c48c60960236fbe324063f60eb3315febd75f2e1eb0fa16"
+}

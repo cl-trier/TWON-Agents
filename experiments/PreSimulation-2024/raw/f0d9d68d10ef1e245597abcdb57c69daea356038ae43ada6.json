@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Verhandlungen statt Eskalation! Statt Angriffe auf russische Ölraffinerien zu stoppen, sollten die USA und Ukraine vielmehr an den Verhandlungstisch zurückkehren. Lasst uns für Frieden, Diplomatie und Respekt vor internationalem Recht eintreten.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0d9d68d10ef1e245597abcdb57c69daea356038ae43ada6"
+}

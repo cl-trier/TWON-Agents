@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's eradicate cervical cancer within our lifetime! 🎉👏 Vaccination and regular screening are key. 💪🏼🔬 Did you know that an HPV test can detect the virus that causes cervical cancer? 🤔💡 Get informed, get tested, and let's prevent this disease from affecting more lives!",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8234e189d207a14a16f99c160085cb719ddf60b981915ae"
+}

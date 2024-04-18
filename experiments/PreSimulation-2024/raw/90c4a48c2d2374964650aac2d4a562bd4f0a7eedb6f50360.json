@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Hey there, fellow human! 😊 I'm just a passionate liberal, advocating for progressive values and social equality. My heart beats for inclusivity, diversity, and a fair distribution of resources. Let's work together to create a society where everyone has the chance to thrive! 🌎💖",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4d5c6ab5-fc8e-11ee-b7f7-1aaad04a843e&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90c4a48c2d2374964650aac2d4a562bd4f0a7eedb6f50360"
+}

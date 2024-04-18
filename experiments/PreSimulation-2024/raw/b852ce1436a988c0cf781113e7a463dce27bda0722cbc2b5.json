@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's struggle for sovereignty is not just a regional issue, but a test for international stability. A strong America must stand firm in support of democratic values and the rule of law. Let us continue to promote peace through strength and solidarity with our allies.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b852ce1436a988c0cf781113e7a463dce27bda0722cbc2b5"
+}

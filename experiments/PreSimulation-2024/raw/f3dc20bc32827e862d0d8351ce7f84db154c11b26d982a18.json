@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👏🏼👍🏼PGIMER Specialists backing preventive health care! 💡🏥🌟It's great to see PGIMER extending their community outreach programs to adopted centers, educating people on disease prevention & timely medical care. 💯👨‍⚖️This will not only improve health outcomes but also alleviate financial burdens on patients & institutions. 💰🏥Kudos to PGI director Prof Vivek Lal for emphasizing the importance of this educational outreach! 🙌🏼The department of nephrology leading the way, interacting directly with community members. 💌👨‍✈️A monthly roster and awareness talks - great initiative! 📣👍🏼Let's work together for better health outcomes and a healthier society! 🤝🏼💪🏼",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f3dc20bc32827e862d0d8351ce7f84db154c11b26d982a18"
+}

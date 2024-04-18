@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Indem wir uns auf innovative Lösungen wie TailorMed konzentrieren, können wir die medizinische Versorgung erschwinglicher machen und so allen Menschen Zugang zu hochwertiger Gesundheitsversorgung ermöglichen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d212e02a4a6d8a43b10384ef8338681ea2daa56c07ac622"
+}

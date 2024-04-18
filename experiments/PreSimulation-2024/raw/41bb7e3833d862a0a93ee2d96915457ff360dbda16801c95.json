@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Berlin's unilateral tax on gas exports is complicating efforts to reduce reliance on Russian fossil fuels. It's time for EU countries to come together and find a solution that supports our energy security and promotes investment in non-Russian supplies.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "41bb7e3833d862a0a93ee2d96915457ff360dbda16801c95"
+}

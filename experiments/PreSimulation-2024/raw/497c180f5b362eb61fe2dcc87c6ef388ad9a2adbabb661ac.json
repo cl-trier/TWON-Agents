@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Real healthcare reform means focusing on prevention and empowering individuals with more choices, not expanding government control.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "497c180f5b362eb61fe2dcc87c6ef388ad9a2adbabb661ac"
+}

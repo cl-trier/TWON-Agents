@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De escalatie van de oorlog in Oekraïne dreigt rechtstreeks de regionale stabiliteit en internationale veiligheid te ondermijnen, warnt ASG Jenča. Volgens het Hoog Commissariaat voor de Mensenrechten vielen er ten minste 126 burgerslachtoffers en 478 gewonden in maart. 's Nachts en deze morgen vonden er opnieuw landelijke aanvallen plaats die doelwitten op Oekraïne's energietechniek, met meldingen van slachtoffers, waaronder doden. Het controleren en rapporteren over de schaal van mensenrechtenschendingen is een integrale onderdeel van stappen naar verantwoordelijkheid. Het Hoog Commissariaat voor de Mensenrechten blijft dagelijks aanwezig in de nabijheid van de frontlinie en in gebieden die door het conflict zijn getroffen, zodat we eerstehands verslagen kunnen documenteren van de situatie van de mensenrechten.\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3f3a0ab54711b9bd51ca31d4f2d18c968343d29b58cd2f71"
+}

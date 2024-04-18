@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "💡 Russian attacks on Ukrainian energy infrastructure could drive up global energy prices. Middle East tensions won't help, either. Brace for potential price volatility in the energy market.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1440b7e21f2e89b0d5232d52e0ee99aede1d5d77cc22998"
+}

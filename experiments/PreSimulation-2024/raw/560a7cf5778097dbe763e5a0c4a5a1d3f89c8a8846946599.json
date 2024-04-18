@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schrikken jullie niet terug voor innovatieve oplossingen om de kosten van onze gezondheidszorg betaalbaar te houden! Luister naar de @HealthcareRethink podcast en ontdek hoe #TailorMed met hun analyticsplatform en Affordability Network de financiële last voor patiënten verlicht. Het is hoog tijd dat we onze eigen gezondheidszorgbelangen centraal stellen en innovatie willen aanmoedigen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "560a7cf5778097dbe763e5a0c4a5a1d3f89c8a8846946599"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Fully support Ukrainian FM Kuleba's call for NATO to develop a comprehensive Black Sea strategy. A stronger NATO presence would promote peace, stability, and reduce Russia's destructive influence in the region.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e32534ebbbdab53ed886f04fb8e74de650b17b8891edde1a"
+}

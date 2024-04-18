@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Wapenwedloop in Oekraïne steeds zorgwekkender, terwijl Rusland haar militaire overmacht probeert te benutten. Noodzaak van sterke Nederlandse steun aan soevereiniteit van Oekraïne.\"(Alarming arms race in Ukraine as Russia tries to exploit its military advantage. Urgent need for strong Dutch support for sovereignty of Ukraine.)",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "426b368ea552bbf1bc26000c2baa2bf3a24b1882fc1ed0c1"
+}

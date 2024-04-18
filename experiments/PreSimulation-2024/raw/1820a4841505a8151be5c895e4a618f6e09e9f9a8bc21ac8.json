@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zorgtoegankelijkheidsproblemen - een alarmteken voor #Nederland ook. Sterke gezondheidssystemen zijn essentieel voor individuele welvaart en nationale economische groei. Pragmatisch beleid & regulering nodig om eerlijke toegang tot zorg te garanderen.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1820a4841505a8151be5c895e4a618f6e09e9f9a8bc21ac8"
+}

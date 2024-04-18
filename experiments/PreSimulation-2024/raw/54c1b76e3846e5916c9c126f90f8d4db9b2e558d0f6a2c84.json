@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland dient ook te staan voor eigen belangen. Steun verlenen aan olie-infrastructuur in conflictgebieden? Onverstandig en gevaarlijk!",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "54c1b76e3846e5916c9c126f90f8d4db9b2e558d0f6a2c84"
+}

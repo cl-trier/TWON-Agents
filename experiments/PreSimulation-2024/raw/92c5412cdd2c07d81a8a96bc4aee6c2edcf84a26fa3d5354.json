@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Volksgezondheid is van cruciaal belang! Meer investeringen in Nederlands onderzoek en ontwikkeling om onze zorgkwaliteit te verbeteren.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92c5412cdd2c07d81a8a96bc4aee6c2edcf84a26fa3d5354"
+}

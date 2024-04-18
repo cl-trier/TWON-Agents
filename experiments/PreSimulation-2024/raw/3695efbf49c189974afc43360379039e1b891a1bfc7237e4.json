@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Lob für UAMS' medizinische Forschungserfolge sollten wir nicht vergessen, dass wahre Heilung durch Stärkung nationaler Identität und Souveränität beginnt, anstatt uns auf politisch korrekte Agenden zu konzentrieren.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3695efbf49c189974afc43360379039e1b891a1bfc7237e4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zware gezondheidszorgbetalingsproblemen - het is hoog tijd voor hervormingen die de kosten verlagen en toegankelijkheid verbeteren. #HealthcareAffordability #NederlandVoorDeMensen\"(Translation: \"27% of adults face serious healthcare affordability challenges - it's high time for reforms that lower costs and improve accessibility. #HealthcareAffordability #NetherlandsForThePeople\")",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3b9de82d1f829eeb7ed2949bce05480a93b74b56a1585b2"
+}

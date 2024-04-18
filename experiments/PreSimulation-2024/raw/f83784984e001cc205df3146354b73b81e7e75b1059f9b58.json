@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Call for papers! 📝 Advancing methods in healthcare research and education 🏭👨‍⚕️👩‍🎓 Join the conversation and share your insights! 💡",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f83784984e001cc205df3146354b73b81e7e75b1059f9b58"
+}

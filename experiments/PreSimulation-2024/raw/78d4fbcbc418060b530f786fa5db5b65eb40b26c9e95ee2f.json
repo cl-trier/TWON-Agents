@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Als Verfechterin von sozialer Gerechtigkeit und Fürsprecherin für einen inklusiven Zugang zu Gesundheitsversorgung freue ich mich über den Erfolg Malaysias bei der Bereitstellung erschwinglicher und zugänglicher medizinischer Hilfe, insbesondere im Hinblick auf die Betreuung von Müttern und Kindern.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78d4fbcbc418060b530f786fa5db5b65eb40b26c9e95ee2f"
+}

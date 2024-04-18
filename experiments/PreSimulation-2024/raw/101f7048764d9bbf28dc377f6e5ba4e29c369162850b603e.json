@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare should be a basic human right, not a privilege for the wealthy. Let's work towards a system where everyone can access quality care without breaking the bank.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "101f7048764d9bbf28dc377f6e5ba4e29c369162850b603e"
+}

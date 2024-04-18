@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Vraagt u zich ook af waarom zorgverleners zo snel hun tarieven willen verhogen? Het maakt gezondheidszorg onbetaalbaar voor velen. Als land moeten we harder oppakken tegen deze onredelijke eisen en voor onze burgers iets doen.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "810bac0fec41d4ef0cdd1a73eb6c7a6b555ca329e29a22a1"
+}

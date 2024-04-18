@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Kudos to Ukraine's resilience! Defying expectations, their economy thrived in 2023 even amidst war. EU & IMF acknowledge their impressive performance, securing $20 billion in financing. Ukrainian authorities' commitment to reforms despite challenges is commendable.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf2b0517d575aa2dc0046704ef088c037c13d9cb438e58ad"
+}

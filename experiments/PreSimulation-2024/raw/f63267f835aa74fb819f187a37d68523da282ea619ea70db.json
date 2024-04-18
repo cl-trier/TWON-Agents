@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO muss über den Ukraine-Konflikt hinausdenken, um in der strategischen Cyber-Konkurrenz eine führende Rolle einzunehmen. Wir brauchen mehr Zusammenarbeit mit technischen, politischen und zivilgesellschaftlichen Gemeinschaften weltweit, um die Stabilität im Cyberspace zu gewährleisten. Wir dürfen nicht zurückbleiben im Wettbewerb mit mächtigen Gegnern wie Russland und China.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f63267f835aa74fb819f187a37d68523da282ea619ea70db"
+}

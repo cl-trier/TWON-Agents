@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Did you know that cardiovascular disease is more prevalent among Asians than Americans? It's time to take action and enhance prevention and screening measures! 💡👍 Let's work together to create a healthier future for all.",
+    "retrieved_source": "https://www.cureus.com/articles/238345-cardiovascular-disease-prevalence-in-asians-versus-americans-a-review-of-genetics-diet-and-the-call-for-enhanced-prevention-and-screening",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3af6c5ffa1616a92f5b95bb3d692fcc98a46d58a39763a9c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Two Indonesia-Dutch research projects on Resilient Healthcare Systems awarded! 🎉💡👨‍⚕️🌟 Projects aim to make Indonesian healthcare system more resilient against HPAI, involving multiple stakeholders & approaches. 🤝🏼🦠📊 Let's work together to reduce economic and social costs of pandemics! 💪🏼🧵",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5b51cd8feea12f9bc83268426767aec705ed1bef06436568"
+}

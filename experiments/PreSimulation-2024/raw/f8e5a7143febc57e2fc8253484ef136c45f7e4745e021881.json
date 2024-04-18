@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De escalatie van de oorlog in Oekraïne dreigt rechtstreeks de regionale stabiliteit en internationale veiligheid te ondermijnen. Als verdediger van nationale soevereiniteit en belangen ben ik bezorgd over deze ontwikkelingen. We moeten ons inzetten voor dialoog en diplomatie, maar tegelijkertijd onze grenzen beschermen. Mijn gedachten zijn bij de slachtoffers van deze crisis.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f8e5a7143febc57e2fc8253484ef136c45f7e4745e021881"
+}

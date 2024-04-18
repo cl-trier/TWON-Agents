@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's energy sector has made significant strides in recent years, despite ongoing Russian aggression. 💡🇺🇦 From transparent markets to eliminating subsidies, Ukraine is working towards a more secure and sustainable energy future. 💪🏽🌱",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "788f8aaf3ca061243a0ff103b5ba39ca0eb07c1d6e935b06"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidarity with Ukraine! The Kremlin's silence on Iran's attack is deafening. The US must lead by example and provide aid to Ukraine, as proposed by the House bill. The G7 must act together to support Ukraine and counter Russia's aggressive actions.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "473ecf6480448fda3723ccfb7a47826850d843141ba86899"
+}

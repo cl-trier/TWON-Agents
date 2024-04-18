@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Chronic diseases affect millions worldwide. It's time to take action! #CDC's call for papers on public health research, practice and policy is a step in the right direction. Let's work together to prevent chronic diseases and promote health equity for all. Submit your manuscript today and let's make a difference!",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0046893dbede4b0e63d707e27f9cf9aea8ccb571af0bb56a"
+}

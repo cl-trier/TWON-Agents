@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚽💦 Did you know that hospital sinks can be a breeding ground for resistant bacteria? 🤢 A recent study found that 9 out of 19 pediatric patients in a hospital ward were infected with Carbapenem-resistant Enterobacteriaceae (CPE) from contaminated sinks! 🚨💀 The study highlights the importance of proper cleaning and disinfection of water-related areas in hospitals to prevent the spread of antibiotic-resistant bacteria. Let's make sure our healthcare facilities are taking this seriously!",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e10cee42fac8024f2632f6dc148e9674ed4f3c19e862a27"
+}

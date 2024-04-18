@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Join the Healthcare Fraud Prevention Partnership (HFPP) in their upcoming regional events, webinars, and working groups to collaborate on combating fraud, fostering a more secure healthcare ecosystem for all!",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "67dff0c9cae70747253b28fda761f180cf4f284b3e3e5b15"
+}

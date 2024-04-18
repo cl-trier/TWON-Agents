@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's attacks on Russian oil refineries: a necessary response to Russia's aggression or a dangerous escalation? Let's examine the evidence and consider the complexities of this situation before jumping to conclusions.\"",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7ede1d9f188ec385f864bb6d006efaca4fe97e4e3947712"
+}

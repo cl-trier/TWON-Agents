@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessante Erkenntnisse zur Energiekrise in Europa: Ein höherer Energieexposure von Unternehmen führt zu durchschnittlich 0,9 Prozentpunkten niedrigeren Aktienrenditen. Die Abhängigkeit von russischen Importen macht den Kontinent besonders anfällig. Wie können wir unsere Energiesicherheit stärken und gleichzeitig klimatische Ziele verfolgen? Lasst uns evidenzbasiert diskutieren.\"",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06006dfab6f3869be996f02094a6798028505252b0f06cf4"
+}

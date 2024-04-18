@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@GovNedLamont's recent legislation signing is a step in the wrong direction. The multitrack approach to healthcare affordability won't achieve its goals. It's more government intervention that will lead to higher costs and less efficient care.",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76c55223ee8f8c9bf04e73b8fe8c245ece5d27728b7700bb"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new study reveals the truth about hospital privatization: worse patient care! 😱👀 It's time to rethink our approach and prioritize public health over profits. 💰🏥",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c901e56338882084df93825868eae418238ff1be8f92eaf5"
+}

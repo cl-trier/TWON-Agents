@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Decades of government defunding have crippled Canada's healthcare system. It's time to seriously address the crisis and stop privatization schemes that undermine Medicare's popularity & effectiveness.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9c39c5ac5345a95fb4256d0a63ebe3817738dc64994cf4b"
+}

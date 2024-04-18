@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energie crisis door Ukraine invasie: Europa worstelt met hoge energieprijzen doorafhankelijkheid van Russische imports. US profiteert van eigen energiebronnen en lowers energiekosten. Europa moet eigen energiebeleidhervormingen implements om afhankelijkheid te reduceren en concurrentiekracht te vergroten.\"",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b871bcd516a389299ad9bae05fa634c949d4e0b0f675237"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🔬Did you know? Asians and Americans show significant differences in cardiovascular disease prevalence due to genetics, diet, and lifestyle factors. It's time for enhanced prevention strategies and screening programs tailored to diverse populations! Share your thoughts on this health disparity issue, let's learn from each other 💬",
+    "retrieved_source": "https://www.cureus.com/articles/238345-cardiovascular-disease-prevalence-in-asians-versus-americans-a-review-of-genetics-diet-and-the-call-for-enhanced-prevention-and-screening",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1eac33822693a9be175128683416e8c308bc52b6b75e5ba3"
+}

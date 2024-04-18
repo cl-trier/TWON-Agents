@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarität mit der Ukraine: Deutschland steht zur Verteidigung ihrer Freiheit und Unabhängigkeit\" 🇩🇪🇺🇦",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "611a764614803901fbbe7384c04e64a0968735a56e45de49"
+}

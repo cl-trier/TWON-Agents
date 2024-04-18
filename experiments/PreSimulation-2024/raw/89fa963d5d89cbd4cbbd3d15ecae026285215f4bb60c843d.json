@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring potential paths to #RussiaUkraine armistice 🇺🇦🇷🇺: A 'West Germany' model for Ukraine in NATO & a regional consultation mechanism. Could this be the key to fostering stability in Europe? Let's encourage constructive dialogue and consider all perspectives.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "89fa963d5d89cbd4cbbd3d15ecae026285215f4bb60c843d"
+}

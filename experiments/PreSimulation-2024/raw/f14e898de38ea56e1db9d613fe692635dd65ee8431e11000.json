@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der bevorstehenden Gas-Liefervertragsende zwischen Russland und Ukraine appelliere ich an unsere EU-Energieminister, zügig nach alternativen, nachhaltigen und gerechten Energiequellen zu suchen, um künftige Preissteigerungen einzudämmen und unsere Abhängigkeit von russischen Energieressourcen zu beenden.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f14e898de38ea56e1db9d613fe692635dd65ee8431e11000"
+}

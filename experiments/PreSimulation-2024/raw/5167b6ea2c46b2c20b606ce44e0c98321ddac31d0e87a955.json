@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite facing numerous challenges, Ukraine has made remarkable progress in strengthening its energy security & adopting European energy standards. It's a testament to their resilience and determination to create a more sustainable future.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5167b6ea2c46b2c20b606ce44e0c98321ddac31d0e87a955"
+}

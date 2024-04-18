@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uitzonderlijke prestaties van UAMS-artsenvakgroepen! Gelijkwaardigheid, rechtvaardigheid en medische voortgang zijn mogelijk dankzij hun inspanningen. Blij dat zij erkenning krijgen als top 5% onder healthcare research all-stars. Samen sterk voor een betere toekomst in de gezondheidszorg!\"",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "51220b0473e13330ae3a28de3cb54a5b23986e81d7b97255"
+}

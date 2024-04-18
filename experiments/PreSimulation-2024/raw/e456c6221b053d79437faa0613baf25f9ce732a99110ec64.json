@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Blue Shield offen für Gespräche mit Providence �ialog. Patienten haben weiterhin Netzwerkzugang 👥. Wir setzen uns ein für einen erschwinglichen & hochwertigen Gesundheitssystem 🩺",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e456c6221b053d79437faa0613baf25f9ce732a99110ec64"
+}

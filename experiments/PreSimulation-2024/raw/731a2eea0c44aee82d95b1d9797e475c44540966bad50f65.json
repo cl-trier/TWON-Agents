@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The affordability crisis in America's healthcare system is unsustainable. It's unacceptable that many Americans can't afford basic medical care, let alone preventive services. We need to apply free market principles and embrace AI-powered solutions, like PayZen, to drive down costs and increase accessibility.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "731a2eea0c44aee82d95b1d9797e475c44540966bad50f65"
+}

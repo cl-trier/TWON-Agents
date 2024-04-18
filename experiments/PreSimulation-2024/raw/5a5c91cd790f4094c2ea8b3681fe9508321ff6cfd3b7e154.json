@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Innovate for Good: Transforming healthcare technology, one app at a time! Proud of Rudra Nagalia's work to bridge the gap between healthcare needs and technical solutions.",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a5c91cd790f4094c2ea8b3681fe9508321ff6cfd3b7e154"
+}

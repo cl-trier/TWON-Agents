@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": " Tweede jaar na de invasie van Oekraïne door Rusland: hoe dwingen energiebeveiliging en decarbonisering nog steeds?",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71b71e8bd35a804eb175d52c8ffd57a1d90053ea838c3d49"
+}

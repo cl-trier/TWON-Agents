@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU ontmoeting van energieministers op maandag belangrijk om Duitse gasbelasting te bespreken; moet centrales ertoe stimuleren om van Russische naar niet-Russische gasleveranciers over te stappen en Europese energieveiligheid verder te versterken.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de02b7724978ecf38878528578555990c71a948625c8986d"
+}

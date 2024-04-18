@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 new report from @PayZen reveals the harsh reality of healthcare affordability in the US 💸🏥 36% of people have skipped or postponed medical care due to cost 😱 and 63% of uninsured individuals have gone without care for over a year 🤯 download the report now & let's work towards a solution! 💻",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "319f8287930ea1304552b78695e711a45db5051a06804d33"
+}

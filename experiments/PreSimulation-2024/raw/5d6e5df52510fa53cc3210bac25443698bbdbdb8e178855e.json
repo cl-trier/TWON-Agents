@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Statt teure und marode Staatskrankenhäuser weiter zu subventionieren, sollte die syrische Regierung lieber den Weg der Privatisierung beschreiten, um effizienten und bezahlbaren Gesundheitssektor für alle Bürger zu gewährleisten.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d6e5df52510fa53cc3210bac25443698bbdbdb8e178855e"
+}

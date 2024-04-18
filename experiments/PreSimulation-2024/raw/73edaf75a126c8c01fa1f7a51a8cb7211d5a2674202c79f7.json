@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news from Ukraine 🇺🇦 as Kremlin missiles target their gas storage sites. These facilities are crucial for Europe's energy security, yet Ukraine stands alone in their defense. We can't ignore this crisis. It's time for European leaders to step up and support Ukraine, who supplies a significant portion of our energy needs. Let's safeguard our shared values and protect the sovereignty of an embattled nation.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "73edaf75a126c8c01fa1f7a51a8cb7211d5a2674202c79f7"
+}

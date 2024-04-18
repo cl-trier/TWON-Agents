@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freut mich, den Beitrag \"Healthcare Rethink\"-Podcast von FinThrive über TailorMed's Ansatz zur Bewältigung der Herausforderung der healthcare affordability geteilt zu haben. 🚀🩺Ein Schritt weiter als nur Zahlungserleichterungen, bietet TailorMed eine umfassende Strategie durch Analytics-Plattformen & Affordability Network, das patientenzentrierte Lösungen fördert und finanzielle Belastungen von Behandlungen reduziert. 👏Hut ab vor Srulik Dvorsky und dem Team, die mit ihrer Expertise in Medizintechnovation und healthcare affordability eine Zukunft schaffen, in der qualitativ hochwertige Versorgung für jedermann zugänglich ist! 🌟#HealthcareAffordability",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28ee56eab03ed31e5b9dfbf112065fb10109b85cbecf5c90"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🤝🏻 Unterstütze konstruktiven Dialog: Health Care Costs sind eine Herausforderung für viele Amerikaner. 💰💥 KFF-Umfrage: Viele haben Probleme, ihre Rechnungen zu bezahlen und müssen schwierige Entscheidungen treffen. 🤔💭 Lass uns zusammenarbeiten, um eine Lösung zu finden!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19a83973af375d9f45e6730967645406dcb8707083c1beb0"
+}

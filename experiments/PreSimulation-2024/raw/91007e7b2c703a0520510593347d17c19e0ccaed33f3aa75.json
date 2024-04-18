@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Stoic hospital workers across Toronto verenigen zich tegen Ford's privatisering. Onze solidariteit is sterker dan ooit!",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91007e7b2c703a0520510593347d17c19e0ccaed33f3aa75"
+}

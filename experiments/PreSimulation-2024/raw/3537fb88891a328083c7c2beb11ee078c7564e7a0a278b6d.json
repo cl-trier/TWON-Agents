@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Frauen gesundheitliche Gleichstellung endlich verwirklichen! Es ist an der Zeit, die vergessenen Gesundheitsbedürfnisse von Frauen durch fortschrittliche AI-Technologien anzugehen. Keine Geschlechterdiskriminierung mehr in der Forschung!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3537fb88891a328083c7c2beb11ee078c7564e7a0a278b6d"
+}

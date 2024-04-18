@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Energiekrise zeigen europäische Unternehmen mit begrenzter Abhängigkeit von russischen Importen resilientere Aktienrenditen - ein Beweis für die Stärke freier Märkte in Krisenzeiten.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6581b0c688f153940c17d9eadc1045ee42150412eb9dac66"
+}

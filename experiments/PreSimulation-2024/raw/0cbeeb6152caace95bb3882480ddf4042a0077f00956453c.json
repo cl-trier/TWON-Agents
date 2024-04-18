@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw rapport onthult Amerika's zorgbetaalbaarheidscrisis: 49% negeert preventieve bezoeken door hoge kosten. Technologie kan helpen, maar politiek handelen is noodzakelijk.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0cbeeb6152caace95bb3882480ddf4042a0077f00956453c"
+}

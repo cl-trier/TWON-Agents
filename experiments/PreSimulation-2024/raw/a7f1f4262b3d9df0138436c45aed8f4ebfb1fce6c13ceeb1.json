@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante ontwikkeling in Canada's gezondheidszorg: Ontario breidt uit met privéklinieken voor gepland medische behandeling, terwijl ze de publieke zorg blijven financieren. Balans tussen traditionele openbare dienstverlening en innovatieve samenwerking met private sector. Belangrijk om ordehandhaving en kwaliteit te garanderen.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a7f1f4262b3d9df0138436c45aed8f4ebfb1fce6c13ceeb1"
+}

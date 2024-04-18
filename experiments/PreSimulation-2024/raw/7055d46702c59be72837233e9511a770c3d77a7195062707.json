@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Krankenversicherung schultern viele Amerikaner noch immer die Last der Gesundheitskosten - ein Diskussionsanstoß zur Lösung dieses dringenden Problems.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7055d46702c59be72837233e9511a770c3d77a7195062707"
+}

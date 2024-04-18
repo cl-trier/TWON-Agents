@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Idee, dass die Privatisierung des Gesundheitswesens die Wartezeiten verringern wird, ist ein Mythos. Ein neuer Bericht zeigt, dass dies tatsächlich nicht der Fall sein wird, sondern dass es sogar zu längeren Wartezeiten führen kann.",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a4d228bc71530c5f8283d1b95b8eb83030e3cfe173f27c6"
+}

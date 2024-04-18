@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Walmart Canada's commitment to accessible, affordable healthcare! Pharmacists diagnosing and prescribing for minor ailments is a innovative step towards breaking down barriers and strengthening our retail healthcare channel.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "efb775d1546ff5fba5fdb9dbca37b5f0a3f4ba53d28d9086"
+}

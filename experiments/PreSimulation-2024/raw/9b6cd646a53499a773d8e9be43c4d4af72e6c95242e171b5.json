@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sichere Energieversorgung ist keine Selbstverständlichkeit. Wir müssen unsere Abhängigkeit von russischem Gas reduzieren und auf Diversifizierung setzen, um Europas Energiesicherheit zu gewährleisten.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b6cd646a53499a773d8e9be43c4d4af72e6c95242e171b5"
+}

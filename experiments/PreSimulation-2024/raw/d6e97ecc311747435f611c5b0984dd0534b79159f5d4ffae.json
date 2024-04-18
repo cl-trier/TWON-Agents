@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to prioritize true healthcare reform that puts patients first and stops funneling billions into research grants for elitist institutions - let's focus on accessible, affordable care for all!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d6e97ecc311747435f611c5b0984dd0534b79159f5d4ffae"
+}

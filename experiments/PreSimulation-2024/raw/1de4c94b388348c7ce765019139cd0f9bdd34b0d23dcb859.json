@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Join the fight against chronic diseases! Submit your research, practice, and policy papers for the CDC's public health collections. Together, we can prevent and reduce the burden of chronic diseases on individuals, families, and communities.",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1de4c94b388348c7ce765019139cd0f9bdd34b0d23dcb859"
+}

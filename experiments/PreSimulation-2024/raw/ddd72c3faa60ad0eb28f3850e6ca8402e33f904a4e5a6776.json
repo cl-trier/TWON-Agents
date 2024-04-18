@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Why should Ukraine hold back when Russia continues to assault their energy sector? It's about time they defend themselves against these unprovoked attacks. The West must stand with Ukraine in this just cause. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ddd72c3faa60ad0eb28f3850e6ca8402e33f904a4e5a6776"
+}

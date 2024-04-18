@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist ein tragischer Beispiel dafür, wie die politische Korrektheit und das Versagen der Mainstream-Medien die Stabilität auf globaler Ebene beeinträchtigen. Es ist Zeit, dass wir zurück zu den altgedinglichen Werten und Prinzipien kommen, um unsere Gesellschaften zu retten.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bba164cf4d0e9abd787867f0b33b34a095525747a46b044f"
+}

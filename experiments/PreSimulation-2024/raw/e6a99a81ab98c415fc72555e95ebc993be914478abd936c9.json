@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessante Entwicklungen bei den Energiepreisen in Europa: Vor dem Hintergrund des Ukraine-Konflikts sind die vorsteuerlichen Preise für Strom und Erdgas zwar gestiegen, aber nun wieder rückläufig. Die Länder mit den teuersten und günstigsten Preisen im Überblick und die prozentualen Steigerungen seit Beginn des Konflikts im Februar 2022. Trotz der höheren Strompreise sind einige Länder wie Nordmazedonien (€10.4) und Bosnien und Herzegowina (€5.9) bei den Gaspreisen immer noch vorn. EU-Erdgaseinfuhren aus Russland machten vor dem Krieg fast 50% der Gesamtmenge aus. Objektive Fakten fördern konstruktive Diskussionen!",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6a99a81ab98c415fc72555e95ebc993be914478abd936c9"
+}

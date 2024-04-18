@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energy alert! 🚨 The EU is warning of a possible winter energy price hike due to the end of the Russia-Ukraine gas deal. 💰🔋 Germany, Italy, and Turkey could potentially swap Russian imports for other supplies, but a recent tax on gas exports from Berlin is making it complicated. 🇩🇪💸 The tax is reducing incentives for energy firms in central Europe to invest in non-Russian gas supplies. 🛑️ Germany's neighbors are now pushing to discuss the measure at the upcoming EU energy ministers meeting in Brussels on Monday. 📣🇪🇺 What are your thoughts on this? Let's discuss! 💬",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f8d3b937dfe76ad45acf93de52a3298a7ec0daedc3ea7f43"
+}

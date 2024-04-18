@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UAMSPhysicians named Healthcare Research All-Stars! 🌟👏 Lowry Barnes, M.D. and team, top 1% of hip and knee surgeons nationwide! 💫",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "10b5142155224b32f382fa2b908316e0af7db313af97fda7"
+}

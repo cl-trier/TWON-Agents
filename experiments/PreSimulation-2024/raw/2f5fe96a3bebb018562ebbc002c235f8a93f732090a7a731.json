@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Preventive healthcare is not just a smart investment, it's a lifesaver! 💡💉 India's future looks promising with more people adopting this approach. Let's keep pushing for awareness and accessibility in healthcare research.",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f5fe96a3bebb018562ebbc002c235f8a93f732090a7a731"
+}

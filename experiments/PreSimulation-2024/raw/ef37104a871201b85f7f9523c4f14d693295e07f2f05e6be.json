@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Mainstream-Medien, die uns ein anderes Bild verkaufen wollen, zeigen die ECDC's Jahresberichte klar: Wir müssen unsere nationalen Gesundheitssysteme stärken und für europaweite Kooperation bei der Überwachung von Kommunikationskrankheiten eintreten.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ef37104a871201b85f7f9523c4f14d693295e07f2f05e6be"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study reveals 27% of adults face severe healthcare affordability issues, with many more delaying care due to cost. It's time for policymakers to take action and address the growing healthcare financial strain on US families.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "084c0b051728defcf05305ec351e28eb27d38f6092096697"
+}

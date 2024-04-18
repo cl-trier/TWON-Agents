@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg begint bij preventie! In plaats van altijd te reageren, moet Nederland zich richten op het voorkomen van ziektes. Meer investeringen in gezond leefstijlen en screenings zijn noodzakelijk om onze soevereiniteit over de gezondheidszorg te behouden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e1956916cd2c0e2eca5c4ac3c66d3efb99aaf914104f4ca4"
+}

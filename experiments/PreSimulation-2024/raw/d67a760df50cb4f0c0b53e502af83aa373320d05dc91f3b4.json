@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Huge congrats to Dr. Smith for receiving the Medal of Excellence from the AAKP! Your dedication to disease prevention and patient education is truly inspiring. Keep up the great work!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d67a760df50cb4f0c0b53e502af83aa373320d05dc91f3b4"
+}

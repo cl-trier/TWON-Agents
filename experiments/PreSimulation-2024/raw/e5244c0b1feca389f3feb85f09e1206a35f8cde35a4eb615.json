@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als voorstander van sociale rechtvaardigheid ben ik diep bezorgd over de Europese energiecrisis, aangemoedigd om naar diversificatie te streven en duurzame oplossingen te ondersteunen.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e5244c0b1feca389f3feb85f09e1206a35f8cde35a4eb615"
+}

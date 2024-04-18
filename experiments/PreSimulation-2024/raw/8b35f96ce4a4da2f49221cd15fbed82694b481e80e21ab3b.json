@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unreasonable rate increases? That's not how we do healthcare. At Blue Shield, we believe in fairness and affordability for all. We're open to discussions with Providence St. Joseph Health System, but our priority is our members' access to quality care.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b35f96ce4a4da2f49221cd15fbed82694b481e80e21ab3b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking revelations in the latest PayZen Report! 36% of Americans have skipped necessary medical care due to unaffordable costs. Healthcare should be a basic human right, not a luxury for the wealthy. It's time for us to demand affordable healthcare solutions that prioritize people over profits.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1b0d13130a31703aecee05a6293615e2567cab5ad394a675"
+}

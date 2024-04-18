@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Unreasonable rate increases? Let's talk turkey. As a neutral observer, I think it's time for Providence St. Joseph Health System and Blue Shield to put their cards on the table and work towards a compromise that won't break the bank for California residents. Who's with me?\"",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6dd361a9cd2dab2520c55a90837275946d6da759d6ea50c1"
+}

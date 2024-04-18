@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sorge um Energieversorgung nach Angriffen auf ukrainische Infrastruktur. Laut dem ehemaligen Chef der ukrainischen Staatsölgesellschaft könnte ein anhaltender Konflikt zu drastischen Preissteigerungen führen. Die Integrität unserer Energiesysteme betrifft uns alle - lasst uns auf verlässliche Informationen achten und einen konstruktiven Dialog fördern.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "458ba1b5c14cb065fa6b9525142cb9bcafa6da122b4a6d3e"
+}

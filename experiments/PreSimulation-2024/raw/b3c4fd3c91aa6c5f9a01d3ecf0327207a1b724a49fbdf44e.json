@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten. Voormalig oilbaas waarschuwt voor prijsstijgingen na aanval op Oekraïense infrastructuur.\"\"If European energy markets start to believe Russians are winning this war, it will have a dramatic negative effect on energy prices.\" - Andriy Kobolyev, voormalig CEO van Ukrnafta.De destructie van Oekraïense energie-infrastructuur door Rusland zal onvermijdelijk leiden tot een scherpe prijsstijging van energie in Europa. Dit is de waarschuwing van Andriy Kobolyev, voormalig hoofdexecutive van Ukrnafta, het staatsbedrijf voor aardolie van Oekraïne. Hij wijst erop dat de recenten aanval op de gasopslagfaciliteiten in het westen van Oekraïne een significant jump in Europese gasprijzen veroorzaakte, omdat deze faciliteiten nog steeds operationeel zijn en nog steeds worden gebruikt door Europese gashandelaren. Kobolyev benadrukt dat de schade aan de energie-infrastructuur van Oekraïne veel uitgebreider is dan de Russische aanvallen in de winter van 2022-23.Het is cruciaal dat Oekraïne meer wapens krijgt om haar energie-infrastructuur te beschermen. Als de Russen deze oorlog winnen, zal er geen Oekraïense economie overblijven die we kunnen helpen heropbouwen. De Europese Unie moet actie ondernemen en Oekraïnehelpen bij de verdediging van haar grondstoffen en energie-infrastructuur.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b3c4fd3c91aa6c5f9a01d3ecf0327207a1b724a49fbdf44e"
+}

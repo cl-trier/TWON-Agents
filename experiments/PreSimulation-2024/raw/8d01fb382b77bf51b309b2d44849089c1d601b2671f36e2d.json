@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sick of skyrocketing healthcare costs? It's time to prioritize affordability and patient choice over government control and insurance bureaucracy!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d01fb382b77bf51b309b2d44849089c1d601b2671f36e2d"
+}

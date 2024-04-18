@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan dat surgische infecties na operaties vaker veroorzaakt worden door bacteriën op onze eigen huid dan in ziekenhuizen. Het is tijd om te beseffen dat we onze nationale gezondheidszorg moeten beschermen tegen externe bedreigingen én de nadruk te leggen op hygiëne en preventie om infecties al vanaf het begin tegen te gaan. Onze soevereiniteit, ook in de gezondheidszorg, is onontbeerlijk!\"",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b45b7aeea5bb8a2c38eb098a49d2b3f15eac76ab5c5ad46"
+}

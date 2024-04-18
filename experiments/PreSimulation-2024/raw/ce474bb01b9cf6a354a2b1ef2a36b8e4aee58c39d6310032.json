@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The privatization of healthcare in Argentina is a dangerous trend that could exacerbate health inequality and make essential services unaffordable for the majority of the population.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce474bb01b9cf6a354a2b1ef2a36b8e4aee58c39d6310032"
+}

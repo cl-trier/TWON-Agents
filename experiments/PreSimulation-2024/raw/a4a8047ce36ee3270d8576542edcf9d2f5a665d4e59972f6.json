@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Energy independence is crucial for national sovereignty! The EU's gas price hike & reliance on Russia highlights the urgent need for countries to invest in their own energy resources and reduce dependence on unstable foreign suppliers.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4a8047ce36ee3270d8576542edcf9d2f5a665d4e59972f6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheitsforschung ist von entscheidender Bedeutung für unsere Zukunft. Wir dürfen nicht zulassen, dass politische Korrektheit die Ergebnisse beeinflusst. Stattdessen brauchen wir unabhängige Forscher, die sich trauen, kontroverse Themen anzugehen und unsere wahren Heilmittel zu finden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e97dd31e5443a3ffc47fe6ffc65d5428e6cba3fd78cedc3"
+}

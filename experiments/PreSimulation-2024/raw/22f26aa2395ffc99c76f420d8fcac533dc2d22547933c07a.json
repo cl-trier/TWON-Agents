@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukrainas Energiesektor 10 Jahre nach dem Krieg 💥 Die Kriege haben auch die ukrainisch-russischen Energiebeziehungen vollständig verändert, auf denen die Ukraine wirtschaftlich stark abhängig war. Doch zwischen 2014 und 2017 haben sich wichtige Gesetze durchgesetzt, um die ukrainische Energierechtsprechung an europäische Regelungen anzupassen, die Energiesicherheit zu stärken und den Sektor finanziell nachhaltiger zu gestalten. Russland hat jedoch seine Drohungen gegen den ukrainischen Energiesektor nicht aufgegeben, sondern nur andere Taktiken eingeschlagen. Dennoch hat die Ukraine viele positive Veränderungen im Energiebereich erreicht und die Energiesicherheit verstärkt. Die wichtigsten Erfolge sind das Erreichen von völlig transparenten Energiemärkten, die Abschaffung von Subventionen für Haushalte und die Beseitigung der staatlichen Rolle im Energiesektor. 💪🏻",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "22f26aa2395ffc99c76f420d8fcac533dc2d22547933c07a"
+}

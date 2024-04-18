@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Frieden und Gerechtigkeit: Lasst uns endlich die Unterstützungspakete für die Ukraine freigeben, um das Leid zu lindern und den russischen Aggressionen entgegenzutreten.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "62b0c85c5841ce050bdf97ba1d7231d6be1cdb6c0dfc4c82"
+}

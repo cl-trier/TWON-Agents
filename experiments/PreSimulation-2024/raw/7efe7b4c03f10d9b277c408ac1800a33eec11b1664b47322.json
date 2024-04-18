@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut standhoudt tegen Russische bezetting, terwijl G7-top accusaties van Russia krijgt. Pride over onze soevereiniteit en steun aan onze bondgenoten!\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7efe7b4c03f10d9b277c408ac1800a33eec11b1664b47322"
+}

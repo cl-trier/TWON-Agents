@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schrikken jullie terug voor de klinische rekening? 't Is tijd om patiënten financieel te ondersteunen en zo hun toegang tot zorg te vergemakkelijken. Luister naar Healthcare Rethink podcast van FinThrive over TailorMed's benadering. Meer dan alleen hulp bij betaling, het gaat om een strategie voor betaalbare zorg.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c9b599b91529a4fc9aa9034e6c92ad6e8e1a85e8576e01b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine UAMS physicians named Healthcare Research All-Stars! It's great to see our medical community leading the way in cutting-edge research and innovation. Arkansas should be proud to have such a prestigious institution making a difference in people's lives.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d598add5d20eda9ee1d75ec46071e96c7a86589b757a13c7"
+}

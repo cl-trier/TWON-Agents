@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Licht von Jolys Warnung vor einem bröckelnden Weltfrieden erkennen wir die zunehmende Bedeutung von Kanadas Rolle in der Aufrechterhaltung internationaler Stabilität - ein Thema, das uns alle angeht.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77609881c469c25bed5ec6eae18a9821b84ade4a3b18b2dd"
+}

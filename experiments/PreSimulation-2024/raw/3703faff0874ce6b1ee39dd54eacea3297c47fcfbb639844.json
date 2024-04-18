@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukrainian President Zelenskiy asserts Bakhmut remains under Ukrainian control, while Russia's foreign ministry accuses G7 of destabilizing global stability at the Hiroshima summit.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3703faff0874ce6b1ee39dd54eacea3297c47fcfbb639844"
+}

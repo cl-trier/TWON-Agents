@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg voor vrouwen in de #AI-tijdperk: eindelijk focus op brede gezondheidsaspecten en unieke behoeften van vrouwen, maar leten we op de uitdagingen en blinde vlekken in onderzoek!\"(Vrije vertaling: \"Gezondheidszorg voor vrouwen in de AI-tijdperk: eindelijk focus op brede gezondheidsaspecten en unieke behoeften van vrouwen, maar leten we op de uitdagingen en blinde vlekken in onderzoek!\")",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "660d75bd63b4d3f8101ca73d7b1852dfc85bcc04554cefcb"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The ongoing escalation of the Ukraine war is a stark reminder of the devastating consequences of conflict. The loss of innocent lives, the destruction of infrastructure, and the displacement of people are all dire consequences of this senseless violence. It's crucial that we continue to monitor and report on human rights violations to ensure accountability. The international community must take action to address this threat to regional stability and global security.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "09854e5def3ded8e251916e0329c2d135095358236e17f57"
+}

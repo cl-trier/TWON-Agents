@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unreasonable rate increases? Time for a change! As a passionate liberal, I believe it's the government's responsibility to ensure affordable healthcare for all. Blue Shield, you're not doing your part. Let's work together to create a sustainable solution that puts people over profits.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3b9175c84257fc452adc8d021ff89fbf6f361c6b9bce1193"
+}

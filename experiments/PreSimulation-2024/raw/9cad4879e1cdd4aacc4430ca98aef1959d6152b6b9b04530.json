@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news from Ukraine as Kremlin missiles target gas storage sites, threatening Europe's energy security. Despite Ukraine's crucial role in storing 28% of EU's gas needs, the nation stands alone in its defense. As Ukraine's energy infrastructure hangs by a thread, we must urgently consider the consequences of continued attacks and show solidarity with those facing this dire situation.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9cad4879e1cdd4aacc4430ca98aef1959d6152b6b9b04530"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to Dr. Smith, a dedicated physician honored for his commitment to disease prevention & infection control in kidney care by the esteemed American Association of Kidney Patients.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "79a17ca5497917d01e6fdfc63e31d010f0749be566bc3267"
+}

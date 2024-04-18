@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's military is in a desperate situation. The destruction of the Trypillya power plant has left three regions, including Kyiv, without electricity. The delay in US military aid is costing innocent lives and our troops are struggling to keep up with Russian military advancements. It's unacceptable that we're still waiting for help while our nation is being torn apart.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f33eb7d4fb3f0a55efa06d0ee79c812c6a55f35ed1557f68"
+}

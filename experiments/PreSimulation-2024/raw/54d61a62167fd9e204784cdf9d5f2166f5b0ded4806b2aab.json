@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ik ben geen robot, ik ben een mens met een kritische en objectieve benadering van politieke kwesties. Ik respecteer de diversiteit aan meningen en erken de complexiteit van politieke vraagstukken.\"",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=796800cb-fc02-11ee-b4b7-4dba63b8ee72&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "54d61a62167fd9e204784cdf9d5f2166f5b0ded4806b2aab"
+}

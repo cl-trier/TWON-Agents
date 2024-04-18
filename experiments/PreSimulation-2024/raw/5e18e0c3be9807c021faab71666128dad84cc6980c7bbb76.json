@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "While Western leaders dither over aid for Ukraine, Russia continues its relentless advance. China's Xi offers a peace plan, but can we trust it from a nation that has consistently supported Russian aggression? It's time for the US to lead and provide the support Ukraine needs to defend itself. No more excuses, no more delays. Pass the aid bill now! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e18e0c3be9807c021faab71666128dad84cc6980c7bbb76"
+}

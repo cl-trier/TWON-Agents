@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Statt immer mehr in ein überteuertes und ineffizientes Gesundheitssystem zu investieren, sollten wir den Fokus auf Prävention legen: gesunde Ernährung, Sport und bewusste Lebensführung für alle!\" (@alt_right_defender)",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba31d8c2a2788445cc63bcefb6f2f4ff3354438190541da0"
+}

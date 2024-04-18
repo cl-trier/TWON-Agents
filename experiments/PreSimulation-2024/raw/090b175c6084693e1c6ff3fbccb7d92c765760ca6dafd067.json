@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unsere #UAMS Ärzte, die unter den Top 1% der Hüft- und Kniechirurgen landen! Ihre herausragende Forschungsarbeit beweist, dass Exzellenz in der Patientenversorgung und Forschung Hand in Hand gehen können.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "090b175c6084693e1c6ff3fbccb7d92c765760ca6dafd067"
+}

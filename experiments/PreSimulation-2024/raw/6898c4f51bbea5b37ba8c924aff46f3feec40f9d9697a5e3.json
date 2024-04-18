@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "New study finds that many surgical site infections after spinal surgery are caused by microbes already on the patient's skin, highlighting the importance of proper skin preparation and hygiene in preventing infections.",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6898c4f51bbea5b37ba8c924aff46f3feec40f9d9697a5e3"
+}

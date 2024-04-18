@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦🌎 Die Ukraine ist ein wichtiger Faktor für die internationale Stabilität. Wir müssen uns solidarisieren und unterstützen, um das Land zu stärken und seine Unabhängigkeit zu sichern.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d972559c9f5067c3dfad607d946f54fe23a9991915f8030"
+}

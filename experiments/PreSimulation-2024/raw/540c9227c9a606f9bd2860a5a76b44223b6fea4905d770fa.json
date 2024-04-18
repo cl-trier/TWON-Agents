@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorge um #AlbertaHealthServices Restrukturierung: Angst vor Privatisierung wächst - doch wir sollten stolz darauf sein, unser Gesundheitssystem zu schützen & zu stärken, anstatt es profitorientierten Unternehmen zu überlassen.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "540c9227c9a606f9bd2860a5a76b44223b6fea4905d770fa"
+}

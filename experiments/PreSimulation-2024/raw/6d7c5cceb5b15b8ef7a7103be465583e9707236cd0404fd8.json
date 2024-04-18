@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist ein wichtiger Faktor für die internationale Stabilität. Wir müssen uns bemühen, eine politische Lösung zu finden, die den Interessen aller Beteiligten Rechnung trägt. Es ist Zeit, dass wir uns von short-sighted policies verabschieden und uns auf langfristige, stabilisierende Lösungen konzentrieren.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d7c5cceb5b15b8ef7a7103be465583e9707236cd0404fd8"
+}

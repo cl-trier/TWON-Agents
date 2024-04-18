@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just read a new review on hospital privatization and its impact on patient care. While it may lead to cost savings, the research shows a clear correlation with worse quality care and poorer patient outcomes. It's time we start prioritizing the health of our citizens over corporate profits.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95a6709d291425597b225197af74b47b2aaf4d9468e87ad9"
+}

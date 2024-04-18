@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "#HealthcareAffordability is not just about payment assistance, it's about creating a comprehensive strategy that puts patients first. TailorMed's approach is leading the way in transforming patient experiences by reducing financial toxicity.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "efa127b31aea8accf6ebef60ec080e57cabeb2e3edfc41e0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Unacceptable! The Ukraine war's escalation threatens regional stability and international security. It's time for the global community to take action and put an end to the bloodshed.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "48e62b04396760c8ae64c73623e2d2263bf754748c58e059"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's attacks on Ukrainian infrastructure threaten energy security & hike prices, highlighting the importance of diversifying our energy sources and reducing dependence on volatile regions.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "abd3ebaa21b89153a1e1ba228a67cf7a851a2b470926473b"
+}

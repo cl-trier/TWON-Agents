@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🚨New Report: 36% of Americans Skipped Medical Care Due to Cost!💸🤕 The PayZen Healthcare Affordability Report reveals the harsh reality of our healthcare system. 75% worry about unexpected medical bills & 63% of uninsured individuals delay care for over a year due to costs! 🤔It's time for change!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2ed1f2bb8abd5714020758aeb82c399aae8ca0de661472a4"
+}

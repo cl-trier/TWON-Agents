@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Two years since Russia's invasion of Ukraine? Time for some real talk. Ukraine must be defended, period. The West needs to step up and provide more aid, not just empty words.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ed281fd8b95e88cf381efa32782110790043e69563a6bcb"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking reports of 'double-tap' strikes in Ukraine, targeting both civilians and their rescuers. Let's promote peace, not violence. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bb2bc47858812c86e51276847d16db28ccfa102338c516ac"
+}

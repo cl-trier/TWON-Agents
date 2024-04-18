@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheitsversorgung ist ein Grundrecht, doch staatliche Eingriffe sollten maßvoll sein. Stattdessen fördern wir Forschungsfreiheit für innovative Lösungen und bezahlbare Medizin.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d98ea51ba6fdd036ae1f42b3552519cf2d189c0a76d71651"
+}

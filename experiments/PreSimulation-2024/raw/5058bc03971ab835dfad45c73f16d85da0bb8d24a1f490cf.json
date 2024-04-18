@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Elkeen verdient toegang tot kwalitatieve gezondheidszorg als basisrecht! Steun ook jij voor meer investering in onafhankelijke onderzoek & ongelijkheid tegengaan in de gezondheidssector.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5058bc03971ab835dfad45c73f16d85da0bb8d24a1f490cf"
+}

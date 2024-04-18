@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UIH_Quality: \"Show me the money\" - how to market infection prevention and antimicrobial stewardship to the C-suite? Top-level executives need to understand the value of these programs in terms of patient safety and financial sustainability. Let's work together to create a business plan that showcases the benefits and secures the necessary resources.",
+    "retrieved_source": "https://www.infectioncontroltoday.com/view/show-me-money-marketing-infection-prevention-antimicrobial-stewardship-c-suite",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d217db37afb92e18653e8f76710b316a50c776333ee91e46"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Ukraine-Russia conflict is a prime example of how political correctness and globalist interests are sacrificing national sovereignty and energy security. The Biden Administration's reluctance to support Ukraine's attacks on Russian refineries, despite their legitimacy as military targets, shows how the global elite prioritize their own agendas over the needs of individual nations. It's time for a return to the principles of nationalism and self-determination, rather than ceding control to unelected bureaucrats and multinational corporations. Let's stand with Ukraine in defending its energy interests and rejecting the tyranny of globalism.\"",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d11c19c8283074d20427a50f281623664fbdabdabe7270b"
+}

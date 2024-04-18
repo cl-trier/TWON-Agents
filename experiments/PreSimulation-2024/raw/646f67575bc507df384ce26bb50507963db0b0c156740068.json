@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The global stability that we once knew is crumbling before our eyes. The tectonic plates of the world order are shifting, and the peace that we Canadians fought for is under threat. It's time for us to stand up and defend our values, to ensure that our voices are heard in this new era of uncertainty.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "646f67575bc507df384ce26bb50507963db0b0c156740068"
+}

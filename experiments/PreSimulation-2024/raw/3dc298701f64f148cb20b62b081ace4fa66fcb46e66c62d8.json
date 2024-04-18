@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's time for us to stand up and support Ukraine in their fight against Russian aggression. The new mobilization law is a step in the right direction, but we must do more. Let's work together to provide aid and resources to help Ukraine protect its people and territorial integrity.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3dc298701f64f148cb20b62b081ace4fa66fcb46e66c62d8"
+}

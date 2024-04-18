@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare costs continue to burden US families, even for those with insurance. High deductibles, copays, and coinsurance add up, leading to medical debt for many. It's time for policymakers to take action and address the root causes of high healthcare costs.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d60f8cbfaa5ffd29622917a1d59fc38a06815ccf32db5fd"
+}

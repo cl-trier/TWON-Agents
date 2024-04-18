@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is vital for maintaining international peace & security. We must continue to support Ukraine as they defend their sovereignty & democracy. A strong, stable Ukraine benefits us all. Let's uphold our commitment to freedom and stand with Ukraine 🇺🇦",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f397f6ce0e0755bf7166be5cad0a64df2e302a8dd578a9a"
+}

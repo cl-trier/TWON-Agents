@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Unacceptable that 27% of adults face healthcare affordability challenges! It's time for policymakers to take action and ensure everyone can access quality, affordable healthcare.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a357f9df03433652ca4606e91b02d62aac1ac68cdb7c0568"
+}

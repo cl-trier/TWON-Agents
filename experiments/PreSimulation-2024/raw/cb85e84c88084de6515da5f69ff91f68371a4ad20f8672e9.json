@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@HealthCrisisCanada: \"The growing crisis in Canada's healthcare system is concerning for all of us. It's important to recognize that the root cause of this crisis is systematic defunding by successive governments. Rather than resorting to privatization schemes, we need to work together to ensure adequate funding and support for our public healthcare system. Let's prioritize the needs of patients over profits.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb85e84c88084de6515da5f69ff91f68371a4ad20f8672e9"
+}

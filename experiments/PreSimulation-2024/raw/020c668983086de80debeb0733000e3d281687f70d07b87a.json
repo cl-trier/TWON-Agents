@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🎓🏫👥 Join us at the Higher Education & Healthcare Research Compliance Conference 2024! Our team of experts will discuss current rules for educational institutions and what's to come next in the world of college athletics.",
+    "retrieved_source": "https://www.troutman.com/insights/higher-education-and-healthcare-research-compliance-conference-2024.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "020c668983086de80debeb0733000e3d281687f70d07b87a"
+}

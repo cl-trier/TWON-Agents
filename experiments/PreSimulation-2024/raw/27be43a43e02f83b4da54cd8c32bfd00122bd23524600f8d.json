@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Let's not forget the potential impact of rising energy prices on marginalized communities as the Russia-Ukraine gas deal ends. We must prioritize affordable & sustainable energy solutions for all, ensuring no one is left behind in the transition.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "27be43a43e02f83b4da54cd8c32bfd00122bd23524600f8d"
+}

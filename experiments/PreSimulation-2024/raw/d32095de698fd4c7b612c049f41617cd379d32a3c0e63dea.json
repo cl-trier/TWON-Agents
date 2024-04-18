@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming new report by PayZen reveals 36% of Americans are skipping medical care due to inability to pay. With 75% worried about affording unexpected bills, it's clear our healthcare system is in crisis. We must prioritize reforms that promote competition, lower costs, and expand access to quality care. Fiscal responsibility & free-market principles can help solve this affordability crisis.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d32095de698fd4c7b612c049f41617cd379d32a3c0e63dea"
+}

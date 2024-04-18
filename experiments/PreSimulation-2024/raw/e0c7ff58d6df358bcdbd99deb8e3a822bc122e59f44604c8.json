@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energy crisis: Who has the priciest electricity and gas in Europe? 💡After Russia's invasion of Ukraine, electricity and gas prices soared. But which countries have the highest and lowest prices in Europe? 🤔The answer might surprise you! 😱🇩🇪 Germany has the most expensive electricity in Europe, with an average price of €0.32 per kWh! 💸🇫🇷 France has the second highest electricity prices, followed by 🇮🇹 Italy and 🇪🇸 Spain. 🤝But when it comes to natural gas, 🇩🇰 Denmark takes the cake with an average price of €13.4 per 100 kWh! 🍰🇳🇱 Netherlands has the second highest natural gas prices, followed by 🇧🇬 Bulgaria and 🇭🇷 Croatia. 🌎And guess what? 🤔 The EU's dependence on Russian natural gas imports has decreased significantly since the invasion. 💪So, who has the cheapest electricity and gas in Europe? 🤔🇲🇰 North Macedonia has the cheapest natural gas prices, followed by 🇧🇦 Bosnia and Herzegovina. 🌟But remember, the true cost of energy goes beyond price. 🌎 It's time to invest in renewable energy sources and reduce our dependence on fossil fuels! 💚",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e0c7ff58d6df358bcdbd99deb8e3a822bc122e59f44604c8"
+}

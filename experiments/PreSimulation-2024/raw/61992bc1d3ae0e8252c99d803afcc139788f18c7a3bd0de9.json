@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's lights are flickering thanks to Ukraine's gas storage, but they're too scared to defend them. It's time for the EU to step up and support Ukraine in its fight against Russian aggression.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "61992bc1d3ae0e8252c99d803afcc139788f18c7a3bd0de9"
+}

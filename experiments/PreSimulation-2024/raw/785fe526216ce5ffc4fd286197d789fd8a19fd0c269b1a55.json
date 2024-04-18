@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Let's not ignore Henry Kissinger's strategic genius & accomplishments in foreign policy due to ideological bias; we need his pragmatic realism now more than ever as Washington grapples with complex rivalries and overreaches in the Middle East.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "785fe526216ce5ffc4fd286197d789fd8a19fd0c269b1a55"
+}

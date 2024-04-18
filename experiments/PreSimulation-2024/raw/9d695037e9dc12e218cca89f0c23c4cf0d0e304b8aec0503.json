@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! California's new Office of Health Care Affordability is working to control price increases and make healthcare more affordable for all. It's time to prioritize the wellbeing of our residents over profits. Let's support this crucial initiative to ease the burden of medical debt and ensure accessible, high-quality care for everyone.",
+    "retrieved_source": "https://calmatters.org/health/2024/02/health-care-costs-cap/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d695037e9dc12e218cca89f0c23c4cf0d0e304b8aec0503"
+}

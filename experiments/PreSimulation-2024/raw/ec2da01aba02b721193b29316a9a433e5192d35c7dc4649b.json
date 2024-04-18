@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Moscow's redeployment of Wagner troops from Africa to Ukraine is concerning. My thoughts are with those affected by the conflict. We must support Ukraine's defense and uphold sovereignty.",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ec2da01aba02b721193b29316a9a433e5192d35c7dc4649b"
+}

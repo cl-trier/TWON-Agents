@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO must recognize the importance of strategic cyber competition in peacetime, not just during conflicts like the war in Ukraine. Individual allies' activities impact this competition, but NATO itself has limited reach into technical, policy & civil society communities that maintain cyberspace as a common good. We must work to counter Russia & China's political and technological challenges to ensure domain stability in cyberspace.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0df6bdaa0bb852b264de0f8af832418f8add0d7d18d14642"
+}

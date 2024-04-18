@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite mainstream narratives, it's great to see innovative platforms like Avant-garde Health recognizing the exceptional work of 9 UAMS physicians as Healthcare Research All-Stars, highlighting the importance of data-driven research in orthopaedic and general surgery!",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1856bda333bf6ed0fbbf40efbc24b77f0b5b34c2e53e6d5e"
+}

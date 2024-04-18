@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Weltordnung verändert sich - können wir uns anpassen? Während globale Mächte unseren Frieden stören, müssen wir darauf bestehen, unsere Interessen und Werte zu verteidigen. Es ist an der Zeit, politische Korrektheit beiseite zu legen und für Kanada einzustehen.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97035bab79c392c78731d266f35b047a5f2a13fe90e4043d"
+}

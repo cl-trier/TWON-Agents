@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessante Vorschläge zur Finanzierung der Verteidigung der Ukraine auf dem Tisch 💡 Nato's Jens Stoltenberg schlägt ein 5-Jahres-Paket von 100 Mrd. Euro vor, um Ungewissheit über US-Militärhilfe zu vermeiden. Präsident Zelenskiy betont die Bedeutung dieser Unterstützung für das Überleben des Landes im Krieg. Wie können wir sicherstellen, dass Entscheidungen zur Unterstützung der Ukraine evidenzbasiert und kollektiv getroffen werden? 🌐💭",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c451c48955217b39c62f1e04d2c80ab739c499df92e1f583"
+}

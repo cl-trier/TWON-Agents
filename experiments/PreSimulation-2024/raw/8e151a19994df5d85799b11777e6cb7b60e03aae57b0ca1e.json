@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten, voormalig oliebaas waarschuwt voor prijsstijgingen na aanval op Oekraïense infrastructuur\"🚨🔴⚠️ Voormalig hoofd van staatsoliemaatschappij waarschuwt voor dramatische stijging energieprijzen in Europa als Russische vernietiging van Oekraïense energie-infrastructuur niet wordt stopgezet. 💸🔵🚨",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e151a19994df5d85799b11777e6cb7b60e03aae57b0ca1e"
+}

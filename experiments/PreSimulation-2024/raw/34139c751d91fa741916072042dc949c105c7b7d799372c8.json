@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks de blijvende populariteit van #Medicare bij Canadese werknemers, profiteren corporaties als Telus van de crisis in de zorgsector door toenemende privatisering. Governementen moeten echte oplossingen zoeken om de chronische onderfinanciering aan te pakken i.p.v. meer privaat beheer.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34139c751d91fa741916072042dc949c105c7b7d799372c8"
+}

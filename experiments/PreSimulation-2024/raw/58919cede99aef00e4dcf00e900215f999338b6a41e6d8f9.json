@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezien studies die verband leggen tussen privézorg en slechtere zorgkwaliteit, is er reden voor bezorgdheid over plannen om de Alberta Health Services te herstructurener. Alle Albertanen verdienen toegang tot hoogwaardige en gelijke zorg.\"[Translation: Given studies linking private care with lower quality of care, there is reason for concern about plans to restructure Alberta Health Services. All Albertans deserve access to high-quality and equitable care.]",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58919cede99aef00e4dcf00e900215f999338b6a41e6d8f9"
+}

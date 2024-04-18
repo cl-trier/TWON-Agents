@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "57 miljoen dodelijke measles-uitbraken voorkomen dankzij mondiale inspanningen! 🚨💉 Routine vaccinatie en massavaccinatiecampagnes zijn cruciaal voor de wereldwijde terugdrinking van measles. 🌎👏 Samen kunnen we dit!",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "67e6a1677cfe2c2683265e87a54a1e6331eac26cdc0bdd50"
+}

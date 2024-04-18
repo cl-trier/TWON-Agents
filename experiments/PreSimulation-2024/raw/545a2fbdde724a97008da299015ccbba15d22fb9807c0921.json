@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% der Erwachsenen kämpfen mit healthcare affordability. Es ist höchste Zeit, für Wahlfreiheit und Wettbewerb im Gesundheitssektor zu sorgen. Starke Märkte bedeuten erschwinglichere Optionen für alle.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "545a2fbdde724a97008da299015ccbba15d22fb9807c0921"
+}

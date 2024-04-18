@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Trudeau gaat donderdag budget 2024 presenteren. Hebben de laatste weken gespoken over belastingvoordelen en andere incitaments voor nieuwe supermarkten in Canada. Mac Sweeney zegt dat het onduidelijk is of dat er ook geld zal zijn voor AI en nieuwe tech om klimaatverandering te bestrijden, bijv. wilde branden. Er zijn veel beloften, maar de kostenaars kunnen hoog oplopen.",
+    "retrieved_source": "https://vancouver.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df16f5db686738d1ea03c2b8abf6bebaaf57ac94457a2f3b"
+}

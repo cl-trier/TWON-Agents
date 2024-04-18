@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die neue Studie zu Amerikas Gesundheitswesen-Affordabilitätskrise zeigt alarmierende Muster in der Art und Weise, wie US-Bürger auf medizinische Versorgung zugreifen.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "621a0f5134e0c2a2949660bde9788b0ca9f040561e0ee483"
+}

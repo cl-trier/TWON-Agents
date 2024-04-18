@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🤔 Bakhmut nicht von Russland besetzt? 🤷‍♂️ Zelenskiy widerspricht Wagner-Söldnern und betont, dass die Stadt noch nicht gefallen ist. 💥 G7-Gipfel in Hiroshima: Russland beschuldigt die USA und ihre Verbündeten, die globale Stabilität zu untergraben. 🌎 Was ist wirklich los?",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9a957871376fb967c9874093fc33a570ef3a7f61c8f4ba0"
+}

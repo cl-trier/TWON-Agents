@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The current situation in Ukraine highlights the need for a return to traditional values and national sovereignty, rather than bowing to the whims of globalism and its destructive impact on international stability.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9a202141ab898e890617286de5e3a046bc1e0f7b6eb7352c"
+}

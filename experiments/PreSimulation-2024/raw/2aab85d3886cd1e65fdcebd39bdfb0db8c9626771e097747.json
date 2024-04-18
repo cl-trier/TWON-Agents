@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Wait times won't decrease with private health care, report says. In fact, they might increase! 🤦‍♂️ Ontario's Bill 60 promotes for-profit health care, but it'll lead to higher costs, staff shortages, and unnecessary procedures. 💸👀 Market forces don't work in health care. We need a better solution!",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2aab85d3886cd1e65fdcebd39bdfb0db8c9626771e097747"
+}

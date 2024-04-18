@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Mögliche Erhöhung der Energiepreise im Winter: Europäische Union diskutiert aktuell Energiesicherheit für den Winter 2024-2025. Sorge um Gaslieferungen aus Russland, während Abhängigkeit verringert wird.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ade7bb388bc5d0b12c8abedeb9761706c834460cd78987b7"
+}

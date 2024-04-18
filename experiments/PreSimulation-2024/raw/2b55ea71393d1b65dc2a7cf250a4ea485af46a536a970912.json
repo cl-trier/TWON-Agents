@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Stichting resiliente gezondheidssystemen in Indonesië is een stap voorwaarts om ongelijkheid en discriminatie te bestrijden. Gelukkig dat twee projecten gefinancierd zijn om de strijd aan te gaan tegen uitbraken van infectieziekten. Samenwerking is hierbij cruciaal, want solidariteit maakt ons sterk!\"(\"Establishing resilient healthcare systems in Indonesia is a step forward in fighting inequality and discrimination. Luckily, two projects have been funded to take on the fight against outbreaks of infectious diseases. Cooperation is crucial here, because solidarity makes us strong!\")",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b55ea71393d1b65dc2a7cf250a4ea485af46a536a970912"
+}

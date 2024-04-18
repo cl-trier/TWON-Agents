@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's resilience continues amidst ongoing conflict; air defense systems critical. Follow for unbiased updates on the complexities of this political struggle.",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d70fb0be2e3ff317c9d76ef9891eb1271ca461bc1193a798"
+}

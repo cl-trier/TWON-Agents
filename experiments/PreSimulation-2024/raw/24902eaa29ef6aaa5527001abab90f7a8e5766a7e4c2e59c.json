@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Encouraging\" is not enough! We need more than just \"encouraging\" data to make informed decisions about migraine treatments. Where are the long-term studies on atogepant's safety and efficacy?",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24902eaa29ef6aaa5527001abab90f7a8e5766a7e4c2e59c"
+}

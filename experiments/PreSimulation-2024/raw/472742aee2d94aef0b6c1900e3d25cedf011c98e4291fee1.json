@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@UkraineInsightAfter a decade of conflict, Ukraine's energy sector has undergone significant changes, reducing dependence on Russia & adopting European standards. Despite Russian threats, Ukraine has made positive strides in achieving transparent energy markets, eliminating subsidies, and promoting energy security. A testament to resilience! #Ukraine #EnergySector #ResilienceNote: The response is a concise summary of the prompted topic, focusing on the positive changes made by Ukraine in its energy sector despite the challenges posed by Russia. The tweet highlights the country's resilience and uses relevant hashtags to reach a broader audience interested in Ukrainian affairs.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "472742aee2d94aef0b6c1900e3d25cedf011c98e4291fee1"
+}

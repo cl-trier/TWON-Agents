@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@UAMSNews: Congratulations to the nine UAMS physicians named Healthcare Research All-Stars! 🎉👨‍⚖️👩‍⚖️ Their dedication to advancing healthcare through innovative research is truly inspiring. #UAMS #HealthcareResearch #AllStars🔍 Did you know? The UAMS Hip and Knee surgery team is now among the top 1% of hip and knee surgeons nationwide! 💪🏽 The orthopaedic surgery team is also among the top 3% nationwide, and both the gastrointestinal and general surgery teams at UAMS are among the top 5% nationwide. 🎉👀 Check out the list of the nine UAMS physicians named as All-Stars: 👨‍⚖️👩‍⚖️ Lowry Barnes, M.D. 💼 UAMS Health, a statewide health system that encompasses all of UAMS' clinical enterprise. #UAMSProud📰 Want to learn more about their groundbreaking research? Follow @UAMSNews for updates on the latest healthcare advancements and achievements! 💡 #HealthcareResearch #Innovation #UAMS👏 Let's give a round of applause to these exceptional physicians who are pushing the boundaries of healthcare and making a difference in people's lives. 🙌🏽",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b944763ef7c9a2edc94ca66df397f6efa91632d365128a20"
+}

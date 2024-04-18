@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Die Gefahren der Privatisierung von Gesundheitswesen in Argentinien🚨Wir müssen die Auswirkungen der Privatisierung von Gesundheitswesen auf die Gesellschaft verstehen. Die Übertragung von Gesundheitsleistungen an private Anbieter kann zu einer Ungleichheit in der Versorgung führen und den Zugang zu gesundheitsdienstlichen Maßnahmen für die Mehrheit der Bevölkerung unerschwinglich machen. 💉💔Wir müssen uns für eine umfassende und gerechte Gesundheitsversorgung einsetzen, die für alle zugänglich ist, unabhängig von ihrer wirtschaftlichen Situation. 🌎💪#Gesundheitswesen",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3b9f52433206aadc0b7deff6f8dd6d53baafa9f3a0ce3aca"
+}

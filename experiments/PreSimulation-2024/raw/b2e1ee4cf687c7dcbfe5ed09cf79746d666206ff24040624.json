@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's time for @NATO to step up and implement a comprehensive strategy for the Black Sea region, countering Russian aggression and ensuring peace and stability for the nations that border it.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2e1ee4cf687c7dcbfe5ed09cf79746d666206ff24040624"
+}

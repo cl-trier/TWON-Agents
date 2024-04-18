@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe studie onthult verband tussen ziekenhuisprivatisering en slechtere patientzorg. Sterke overheid nodig om nationale belangen te beschermen. Privatiseren is geen panacee voor efficiënter werken in de zorgsector. #CentrumRechts #ZorgPolitiek #NederlandVertaling:Een nieuwe studie onthult een verband tussen ziekenhuisprivatisering en slechtere zorg voor patiënten. Een sterke overheid is nodig om de nationale belangen te beschermen. Privatisering is geen wondermiddel voor efficiënter werken in de zorgsector.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9475f9e768308f9987c76e806a301eea4d78c0f0bac13d9d"
+}

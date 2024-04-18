@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "While the world is focused on Gaza and Ukraine, let's not forget the ongoing crisis in Sudan. A civil war that has resulted in soaring food prices, displacement of people, and a looming threat of famine. It's time for the international community to pay attention and take action. We can't ignore the suffering of our fellow humans.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a0d723993a50e4d22fd0ce97998c8f14f93df0f5b6ddaeb4"
+}

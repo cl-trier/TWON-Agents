@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@WomensHealth2pt0 🚨 Women's Health 2.0: The AI Era 💻👩‍⚕️ Charting the evolution of women's healthcare in the AI era 🌟 Promise and challenges of predictive tech to close the health gender gap 🔍💡 $100 million federal funding initiative for women's health research 💰👏 White House Initiative on Women's Health Research 🌎💕",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b36d1a2809654708d7d4e8141162a36937924ea516efde66"
+}

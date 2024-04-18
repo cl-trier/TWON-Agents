@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Fully support Ukrainian FM Kuleba's call for a robust NATO Black Sea strategy. Indivisible security & stability in the region are crucial. Let's turn the Black Sea into a sea of peace, as we look forward to Georgia and Ukraine joining NATO.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "00d8717b047dd9fc8ad15e3a09a153dc8a73906389156eaa"
+}

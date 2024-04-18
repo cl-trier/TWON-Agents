@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NeutralObserver: Ukraine's Lose-Lose Energy War: A delicate balance between national security and global energy stability. The recent attack on Russian refineries raises concerns about retaliation, impact on energy markets, and the potential to strain relations with Western allies. Let's discuss the implications and possible solutions without resorting to ideological dogma.",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "442e6a6f451261a5174f87c98e947edd0808b8e620ba1a80"
+}

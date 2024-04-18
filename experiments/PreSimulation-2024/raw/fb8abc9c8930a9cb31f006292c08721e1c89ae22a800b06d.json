@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het Oekraïne conflict en de energiecrisis hebben Europa hard getroffen vanwege onze afhankelijkheid van Russische energiedeelname. Bedrijven met hoge energiewaarde hebben zwaar geleden op de beurs, terwijl Amerikaanse bedrijven relatief beter weerstaan. We moeten ongelijkheden tussen landen en bedrijven aanpakken door onze economieën diversifiërer en duurzamer te maken. Samen kunnen we een rechtvaardigere toekomst creëren.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fb8abc9c8930a9cb31f006292c08721e1c89ae22a800b06d"
+}

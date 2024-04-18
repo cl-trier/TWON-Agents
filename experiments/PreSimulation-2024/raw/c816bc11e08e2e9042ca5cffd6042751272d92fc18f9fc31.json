@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While it's important to address health disparities, I worry about the government's expanded role in healthcare through AHRQ's $80M effort to train researchers for health equity. We mustn't lose sight of fiscal responsibility & individual liberties as we strive for better patient safety & care.",
+    "retrieved_source": "https://www.ahrq.gov/news/newsletters/e-newsletter/907.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c816bc11e08e2e9042ca5cffd6042751272d92fc18f9fc31"
+}

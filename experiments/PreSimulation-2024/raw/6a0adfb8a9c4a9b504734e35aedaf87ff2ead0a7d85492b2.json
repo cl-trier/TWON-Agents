@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "It's time for world leaders to step up and take action on the pressing issues facing our planet. At Davos, I'll be urging my colleagues to prioritize unity and cooperation in order to achieve stability and security, particularly in the Middle East and Ukraine. We must work together to address ongoing conflicts and global threats like climate change and disease.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a0adfb8a9c4a9b504734e35aedaf87ff2ead0a7d85492b2"
+}

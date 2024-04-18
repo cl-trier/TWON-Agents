@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Xi's 4 priorities for Ukraine: diplomacy, ceasefire, dialogue, and peaceful resolution. But what about Russia's intensified efforts to seize key town? The US needs to step up and pass the Ukraine aid bill. Let's not forget, there's no substitute for concrete action.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a25dfa25467ef53d98fa7a9225382008b05f80190bca283"
+}

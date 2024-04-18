@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine UAMS physicians recognized as Healthcare Research All-Stars! It's fantastic to see their dedication to advancing healthcare research acknowledged. Their contributions place them among the top 1% of hip and knee surgeons nationwide, a remarkable achievement. It's noteworthy that these physicians have excelled in both research and clinical practice, demonstrating that excellence in one domain does not come at the expense of the other. Kudos to UAMS for fostering an environment that supports such groundbreaking work!",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a770c27b7a057cc23144b918dad97f17987a21547c7aa1fe"
+}

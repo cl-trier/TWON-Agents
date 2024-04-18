@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Yellen urgeert Huis van Afgevaardigden om snel Ukraine-hulp goed te keuren. Ze benadrukt noodzaak van militaire & budgetsteun. G7 moet verenigd optreden om risico's te beperken.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53ec7a6327ea99f422f45d567fcf48ee2cebbecf92dcb7b7"
+}

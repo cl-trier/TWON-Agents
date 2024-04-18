@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👍🏼 Accessible healthcare is a game changer! 💡🏥 As a community nurse and midwife, Ismaziah Binti Ibrahim is making a difference in Malaysia. 🇲🇾 She understands the importance of affordable healthcare, especially for mothers and children. 👶🍼💖 In this village clinic, they provide essential services and refer patients to doctors and hospitals when needed. 🏥🚑 But, not everyone can easily access healthcare. 🤕 That's why affordable government healthcare services are crucial. 💰💳 Patients prefer them, and it's a step towards people-centred care. 🌟 Let's support initiatives that prioritize healthcare for all! 💪🏼�2030",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afc51a14a64c2dc188f70623554fcbdfc07aef172233db38"
+}

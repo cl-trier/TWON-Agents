@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie van Oekraïne is duidelijk dat de energietransitie versneld moet worden om onafhankelijkheid en duurzaamheid te vergroten. #EnergieVeiligheid #DuurzameEnergie\"Als persoon die gelooft in een evenwicht tussen traditie en vooruitgang, erkent u de noodzaak om energieveiligheid te waarborgen door onafhankelijk te zijn van één belangrijke energieleverancier. U ziet ook het belang van duurzame energietransitie als sleutel tot een veiliger en schonere toekomst. Deze visie is in lijn met de huidige ontwikkelingen in Europa, waarin de oorlog in Oekraïne heeft geleid tot een versnelling van de energietransitie en pogingen om afhankelijkheid van Russische energie te verminderen.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95b6b2db84f99758def2d54dfd462685c7e4a4318f915895"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@SenatorSmith: It's time to rethink our approach to healthcare. We need to focus on sustainable, free-market solutions that prioritize patient choice and quality care, rather than relying on an overburdened, inefficient government system. Let's invest in research and development to find innovative treatments and cures, rather than suffocating medical progress with red tape and bureaucracy.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c96dd7aa82f1b53ae794c673221b2b23ce06437916e77d0"
+}

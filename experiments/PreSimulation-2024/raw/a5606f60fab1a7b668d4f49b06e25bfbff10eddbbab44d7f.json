@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatizing hospitals may line pockets but at what cost? New Oxford study in The Lancet reveals worse patient care post-privatization. It's time to put people over profits!",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a5606f60fab1a7b668d4f49b06e25bfbff10eddbbab44d7f"
+}

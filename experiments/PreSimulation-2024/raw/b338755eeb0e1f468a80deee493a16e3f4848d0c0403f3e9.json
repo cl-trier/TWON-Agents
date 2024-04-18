@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Aber latest study shows that sinks in hospitals are breeding grounds for resistant bacteria. 🚽🐜 Who would have thought, right? 🤷‍♂️ Time to rethink our approach to hospital hygiene and take a closer look at those often-overlooked sinks! 🔍",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b338755eeb0e1f468a80deee493a16e3f4848d0c0403f3e9"
+}

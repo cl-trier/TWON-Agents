@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Proud to see 9 UAMS physicians named Healthcare Research All-Stars! 🎉👨‍⚕️👩‍⚕️ They're among the top 5% of healthcare researchers nationwide! 💡📈 Lowry Barnes, M.D. and his team did amazing work in hip and knee surgery! 🏥👍 UAMS is a shining example of excellence in healthcare! 💖",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c70dcc068da5cb78e46d0105e888f139b9a85439e5e649da"
+}

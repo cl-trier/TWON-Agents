@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare affordability is a critical issue that affects us all. As a centrist, I believe in finding pragmatic solutions that balance individual freedom with collective responsibility. TailorMed's approach, as highlighted in the Healthcare Rethink podcast, offers a comprehensive strategy that goes beyond simple payment assistance. By leveraging analytics and an Affordability Network, they aim to enhance patient care and reduce financial toxicity. It's time we prioritize affordable healthcare for all, and I applaud TailorMed's efforts towards this goal.\"",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ab013faf0154a231b5caf0e277ab185868e9f4f4088036aa"
+}

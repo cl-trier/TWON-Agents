@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Eine erschreckende Tatsache: 27% der erwachsenen US-Bürger*innen kämpfen mit healthcare-bezogenen Finanzbelastungen. Das trifft nicht nur einkommensschwache Familien, sondern zunehmend auch die Mitte der Gesellschaft. Delayed care und medical debt sind keine Seltenheit mehr. Es wird Zeit für eine progressive healthcare-Politik, die allen gerecht wird!",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6bd57096b0b6c963c184abc6dac052d836c1ee7968952462"
+}

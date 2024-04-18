@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die beste Medizin ist die, die sich jeder leisten kann. Es ist Zeit, dass wir unsere Prioritäten straighten und unsere Bürger voranzustellen beginnen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88067d8f8637b6cfee1d8d27e16cdd93ab2d223a71bb18c6"
+}

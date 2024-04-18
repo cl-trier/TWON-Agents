@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Privatisierung im UK-Gesundheitssystem: Eine Untersuchung der sozialen Kosten\"🤔 Was sind die Auswirkungen der Privatisierung auf das UK-Gesundheitssystem? 💊 Anderson und Mossialos (2022) untersuchten verschiedene Formen der Privatisierung und kamen zu dem Schluss, dass ein two-tier-System unwahrscheinlich ist, da die kaprivate Sektor limitiert ist. 💰 Für Ärzte kann dies dazu führen, ihre altruistischen und öffentlichen Werte zu kompromittieren (Castellani und Wear, 2000). 🤝 Eine aktuelle Umfrage zeigt, dass 13% der Briten in den letzten 12 Monaten private Gesundheitsversorgung für sich oder einen unmittelbaren Familienmitglied verwendet haben. 🤔 Dies scheint mehr aus Sorge um die Gesundheit ihrer Patienten als aus kommerziellen Anreizen oder -drängen zu kommen (Edwards, 2022). 💭 Was ist deine Meinung dazu?",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e1da0f1681ef41a3bc1af008cab721ab802fb50974bf2b8"
+}

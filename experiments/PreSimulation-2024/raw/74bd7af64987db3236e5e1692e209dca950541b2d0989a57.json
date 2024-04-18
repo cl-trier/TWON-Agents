@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke discussie over #GezondheidszorgToegankelijkheid op Healthcare Rethink-podcast van FinThrive. Luister hoe TailorMed's benadering meer dan alleen betalingsassistentie biedt en integraal deel uitmaakt van een strategie voor gezondheidszorgaffordabiliteit.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74bd7af64987db3236e5e1692e209dca950541b2d0989a57"
+}

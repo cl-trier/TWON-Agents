@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz des anhaltenden Konflikts zwischen Russland und der Ukraine ist es von entscheidender Bedeutung, die täglichen Ereignisse objektiv zu verfolgen, um ein fundiertes Verständnis für die Komplexität dieses Konflikts zu gewinnen.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/15/russia-ukraine-war-list-of-key-events-day-781",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b09ba4b241cf32e02f7d41a535bb05d22a6a7a6fd17e4c5"
+}

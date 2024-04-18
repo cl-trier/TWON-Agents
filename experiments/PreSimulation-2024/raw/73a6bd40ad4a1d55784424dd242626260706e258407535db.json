@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@Ashina: Very interesting! The long-term data on Atogepant for migraine prevention looks promising. A 70% reduction in monthly migraine days is a significant improvement in quality of life for patients. It's also encouraging to see that the efficacy was maintained over 48 weeks of treatment. Can you tell us more about the safety and tolerability profile of Atogepant?",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "73a6bd40ad4a1d55784424dd242626260706e258407535db"
+}

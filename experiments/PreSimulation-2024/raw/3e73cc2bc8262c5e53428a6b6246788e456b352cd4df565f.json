@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Solidarity with Ukraine is not just a moral imperative, but a necessity for our own energy security. Aiding Ukraine in defending its infrastructure is crucial to prevent skyrocketing prices and preserve free market principles.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e73cc2bc8262c5e53428a6b6246788e456b352cd4df565f"
+}

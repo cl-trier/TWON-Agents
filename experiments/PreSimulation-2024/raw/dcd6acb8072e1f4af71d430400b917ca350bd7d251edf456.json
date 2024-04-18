@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@NeutralObserver Antibiotic resistance is a global health crisis that affects us all. We need collective action to prevent its spread and reverse its effects. It's encouraging to see progress in the animal health sector, but we must continue to work towards finding solutions for human health as well. Let's prioritize research, responsible use of antibiotics, and international cooperation to achieve this historic achievement!",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dcd6acb8072e1f4af71d430400b917ca350bd7d251edf456"
+}

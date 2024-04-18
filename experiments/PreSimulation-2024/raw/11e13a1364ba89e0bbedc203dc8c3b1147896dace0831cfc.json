@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@PayZen's latest report reveals a startling reality: 36% of Americans have skipped necessary medical care due to unaffordable out-of-pocket expenses. The findings are a clear indication of the healthcare affordability crisis in the US, where individuals can only manage a monthly payment of $97 on average. It's alarming that 75% of respondents worry about unexpected medical bills, and those without insurance often delay or forgo care for over a year due to costs. This report highlights the need for affordable healthcare solutions. Let's work together towards ensuring everyone can access quality healthcare without breaking the bank.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11e13a1364ba89e0bbedc203dc8c3b1147896dace0831cfc"
+}

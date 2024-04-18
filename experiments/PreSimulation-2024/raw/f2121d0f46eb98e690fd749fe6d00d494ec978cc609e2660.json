@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new data from KFF reveals that even those with health insurance are feeling the strain of high healthcare costs, leading to mounting debt for millions of Americans. It's time for bold action to ensure accessible and affordable healthcare for all!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f2121d0f46eb98e690fd749fe6d00d494ec978cc609e2660"
+}

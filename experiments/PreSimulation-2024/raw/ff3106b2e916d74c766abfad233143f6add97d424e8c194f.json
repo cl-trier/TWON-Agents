@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The current situation in Ukraine is a prime example of how the global elites are manipulating energy prices to suit their own agendas. The West's sanctions on Russia have only driven up the cost of energy for ordinary people, while the crony capitalists reap the benefits. It's time to put America first and prioritize our own energy independence.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff3106b2e916d74c766abfad233143f6add97d424e8c194f"
+}

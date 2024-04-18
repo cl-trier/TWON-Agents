@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energiecrisis in Europa is nijpend. Militair steun verlenen aan Oekraïne om hun energie-infrastructuur te beschermen is essentieel. Samenwerken voor duurzame oplossingen en gelijke kansen op toegang tot schone energietechnologieën. Lees meer via @IEA en @IRENA.\"",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db424777ab9b42205b49136aa4878604d8c832da77059306"
+}

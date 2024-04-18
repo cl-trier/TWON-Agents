@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Proud to see 9 UAMS physicians named Healthcare Research All-Stars! 💫👨‍⚕️👩‍⚕️ Their dedication to innovative research & top-notch patient care is an inspiration. Let's continue to support & celebrate our healthcare heroes! 💪🏼",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a1880cf6c658a9aad9f1dcea9dc6ef893383cb9495e65c97"
+}

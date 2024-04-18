@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nog steeds lijden Amerikanen onder de zware last van medische schulden, ondanks het hebben van verzekering. Volgens een recente KFF- enebrief is 1 op de 7 geïnformeerden met $10.000 of meer aan medische schulden. Laat het gesprek voortgaan over hoe we deze crisis kunnen aanpakken!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74edca1cc4cba7b67af287b330ce83287bf735a2bdbfb9e0"
+}

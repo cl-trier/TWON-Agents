@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend nieuws over de oorlog in Oekraïne: een voormalig oliebaas waarschuwt voor stijgende energieprijzen als de Russische vernietiging van Oekraïens energiematrialen doorgaat. Onze solidariteit ligt bij het Oekraïense volk en wij strijden mee tegen deze ongelijke strijd. Steun de noodzakelijke wapenleveranties om de energie-infrastructuur te beschermen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca72729fed47046a0071bd7d8d21029f18d224e5214f2f63"
+}

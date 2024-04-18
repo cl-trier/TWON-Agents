@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Gaza: Infection prevention and control & water, sanitation and hygiene measures in healthcare settings and shelters are crucial! 💦🧽🚽 Overcrowding, inadequate facilities, and a dysfunctional health system pose significant risks. Let's work together to ensure access to safe water, sanitation, hand hygiene, IPC supplies, and appropriate PPE use based on risk assessment. 💪🏽",
+    "retrieved_source": "https://www.who.int/publications-detail-redirect/WHO-oPt-IPC_WASH-2024.1",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3f487d8d7464d2209cc3f4bb96e25dc37baaf6d556e6d390"
+}

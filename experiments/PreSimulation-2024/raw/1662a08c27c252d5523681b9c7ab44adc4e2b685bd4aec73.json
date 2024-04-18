@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's beschermen onze zorg voor veteranen - privatizatie van ER-zorg kost 21% meer en vervangt expertise van VHA-medewerkers met minder getraind personeel. Laat ons onze soevereiniteit behouden en de veteranen de zorg geven die ze verdienen!\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1662a08c27c252d5523681b9c7ab44adc4e2b685bd4aec73"
+}

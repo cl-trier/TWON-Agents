@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks $100 miljoen investering in vrouwengezondheid door First Lady Jill Biden is er nog steeds veel te weinig aandacht voor de unieke gezondheidsproblemen van vrouwen. We hebben een breder scala aan onderzoek nodig, inclusief AI en predictive technologie, om onze vrouwen echt goed te helpen.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d96a13a47ecbe6c9312f4373b9e338c430691404232946a"
+}

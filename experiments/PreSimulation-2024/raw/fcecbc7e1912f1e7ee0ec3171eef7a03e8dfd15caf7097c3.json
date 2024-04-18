@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hey Netherlands! 🇳🇱 Exciting news! 🚀 The European call for nano and advanced technologies for disease prevention, diagnostics and therapy (NANOTECMEC) is coming soon! 💡 It's a joint initiative by the ERA4Health Partnership, which includes the EU's Horizon Europe program. 🇪🇺 The partnership will fund international research into cardiovascular disease, nanomedicine, and nutrition, health and disease prevention over seven years. 💔🧬This is a great opportunity for our country to take the lead in cutting-edge research and innovation! 💪 Let's make sure we invest in this chance to improve people's lives and showcase our expertise on the global stage! 🌟 What do you think? Share your thoughts and let's make this happen! 🎉",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fcecbc7e1912f1e7ee0ec3171eef7a03e8dfd15caf7097c3"
+}

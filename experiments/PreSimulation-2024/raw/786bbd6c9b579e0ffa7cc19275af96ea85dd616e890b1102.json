@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Goed nieuws! Twee Nederlandse onderzoeksprojecten helpen Indonesië bij het versterken van hun gezondheidssystemen tegen uitbraken van besmettelijke ziekten. Samenwerking is de sleutel tot een resilientere toekomst.",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "786bbd6c9b579e0ffa7cc19275af96ea85dd616e890b1102"
+}

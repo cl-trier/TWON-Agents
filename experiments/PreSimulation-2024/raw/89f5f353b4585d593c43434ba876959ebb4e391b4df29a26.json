@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New KFF polling reveals that health care costs continue to be a significant burden for many American families, regardless of insurance coverage. 1 in 4 insured adults struggle with health care debt. It's time we address this issue head-on to ensure affordable and accessible healthcare for all.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "89f5f353b4585d593c43434ba876959ebb4e391b4df29a26"
+}

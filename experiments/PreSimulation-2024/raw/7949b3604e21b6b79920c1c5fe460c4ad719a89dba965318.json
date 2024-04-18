@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Privatization of public hospitals in Syria? 💸🏥The regime's plan to open the door for investment in the health sector raises concerns about the future of healthcare. Will privatization improve services or worsen inequality? 🤔",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7949b3604e21b6b79920c1c5fe460c4ad719a89dba965318"
+}

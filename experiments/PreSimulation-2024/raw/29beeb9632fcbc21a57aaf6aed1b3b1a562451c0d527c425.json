@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend zu sehen, wie Walmart Canada durch erweiterte pharmakologische Dienstleistungen Barrieren in der Gesundheitsversorgung abbaut und die Zugänglichkeit verbessert - ein Beispiel für innovative Ansätze im Retail-Healthcare-Bereich.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29beeb9632fcbc21a57aaf6aed1b3b1a562451c0d527c425"
+}

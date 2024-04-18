@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorge um AHS-Umstrukturierung: Keine Platz für Zweifel an öffentlicher Gesundheitsversorgung! Wir müssen die bewährten Errungenschaften unseres Systems bewahren, anstatt es Profitinteressen zu opfern. Öffentliche Gesundheitseinrichtungen bieten konsistente und hochwertige Versorgung für alle Albertaner*innen. Lasst uns die Integrität unseres Systems schützen und weiterhin in eine starke, bezahlbare und zugängliche Gesundheitsversorgung investieren.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f1d66be341e9e4739374d241001a305f3b788af6e1650b7"
+}

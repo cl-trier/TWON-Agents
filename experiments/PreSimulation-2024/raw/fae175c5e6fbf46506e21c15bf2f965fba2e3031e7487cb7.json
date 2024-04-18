@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "In these challenging times, let's not forget the people of Ukraine who are fighting for their sovereignty & democracy. We must stand together to uphold international stability & protect human rights 🌍💙",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fae175c5e6fbf46506e21c15bf2f965fba2e3031e7487cb7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neugierig auf die jährlichen Epidemiologischen Berichte des ECDC! Sie bieten wertvolle Daten zur Unterstützung evidenzbasierter Entscheidungen in der EU und EEA. Schauen wir uns die Trends von 2015 an: [Link]",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d7615239a684e2fd54eafc38195342694380b84122719a77"
+}

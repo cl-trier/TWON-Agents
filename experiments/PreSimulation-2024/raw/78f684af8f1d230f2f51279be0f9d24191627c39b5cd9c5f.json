@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Revisiting Kissinger's diplomacy: In an era of strategic overreach, his pragmatic realism offers valuable lessons. Let's not forget the effectiveness of his approach in managing relations with China and Russia.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78f684af8f1d230f2f51279be0f9d24191627c39b5cd9c5f"
+}

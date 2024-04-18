@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Everyone deserves access to quality healthcare and cutting-edge medical research. Let's ensure a healthier, more equitable future for all!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b4fe027cf8ee2981e701f9723b7b9b323a45460031b5f528"
+}

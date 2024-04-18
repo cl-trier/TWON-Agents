@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Terug naar basics: Nederlandse gezondheidsbeleid prioriteit geven aan eigen bevolking. Stop met buitenlandse invloed in onze medische wetenschap.",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d37f2a937d0f3fce081b46fd425de73f050ffff1f83b215c"
+}

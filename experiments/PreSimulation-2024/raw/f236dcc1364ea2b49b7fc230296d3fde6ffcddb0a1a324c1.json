@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Reis naar Davos om internationale samenwerking te bevorderen en stabiliteit in Oekraïne en het Midden-Oosten te ondersteunen. Belangrijke ontmoetingen gepland met wereldleiders om versnellen van actie tegen globale uitdagingen als ziekten, klimaatverandering en gewapende conflicten. Samenwerking is de sleutel tot vrede en voorspoed.\"Als Tweekopjes: \"In Davos aan het werk om Oekraïne te steunen en wereldwijde stabiliteit te bevorderen. Samen kan meer bereikt worden in de strijd tegen globale uitdagingen.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f236dcc1364ea2b49b7fc230296d3fde6ffcddb0a1a324c1"
+}

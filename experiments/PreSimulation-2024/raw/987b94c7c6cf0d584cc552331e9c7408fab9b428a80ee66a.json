@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ik gelooft in een duurzame en betaalbare gezondheidszorg voor Allen, waarbij de focus ligt op preventie en praktische oplossingen voor de dagelijks lives van burgers.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "987b94c7c6cf0d584cc552331e9c7408fab9b428a80ee66a"
+}

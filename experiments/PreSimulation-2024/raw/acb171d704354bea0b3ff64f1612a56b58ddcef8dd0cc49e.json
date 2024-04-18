@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Did you know that 27% of non-senior adults in the US face severe healthcare affordability issues? This includes high out-of-pocket costs, medical debt, and forgone medical care. When broadening the definition to include delayed care, this number jumps to 46%. It's clear that healthcare affordability is a significant issue impacting many families. Let's work together to find solutions that ensure everyone can access the care they need without breaking the bank.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "acb171d704354bea0b3ff64f1612a56b58ddcef8dd0cc49e"
+}

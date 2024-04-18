@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just read the new #PayZen report on America's healthcare affordability crisis 💔 Alarming stats reveal 49% skip preventive visits & 40% delay mental health care due to costs. We need AI-powered solutions NOW to ensure affordable, accessible healthcare for all! ✊🏥",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6910492a1763437aa2bf348b3e82201cb39dbe6c957064c0"
+}

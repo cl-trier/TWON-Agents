@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@CSIS #Ukraine #Russia #War #InternationalSecurity #SethGJones #EliotACohen #EmilyHarding #MichaelVickers #CSISTwo years since Russia's invasion of Ukraine - time for a battlefield update on the war. Join us for a virtual discussion with top experts, hosted by @CSIS. We'll dive into Ukrainian and Russian strategy, Western aid, and the future of this conflict. Don't miss it! 🌐💥",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "089f1cca31c508faa80e6c2a2752bd1d4de3ae055c731339"
+}

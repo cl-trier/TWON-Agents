@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare workers across Toronto verenigen zich tegen de privatisering door de Ford-regering. Zij waarschuwen voor de negatieve impact van Bill 60 op het openbare ziekenhuissysteem.",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "37721a6675fc16a947327a74d92696acdec2bb24751df7ca"
+}

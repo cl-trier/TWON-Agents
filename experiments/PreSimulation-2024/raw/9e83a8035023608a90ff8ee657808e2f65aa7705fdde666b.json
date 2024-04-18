@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Strijden voor kwaliteitszorg: privatisering van ziekenhuizen niet ten koste van patiëntenzorg. Syrië's gezondheidssector vereist herstel en investering, maar met behoud van toegankelijkheid en kwaliteit.\"Vertaling: \"Strijden voor zorgkwaliteit: privatisering van ziekenhuizen mag de patiëntenzorg niet schaden. Syrië's gezondheidssector vereist herstel en investeringen, maar met behoud van toegankelijkheid en kwaliteit.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9e83a8035023608a90ff8ee657808e2f65aa7705fdde666b"
+}

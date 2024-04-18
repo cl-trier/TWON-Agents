@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report reveals harmful impact of Ford government's privatization scheme on local public hospitals.",
+    "retrieved_source": "https://finance.yahoo.com/news/report-exposes-harmful-impact-ford-173500119.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "48f536106f6877a444c3233f30f35fdce18a07f2d0ffbbb8"
+}

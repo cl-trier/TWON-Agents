@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military strength grows while Russia's dwindles, new data shows. Time for Putin to rethink his aggression? 🤔",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f3d242eb4e4e806b3ca049330e7f00996aa08efb52bd55b7"
+}

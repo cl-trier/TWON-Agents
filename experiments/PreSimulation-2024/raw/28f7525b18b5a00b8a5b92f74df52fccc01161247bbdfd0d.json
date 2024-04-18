@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freudig begrüßen wir die Initiative von First Lady Jill Biden, $100 Mio. für Frauen*s Gesundheitsforschung bereitzustellen! Es ist an der Zeit, die #GenderHealthGap zu schließen & den Blick über Reproduktionsgesundheit hinaus auszuweiten. Inklusive Forschung ist der Schlüssel zur Entdeckung der einzigartigen gesundheitlichen Bedürfnisse von Frauen*!🩺💕",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "28f7525b18b5a00b8a5b92f74df52fccc01161247bbdfd0d"
+}

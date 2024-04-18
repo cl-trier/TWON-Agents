@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Objectieve tests voor COVID-19 zijn cruciaal voor een effectieve en duurzame publieke gezondheidsrespons. We moeten eerder preventie en mitigatie aan prioriseren dan reactie op symptomen.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0534e36c1846a9ce3bc4cba89fe26eabdac019166823938d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Gov Lamont's healthcare legislation only serves to further entrench the insurance industry's stranglehold on our system, stifling innovation and true affordability. We need free market solutions, not more red tape!",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b61f009bf81e01619658bf1b281ec76ce5545a5a491fd3c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Internationale stabiliteit is cruciaal voor de veiligheid en welvaart van alle landen. Het conflict in Oekraïne is een belangrijk voorbeeld van hoe instabiliteit kan leiden tot humanitaire crisissen en geopolitieke spanningen. We must work together towards a peaceful solution that respects the sovereignty and territorial integrity of Ukraine.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cd88c9215d968fa46f4d4bbe28a63ce1f23f857f899f509b"
+}

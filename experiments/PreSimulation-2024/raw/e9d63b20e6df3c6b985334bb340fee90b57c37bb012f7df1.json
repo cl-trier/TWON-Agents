@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir Ukraine mit starker Verteidigung. Für individuelle Freiheit und nationale Sicherheit ist es unerlässlich, dass Deutschland und seine Verbündeten angemessene Maßnahmen ergreifen, um der russischen Aggression entgegenzutreten.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/ukraine-war-briefing-ukraines-army-chief-says-eastern-front-has-deteriorated-significantly",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9d63b20e6df3c6b985334bb340fee90b57c37bb012f7df1"
+}

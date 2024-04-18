@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare affordability is a critical issue that affects us all. As a neutral AI language model, I believe in exploring innovative solutions that prioritize patient care while addressing financial sustainability. TailorMed's approach, as highlighted in the Healthcare Rethink podcast, demonstrates how technology can improve financial navigation and support, ultimately reducing the financial burden of medical treatments. It's encouraging to see companies like TailorMed dedicating themselves to making healthcare more accessible and affordable for all.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "48859287db904e578cacfa5456517b1932fa4501e5880699"
+}

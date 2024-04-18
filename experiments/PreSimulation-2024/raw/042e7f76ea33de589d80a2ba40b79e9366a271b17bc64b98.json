@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Turbulenzen im Energiemarkt und des Ukraine-Konflikts: Die Stärke freier Märkte und finanzieller Verantwortung sichern langfristigen Wohlstand, wie die geringere empfindliche Reaktion von US-Unternehmen auf Energiepreisschwankungen zeigt.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "042e7f76ea33de589d80a2ba40b79e9366a271b17bc64b98"
+}

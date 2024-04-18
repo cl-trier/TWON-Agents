@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke podcast over healthcare affordability door Healthcare Rethink. Luister naar TailorMed's benadering om betere patiëntenzorg te realiseren en financiële lasten te verminderen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91656cbcd8fcda6758dfd0f4318ea7f3b899888ef722ddfb"
+}

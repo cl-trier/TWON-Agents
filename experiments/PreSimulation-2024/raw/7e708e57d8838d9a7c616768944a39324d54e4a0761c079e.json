@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nine UAMS physicians named Healthcare Research All-Stars! 💫👨‍⚖️👨‍⚕️C. Lowry Barnes, M.D. highlights the importance of research in understanding patients' orthopaedic needs and developing best clinical practices. 💯👏",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e708e57d8838d9a7c616768944a39324d54e4a0761c079e"
+}

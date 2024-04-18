@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's gas storage sites are being targeted by Kremlin missiles, leaving Europe to benefit from their storage yet again while Ukraine fights alone.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3a6de9d060b46673f1ddcfd7de3e67c98cbbe11eb496cfdc"
+}

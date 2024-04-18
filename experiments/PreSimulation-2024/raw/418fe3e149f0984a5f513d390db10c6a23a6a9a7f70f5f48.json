@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unsere UAMS-Ärzt*innen! 9 von ihnen wurden von Avant-garde Health zu Healthcare Research All-Stars für 2024 ernannt. Unser Hip und Knee Surgery Team ist sogar unter den TOP 1% der Hip- und Kniechirurgen in den USA! Danke an unsere Ärzt*innen, die unermüdlich daran arbeiten, das Beste für unsere Patienten zu geben.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "418fe3e149f0984a5f513d390db10c6a23a6a9a7f70f5f48"
+}

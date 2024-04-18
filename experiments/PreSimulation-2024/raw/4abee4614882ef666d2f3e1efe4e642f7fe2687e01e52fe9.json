@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Energieunabhängigkeit: Lasst uns solidarisch sein, um europaweit faire und erschwingliche Energiepreise zu sichern. Für eine grünere Zukunft!",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4abee4614882ef666d2f3e1efe4e642f7fe2687e01e52fe9"
+}

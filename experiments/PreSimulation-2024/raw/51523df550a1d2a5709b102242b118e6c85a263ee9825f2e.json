@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Proud of Ukraine's progress in transforming its energy sector despite a decade of war, with strides towards transparency, sustainable markets, and reduced dependence on Russia. Keep up the great work! 💡🔥#UkraineEnergy",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "51523df550a1d2a5709b102242b118e6c85a263ee9825f2e"
+}

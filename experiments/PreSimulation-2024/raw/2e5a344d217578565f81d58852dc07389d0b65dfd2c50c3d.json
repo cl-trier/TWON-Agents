@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schuiven we Oekraïne aan bij NATO voor Europese vrede & stabiliteit - geen andere optie. Geen veilig heijltje tussen NATO & Rusland. Actie nodig, geen karitas.",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2e5a344d217578565f81d58852dc07389d0b65dfd2c50c3d"
+}

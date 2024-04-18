@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuw rapport: Oekraïne riskeert militaire nederlaag in 2024. Moeten wij onze ogen dichtknijpen voor deze realiteit? Naties hebben recht op zelfbescherming. Meer internationale samenwerking is nodig om agressie te bestrijden, maar Nederland dient tevens haar eigen belangen te verdedigen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ea142814850b8fbcc5b4a1610d10ee70bbb71da70cb3eba2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau's budget plan tomorrow! 🍁💰 Excited to see how he plans to support AI and new tech for climate change initiatives 🌱💻, while keeping an eye on the cost 💸🔍.",
+    "retrieved_source": "https://vancouver.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1d4777b4be051f90d2a984c7fe53c8eab3fdad7db9f1c083"
+}

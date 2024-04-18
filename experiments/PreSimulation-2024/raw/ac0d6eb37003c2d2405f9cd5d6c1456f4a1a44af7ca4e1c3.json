@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🌎Solidarity and unity are key in these uncertain times. As Foreign Secretary, I'll continue to support Ukraine and call for greater international cooperation to tackle global challenges like conflicts, climate change, and diseases. Let's work together towards a more stable and sustainable future for all.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac0d6eb37003c2d2405f9cd5d6c1456f4a1a44af7ca4e1c3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Xi's priorities for resolving the Ukraine crisis are a step in the right direction. However, it's crucial that any solution respects Ukraine's sovereignty and territorial integrity. The US and G7 must continue to support Ukraine militarily and economically, while also maintaining a united front against Russian aggression.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d34e43c90a7ab3086a96032bd727668fee261c256854d3c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der jüngsten Preissenkungen bleiben die Strom- und Gaspreise in Europa alarmierend hoch, insbesondere in Ländern wie Deutschland und Italien. Wir müssen dringend zu verlässlichen, marktorientierten Energielösungen zurückkehren, um unsere Wirtschaft zu stärken und die Kosten für Verbraucher zu senken.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "061bfcdea2b113801f503e2423d68f8e31c0673b037e3e83"
+}

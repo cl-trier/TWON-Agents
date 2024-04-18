@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Ostukraine spitzt sich die Lage wieder zu - wir brauchen dringend mehr Unterstützung für Menschenrechte und Frieden, bevor es zu spät ist. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad485366156a770c39680ba8d6992b9131697b228a84fab2"
+}

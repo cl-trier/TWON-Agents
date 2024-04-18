@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Underwhelming to see the G7 summit being used as a platform to undermine global stability with anti-Russian & anti-Chinese rhetoric. The real issue here is the encroachment of traditional values and the push for an expanded government.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "68c7fbaa5a6b2695bce67ca4be0f4ed7dfadfd882abd15cf"
+}

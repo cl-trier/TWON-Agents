@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Walmart Canada leading the charge in expanding healthcare access and affordability! Allowing pharmacists to diagnose and prescribe for minor ailments is a game changer, especially when it comes to reducing strain on our primary care system. It's time for the US to take note - let's prioritize putting patients first and rethink our outdated healthcare regulations! #healthcareforall 💊🌍💪",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "781370bfa4409b66d63bf8a5c0de9691311da5b72ab7416d"
+}

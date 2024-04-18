@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Es ist alarmierend zu sehen, wie die Privatisierung des Gesundheitswesens in Argentinien die Ungleichheit im Zugang zu Gesundheitsversorgung erhöhen und für die Mehrheit der Bevölkerung unerschwinglich werden könnte.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c462e8cfe796d8c42211a782f29a0f2377d1d7d7575b1f22"
+}

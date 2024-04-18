@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Krise im kanadischen Gesundheitssystem ist seit Jahrzehnten präsent, vor allem aufgrund systematischer Unterfinanzierung durch verschiedene Regierungen. Während sie sich gegen die Privatisierung des Gesundheitswesens aussprechen, haben die Gewerkschaftsführungen daran gearbeitet, jeden ernsthaften Kampf dagegen von den Gesundheitsarbeitern zu blockieren. Jetzt wird die Krise im Gesundheitssystem von allen Provinzregierungen genutzt, um weitere Privatisierung zu rechtfertigen. Obwohl es im System eine Krise gibt, bleibt Medicare bei kanadischen Arbeitern immer noch überwältigend beliebt, und die Privatisierung wird seit Langem als politisches Minenfeld behandelt.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92d21e27650ac89fb2561a72c6dd257a3e654b7070476fc7"
+}

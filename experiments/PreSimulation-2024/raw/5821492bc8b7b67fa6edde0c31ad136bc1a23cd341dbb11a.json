@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "PGIMER specialists to engage with public on preventive health care! 💡🏥 Doctors from different departments will interact directly with community members in adopted centers each month. 🌟 Kudos to PGI director Prof Vivek Lal for emphasizing the importance of educational outreach! 🙌 Let's improve health outcomes and alleviate financial strain! 💰💼",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5821492bc8b7b67fa6edde0c31ad136bc1a23cd341dbb11a"
+}

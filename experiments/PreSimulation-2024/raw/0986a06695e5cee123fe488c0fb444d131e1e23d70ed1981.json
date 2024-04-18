@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As Sudan marks a grim year of civil war, let's not forget the humanitarian crisis in this nation of 50 million. Food prices have skyrocketed by over 110% & they're on the brink of famine. We must act now to ensure access and funding for vital aid.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0986a06695e5cee123fe488c0fb444d131e1e23d70ed1981"
+}

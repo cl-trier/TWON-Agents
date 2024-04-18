@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨👀 Did you know that privatizing health care in Ontario might actually increase wait times? 🤯 A new report says that outsourcing health care services may worsen public hospital staffing shortages, leading to longer waits for patients. 💰 The report also highlights the risks of higher costs, less staff in the public system, and unnecessary procedures. 💔 It's time to rethink our approach to health care and prioritize the well-being of all Canadians, not just those who can afford it.",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd470b5c6f68e4211b4d8ef83cc7bd1f190d238ac6d37410"
+}

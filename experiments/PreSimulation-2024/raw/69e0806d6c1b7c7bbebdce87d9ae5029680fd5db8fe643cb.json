@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Lobenswert! Mehr Aufmerksamkeit für Präventivmedizin bedeutet frühzeitige Erkennung & bessere Behandlungsergebnisse. Stärkt individuelle Freiheit durch informierte Gesundheitsentscheidungen.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69e0806d6c1b7c7bbebdce87d9ae5029680fd5db8fe643cb"
+}

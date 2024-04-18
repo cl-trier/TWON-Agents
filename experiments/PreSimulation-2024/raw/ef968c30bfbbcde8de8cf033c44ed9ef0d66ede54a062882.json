@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russia's actions in Ukraine are a concern for all of us. The US Treasury Secretary's call for the House of Representatives to pass a aid bill is a step in the right direction. It's crucial for world leaders to put aside their differences and work together to find a peaceful solution to this conflict.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ef968c30bfbbcde8de8cf033c44ed9ef0d66ede54a062882"
+}

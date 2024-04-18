@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's relentless attacks on Ukraine's energy infrastructure are a stark reminder of the need for robust national defense and deterrence capabilities. It's time for the West to step up and provide critical military aid to Ukraine, rather than simply issuing hollow condemnations.",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "89ada5725731afb1c152e11fbfbb764816db3a2cfa127aea"
+}

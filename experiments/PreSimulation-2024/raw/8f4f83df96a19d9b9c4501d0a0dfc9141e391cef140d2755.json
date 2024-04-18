@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante federale begrotingstips van Trudeau: belastingverminderingen voor nieuwe supermarktketens in Canada en investeringen in AI om klimaatverandering te bestrijden. Pragmatische benadering of kostbare beloften? Laat ons zien op dinsdag.",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f4f83df96a19d9b9c4501d0a0dfc9141e391cef140d2755"
+}

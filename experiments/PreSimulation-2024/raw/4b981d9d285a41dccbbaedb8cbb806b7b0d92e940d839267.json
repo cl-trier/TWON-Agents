@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Een rechtvaardig en betaalbaar gezondheidsstelsel is cruciaal voor iedereen. Las veel meer inspanningen om de kosten te beperken en toegang voor alle burgers te waarborgen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b981d9d285a41dccbbaedb8cbb806b7b0d92e940d839267"
+}

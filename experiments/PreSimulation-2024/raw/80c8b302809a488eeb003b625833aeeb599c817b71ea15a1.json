@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend, wie die jährlichen Epidemiologischen Berichte der ECDC Daten zu übertragbaren Krankheiten bündeln, um evidenzbasierte Entscheidungen auf nationaler Ebene in der EU und EEA zu ermöglichen.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "80c8b302809a488eeb003b625833aeeb599c817b71ea15a1"
+}

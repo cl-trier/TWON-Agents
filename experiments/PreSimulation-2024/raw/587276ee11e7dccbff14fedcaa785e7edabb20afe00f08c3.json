@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@GovNedLamont's recent legislation on healthcare is a step in the wrong direction. Instead of addressing the root causes of rising costs, it places more regulations on PBMs and insurers. The result? Less competition and innovation in the healthcare market.",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "587276ee11e7dccbff14fedcaa785e7edabb20afe00f08c3"
+}

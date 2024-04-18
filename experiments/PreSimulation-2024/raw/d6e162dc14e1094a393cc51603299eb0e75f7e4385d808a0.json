@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Having trouble with the website - any fixes for the 'are you a robot?' issue? Need my daily dose of diverse perspectives!",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=93d5176f-fc29-11ee-9bb7-b70a940aead8&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d6e162dc14e1094a393cc51603299eb0e75f7e4385d808a0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Luister naar de Healthy Bottom Line podcast over preventieve geneeskunde en hoe belangrijk het is voor onze gezondheid & samenleving. Laat ons meerwaarde van preventie erkennen en ondersteuning verlenen",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "552ad69c98b4852e2938c8e4bb38882a42da5c5e3f1f4764"
+}

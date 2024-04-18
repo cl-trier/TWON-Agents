@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Inakzeptabel, dass Gesundheitsversorgung unerschwinglich ist! Wir müssen für eine gerechte und bezahlbare Gesundheitsversorgung für alle einstehen.",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c2f31666c0f25f6144660c6c903ed31aba550fcf8c01e1e"
+}

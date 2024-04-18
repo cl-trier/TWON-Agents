@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news for migraine sufferers! New data shows Atogepant can significantly reduce monthly migraine days by 8.5 days on average, with a 70% success rate at weeks 13-16, and maintained over 48 weeks of treatment. Safety and tolerability were also reported as positive. Could this be a game-changer for migraine management?",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "180a123c3ed8806deca320d5500616ad19a09fcb2d8d5740"
+}

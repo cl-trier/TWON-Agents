@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Ontario's expansion of private-sector involvement in public healthcare, including hip & knee replacements, strikes a balance between preserving our universal system & promoting free-market efficiencies, all while adhering to the Canada Health Act.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "956ed7dfa7a92b641945b57c7e98d2cbad9c4114677355ca"
+}

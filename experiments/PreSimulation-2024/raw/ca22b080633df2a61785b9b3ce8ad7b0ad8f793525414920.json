@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Statt Ukraine zur Einstellung der Angriffe auf russische Ölraffinerien aufzufordern, sollten die USA ihre Energie in friedliche Konfliktlösungen investieren und globale Gerechtigkeit fördern.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca22b080633df2a61785b9b3ce8ad7b0ad8f793525414920"
+}

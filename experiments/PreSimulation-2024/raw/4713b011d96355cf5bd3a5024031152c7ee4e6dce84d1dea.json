@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg is een fundamenteel recht en moet voor iedereen toegankelijk zijn. Voorkomen is beter dan genezen! Investeer in preventie om gezondheidsongelijkheden aan te pakken. Alle burgers verdienen de kans op een gezonde toekomst, ongeacht hun achtergrond of inkomen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4713b011d96355cf5bd3a5024031152c7ee4e6dce84d1dea"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to highlight the inspiring journey of Rudra Nagalia, a student in Mason's MHA program! His passion for improving healthcare through tech innovation is making a real impact. The #RemindH project, focusing on mental health, showcases how we can bridge the gap between diverse healthcare needs and technical solutions. Let's continue to #InnovateForGood and transform lives! 🚀🩺",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8ec456bd5c9ad6821eed6d5af4d3d8378d4a652fcbdbf93c"
+}

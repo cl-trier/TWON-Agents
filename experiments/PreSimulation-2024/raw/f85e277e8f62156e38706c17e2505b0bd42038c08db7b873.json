@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierendes Wachstum bei Krebsvorsorgeuntersuchungen! Laut Healthians-Bericht ist die Anzahl der durchgeführten Screenings in den letzten 5 Jahren um das 50-fache gestiegen. Sowohl Männer als auch Frauen zeigen ein erhöhtes Bewusstsein für ihre Gesundheit, indem sie sich für verschiedene Krebsvorsorgeuntersuchungen wie Eierstock-, Brust-, Bauchspeicheldrüsen- und Darmkrebs entscheiden. Diese Entwicklung unterstreicht die Bedeutung von Präventivmaßnahmen und früher Erkennung für optimale Gesundheitsergebnisse 💪🩺.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f85e277e8f62156e38706c17e2505b0bd42038c08db7b873"
+}

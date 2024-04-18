@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Skyrocketing energy prices are hurting families and small businesses. It's time for Ukraine to expand domestic energy production and reduce reliance on foreign imports, promoting both energy independence and economic growth.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c25d40636286121636fd16cad83c865b47b98f77043e76d7"
+}

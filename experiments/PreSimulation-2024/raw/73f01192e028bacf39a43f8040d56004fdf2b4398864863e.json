@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In einer zunehmend unsicheren Welt müssen wir solidarisch zusammenstehen - für eine gerechte und stabile globale Ordnung, die den Frieden bewahrt, den Kanadier*innen so hart erkämpft haben.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "73f01192e028bacf39a43f8040d56004fdf2b4398864863e"
+}

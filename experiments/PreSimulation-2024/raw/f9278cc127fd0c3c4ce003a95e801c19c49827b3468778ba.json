@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Es ist Zeit, dass wir unsere Gesundheitsbranche liberalisieren und die Macht von Washington abschaffen, um die Qualität unserer medizinischen Forschung und Behandlungen zu verbessern.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f9278cc127fd0c3c4ce003a95e801c19c49827b3468778ba"
+}

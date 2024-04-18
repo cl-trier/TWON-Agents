@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Let's not forget Henry Kissinger's impact as a statesman, even if we disagree with his methods. His ability to navigate complex geopolitical landscapes resulted in groundbreaking diplomacy with China & Russia. In today's climate of ideological hubris, we should remember Kissinger's pragmatic realism to avoid strategic overreach & dangerous rivalries.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "03c6b991f3f8a99b629f299b610230cfcf831cea29f80a01"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Terug naar basics: preventieve geneeskunde is onontbeerlijk! Gelooft men hier echt nog steeds niet in? Meer waardering en steun voor deze helden van de gezondheidszorg!\"",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e757ef6fe0a669d8746bf7d4226e361e1301c07857475910"
+}

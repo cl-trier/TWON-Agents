@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🚨Retail 2024: Top 10 Trends in US Healthcare! 💡💉 From GenAI to precision medicine, AgeTech, mental health awareness, and \"food as medicine\", we've got you covered! 🌱🍎 Check out our latest report now and stay ahead of the game! 💼📈",
+    "retrieved_source": "https://coresight.com/research/retail-2024-top-10-trends-in-us-healthcare/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "65dc85fe169cf783cd71b0a3284e35131a79ab97e27d97d7"
+}

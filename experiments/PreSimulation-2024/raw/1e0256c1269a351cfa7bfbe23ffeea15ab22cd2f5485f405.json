@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Onderzoek wijst uit dat privatisering in het UK gezondheidssysteem geleid heeft tot twee-klassen zorg en druk op artsen om commerciële belangen te vertegenwoordigen. Ongeveer 13% van de Britten koos recent voor private zorg, vaak uit angst voor gezondheidsrisico's.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e0256c1269a351cfa7bfbe23ffeea15ab22cd2f5485f405"
+}

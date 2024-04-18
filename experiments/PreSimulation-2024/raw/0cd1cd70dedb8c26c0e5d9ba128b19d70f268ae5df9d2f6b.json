@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Resilient healthcare systems are crucial in preventing the spread of infectious diseases. Proud to see two Indonesia-Dutch research projects awarded for their work in developing resilient healthcare systems, especially against HPAI. A collaborative effort between stakeholders and multiple approaches will ensure a stronger response to future pandemics.",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0cd1cd70dedb8c26c0e5d9ba128b19d70f268ae5df9d2f6b"
+}

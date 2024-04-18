@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorgkosten druk zwaar op Amerikaanse gezinnen, ook voor verzekerden. Veel mensen zijn verstrikt in zorgschuld, wat ongelijkheid en discriminatie versterkt. Solidair strijden we tegen deze oneerlijke last.\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a465ebc9b142e0d8c6acbeb206854bbe33159c9fd78cccbf"
+}

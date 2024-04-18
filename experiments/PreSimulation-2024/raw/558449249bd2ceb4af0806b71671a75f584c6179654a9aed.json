@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nederland moet soevereiniteit van landen respecteren, maar ook belang van internationale energievoorziening in acht nemen. Pragmatisch benadering noodzakelijk.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "558449249bd2ceb4af0806b71671a75f584c6179654a9aed"
+}

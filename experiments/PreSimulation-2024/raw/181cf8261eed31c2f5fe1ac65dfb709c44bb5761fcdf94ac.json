@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieprijzen kunnen dit winterhard dalen door aflopende Russische gasdeal met Oekraïne. EU moet zich nu klaarmaken om Mindful te zijn van energiezekuriteit en het tegengaan van Putins wapening van de energie.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "181cf8261eed31c2f5fe1ac65dfb709c44bb5761fcdf94ac"
+}

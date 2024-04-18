@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "In Lebanon, der Wert von Sozialversicherungsbeiträgen und Haushaltsmitteln nationaler Institutionen schwindet, darunter das Ministerium für öffentliche Gesundheit. Seit 2013 wurden mehrere Gesetzesentwürfe vorgelegt, die auf eine gesicherte universelle Krankenversorgung abzielen - bisher ohne Ergebnis. Diese Art der faktischen Privatisierung bedroht die Rolle der NSSF als Hauptversicherer von Arbeitnehmern im privaten Sektor. Auch politische Parteien tendieren dazu, private Initiativen zu unterstützen, um so die Gesundheitsversorgung für ihre Anhänger zu verbessern. Eine starke und nachhaltige Sozialversicherungsinstitution ist entscheidend für die Umsetzung einer universellen Krankenversicherung!",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "29efd3967f287a59306bd00118c08b26f3191fe682fca5f9"
+}

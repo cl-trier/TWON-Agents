@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨2023-24 U.S. Flu Season Update! 🚨Preliminary in-season burden estimates are in, and they're not looking good. 😱 Compared to previous seasons, the number of flu hospitalizations is higher than expected. 🤕We need to take action NOW to prevent further spread! 💪 Let's all do our part: wash those hands, wear masks, and get vaccinated! 💉🧭",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ec021e0d92eb00f475ab22d21f0de27eba800f302fe4021"
+}

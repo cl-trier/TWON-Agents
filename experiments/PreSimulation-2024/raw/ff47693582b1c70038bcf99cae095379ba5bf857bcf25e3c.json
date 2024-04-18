@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey Europe, let's keep up the good work! 💪🏽💚 New Eurobarometer survey shows we're on the right track with measures to tackle energy crisis, promote sustainability, and support Ukraine 🇺🇦. Let's keep investing in joint defense projects and supporting Ukraine's integration into the single market 📈🌿. And yes, we should definitely provide financial and economic support, as well as military training and equipment 💪🏽. Let's keep working together for a better future! 💕",
+    "retrieved_source": "https://neighbourhood-enlargement.ec.europa.eu/news/eurobarometer-europeans-approve-measures-taken-tackle-energy-crisis-promote-sustainability-and-2023-09-11_en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff47693582b1c70038bcf99cae095379ba5bf857bcf25e3c"
+}

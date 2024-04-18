@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Shift in balance of arms in Ukraine underscored by fresh data\"🚨💥New data reveals a significant shift in the balance of heavy weapons in Ukraine's battlefields! 💪🏻🇺🇦 Kyiv's backers have delivered 471 new tanks, with 286 still to arrive, while Russia's tank fleet has halved! 🤯🔥 It's time for Putin to realize that his aggression won't fly! 💪🏻🇺🇦",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18b26db5dc38ede808091a53334de9488d59e4964f4a0b1d"
+}

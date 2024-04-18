@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's energy prices in crisis as Ukraine struggles to protect infrastructure. The situation highlights the need for diversification and sustainable alternatives. Let's work together to secure energy for all!",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a798dafb923562e3e43fe356cabcf2e3aee29ff325ac0ddc"
+}

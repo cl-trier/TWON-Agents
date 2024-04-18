@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The current crisis in Ukraine highlights the importance of international stability for global peace and security. We must stand with the Ukrainian people as they defend their democracy and sovereignty. The US and its allies should take a firm stance against Russian aggression, while also pursuing diplomatic solutions to prevent further escalation. A world where borders are respected and human rights are protected is non-negotiable. #StandWithUkraine 🌍🇺🇦",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6faf13bd3b9ef8de18345c0910970ee0a1a54735ce7e3661"
+}

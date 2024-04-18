@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "While governments and corporations continue to profit from the suffering of the people, it's time for us to stand up and fight for a public healthcare system that prioritizes human life over profits.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a3b49426935ff15179e31d1ebfb3dcb5d26109cdca538349"
+}

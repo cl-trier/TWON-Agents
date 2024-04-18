@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist ein Menschenrecht, kein Luxus. Durch Investitionen in Forschung und Innovation können wir effektivere und gerechtere Gesundheitssysteme aufbauen. Lassen Sie uns evidenzbasierte Entscheidungen fördern und ideologische Barrieren überwinden, um eine bessere Versorgung für alle zu gewährleisten.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "546f44b3aa94b91ef3f0341b247227647c0d8a55f7529d7e"
+}

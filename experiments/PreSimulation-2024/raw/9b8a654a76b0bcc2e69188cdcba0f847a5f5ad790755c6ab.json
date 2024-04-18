@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Measles Update! 💉👍Did you know that accelerated immunization activities have prevented an estimated 57 million deaths from measles between 2000-2022? 😱 That's thanks to the combined efforts of countries, @WHO, the Measles & Rubella Partnership, and other international partners! 🤝In 2022, 74% of children received both doses of the measles vaccine, and about 83% of the world's children received one dose by their first birthday. 🎉The Measles & Rubella Initiative (now the Measles and Rubella Partnership) and @Gavi have been instrumental in supporting measles vaccination efforts, mostly in the WHO African Region and Gavi-supported countries. 🌐Let's keep up the good work! The Immunization Agenda 2030 Measles & Rubella Partnership (M&RP) is leading the charge to achieve the IA2030 measles and rubella specific targets. 💪Join us in the fight against measles and for a world where every child has access to life-saving vaccines! 🌟",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b8a654a76b0bcc2e69188cdcba0f847a5f5ad790755c6ab"
+}

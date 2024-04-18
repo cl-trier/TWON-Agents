@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's military is facing a critical shortage of resources, putting them at risk of further losses on the battlefield. It's time for the international community to step up and provide the necessary support to help them defend their nation.\"",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "320b33d100c0ef1897c0205dd2d348d7fa35941d2677a464"
+}

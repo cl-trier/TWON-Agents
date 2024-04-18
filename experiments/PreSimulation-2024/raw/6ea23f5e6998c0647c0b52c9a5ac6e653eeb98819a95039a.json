@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Nederland ook eens een degelijke en duurzame economie bouwt, in plaats van steeds afhankelijk te zijn van de whims of de wereldmarkt.",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ea23f5e6998c0647c0b52c9a5ac6e653eeb98819a95039a"
+}

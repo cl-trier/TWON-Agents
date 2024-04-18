@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe rapportage onthult de zorgelijke toestand van de Amerikaanse gezondheidszorgbetaaldruk. Gemiddeld rapporteren respondenten een maximale maandelijkse betaling van $97 voor medische buitenkosten. Preventieve bezoeken, medicijnen, mentale gezondheidszorg en diagnostisch onderzoek worden het meest overgeslagen of uitgesteld. Technologie kan helpen om deze kwestie aan te pakken. Samen stellen we ongelijkheid en discriminatie in de gezondheidszorg te boek!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "182c7ce7bd56f57b2f2accf3476c923d7a9737f8551b510b"
+}

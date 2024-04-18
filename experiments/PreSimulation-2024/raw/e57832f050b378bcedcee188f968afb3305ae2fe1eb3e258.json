@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news for healthcare & progress towards combating Parkinson's! Kudos to #NortonHealthcare for the $20M gift towards expanding programs at Cressman Parkinson's Movement and Disorders Center & Cressman Parkinson's Research. This investment in inclusivity, innovation, and well-being will surely benefit countless lives. Let's keep pushing for equitable healthcare systems!",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e57832f050b378bcedcee188f968afb3305ae2fe1eb3e258"
+}

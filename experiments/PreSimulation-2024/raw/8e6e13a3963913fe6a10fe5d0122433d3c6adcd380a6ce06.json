@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Energy prices are soaring due to the crisis in Ukraine, but let's not forget that government intervention and regulations often contribute to price volatility. It's time for policymakers to prioritize free-market principles and energy independence, allowing competition to drive down costs and ensure a stable supply.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e6e13a3963913fe6a10fe5d0122433d3c6adcd380a6ce06"
+}

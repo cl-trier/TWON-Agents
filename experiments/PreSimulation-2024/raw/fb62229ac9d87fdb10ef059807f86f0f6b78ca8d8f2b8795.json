@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new study reveals the devastating impact of hospital privatization on patient care. How can we prioritize profits over people's health? It's time to put patients before profits and ensure that everyone has access to quality, affordable healthcare.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fb62229ac9d87fdb10ef059807f86f0f6b78ca8d8f2b8795"
+}

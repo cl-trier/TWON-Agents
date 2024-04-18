@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's attacks on Ukrainian infrastructure, including natural gas facilities, are deeply concerning. Such actions not only threaten regional stability but also impact global energy markets. As we advocate for peace and sovereignty, let's remember the importance of energy independence and diversification. Free-market principles and responsible stewardship of our natural resources can lead to a more secure and prosperous future.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ecb2215be0a0ca4c9acdc47617a8d11412e8093871e704fa"
+}

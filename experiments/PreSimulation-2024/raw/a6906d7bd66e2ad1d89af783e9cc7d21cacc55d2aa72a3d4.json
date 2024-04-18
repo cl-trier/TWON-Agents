@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time for Dutch companies to follow the lead of their Latin American counterparts and prioritize employee health with prevention-centered benefit plans. #VivaWell #PreventionIsKey # EmployeeHealthMatters",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a6906d7bd66e2ad1d89af783e9cc7d21cacc55d2aa72a3d4"
+}

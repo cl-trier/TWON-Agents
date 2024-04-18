@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Anticipatie stijgt voor Trudeau's federale budget: beloften over belastingverminderingen, steun voor nieuwe supermarktketens & investeringen in klimaattechnologie. Welke verrassingen zullen er zijn?",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "00502a2ab181d2c4982ec35531a6f3c5be7df32e8de682e8"
+}

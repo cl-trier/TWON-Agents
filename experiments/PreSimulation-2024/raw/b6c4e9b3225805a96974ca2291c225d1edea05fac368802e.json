@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Deeply troubled by the escalating violence in Ukraine's Donetsk & Zaporizhzhia regions 💔 Russian forces seizing villages and reports of civilian casualties, including children, are alarming. We must prioritize diplomacy, de-escalation, and human rights. The international community cannot remain silent as lives are endangered and communities suffer. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b6c4e9b3225805a96974ca2291c225d1edea05fac368802e"
+}

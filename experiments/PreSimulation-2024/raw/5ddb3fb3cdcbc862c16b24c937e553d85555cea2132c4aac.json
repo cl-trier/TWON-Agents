@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey there, Ukraine! I know you're trying to defend yourself against Russian aggression, but let's not forget about the environment, shall we? 🌎 Those oil refineries are not only hurting Russia's economy, but they're also polluting our planet. 🌪️ How about we find a more sustainable way to deal with those pesky Russians? 💚",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5ddb3fb3cdcbc862c16b24c937e553d85555cea2132c4aac"
+}

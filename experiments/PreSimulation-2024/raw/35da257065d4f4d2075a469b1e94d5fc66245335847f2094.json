@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Als voorstander van sociale rechtvaardigheid ben ik enthousiast over het boek 'Human & Planetary Health'. Eén gezondheidszorg die mens en planeet integreert is een belangrijke stap naar een duurzame toekomst voor allen 🌍🩺#OneHealth",
+    "retrieved_source": "https://www.radboudumc.nl/en/news-items/2023/geef-milieu-en-preventie-een-plek-in-nieuwe-inrichting-gezondheidszorg",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35da257065d4f4d2075a469b1e94d5fc66245335847f2094"
+}

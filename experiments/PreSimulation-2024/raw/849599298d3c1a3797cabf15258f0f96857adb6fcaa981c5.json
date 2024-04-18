@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schijnbaar onverzoenlijke leiders toonden openheid voor concessies in gesprekken over einde van de oorlog in Oekraïne. Gesprekken mislukten echter, doordat men zich te vroeg richtte op een post-oorlogs veiligheidsorde. Solidariteit en medemenselijkheid zijn noodzakelijk om oorlogen te beëindigen.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "849599298d3c1a3797cabf15258f0f96857adb6fcaa981c5"
+}

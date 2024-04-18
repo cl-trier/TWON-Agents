@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw plan van Syrische regering: privé investeerders mogen zich inzetten in de gezondheidssector. Volgens minister Hassan al-Ghabbash dient dit om kosten te drukken & efficiëntie te verhogen. Maar waar zal dat inkomen vandaan komen? Zorgkwaliteit voor iedereen, ongeacht hun middelen, is essentieel. Let's hoop op transparantie en inclusie in deze plannen.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "133bda144fb40d3319c6f2f88b44d5be906fb1f816b0214d"
+}

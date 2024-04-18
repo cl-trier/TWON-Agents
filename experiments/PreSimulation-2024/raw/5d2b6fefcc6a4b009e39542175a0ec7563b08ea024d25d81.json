@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hospital workers across Toronto are standing up against the Ford government's privatization scheme. Thousands of healthcare workers from Unity Health Toronto, represented by @OntarioNurses, @CUPEOntario, and @UniforTheUnion, have signed a petition opposing Bill 60. Frontline workers and union leaders are speaking out against the detrimental effects of privatization on Ontario's public hospital system.",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d2b6fefcc6a4b009e39542175a0ec7563b08ea024d25d81"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Onderzoek en innovatie in de gezondheidszorg zijn cruciaal voor een sterke en duurzame toekomst, maisliefde pragmatische benadering van economische kwesties om eerlijke concurrentie te waarborgen.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e0d923c8f9c35ceda019a6a35ef518b57f1c260003f95dc"
+}

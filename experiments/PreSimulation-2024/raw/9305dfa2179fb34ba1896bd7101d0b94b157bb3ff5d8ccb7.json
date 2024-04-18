@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarmed by the escalating attacks on Ukraine's energy infrastructure, we urge immediate global action to provide critical aid & hold Russia accountable for their inhumane actions, as civilians suffer and winter looms💔#StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9305dfa2179fb34ba1896bd7101d0b94b157bb3ff5d8ccb7"
+}

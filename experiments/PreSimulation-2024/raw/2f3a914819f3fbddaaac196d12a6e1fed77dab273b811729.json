@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Besorgnis über die geplante Neustrukturierung von Alberta Health Services: Wir können nicht zulassen, dass Profitinteressen die Gesundheitsversorgung unserer Bürger gefährden - fortschrittliche Politik muss immer den Menschen dienen!",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f3a914819f3fbddaaac196d12a6e1fed77dab273b811729"
+}

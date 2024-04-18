@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "💡accessible healthcare is a game changer! 👶🏼💖 In Malaysia, affordable healthcare means financial protection & people-centred care for mothers & children. Let's continue to support and strengthen public health services for a healthier society! 🌟",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2c2462cfc1a2d40eca96ee89049979ac3b328b19d3ac785b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming: 27% of adults face severe healthcare affordability challenges, with 46% experiencing some form of financial strain 📈 This is a national crisis demanding urgent policy action for affordable, accessible healthcare for all!",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b582399d9dc896f312c474d8f3c022ac32d3cbb6991cf700"
+}

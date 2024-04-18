@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Na twee jaar conflict in Oekraïne: Russische offensieven intensiefien, maar Oekraïne blijft weerstand bieden. Saudi-Arabië helpt mee door olieproductie te verlagen.",
+    "retrieved_source": "https://www.iris-france.org/184223-war-in-ukraine-what-assessment-can-be-made-after-two-years-of-conflict/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d5a36d7730f6773ed99bb07f7cbe5a40f8f13a2f9285c18"
+}

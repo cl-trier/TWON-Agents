@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Großartige Neuigkeiten für Migräne-Patient*innen: Die Langzeitdaten zu Atogepant sind da! Bei täglicher Einnahme von 60mg erreichten 70% der Patient*innen eine Reduktion von mindestens 50% ihrer monatlichen Migränetage zwischen Wochen 13-16. Und das Beste: Dieser Effekt hielt ein ganzes Jahr lang an! Die Durchschnittsdauer der Atogepant-Einnahme betrug 496,5 Tage, und die mittlere Anzahl der Migränetage am Beginn lag bei 14,5. Das ist ein Fortschritt für alle, die unter Migräne leiden. Lasst uns weiter forschen und neue Wege finden, um Menschen zu helfen!",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df3fac4d0d5c03db8f0c2d0efb129fd445c13c8e72ffead2"
+}

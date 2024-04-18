@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schockerenlijk rapport van PayZen over gezondheidszorginkosten in VS: 36% skipte medische zorg wegens ontoereikende betalingsmiddelen.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3269ed53551abb67e18a2303ace771b71cdd4e557e2fa52"
+}

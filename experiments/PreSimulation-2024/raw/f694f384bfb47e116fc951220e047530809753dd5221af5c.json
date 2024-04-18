@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the pioneering physicians at UAMS recognized as Healthcare Research All-Stars for 2024, with their surgery teams ranked top in the nation! This recognition highlights their unwavering commitment to advancing patient care through evidence-based practices.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f694f384bfb47e116fc951220e047530809753dd5221af5c"
+}

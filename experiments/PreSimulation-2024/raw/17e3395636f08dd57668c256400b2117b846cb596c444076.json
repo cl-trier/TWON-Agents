@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Situatie in oost-Oekraïne verslechtert sterk, alarmbtellingen voor Westerse bondgenoten.\" Russia's increased offensive since Putin's reelection is a concern for regional stability and calls for faster military aid from Western allies to counter Moscow's superior weapons.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "17e3395636f08dd57668c256400b2117b846cb596c444076"
+}

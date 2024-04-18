@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Unacceptable! The ongoing violence in Ukraine is a clear threat to peace and security in the region and beyond. The international community must take immediate action to hold those responsible accountable and work towards a lasting ceasefire.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7859a2198cb06378354f40456b1d60f10c53c9c9ab1cdea9"
+}

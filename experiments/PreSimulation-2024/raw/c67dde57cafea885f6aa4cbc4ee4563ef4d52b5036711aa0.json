@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study reveals shocking truth about hospital privatization: worse patient care! 😱🏥💰 Researchers from Oxford University found that privatization leads to decline in staffing levels, patient mix, services provided, and doctors' workload. 🤯👀 What's the price of profit? 💔",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c67dde57cafea885f6aa4cbc4ee4563ef4d52b5036711aa0"
+}

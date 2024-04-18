@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz politischer Korrektheit und Mainstream-Medien-Propaganda: Präsident Zelenskiy's Mobilmachungsgesetz zeigt Ukraine's Entschlossenheit im Kampf um ihre Souveränität. Unterstützt unsere ukrainischen Verbündeten!",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "af0e6c93e9bc1f1f0ff5d4ce35626176ec79cd3716c12fb4"
+}

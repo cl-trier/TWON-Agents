@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study reveals that hospital privatization may lead to poorer patient care. The study, published in The Lancet Public Health, found that privatization is linked to fewer cleaning staff per patient, higher rates of patient infections, and increased avoidable deaths. It's time to reevaluate the push for privatization and prioritize patient care.",
+    "retrieved_source": "https://medicalxpress.com/news/2024-02-links-hospital-privatization-worse-patient.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7e8bc7e7f2e63a6d78f1cedf9974dc5537640abc40c472c3"
+}

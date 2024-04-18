@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Interessante analyse van Stimson Center over potentiële elementen van een Rusland-Oekraïne wapenstilstand en regionale stabiliteit in Europa. Een 'West-Duits model' voor Oekraïne en een regio-consultatie mechanisme zouden beide bijdragen tot duurzame vrede.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f419b1d70833a55ba511aa609b54f8ba815c164b55a7b5d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇷🇺💪 Two years on, Russia's invasion of Ukraine has shaken up the energy landscape. 🌎 European efforts to reduce Russian energy dependence have created a solar energy paradox. 🌞🔌 Meanwhile, Beijing's energy security anxieties are on high alert. 🇨🇳💣 How do we balance energy security and decarbonization? 💡",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04778bd1e5a1ae3446af540cffec64d9c44a9a1c6f2a8d29"
+}

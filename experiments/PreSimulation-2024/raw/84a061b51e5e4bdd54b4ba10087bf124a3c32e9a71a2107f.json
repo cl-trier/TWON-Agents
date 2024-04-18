@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Geen gesjater bij hospitaalwerkers! 🚫💰 Ontmoedigend om te zien hoe de Ford regering nog steeds voorstelt om de gezondheidszorg te privatiseren. Het is tijd dat we ons verenigden en tegen dit gevaarlijke plan streven.",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84a061b51e5e4bdd54b4ba10087bf124a3c32e9a71a2107f"
+}

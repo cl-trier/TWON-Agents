@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's unacceptable that working-age Americans are struggling to pay for healthcare, even with insurance. It's a clear indication that our healthcare system is broken and in need of reform. We need to focus on creating a more affordable and accessible healthcare system that doesn't burden individuals with unaffordable costs. It's time to reassess our priorities and work towards a solution that puts the needs of Americans first.\"",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c9e3b71045ea427f06f69d6f066c127a7aa736c488c1853"
+}

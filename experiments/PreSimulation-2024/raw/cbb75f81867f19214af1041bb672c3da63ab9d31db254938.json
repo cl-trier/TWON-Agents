@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "57 miljoen dödges prevented by measles vaccination between 2000-2022! 💉👏 Het is tijd voor Nederland om ook zijn eigen belangen te stellen en te investeren in het welzijn van eigen burgers.",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cbb75f81867f19214af1041bb672c3da63ab9d31db254938"
+}

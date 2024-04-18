@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg is een fundamentel recht, niet een privilege. Investeer in preventie om elkeen de kans te geven gezond en gelukkig te leven, ongeacht hun achtergrond of middelen",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac46285e4a78d37aaca59f49820e6606a713c30889343706"
+}

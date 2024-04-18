@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Brace yourselves for skyrocketing energy prices as Russia continues its devastating assault on Ukraine's infrastructure, threatening not just Ukrainian sovereignty but also our European neighbors' wallets. We need to stand strong against this energy war and support those fighting to protect their homeland and our stability.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "060cd6824260a24c0105aa3a53e60b0b964f2dc9c82cd68a"
+}

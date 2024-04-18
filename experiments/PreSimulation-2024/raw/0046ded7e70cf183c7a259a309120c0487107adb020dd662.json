@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nine UAMS physicians named Healthcare Research All-Stars! 💫👨‍⚕️🔬 C. Lowry Barnes, M.D., and team recognized for their excellence in hip and knee surgery, orthopaedic surgery, gastrointestinal and general surgery. 💖",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0046ded7e70cf183c7a259a309120c0487107adb020dd662"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "🌐Ukraine's economy defies expectations amid conflict! Surprisingly strong performance in 2023 has EU & IMF taking notice. $20B secured to cover half of Ukraine's budget needs, a testament to effective financial management and reform efforts despite challenging conditions. Kudos to Ukrainian authorities for proving resilience in adversity! #UkraineEconomy💡",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ef226f6038070bf9995755e6d8eef2b23e5b0cb5ac530de"
+}

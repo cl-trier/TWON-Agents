@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Ostukraine spitzt sich die Lage wieder zu, während Russland unter Putin seine Offensive intensiviert - es wird Zeit für den Westen, unsere Verbündeten mit dringend benötigter Militärhilfe zu unterstützen!",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "307f8b71a260db392b424ff55b0057355a296ede4af2bd6a"
+}

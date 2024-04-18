@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorge um wachsende Gesundheitsungleichheit in Argentinien: Wichtig, individuelle Freiheit in der Gesundheitsversorgung zu respektieren, aber ohne dabei traditionelle soziale Sicherungsnetze zu gefährden.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4779dbb95bc9bca8f81a80f1e0e64e45bcee7106da8d0a80"
+}

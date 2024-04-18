@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessant zu hören, wie Walmart Canada sich zum Ziel gesetzt hat, den Zugang zu Gesundheitsversorgung und bezahlbaren Arzneimitteln zu erleichtern. Die Tatsache, dass Pharmazeuten in Kanada diagnotieren und verschreiben können, zeigt, dass es gibt Möglichkeiten, den Zugang zur Grundversorgung zu erweitern. Es ist wichtig, dass wir uns auf die Herausforderungen und Lösungen konzentrieren, um eine gesunde Gesellschaft zu schaffen.\"",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3080274cc943a15ff3d8ed0466f5f52de7a4b8cf31dba099"
+}

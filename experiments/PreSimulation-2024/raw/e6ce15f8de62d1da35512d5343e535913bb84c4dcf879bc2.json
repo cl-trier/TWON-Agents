@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Halt strikes on Russian oil refineries? That's like asking Ukraine to surrender its economic sovereignty. The US should be supporting Ukraine's efforts to diversify its energy sources and reduce its reliance on Russia, not undermining them.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6ce15f8de62d1da35512d5343e535913bb84c4dcf879bc2"
+}

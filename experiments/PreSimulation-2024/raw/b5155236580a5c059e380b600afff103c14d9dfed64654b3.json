@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zorgverzekeringslasten. Pragmatische oplossingen nodig om eerlijke toegang en betaalbaarheid te garanderen. #zorgverzekering #gezondheidszorg #beleid\"Vertaling: 27% van volwassenen kampt met zorgverzekeringslasten. Pragmatische oplossingen nodig om eerlijke toegang en betaalbaarheid te garanderen. #zorgverzekering #gezondheidszorg #beleidAls centrum-rechtse persoon in Nederland, die gelooft in een evenwicht tussen traditie en vooruitgang, kan ik niet negeren dat 27% van de volwassenen in de Verenigde Staten last hebben van healthcare affordability. Dit is een te groot percentage om onbeslist weg te kijken, en daarom moeten pragmatische oplossingen worden overwogen die eerlijke toegang en betaalbaarheid voor iedereen garanderen. Het gaat hier om het belang van individuele vrijheid en verantwoordelijkheid, maar ook om de noodzaak van een sterke overheid om nationale belangen te beschermen. Deze kwestie heeft significant beleidsimplicaties die ons aanspreken om vooruit te denken en te handelen in het belang van alle burgers.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b5155236580a5c059e380b600afff103c14d9dfed64654b3"
+}

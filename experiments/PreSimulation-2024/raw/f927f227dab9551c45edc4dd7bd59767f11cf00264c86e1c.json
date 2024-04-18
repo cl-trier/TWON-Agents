@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Troubling news as Russia attacks Ukrainian natural gas facilities, causing prices to rise. A stark reminder of the need for energy independence and security. We must stand with our allies and promote free-market principles to ensure a stable global energy supply.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f927f227dab9551c45edc4dd7bd59767f11cf00264c86e1c"
+}

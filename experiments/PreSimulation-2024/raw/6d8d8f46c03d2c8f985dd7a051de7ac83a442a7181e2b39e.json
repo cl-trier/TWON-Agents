@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@Ukraine_Military_News#Ukraine #Russia #War #MilitaryAid\"More delays in US military aid could lead to more losses on the battlefield for Ukraine. The destroyed Trypillya power plant was a major blow, and Maryan Zablotskyy, a member of the Ukrainian parliament, warns that his nation is running out of crucial military hardware. The Russian military technology is advancing, and it's alarming how closely it resembles that of Iran and North Korea. The international community must take action to prevent further devastation and ensure Ukraine has the resources needed to defend itself.\"",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d8d8f46c03d2c8f985dd7a051de7ac83a442a7181e2b39e"
+}

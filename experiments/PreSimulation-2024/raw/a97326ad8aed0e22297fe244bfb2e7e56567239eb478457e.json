@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der aktuellen Lage in der #Ukraine ist eine zügige Entscheidung des US-Kongresses über Militär- und Budgetunterstützung entscheidend, um das Risiko beherrschbar zu halten - ein starkes Zeichen der Einigkeit durch das G7 wäre von unschätzbarem Wert.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a97326ad8aed0e22297fe244bfb2e7e56567239eb478457e"
+}

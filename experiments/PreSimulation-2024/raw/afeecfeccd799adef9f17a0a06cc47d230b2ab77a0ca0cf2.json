@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz auf unser interdisziplinäres Team an der UWF, das evidenzbasierte Richtlinien für Krebsprävention in Florida gestaltet. Konstruktiver Dialog und gegenseitiges Verständnis sind der Schlüssel zum Fortschritt.",
+    "retrieved_source": "https://news.uwf.edu/interdisciplinary-team-of-uwf-faculty-help-write-the-rules-on-cancer-prevention-in-florida/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afeecfeccd799adef9f17a0a06cc47d230b2ab77a0ca0cf2"
+}

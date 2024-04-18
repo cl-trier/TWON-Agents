@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@StimsonCenter: The West Germany Model for Ukraine's security assistance commitments and NATO membership is a viable solution to the ongoing conflict with Russia. This approach, combined with a regional consultation mechanism, can pave the way for long-term stability in Europe.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "99342b9b9be3e4aa146a2753d693c17c2cc7744f5021d203"
+}

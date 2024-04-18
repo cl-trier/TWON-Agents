@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "This is heartbreaking. The devastating cost of war. Over 50,000 Russian troops have died in the war with Ukraine, according to a report by the BBC. This is eight times higher than the official death count acknowledged by Moscow. We need peaceful solutions, not endless bloodshed. Let's work together to find a diplomatic answer to this conflict.",
+    "retrieved_source": "https://www.ndtv.com/world-news/over-50-000-russian-troops-have-died-during-war-with-ukraine-report-5462137",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7000df67d88925320f8cb9938b374da9be9ed9ca1a80790b"
+}

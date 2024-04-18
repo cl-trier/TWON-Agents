@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne in crisis? Nederland moet eerste eigen belang stellen, maar internationale stabiliteit is ook cruciaal. Balans tussen nationalisme en samenwerking nodig.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88040822e3daacc7cb812057569515412452fe2d6e2973e8"
+}

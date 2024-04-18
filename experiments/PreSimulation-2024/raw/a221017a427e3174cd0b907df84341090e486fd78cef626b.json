@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While mainstream media ignores the struggles of forgotten communities, I'm proud to highlight our nation's silent heroes - 9 UAMS physicians named as Healthcare Research All-Stars, leading the way in top 5% nationwide!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a221017a427e3174cd0b907df84341090e486fd78cef626b"
+}

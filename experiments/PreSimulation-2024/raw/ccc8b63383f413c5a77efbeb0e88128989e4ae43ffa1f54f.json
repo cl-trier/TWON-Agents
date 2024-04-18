@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend! Die ukrainische Armee steht vor zunehmenden Verlusten auf dem Schlachtfeld, während unsere Unterstützung verzögert wird. Wir können nicht tatenlos zusehen, wie ein souveränes Land unter der Aggression eines autoritären Regimes leidet. Es ist an der Zeit, dass der Westen endlich handelt und unserem ukrainischen Verbündeten die notwendige Militärhilfe gewährt, um die Barbarei zu stoppen. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ccc8b63383f413c5a77efbeb0e88128989e4ae43ffa1f54f"
+}

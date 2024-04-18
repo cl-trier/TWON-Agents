@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The war in Ukraine is not just a localized conflict between two nations, but a global struggle with far-reaching implications. It's time for the international community to acknowledge this reality and work towards a peaceful resolution.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "230f8f3c6e15c930e8fcb422c9f1d41d9d8730dbbc8316da"
+}

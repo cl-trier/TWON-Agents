@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Cervical cancer is a preventable disease that we must eradicate within our lifetime with vaccination,\" says Wright. It's important to note that HPV tests can detect the virus that causes cervical cancer, and regular Pap tests are essential for early detection. The American College of Obstetricians and Gynecologists recommends Pap tests every 3 years for women aged 21-29. In Massachusetts, there are free breast and cervical cancer screening resources available. If diagnosed with cervical cancer, it's crucial to follow up with an oncologist immediately to begin treatment.",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8ec264fa510f0e410777c7c6d65525196824db99825a502e"
+}

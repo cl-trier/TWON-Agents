@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "It's time to shift the focus of our healthcare system from curative to preventive care. By leveraging advances in genome sequencing, biomarkers, and large-scale epidemiology, we can identify individuals at risk and take proactive steps to prevent illnesses. A targeted approach that concentrates resources on populations at risk is the way forward. Let's work together to create a healthier future for all!",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/our-future-health-curative-preventive-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "486572a5b2dfb71809c6f237de26b8449a9ba5238ba3027a"
+}

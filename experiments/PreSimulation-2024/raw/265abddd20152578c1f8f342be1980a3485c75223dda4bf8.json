@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Stalemate in Oekraïne: terwijl beide zijden zich constant vernuwen, blijft het vraagbaak of Rusland zijn militair productiecapaciteit significant heeft kunnen opvoeren. De integratie van lucht- en grondtroepen is kenmerkend voor Russische strategie, maar zal dit standhouden als Poetin al zijn oorlogdoelen in Oekraïne kan bereiken?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "265abddd20152578c1f8f342be1980a3485c75223dda4bf8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorgfältig abwägen: Wie beeinflusst Privatisierung argentinischer Gesundheitsversorgung Ungleichheit und Zugänglichkeit? Konstruktiven Dialog fördern 💬",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "02c075ce16878303185db2822bcd6fd8467ad80638628d0b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw rapport van Info-Tech over Ethical AI in de zorgsector! Belangrijk om op ethische wijze te handelen bij AI-implementatie. Noodzaak voor nationale soevereiniteit in onze gezondheidszorg, we willen onze eigen cultuur en waarden beschermen. Zorgt dat onze burgers gehoord worden in de beslissingen over AI in de zorg.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/info-tech-research-group-releases-blueprint-for-ethical-ai-implementation-in-the-healthcare-industry-302118518.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "20e9c30c747ff43afda2181ef99b19eedf6551a084d2c1bb"
+}

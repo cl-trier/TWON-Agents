@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Unfortunate reality: Medical debt crippling Americans. 92% have insurance, yet can't afford care. High-deductible plans = financial burden. People sacrificing basic needs to pay bills.",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f993518ed93a82a8d3c1219719fc92f83279cc2a87d8aba"
+}

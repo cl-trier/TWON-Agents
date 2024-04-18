@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe faces higher energy prices this winter as Russia-Ukraine gas deal ends, while EU ministers meet to discuss energy security. Let's work towards a sustainable future and reduce our reliance on Russian gas, for a fairer and more equitable society.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "42586da172003f2e1ba3aa018161e52423823169d3c1dcc1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Pragmatisch benadrukken wij de noodzaak van diplomatie om de escalatie van de gewapende conflicten in Oekraïne te voorkomen. #VredeInOekraïne\" (Als je een voorstander van het centrum-rechtse gedachtegoed in Nederland bent.)",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2d596ed84df9be8d7ab71d81c85a747133d19408340c603d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The situation in Ukraine is a stark reminder of the need for nationalism in our modern world. The weakness and corruption of globalist ideologies have led to instability and conflict on a global scale. It's time for nations to put their own interests first and reject the suffocating grip of political correctness.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97a537bd1a1a62bc44bb84d1e5df708b53ef5c32634dd9bd"
+}

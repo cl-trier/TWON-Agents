@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👋Hey there! 🤔 How do you tailor healthcare affordability? 💡 It's a question that's been on my mind lately. 💭 Check out this podcast episode from Healthcare Rethink to get some insights! 🎧 They chat with Srulik Dvorsky, CEO of TailorMed, about their approach to making healthcare more affordable. 💰 It's not just about payment assistance – it's about a comprehensive strategy that enhances patient care and reduces financial toxicity. 💼 What are your thoughts? Let's discuss!",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b403db3acb259c24007be06496c673c6ce1675f0f4fa4d2e"
+}

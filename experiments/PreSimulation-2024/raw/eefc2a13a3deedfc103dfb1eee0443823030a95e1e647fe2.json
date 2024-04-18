@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Stabilität Europas und darüber hinaus hängt entscheidend von der territorialen Integrität der Ukraine ab. Wir müssen unser Engagement für ihre Souveränität und Demokratie stärken, um internationalen Frieden und Sicherheit zu wahren. Keine Placebo-Politik - starke Unterstützung jetzt!\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eefc2a13a3deedfc103dfb1eee0443823030a95e1e647fe2"
+}

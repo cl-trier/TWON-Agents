@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Ontario erweitert die Rolle privat betriebener Kliniken im Gesundheitswesen, doch wir müssen sicherstellen, dass dies nicht zulasten der medizinischen Notversorgung oder des sozialen Zugangs geht -",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "85191bd8f3797401d95c90a22cefd580e10e9e9c8be61097"
+}

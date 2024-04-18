@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Elkeen verdient toegang tot gezondheidszorg, ongeacht de sociale of financiële achtergrond. Onderzoek moet zich richten op verbetering van zorg en verkleining van gezondheidsongelijkheden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d942654cdaa529e9d7f1b1bbe61125cf061e030004182109"
+}

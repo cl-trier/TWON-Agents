@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇪🇺👀 Möglicher Anstieg der Energiepreise im Winter, während Russland-Ukraine Gasdeal ausläuft. Wir sollten uns nicht von Brüssel abhängig machen! 💸❄️ Lasst uns unabhängiger werden und auf erneuerbare Energien setzen. Schützt unsere Souveränität & schafft Arbeitsplätze in Europa! 🌍💡#EnergieUnabhängigkeit",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12d0fe42df4bd6630034ade00e3be02aa9d640427e86ed65"
+}

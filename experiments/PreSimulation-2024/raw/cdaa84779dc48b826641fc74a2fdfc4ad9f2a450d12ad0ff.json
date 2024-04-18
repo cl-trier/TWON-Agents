@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Solidariteit met de zorgwerkers die tegen privatisering van ons gezondheidssysteem vechten! 💪🏽",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cdaa84779dc48b826641fc74a2fdfc4ad9f2a450d12ad0ff"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Geweldig nieuws over Oekraïne! Hun oorlogseconomie presteert verrassend goed, met een sterk financieel beheer en voortgang op de hervormingsagenda. De EU heeft $20 miljard aan financiering verzekerd voor 2023. Prachtig gezien de omstandigheden!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63e1acb066ec45b1d975214cc33e10547e979a687342ce79"
+}

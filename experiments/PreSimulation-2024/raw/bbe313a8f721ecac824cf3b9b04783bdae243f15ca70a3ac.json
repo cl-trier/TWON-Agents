@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👏🏼💡 Affordable & accessible healthcare is a game changer! 💪🏼 As a community nurse & midwife, Ismaziah Binti Ibrahim is making a difference in Malaysia. 💕 She understands the importance of financial protection & people-centred care. 💰👧🏼",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bbe313a8f721ecac824cf3b9b04783bdae243f15ca70a3ac"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisering van gezondheidszorg dreigt ongelijkheid te vergroten; iedereen verdient toegang tot betaalbare en kwalitatieve zorg",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a367bddf4c9f677b40d6425c30483bb2e7026a3e794d3303"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Devastating news out of Ukraine. The destroyed Trypillya power plant was the largest electricity provider for three regions, including Kyiv. Authorities warn that more civilians and troops are dying due to delays in US military aid. Ukrainian parliament member Maryan Zablotskyy says his nation is running out of crucial military hardware. We cannot let Ukraine lose this war. The world must stand with Ukraine against Russian aggression.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "40e120d328fc13049d591f1d7e7655098de034ae5197e26b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🔬✨Exciting insights from Dr. Sanjay Gupta at the AHA Annual Meeting! Emphasizing the importance of brain health, he discussed the rise in diabetic drugs for weight loss & the need for a balanced lifestyle. On AI in healthcare, Dr. Gupta advocates for a \"trust, but verify\" approach to ensure accuracy & combat misinformation. Let's keep pushing for progress!",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a9627bbc256d9cfe7231c9e02d5a0b5c80f877dfba652ffd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Bakhmut ist nicht von der Russischen Föderation besetzt.\" - Zelenskiy auf dem G7-Gipfel in Hiroshima. Richtig, aber wir müssen uns auch überlegen, wie wir die Ukraine unterstützen können, um ihre Souveränität zu schützen und das Land vor further Russian aggression zu bewahren. Es ist Zeit für die internationale Gemeinschaft, sichere Grenzen zu setzen und die Ukraine bei der Verteidigung ihrer Territorialintegrität zu unterstützen.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f1fcc9672848ac06dbdc01232ba26f6f240d360fffa0bd4"
+}

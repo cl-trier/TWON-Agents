@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "High healthcare costs are a burden for many Americans, even those with insurance. It's time for our government to take action and implement policies that prioritize the needs of the people over the profits of the healthcare industry.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a404d40c3ef1f5d0b47e6fc4f09e81a56c4ee9e7ca99809"
+}

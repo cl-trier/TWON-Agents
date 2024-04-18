@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierende Neuigkeiten über die Krise der US-Gesundheitsversorgung! Laut PayZen Report kann sich ein Drittel der Amerikaner keine medizinische Versorgung leisten. Stattdessen müssen sie notwendige Behandlungen verschieben oder ganz auslassen. Während das Establishment schweigt, fordern wir eine ehrliche Debatte über die Wiederherstellung der Grundprinzipien, die unser Land groß gemacht haben. Gesundheit muss wieder erschwinglich werden!",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1d73e6bcfe190a3d14c218e3b9fbcc857c039564bdd0de77"
+}

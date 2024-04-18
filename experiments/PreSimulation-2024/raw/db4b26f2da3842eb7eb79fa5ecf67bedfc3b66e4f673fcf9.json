@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In het nieuwe tijdperk van vrouwenwelzijn 2.0, moeten we AI-technologie volledig benutten om blindstippen in de vrouwengezondheid te verhelpen en de gender gap in de gezondheidszorg te sluiten.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db4b26f2da3842eb7eb79fa5ecf67bedfc3b66e4f673fcf9"
+}

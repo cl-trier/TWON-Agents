@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As Sudan marks a grim 1-year anniversary of civil war, let's not forget the forgotten crisis amidst Gaza & Ukraine conflicts. Food prices up by 110% & they're on the brink of famine - we must act now to ensure access & funding for humanitarian aid.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b8ee17ec9a55a6fc8444574dfcd3e95ad9f313d7774089c7"
+}

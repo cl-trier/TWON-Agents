@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierende Zahlen: 36% der Amerikaner verzichten auf medizinische Versorgung, weil sie es sich nicht leisten können. Es ist höchste Zeit für eine gerechte und bezahlbare Gesundheitsversorgung für alle!",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "548b455b6d7a3edd23878224ce6cae1e4005e29c1f41eb9b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Resilient Healthcare Systems for Pandemic Preparedness: Two Indonesia-Dutch Research Projects Awarded! 🚨💡🏥🌟 Proud to see our nations collaborating to strengthen healthcare systems and protect against infectious diseases. Let's work together to prevent the next pandemic! 🌎💪",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e78a47579fc74540bb3b8eda3a6943742a5331cea716e119"
+}

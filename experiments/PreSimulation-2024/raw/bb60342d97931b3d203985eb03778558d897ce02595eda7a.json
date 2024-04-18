@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energiecrisis: Wie heeft de duurste elektriciteit en gas in Europa?Na de Russische invasie van Oekraïne zijn de pre-tax prijzen van elektriciteit en aardgas gestegen, maar nu dalen ze weer. Welke landen hebben de hoogste en laagste prijzen in Europa en hoeveel zijn de prijzen van elektriciteit en gas sinds februari 2022 toegenomen? Gemiddelde aardgas prijzen zijn gestegen van €8,6 per 100 kWh tot €11,9 per 100 kWh in dezelfde periode. In contrary to electricity prices, hadden de kandidaten niet de goedkoopste gas prijzen, zoals blijkt uit landen als Noord-Macedonië (€10,4) en Bosnië en Herzegovina (€5,9). Ruim 50% van de totale EU-aardgas imports kwam uit Rusland voor de oorlog.\"",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bb60342d97931b3d203985eb03778558d897ce02595eda7a"
+}

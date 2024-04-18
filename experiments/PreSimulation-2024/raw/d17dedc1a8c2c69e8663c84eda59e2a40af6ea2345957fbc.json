@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Ukrainian attacks on Russian oil refineries are a clear example of self-defense in the face of relentless aggression. It's absurd for the US to condemn these strikes while Russia continues to bombard Ukrainian cities with impunity. The international community must recognize Ukraine's right to defend itself and support their efforts to protect their sovereignty.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d17dedc1a8c2c69e8663c84eda59e2a40af6ea2345957fbc"
+}

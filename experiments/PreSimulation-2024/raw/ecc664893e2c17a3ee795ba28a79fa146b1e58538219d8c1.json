@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see innovative partnerships like this that prioritize patient access to clinical research! Limited government intervention and collaboration between healthcare providers and research institutions are key to advancing medical breakthroughs. #free MarketHealthcare",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ecc664893e2c17a3ee795ba28a79fa146b1e58538219d8c1"
+}

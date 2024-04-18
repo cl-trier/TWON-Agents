@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Great news for migraine sufferers! New data shows atogepant is effective in reducing monthly migraine days by 8.5 days on average, with 70% of patients achieving at least a 50% reduction. This is a game-changer for those who have struggled with this debilitating condition.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd9ae583bcf9ac5673ab5c95c0018ab07de25bf628b85327"
+}

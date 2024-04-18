@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to eradicate cervical cancer! 🎉💪 HPV vaccination and regular screening are key. 💕👩‍⚖️ Ages 21-29: Pap test every 3 years. 📝💼 Massachusetts offers free breast and cervical cancer screening! 🎉🙏 If diagnosed, see an oncologist ASAP for treatment. 💪🏼",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d85197bc3e80b09c9b13e11c66dcf8744e1989faae5edb9"
+}

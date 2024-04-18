@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to delve into the groundbreaking blog article, \"Women's Health 2.0: The AI Era\"! Kudos to @JillBiden for the $100M federal funding initiative, closing the health gender gap & expanding the scope of women's health beyond reproduction. Let's end the historical neglect of women's unique health needs & embrace a more inclusive & equitable future in healthcare.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2ec9c83b90b74edf8ed4fe7da89d93f6ff2d41e6e49a0547"
+}

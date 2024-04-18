@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Eerder focus op vrouwen gezondheid in AI-tijdperk! Het is tijd om de blindstipen in vrouwen gezondheidsforsching te verhelpen en unieke behoeften te erkennen. Meer geld en aandacht voor vrouwengesondheid nodig!\"Vertaling: \"Een eerder focus op vrouwen gezondheid in het AI-tijdperk! Het is tijd om de blindstipen in vrouwen gezondheidsforsching te verhelpen en unieke behoeften te erkennen. Meer geld en aandacht voor vrouwengesondheid zijn nodig!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a1469b807e56446eb8d926d32df90b9edc67d16385a3f627"
+}

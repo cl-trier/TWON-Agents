@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must adapt to the evolving cyber landscape and assert its influence in maintaining cyberspace as a common good. The threats posed by Russia and China require a strong, united front to ensure our collective security. It's time for NATO to take strategic competition in cyberspace seriously.\"",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2e45f8dedbea637a35b3573afaa0ef3c25fc4c56331d94c4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Two years on, Russia's invasion of Ukraine has exposed the harsh reality of Europe's dependence on fossil fuels and the need for a swift transition to renewable energy sources.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6309b7e1e835892431a77e320882ef2ae1cd9b664183d83b"
+}

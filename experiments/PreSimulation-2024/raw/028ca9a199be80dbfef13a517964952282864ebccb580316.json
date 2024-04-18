@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Praying for peace in Ukraine and standing firm in our commitment to maintain international stability, we must never waver from defending democracy and upholding the values of freedom and sovereignty.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "028ca9a199be80dbfef13a517964952282864ebccb580316"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing escalation in Ukraine is a dire reminder of the need for robust international action to protect human rights and maintain peace & stability in the region. It's time for the global community to unite in condemning such acts and working towards a peaceful resolution.\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7049a5291136bee64266f1c452658ddc3016708d0d879ac2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The world is on fire and our leaders are fiddling. The US election may bring change but will it be enough? Italy, Spain and Russia are playing a dangerous game. We need to stand up for peace and human rights now more than ever.",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19197b622b8b16e9314ce170642834a09c4b2b6a6a829f06"
+}

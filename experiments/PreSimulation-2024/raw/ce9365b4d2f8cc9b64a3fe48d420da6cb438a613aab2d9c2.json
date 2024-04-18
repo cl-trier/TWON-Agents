@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Dag 782 van de Russisch-Oekraïense oorlog. Onze solidariteit gaat uit naar alle slachtoffers van oorlog en ongelijkheid. Strijden we samen voor vrede, rechtvaardigheid en een wereld waarin iedereen dezelfde kansen krijgt, ongeacht hun achtergrond.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce9365b4d2f8cc9b64a3fe48d420da6cb438a613aab2d9c2"
+}

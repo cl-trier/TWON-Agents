@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz des anhaltenden Leids im #Russland-#Ukraine Krieg hoffe ich auf einen baldigen Frieden, der auf Dialog, Respekt für territoriale Integrität und Menschenrechte basiert.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d6fc148070dfc0aff2dffcf78e05a6807fa1ad16ffaf21e"
+}

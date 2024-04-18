@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "It's not surprising that medical debt is skyrocketing in the US, given the exorbitant costs of healthcare and the prevalence of high-deductible plans. It's a perfect storm that's leaving millions of Americans in financial distress.",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0fbcd07189e6fc1fb59cdc75a8a1463f0298ba230ad0bb6f"
+}

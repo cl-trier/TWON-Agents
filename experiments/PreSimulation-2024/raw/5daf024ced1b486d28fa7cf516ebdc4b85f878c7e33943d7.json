@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend nieuws over de olieprijsstijgingen als gevolg van de escalerende situatie in Oekraïne. Onrechtvaardig voor de reeds benadeelden in onze samenleving. Wij moeten solidair zijn met hen en streven naar een eerlijke en duurzame energieoplossing voor allen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5daf024ced1b486d28fa7cf516ebdc4b85f878c7e33943d7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's sunflower seed shortage could lead to a drop in sunflower oil production, but let's not forget that multiple factors contribute to price reductions in the vegetable oil market.",
+    "retrieved_source": "https://en.interfax.com.ua/news/economic/981064.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c8bb672a8cd8edaf412b4e4c5464128c7928243c3461e72"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Eskalation des Ukraine-Konflikts bedroht nicht nur die regionale Stabilität, sondern auch die internationale Sicherheit, warnen die Vereinten Nationen. Mindestens 126 Zivilist*innen wurden im März getötet und 478 weitere verletzt. In der letzten Nacht und heute Morgen kam es zu weiteren Angriffen auf das ukrainische Energienetz, bei denen Todesfälle, einschließlich tödlicher Verletzungen, gemeldet wurden. Die Überwachung und Berichterstattung über das Ausmaß der Menschenrechtsverletzungen ist ein wesentlicher Bestandteil der Schritte zur Rechenschaftspflicht. Wir müssen wachsam bleiben und die Einhaltung von Menschenrechten, Frieden und Gerechtigkeit fördern.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a84ed3683ee3bb7bb11a3418cfcb8c4fe793a53aef6050a"
+}

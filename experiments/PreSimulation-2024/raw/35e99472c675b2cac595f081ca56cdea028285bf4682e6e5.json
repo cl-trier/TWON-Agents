@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's relentless attacks on Ukraine's energy infrastructure are a stark reminder of the need for robust defense capabilities and international cooperation to counter such aggression.",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35e99472c675b2cac595f081ca56cdea028285bf4682e6e5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As the humanitarian crisis in Ukraine continues, we must stand firm in our support for its people and democracy. The debate over aid should not hinder us from taking action. Let's urge the House to pass the Ukraine aid bill and show Russia that we are united in our commitment to justice and peace. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e906a99f3c56b8430ff94937a23454d08175a556a98272c2"
+}

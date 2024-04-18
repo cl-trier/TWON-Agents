@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend te zien hoe Oekraïne's gasvoorraden het doelwit van Kremlin-raketten worden, terwijl Europa profiteert van hun opslag. De geplaagde natie moet ze alleen verdedigen. We moeten onze solidariteit tonen en bijdragen aan een stabiele toekomst voor Oekraïne én Europa.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d36450057ff11bea35d294b028a8af79ee94bbe81fca1c31"
+}

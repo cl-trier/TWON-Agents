@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Gezamenlijk moeten we voorbereid zijn op hogere energieprijzen en streven naar onafhankelijkheid van Russisch gas. Solidariteit is de sleutel om kwetsbare groepen te beschermen tegen energiearmoede.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4fad221d64d8c942d094d5ff765e1691cf563102cdae7dea"
+}

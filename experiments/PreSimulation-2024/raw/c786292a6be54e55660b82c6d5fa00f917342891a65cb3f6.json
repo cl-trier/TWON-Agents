@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Stifling free thought? The CDC's call for papers on preventing chronic disease lacks diversity of ideas. Time to open up the conversation and consider all perspectives!",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c786292a6be54e55660b82c6d5fa00f917342891a65cb3f6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Weltordnung, die nach dem Zweiten Weltkrieg aufgebaut wurde, ist im Begriff zu zerbrechen, warnt Außenministerin Joly. Globale Mächte verschieben ihr Gewicht und stören den Frieden, für den Kanadier gekämpft und ihr Leben gelassen haben. Während krisenhafter Zeiten ist es entscheidend, unsere nationalen Interessen zu verteidigen und unsere Souveränität zu wahren. Lassen Sie uns zusammenstehen und sicherstellen, dass Kanada weiterhin eine führende Stimme in der Weltpolitik bleibt.",
+    "retrieved_source": "https://globalnews.ca/news/10057964/melanie-joly-speech-israel-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c1402b5d74a8de5ac43f614a8fc9b7d8ab3d2d9b953e89a8"
+}

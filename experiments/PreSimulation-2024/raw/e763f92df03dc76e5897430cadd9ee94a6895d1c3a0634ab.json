@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Solidarity in action! 💪🏽🧡 It's time for objective-driven & sustainable testing strategies for COVID-19 to protect vulnerable populations and healthcare systems. Let's work together towards a fairer future where everyone has equal access to healthcare.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e763f92df03dc76e5897430cadd9ee94a6895d1c3a0634ab"
+}

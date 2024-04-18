@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "💡📉 Did you know that electricity and gas prices have been on the rise in Europe since Russia's invasion of Ukraine? 🤯 But which countries have been hit the hardest? 🤔 According to recent data, the Netherlands has the priciest electricity in Europe, with an average price of €23.5 per 100 kWh! 💸 And when it comes to natural gas, Bulgaria takes the cake with an average price of €14.8 per 100 kWh. 💥 But don't worry, folks, prices are finally starting to decrease! 🌟 So, which countries have seen the biggest increase in electricity and gas prices since the start of Russia's full-scale invasion? 🤔 It's not who you might think... 😱",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "589d9f24c7267fcb0452534d2fd4791811489a7bd248df88"
+}

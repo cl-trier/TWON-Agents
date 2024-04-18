@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While I support efforts to improve healthcare, I'm concerned about the government's increased role in AHRQ's $80M initiative for health equity research. Let's focus on voluntary solutions & individual responsibility to truly bridge gaps in care.",
+    "retrieved_source": "https://www.ahrq.gov/news/newsletters/e-newsletter/907.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "124e52350cb1338386669c3512590bb6bf19b9c00a66d624"
+}

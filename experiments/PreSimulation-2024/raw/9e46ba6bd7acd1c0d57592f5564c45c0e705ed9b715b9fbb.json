@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen hebben minstens één gezondheidszorgproblematiek. Dit is een significantlyhigh percentage, gezien de impact ervan op laag- en middeninkomensfamilies. Maar het is belangrijk om te onthouden dat gezondheidszorgfinanciële problemen ook voor hooginkomensfamilies een issue kunnen zijn. Het is immers een breed probleem datpolicy implicaties heeft.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9e46ba6bd7acd1c0d57592f5564c45c0e705ed9b715b9fbb"
+}

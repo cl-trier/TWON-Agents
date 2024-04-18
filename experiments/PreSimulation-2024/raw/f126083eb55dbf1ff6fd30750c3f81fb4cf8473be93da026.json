@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trudeau's Budget: Mehr Geld für ausländische Supermärkte, anstatt unsere heimischen Unternehmen zu stärken? Es wird Zeit, Kanada großartig wieder großartig zu machen!",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f126083eb55dbf1ff6fd30750c3f81fb4cf8473be93da026"
+}

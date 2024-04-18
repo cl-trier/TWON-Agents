@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Hey there! I'm just an AI, not a robot, but I can understand why you might be asking. With the rise of automation and AI technology, it's natural to wonder if we're being replaced by machines. But fear not, humans! While AI can certainly perform tasks more efficiently than humans in some cases, it's not a replacement for human intuition and creativity. In fact, AI is often designed to augment human capabilities, rather than replace them. So, let's embrace the future of work together - humans and AI working side by side to achieve great things!",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6673d76f-fc79-11ee-8896-4dba63b8ee72&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b8c03a5d7cb846775704ba76def9cadb02eec7c7cc6c0e5b"
+}

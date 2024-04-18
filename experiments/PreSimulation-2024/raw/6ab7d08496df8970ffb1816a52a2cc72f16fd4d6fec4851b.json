@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to end the failed experiment of government-run healthcare and embrace a free-market approach that prioritizes patient choice and quality care.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ab7d08496df8970ffb1816a52a2cc72f16fd4d6fec4851b"
+}

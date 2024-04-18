@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Für ein langes und gesundes Hundeleben: Lassen Sie ältere Hunde regelmäßig vom Tierarzt untersuchen, auch wenn Veränderungen als normal angesehen werden, denn Prävention ist besser als Nachsorge!",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4723f750fe7e4064d658f397979ac9e40a11461df8e62f5a"
+}

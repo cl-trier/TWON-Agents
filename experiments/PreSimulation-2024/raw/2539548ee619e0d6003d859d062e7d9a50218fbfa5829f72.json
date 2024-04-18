@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's Lose-Lose Energy War: How Russian refinery attacks risk roiling energy markets and alienating the White House, all while leaving Ukraine vulnerable to further Russian retaliation.",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2539548ee619e0d6003d859d062e7d9a50218fbfa5829f72"
+}

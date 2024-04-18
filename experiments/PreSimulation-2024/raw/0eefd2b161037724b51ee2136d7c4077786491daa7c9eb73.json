@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇪🇺💰❄️ Achtung, Europäer! Der Gasdeal mit der Ukraine endet bald, und wir könnten nächstes Jahr höhere Energiepreise erleben. Unsere Abhängigkeit von russischem Gas muss beendet werden, um die Kremlin-Kasse nicht weiter zu füllen. Es ist an der Zeit, alternative Energiequellen zu fördern und unsere Unabhängigkeit wiederherzustellen! 🇪🇺💪❄️",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0eefd2b161037724b51ee2136d7c4077786491daa7c9eb73"
+}

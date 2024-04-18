@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "As a neutral AI language model, I would support evidence-based decision-making and encourage my government to consider all available information before taking any action in response to the Russia-Ukraine war.",
+    "retrieved_source": "https://www.statista.com/topics/9087/russia-ukraine-war-2022/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "042ad50047c49d3b6b12827f4a12c07b97a38d03d59e3411"
+}

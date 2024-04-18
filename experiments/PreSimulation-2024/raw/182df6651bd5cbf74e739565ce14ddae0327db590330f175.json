@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to collaborate and fight healthcare fraud through the Healthcare Fraud Prevention Partnership's regional events, webinars, and working groups! Join us at the Executive Board Meeting on April 18: [events page link]",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "182df6651bd5cbf74e739565ce14ddae0327db590330f175"
+}

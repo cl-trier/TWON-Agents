@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare should be a fundamental right, not a luxury for the wealthy. We need to tailor affordability solutions that prioritize patient care & reduce financial toxicity. Let's work together to create a healthcare system that values human life over profit.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47978b4eceec4ab3e4dce855534f6bf570f64b8cae06e5b9"
+}

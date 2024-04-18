@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan dat privatisering van ziekenhuizen gekoppeld is aan slechtere zorg voor patiënten. Solidariteit en gelijkwaardigheid zijn de basis voor een rechtvaardige gezondheidszorg.\"",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "39b9600e048d689668edeaa0485f39d3e89f5de00d4b47e9"
+}

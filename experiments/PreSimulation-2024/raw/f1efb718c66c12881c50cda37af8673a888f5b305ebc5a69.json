@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatization of public hospitals in Syria? The government's plan raises concerns about the future of healthcare. Investment in the sector is needed, but we must ensure that it doesn't come at the cost of accessibility and affordability for all.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1efb718c66c12881c50cda37af8673a888f5b305ebc5a69"
+}

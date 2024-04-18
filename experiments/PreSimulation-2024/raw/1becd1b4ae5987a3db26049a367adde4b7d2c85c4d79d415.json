@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatizing coverage: Emerging threats to universal healthcare in Lebanon. The devaluation of social security contributions and national institutions' budgets pose a threat to the role of the NSSF as the main insurer of private sector workers.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1becd1b4ae5987a3db26049a367adde4b7d2c85c4d79d415"
+}

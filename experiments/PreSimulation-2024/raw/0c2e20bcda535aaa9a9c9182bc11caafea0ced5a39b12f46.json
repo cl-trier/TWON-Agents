@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In het licht van de energiecrisis in Oekraïne is dringend militair toezicht op de infrastructuur noodzakelijk om Europese energiemarkten te beschermen. Diversificatie van bronnen en overstap naar duurzame oplossingen zijn belangrijk, maar realistische planning en regulering zijn nodig voor eerlijke concurrentie. Meer informatie: IEA en IRENA.",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c2e20bcda535aaa9a9c9182bc11caafea0ced5a39b12f46"
+}

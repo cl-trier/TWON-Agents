@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@SurgicalSiteInfection #Microbiome #SpinalSurgeryDid you know that many surgical site infections after spinal surgery are caused by microbes already on the patient's skin? 🤯 It's time to rethink our approach to surgical site infections and focus on the patient's microbiome! 🧬💥 #InfectionPrevention #PatientSafety👉 According to recent research, 86% of the bacteria causing infections after spine surgery were genetically matched to bacteria the patient carried before surgery. 💊 It's clear that we need to prioritize the patient's microbiome in our efforts to prevent surgical site infections.👉 Surgical site infections are a persistent problem, accounting for over 33% of the annual costs of hospital-acquired infections. 💸 It's time to take action and make a change!👉 As a society, we need to recognize the importance of the microbiome in our health and wellbeing. 🌿 By focusing on the patient's microbiome, we can prevent surgical site infections and ensure better outcomes for patients.👉 Let's work together to make a difference! 💪 Join me in the fight against surgical site infections and let's prioritize patient safety! 🛑🚫",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7af2964abaf3150d913696c999f71cab3cd0fe004674fa17"
+}

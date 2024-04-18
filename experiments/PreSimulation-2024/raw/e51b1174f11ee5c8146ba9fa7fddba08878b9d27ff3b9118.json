@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The High Cost of Health: Analyzing America's Healthcare Affordability Crisis.\" 🤯💸 New report exposes the harsh reality of healthcare in the US. 🇺🇸 People are skipping preventive care, prescription meds, and mental health treatment due to unaffordable costs! 💔 It's time for change!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e51b1174f11ee5c8146ba9fa7fddba08878b9d27ff3b9118"
+}

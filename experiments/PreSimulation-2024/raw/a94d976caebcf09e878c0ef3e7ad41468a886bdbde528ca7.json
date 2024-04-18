@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Es wird Zeit, dass die Regierung in Forschung investiert, um eine wirklich patientenzentrierte Gesundheitsversorgung zu entwickeln, anstatt den Mainstream-Medien zu erlauben, politische Korrektheit über medizinische Fakten zu stellen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a94d976caebcf09e878c0ef3e7ad41468a886bdbde528ca7"
+}

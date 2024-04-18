@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie lijdt Oekraïne nog steeds onder oorlog en geweld. Het is tijd voor solidariteit en actie om ongelijkheid en discriminatie te bestrijden. Laat ons samen werken om een Europa van vrede, gerechtigheid en gelijkwaardigheid te bouwen.",
+    "retrieved_source": "https://www.clingendael.org/event/war-europe-impact-russian-aggression-ukraine-2-years",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1800445420b87a1fa1972278874f571a3f2aeaf6b1d73790"
+}

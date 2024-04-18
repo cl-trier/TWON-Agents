@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Vreedzaam oplossen #Oekraïnecrisis moet prioriteit zijn. Sterke steun van #VS essentieel, geen tijd voor politieke spelletjes. Samenwerking met #G7 nodig om manageerbare risico's aan te pakken.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "402c5096a735b3610cea9237e9bc6a541076f8e172f74f46"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Achtung vor Privatisierung! Laut ER-Studien ist die private Notfallversorgung 21% teurer als VHA-Versorgung. Jeder dieser Folgedienste generiert mehr Einnahmen für VCCP-Anbieter, ohne der normalen Versicherungsgesellschafts-Nutzungsprüfung zu unterliegen. VHA-Anbieter müssen sich umfangreichem Training unterziehen, um Veteranen-spezifische mentale und physische Probleme besser verstehen und behandeln zu können.Dieses Obama-Ära-Gremium war vollgepackt mit Privatisierungsbefürwortern wie Darin Selnick, der sich von dem endgültigen Bericht distanzierte, weil er seiner Meinung nach nicht weit genug in Richtung seines bevorzugten Weges ging. Zudem würde das Land sein einziges Modell umfassender Gesundheitsversorgung verlieren.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd758b9ea85d4241db4cf7a18245c9185baca3a4686becb4"
+}

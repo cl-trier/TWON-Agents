@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to join the Higher Ed & Healthcare Research Compliance Conference 2024 with Troutman Pepper Partners to discuss Name, Image, and Likeness in college athletics, diving into current rules and future possibilities!",
+    "retrieved_source": "https://www.troutman.com/insights/higher-education-and-healthcare-research-compliance-conference-2024.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6153c41344698ca0efca7f06f05e3caf85e7cce94dd5dec2"
+}

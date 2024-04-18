@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "China's Xi schlägt 4 Prioritäten zur Lösung der Ukraine-Krise vor, während Russland weiterhin entschlossen ist, eine Schlüsselstadt einzunehmen. Es ist an der Zeit für den US-Kongress, die Unterstützung für Ukraine freizugeben. Keine Ausreden mehr! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c865401423c187f025e84645ceebc4c15d49bc75629015c"
+}

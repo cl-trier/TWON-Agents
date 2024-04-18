@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Ein Drittel der erwachsenen Bevölkerung kämpft mit Herausforderungen bei der Bezahlbarkeit von Gesundheitsversorgung. Wir müssen zurück zu den Prinzipien individueller Verantwortlichkeit und freier Marktpreise, um die Kosten zu senken und die Qualität zu erhöhen. Überregulierung und staatliche Eingriffe haben das Problem verschärft. Lasst uns Lösungen finden, die auf echter Wahlfreiheit und Wettbewerb beruhen.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d61d7240ad069901d93529af8636f5a08ad256bae742869d"
+}

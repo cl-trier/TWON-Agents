@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking news as Russia continues its attacks on Ukraine's energy infrastructure, causing destruction and endangering civilians. Urgent need for international aid and diplomatic intervention. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c4c62e7d5238f5a6ab5c92a03740561b7a0430c98755ba34"
+}

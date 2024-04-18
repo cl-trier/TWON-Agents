@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Lobenswert: 50-fache Steigerung bei Krebsvorsorgeuntersuchungen in den letzten 5 Jahren! Traditionelle Werte wie Gesundheitsvorsorge sind unerlässlich. Starke Unterstützung für frühzeitige Erkennung & individuelle Verantwortung für unsere Gesundheit.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b091ebc1da5f5097a2ecd441dd3273d28447aa40ca183f9c"
+}

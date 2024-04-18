@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Stärkt unsere Unterstützung für die Ukraine! Verweigerung von Hilfe destabilisiert nicht nur die Region, sondern auch die globale Ordnung. Finanzielle Verantwortung und weitsichtige Politik gehen Hand in Hand.",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9de9b992c06254471d32dd56a413c027e9f8ede582f8455b"
+}

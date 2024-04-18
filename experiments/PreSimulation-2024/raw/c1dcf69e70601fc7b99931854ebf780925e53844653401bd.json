@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Gen Z's virtual-first approach to healthcare presents both opportunities and challenges for providers. Let's ensure that they have access to high-quality digital services while maintaining personalized human interaction when needed.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c1dcf69e70601fc7b99931854ebf780925e53844653401bd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Östliche Ukraine spürt Russlands eskalierende Aggression. Es ist an der Zeit für den Westen, unsere Souveränität zu verteidigen und schnelle Hilfe zu leisten.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dbafb4125e0c52c807e64e080ae4f1630155fdfe456992d4"
+}

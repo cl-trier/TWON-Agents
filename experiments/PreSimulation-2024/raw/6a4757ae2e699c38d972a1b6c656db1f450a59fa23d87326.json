@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut is not occupied by Russia Federation as of today\" - Zelenskiy's words give hope to those who fear for the safety of Ukraine. But let's not forget that there are still many challenges ahead in this conflict. Solidarity with those affected and let's continue to support each other towards a peaceful resolution!",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a4757ae2e699c38d972a1b6c656db1f450a59fa23d87326"
+}

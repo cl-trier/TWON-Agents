@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Skyrocketing energy prices are hitting families and small businesses hard. While Ukraine suffers from Russian aggression, we must ensure our energy independence and security. Let's invest in American innovation, unlock domestic resources, and strengthen free-market principles to create a resilient energy future for all. 🇺🇸💡",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8b4b459a4f2751e833c3192c828ca5d7e8dd11f6783bfaf2"
+}

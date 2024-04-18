@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bewust van de gevaren van privatizering in de gezondheidszorg! Neergang van zorgkwaliteit bij commerciële instellingen is onacceptabel. Bescherm onze #AHSProud tradities van toegankelijkheid & kwaliteit voor iedereen. Geen ruimte voor profiteren op ziekte!",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6001d4eb53ea8705b7184f1fd078cc47a34be1770a454e65"
+}

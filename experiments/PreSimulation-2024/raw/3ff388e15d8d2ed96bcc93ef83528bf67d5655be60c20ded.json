@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante ontwikkeling in Canada: meer rol voor private sector in openbare gezondheidszorg! Ontmoet de vraag naar snellere en toegankelijkere zorg, terwijl de essentiële beginselen van universele zorg behouden blijven. Pragmatische benadering om efficiëntie te verbeteren en wachten te verminderen.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ff388e15d8d2ed96bcc93ef83528bf67d5655be60c20ded"
+}

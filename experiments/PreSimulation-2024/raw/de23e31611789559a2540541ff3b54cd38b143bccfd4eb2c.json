@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sadly, it's no surprise that 36% of Americans have skipped necessary medical care due to affordability issues. Our healthcare system is broken and we need a fix now! It's time for policymakers to take action and implement solutions that put patients first, not insurance companies or government bureaucrats.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de23e31611789559a2540541ff3b54cd38b143bccfd4eb2c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz zehn Jahren Krieg hat sich die Ukraine's Energiesektor positiv verändert: Durch transparente Märkte, Abschaffung von Subventionen und Reduzierung des Staatsanteils stärkt das Land seine Energiesicherheit und rückt näher an europäische Standards.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d193c45e6e1e6de656bc7790dc51d2dadb7d2bc5e02d2e8d"
+}

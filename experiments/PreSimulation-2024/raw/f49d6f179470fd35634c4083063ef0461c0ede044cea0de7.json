@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Genug der Doppelstandards: Die Unterstützung für Ukraine im Militärokonflikt muss aufhören, es ist an der Zeit, unsere eigenen Grenzen zu sichern und nationale Interessen zu priorisieren!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f49d6f179470fd35634c4083063ef0461c0ede044cea0de7"
+}

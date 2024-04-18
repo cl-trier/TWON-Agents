@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unverzügliche militärische Hilfe für die Ukraine ist entscheidend, um humanitäre Katastrophe und regionale Instabilität zu vermeiden. Starke Verbündete handeln solidarisch.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01f135a709a6d8860fa49021522ee5560a7455d6426e326c"
+}

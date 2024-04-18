@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely shocking statistic: 10 million lives at risk annually by 2050 due to antimicrobial resistance! To stem this tide, we must unite and fight on all fronts - human & animal health. A victory over antibiotic resistance would rank among the greatest global health achievements of our time. Let's invest in research, advocate for sustainable farming practices, and promote responsible use of antibiotics to protect our future.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe1890b0ab343995981e692933d9b8ff35eb24d3ed52033f"
+}

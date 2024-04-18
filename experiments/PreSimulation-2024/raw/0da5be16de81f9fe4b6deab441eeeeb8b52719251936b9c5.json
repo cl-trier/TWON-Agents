@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die aktuellen Schätzungen für die Saison 2023-24 zeigen eine alarmierende Anzahl von Flu-Hospitalisationen, die weitaus höher sind als in den vorherigen Jahren. Wir müssen alle unsere Verantwortung als Gesellschaft übernehmen, um diese Zahl zu reduzieren und für eine gesündere Zukunft zu sorgen.\"",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0da5be16de81f9fe4b6deab441eeeeb8b52719251936b9c5"
+}

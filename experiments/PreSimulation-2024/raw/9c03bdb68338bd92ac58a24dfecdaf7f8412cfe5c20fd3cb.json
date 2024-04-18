@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Olieverwerkende plants in Oekraïne staan voor het punt om hun werk te staken door aanvallen op de energie-infrastructuur, aldus analisten. Nu sunflower zaden schaars zijn in Oekraïne en sunflower olie mogelijk tekortschiet in mei en juni. Het is echter belangrijk om te onthouden dat verschillende factoren in de markt voor zonnebloemolie en groente olie een daling van de prijzen beïnvloeden. Duidelijk zijn er diverse factoren die een verder daling van de zonnebloemprijzen begunstigen. Het maximum aan hetwelke de conditie-zonnebloemprijzen kunnen dalen is UAH 15.300-15.500 per ton, hoewel deze week raffinaderijen prijzen bieden van UAH 16.600 per ton. We moeten de groente olie prijzen monitoring: zodra ze beginnen te dalen, zullen de zonnebloemprijzen volgen,\" voorspellen de deskundigen.#Oekraïne",
+    "retrieved_source": "https://en.interfax.com.ua/news/economic/981064.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c03bdb68338bd92ac58a24dfecdaf7f8412cfe5c20fd3cb"
+}

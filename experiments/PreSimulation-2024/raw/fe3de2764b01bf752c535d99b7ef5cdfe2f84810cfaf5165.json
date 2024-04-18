@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "CDC's new call for papers on preventing chronic disease highlights the importance of interdisciplinary research and collaboration to address the root causes of public health issues. Let's work together to create a healthier future for all!\"",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fe3de2764b01bf752c535d99b7ef5cdfe2f84810cfaf5165"
+}

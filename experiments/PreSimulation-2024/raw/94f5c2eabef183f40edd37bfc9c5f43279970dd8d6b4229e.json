@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessante Entwicklungen in Argentinien: Es wird erwartet, dass Privatkliniken während der Präsidentschaft eine größere Rolle spielen könnten. Aber was bedeutet das für die Gesundheitsungleichheit im Land? Wichtig, den Dialog über diese komplexen Themen am Laufen zu halten, um gegenseitiges Verständnis und fundierte Entscheidungen zu fördern.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "94f5c2eabef183f40edd37bfc9c5f43279970dd8d6b4229e"
+}

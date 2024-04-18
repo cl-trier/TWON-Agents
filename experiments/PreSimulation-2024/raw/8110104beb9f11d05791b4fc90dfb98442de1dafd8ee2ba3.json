@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe slaapt door terwijl Oekraïne's licht uitgaat. Oekraïne's gasopslagplaatsen werden getroffen door Kremlin-raketten. Europa profiteert van Oekraïne's gasopslag, maar het land moet ze alleen verdedigen. Oekraïne's opslagplaatsen zijn groter dan die van enig EU-land en bedragen ongeveer 28% van de EU-behoeften. Oekraïne's opslagplaatsen hebben zich weerom getoond. Oekraïne's energie-infrastructuur hangt aan een draad, en als Rusland zijn aanvallen voortzet, zullen er serieuze twijfels zijn over hun capaciteit om nog een winter te overleven.\"",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8110104beb9f11d05791b4fc90dfb98442de1dafd8ee2ba3"
+}

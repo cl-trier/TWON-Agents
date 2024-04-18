@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Proud of Ukraine's resilience as they transform their energy sector post-war, embracing transparency, ending household subsidies, & reducing state control – a true testament to progressive change for energy security and sustainability 💡🌍",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1998c9d7f283a974c687b1fa7a4ee563749183cc971ad91"
+}

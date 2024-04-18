@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Olie-refinaderijen mogen geen doelwit zijn in oorlogen - steunen we altijd het beschermen van burgerlijke onschendbaarheid en het streven naar vrede!",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d2edab94ee5adf2eba94ea8b142b0a6cc08d908612647cc2"
+}

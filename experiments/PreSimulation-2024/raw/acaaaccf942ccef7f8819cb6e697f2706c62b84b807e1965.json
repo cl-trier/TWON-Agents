@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nadat de voorbelasting prijzen van elektriciteit en aardgas na de volledige invasie van Oekraïne door Rusland stegen, zijn ze nu aan het dalen. Welke Europese landen hebben de hoogste en laagste prijzen en hoeveel zijn deze gestegen sinds februari 2022? Noord-Macedonië heeft bijvoorbeeld relatief goedkope gasprijzen van €10,4, terwijl de EU voor 50% van haar aardgas uit Rusland betrokken was voordat de oorlog begon. Objectieve feiten en bewijsmateriaal zijn onontbeerlijk om de politieke complexiteit te doorgronden.\"#Energiecrisis",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "acaaaccf942ccef7f8819cb6e697f2706c62b84b807e1965"
+}

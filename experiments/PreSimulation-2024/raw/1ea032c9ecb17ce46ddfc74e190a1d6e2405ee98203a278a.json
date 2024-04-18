@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": " Tweede anniversary of Russia's invasion of Ukraine: time to reassess our support for Kiev? Join us for a discussion with experts on the state of the war, Ukrainian and Russian strategy, and the future of Western aid.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ea032c9ecb17ce46ddfc74e190a1d6e2405ee98203a278a"
+}

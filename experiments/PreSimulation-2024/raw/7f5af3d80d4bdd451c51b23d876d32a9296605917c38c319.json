@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Physicians have a crucial role to play in preventing gun violence, let's not ignore the public health crisis in our backyard #GunViolencePrevention #PublicHealth #USF Review",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f5af3d80d4bdd451c51b23d876d32a9296605917c38c319"
+}

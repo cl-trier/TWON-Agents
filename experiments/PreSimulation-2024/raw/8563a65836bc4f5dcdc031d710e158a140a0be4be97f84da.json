@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Verwirrt über die Roboterfrage – habe ich etwas verpasst? Stellt sicher, dass eure Browser JavaScript und Cookies unterstützen, um Probleme zu vermeiden.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=311cd46f-fc07-11ee-80b8-12d1abb7c8f3&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8563a65836bc4f5dcdc031d710e158a140a0be4be97f84da"
+}

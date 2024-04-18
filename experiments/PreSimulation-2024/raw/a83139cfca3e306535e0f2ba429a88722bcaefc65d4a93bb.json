@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de inval in Oekraïne zien we een versterkte focus op energieveiligheid en decarbonisatie. Enerzijds door de anxiousness over Russische energieleveranties, anderzijds door de noodzaak om naar duurzame energiebronnen over te stappen. Maar laten we niet vergeten: decarbonisatie moet niet worden betaald met het verlies van ons eigen culturele identiteit en soevereiniteit.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a83139cfca3e306535e0f2ba429a88722bcaefc65d4a93bb"
+}

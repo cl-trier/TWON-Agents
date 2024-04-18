@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In Nederland streven wij naar gelijke kansen en zorg voor iedereen. Het is schokkend om te horen dat Amerikanen die verzekerd zijn toch geplaagd worden door zware medische schulden. Samen moeten we werken aan universele en betaalbare zorg voor allen, overal.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e0461b74e214606cb45c4ed9274e0b84a3d771f315b39da5"
+}

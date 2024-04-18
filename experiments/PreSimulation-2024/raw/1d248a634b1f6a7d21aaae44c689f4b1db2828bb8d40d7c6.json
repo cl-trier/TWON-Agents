@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Brain health & AI in medicine: let's focus on prevention & accuracy. We need to measure brain health & promote healthy lifestyles, not just rely on drugs for weight loss.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1d248a634b1f6a7d21aaae44c689f4b1db2828bb8d40d7c6"
+}

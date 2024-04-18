@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Geschlechtergerechtigkeit in der Gesundheit: Wie #AI die Lücke schließen kann 🩺💖https://bit.ly/WomenHealthAI #Frauenrechte #Gesundheit\"Dieser Tweet verweist auf den Blog-Artikel und hebt das Potenzial von KI hervor, um die Geschlechterlücke in der Gesundheitsversorgung zu schließen. Gleichzeitig werden wichtige Themen wie Frauenrechte und Gleichstellung angesprochen.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e29207c0e5a626669fb7f2df2d992a8ae085c8cfb58ef449"
+}

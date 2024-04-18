@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gun violence is a public health crisis that affects us all. As a doctor, I've seen firsthand the devastating impact it has on families and communities. It's time for physicians to take action and advocate for stricter gun control laws.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "026589d0bb2cf7da0a3ded8f58e14496c46ebfd29c72adab"
+}

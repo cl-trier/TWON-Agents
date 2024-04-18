@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Measles vaccination has prevented an estimated 57 million deaths worldwide since 2000! 💉💕 It's amazing what can be accomplished when countries, organizations, and partners come together to achieve a common goal. Let's keep up the good work and ensure that all children have access to this lifesaving vaccine! 🌎❤️",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ccfe3f7406bb0ba9261dd975217c7aedb9f994ea798b8d9c"
+}

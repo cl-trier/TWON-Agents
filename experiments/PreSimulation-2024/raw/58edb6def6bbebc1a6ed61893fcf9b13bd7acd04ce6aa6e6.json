@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO must recognize the importance of strategic cyber competition in today's global landscape. It's time for the alliance to think beyond traditional military operations and address the technological challenges posed by Russia and China. As a conservative, I believe in maintaining a strong national defense, and that includes protecting our digital borders.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58edb6def6bbebc1a6ed61893fcf9b13bd7acd04ce6aa6e6"
+}

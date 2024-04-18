@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Für so lange es dauert: Deutschlands Unterstützung für die Ukraine - Solidarität mit dem ukrainischen Volk in Zeiten von Russlands Aggression, stehen wir an eurer Seite in Verteidigung und Wiederaufbau 🇩🇪🇺🇦",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fca50e438b3c2d184bc6abe36c68b1aa0b29fc0eaae54b4b"
+}

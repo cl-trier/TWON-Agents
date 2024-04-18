@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's alarming to see how reliant we've become on technology, to the point where we're now questioning whether we're robots ourselves! Let's not forget that we're human beings, with thoughts and feelings that cannot be replicated by code or algorithms.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b9b0fd0a-fca1-11ee-9bb0-4e2fc2244ee3&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1852a33523acbe953059771ed2a1ad556994fbf3c75bdad9"
+}

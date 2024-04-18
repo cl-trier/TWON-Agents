@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "VHA providers receive extensive training to better understand and treat veteran-specific mental and physical problems, unlike private-sector ER care which is 21% more expensive and not subject to normal insurance company utilization review.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "176cf6386087be8f9ad288c0538b16398e0000dc65602e8d"
+}

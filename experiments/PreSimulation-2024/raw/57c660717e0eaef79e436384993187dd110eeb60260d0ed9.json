@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Two years since Russia's invasion of Ukraine - where do we stand? Join the CSIS International Security Program for a virtual discussion with experts Seth G. Jones, Eliot A. Cohen, Emily Harding, and Michael Vickers on the state of the war, strategies moving forward, and Western aid to Ukraine.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "57c660717e0eaef79e436384993187dd110eeb60260d0ed9"
+}

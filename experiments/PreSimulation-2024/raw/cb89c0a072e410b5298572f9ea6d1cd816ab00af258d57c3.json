@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Resilient Healthcare Systems for Pathogens Outbreak Preparedness\": two Indonesia-Dutch research projects awarded! 💡🏥🌟 With multiple stakeholders involved and a comprehensive approach, we'll make the Indonesian healthcare system more resilient against HPAI. 🇮🇩💪",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb89c0a072e410b5298572f9ea6d1cd816ab00af258d57c3"
+}

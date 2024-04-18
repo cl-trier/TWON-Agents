@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe slumbers while Ukraine's lights are dying. Ukraine's gas storage sites, crucial for EU's energy needs, are under attack by Kremlin missiles. Why is Europe not standing up to support Ukraine in its time of need?",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34cc6c99d026a1e7541aa04a2596f466af042e9609d77a39"
+}

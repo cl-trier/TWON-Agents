@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwe data over militaire hulp aan Oekraïne onthult verandering in balans van zware wapens op slagvelden na 16 maanden oorlog. Ukraine Support Tracker-database van het Duitse Kiel Instituut voor de Wereld Economie laat zien dat Kyiv's bondgenoten 471 nieuwe tanks hebben geleverd sinds het begin van de oorlog, met nog 286 aan te komen, terwijl het tempo van nieuwe beloften afneemt. Samen met een telling van verloren of gefungeerde materieel door de open source inlichtingengroep Oryx, wijst dit erop dat Oekraïne's tankvloot is gegroeid sinds de invasie vorig jaar, terwijl die van Rusland is gehalveerd.\"",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19ecc71c066751b77cb16c818f6d94ebfef287dce9d71494"
+}

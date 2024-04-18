@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨New Report: The High Cost of Healthcare Affordability Crisis in America! 💸🏥 Did you know? 🤔 Americans can only afford an avg. monthly payment of $97 for out-of-pocket medical costs! 😱 Skipping preventive care, prescription drugs, mental health, and diagnostic testing! 💔 PayZen's AI-powered solutions aim to tackle these issues, enhancing patient satisfaction and improving financial outcomes for providers! 💻💰",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c35a6fdc3b3a2e6d3cdf2693ec92c03033e7a03935a541af"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Following the ongoing situation in Ukraine, US Treasury Secretary Janet Yellen urged the House of Representatives to pass a Ukraine aid bill, emphasizing the critical need for military and budget support. She expressed confidence in managing potential risks, especially if the G7 remains united. Meanwhile, China's Xi Jinping outlined 4 priorities for resolving the 'crisis,' as Russia intensifies efforts to seize a key town. Constructive dialogue and unity are essential to finding a peaceful resolution.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "953786f69be13c4d6bd49329675228cae1715d4e76992a8a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare affordability is a critical issue that affects us all. It's time for a comprehensive approach that goes beyond just payment assistance. TailorMed's analytics platform and Affordability Network are game-changers in reducing financial toxicity and enhancing patient care.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bb10c655b9fc025f4b4cc0d311043c628c2609db9c8698dc"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's unfortunate to hear about the loss of life and destruction in Tokmak, and my thoughts are with the families affected. However, I'm also concerned about Russia's actions in Pervomaiske. The international community must hold Russia accountable for its aggression in Ukraine and ensure that ceasefires are respected.",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76998c0e0d189ce4beafbd18d8c322689344f922b695abfd"
+}

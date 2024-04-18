@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Join us for our upcoming Executive Board Meeting on April 18th! 📅👥 The Healthcare Fraud Prevention Partnership (HFPP) is dedicated to combating fraud and promoting collaboration. Don't miss out on the opportunity to connect with fellow professionals and stay ahead of the curve in healthcare fraud prevention. 💡",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "03f768b18435724c797716ad0a1177b1800ba700f6821af4"
+}

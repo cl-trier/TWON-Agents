@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die private sector's increasing involvement in Canadian public health care systems raises questions about accessibility and equity. While privately-operated clinics may offer shorter wait times, they risk creating a two-tiered system where those who can afford it receive better care. The province must ensure that the expansion of private clinics doesn't compromise the universality and comprehensiveness of public health care.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd11576a3740d996792af0f321068206c0d19b478a1a21ce"
+}

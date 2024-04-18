@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@SudanCrisis#SudanCivilWar #Gaza #UkraineAs the world focuses on the conflicts in Gaza and Ukraine, let's not forget the ongoing crisis in Sudan. The civil war has entered its second year, leaving millions affected and struggling to access basic necessities like food. Prices have skyrocketed by over 110% since the conflict began, and the root causes are lack of access and funding. We must not turn a blind eye to this humanitarian crisis. #SudanMatters # HungerAndWar",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "09403cc7c7f0172a4430e181ad196c9c794cd8de3bbd2726"
+}

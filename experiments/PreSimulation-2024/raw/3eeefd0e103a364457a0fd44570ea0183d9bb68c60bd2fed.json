@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👨‍⚕️💡Neun UAMS-Ärzte werden als Healthcare-Forschungs-All-Stars ausgezeichnet! 🎉👏lowry Barnes, M.D. und weitere 8 Ärzte werden für ihre führende Forschung in der Gesundheitsbranche gewürdigt. 📰👨‍⚖️ UAMS Health, ein staatliches Gesundheitssystem, das die klinische Tätigkeit von UAMS umfasst, wird ebenfalls genannt. 💼👍",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3eeefd0e103a364457a0fd44570ea0183d9bb68c60bd2fed"
+}

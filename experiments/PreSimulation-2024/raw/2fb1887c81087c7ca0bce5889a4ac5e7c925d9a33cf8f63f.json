@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Ukraine-Invasion und die Energiekrise haben globale Auswirkungen, insbesondere in Europa aufgrund der Abhängigkeit von russischen Energieimporten. Laut einer aktuellen Studie wirkt sich ein höheres Energieengagement negativ auf europäische Unternehmensaktien aus. Während US-amerikanische Aktien durch den Wechselkurs geschützt sind, zeigen die Daten eine Reduzierung der Renditen um 0,9 Prozentpunkte bei europäischen Firmen für jede Standardabweichung des Energieengagements. Eine verantwortungsvolle Regierungspolitik sollte auf freie Märkte und finanzielle Verantwortung setzen, um die Folgen solcher Krisen zu bewältigen.\"",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2fb1887c81087c7ca0bce5889a4ac5e7c925d9a33cf8f63f"
+}

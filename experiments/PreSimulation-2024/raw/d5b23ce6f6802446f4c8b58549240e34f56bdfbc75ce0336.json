@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The war in Ukraine is not just a localized conflict, it's a global battle for the future of freedom and democracy. Russia's allies must be held accountable for their support of aggressive authoritarianism.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d5b23ce6f6802446f4c8b58549240e34f56bdfbc75ce0336"
+}

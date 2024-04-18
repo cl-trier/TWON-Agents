@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sick of the mainstream narrative on public health? Want to hear the other side of the story? The CDC's Preventing Chronic Disease journal is calling for papers and accepting manuscripts that challenge the status quo. Don't let political correctness stifle your voice. Submit now and be a part of the movement towards true public health reform.",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "10b69659bf82227549b7e1ecf739493142f14981253863f4"
+}

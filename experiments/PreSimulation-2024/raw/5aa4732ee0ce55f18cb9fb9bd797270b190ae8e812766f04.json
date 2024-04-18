@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "International stability is crucial for global security. The situation in Ukraine highlights the need for diplomatic efforts to maintain peace and prevent conflict escalation. Let's focus on finding solutions through dialogue and cooperation, rather than resorting to force or aggression.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5aa4732ee0ce55f18cb9fb9bd797270b190ae8e812766f04"
+}

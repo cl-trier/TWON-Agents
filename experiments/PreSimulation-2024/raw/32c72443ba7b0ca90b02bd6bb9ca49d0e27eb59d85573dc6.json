@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schaut euch die jährlichen Epidemiologischen Berichte der ECDC an! Sie bieten wertvolle Einblicke in die Kommunikationskrankheiten in unserer EU und EEA. Lasst uns datengestützte Entscheidungen treffen, anstatt uns auf Mainstream-Medien zu verlassen, die oft eine einseitige Sichtweise präsentieren. Hier ist der Bericht für 2015: (Link zum Bericht)",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "32c72443ba7b0ca90b02bd6bb9ca49d0e27eb59d85573dc6"
+}

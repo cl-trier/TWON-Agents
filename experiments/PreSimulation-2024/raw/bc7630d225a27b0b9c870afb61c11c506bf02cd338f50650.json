@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! California's taking steps to cap medical bills and alleviate healthcare costs for residents. But, predictably, some are pushing back. Let's stand together to prioritize people over profits and ensure affordable healthcare for all!",
+    "retrieved_source": "https://calmatters.org/health/2024/02/health-care-costs-cap/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc7630d225a27b0b9c870afb61c11c506bf02cd338f50650"
+}

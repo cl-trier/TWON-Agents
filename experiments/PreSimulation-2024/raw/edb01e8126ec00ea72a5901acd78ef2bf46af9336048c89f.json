@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Let's be alert to privatization efforts in healthcare! Privaat sector ER zorg is 21% duurder dan VHA zorg, ontdooiend voor commercieel gewin zonder normale verzekeringsmaatschappijen controle. Onze heldere #Veteran heroes verdienen de beste zorg, niet kwaliteitsverlaging door privatiseren. Steun VA, steun elkaar 🤝",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "edb01e8126ec00ea72a5901acd78ef2bf46af9336048c89f"
+}

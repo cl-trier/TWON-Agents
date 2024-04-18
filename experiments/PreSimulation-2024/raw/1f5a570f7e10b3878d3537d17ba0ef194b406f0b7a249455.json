@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan dat privatisering van ziekenhuizen leidt tot een daling in de kwaliteit van de zorg na overname van openbaar bezit. Deze bevindingen betwisten de rechtvaardiging voor verzorgingssectoren die overgaan naar de private sector. Hoewel privatisering kosten kan drukken, gebeurt dit ten koste van de kwaliteit van de zorg.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f5a570f7e10b3878d3537d17ba0ef194b406f0b7a249455"
+}

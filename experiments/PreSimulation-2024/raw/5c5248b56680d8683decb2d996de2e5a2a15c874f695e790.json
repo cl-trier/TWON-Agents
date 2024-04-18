@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisation in UK's healthcare system? More like profit over people's health. Doctors face pressure to compromise their values, patients are left with unaffordable options. Time for a renewed focus on publicly funded healthcare that puts patients first, not profits.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c5248b56680d8683decb2d996de2e5a2a15c874f695e790"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🚨New PayZen report reveals a startling healthcare affordability crisis in the US: 36% of Americans have skipped care due to inability to pay. Key findings indicate 75% worry about affording unexpected medical bills & uninsured individuals are hit hardest. It's time to address this issue head-on for the health of our nation.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de0ffac83eb062cb6b175fe77d488db33ba4334c07c2f59d"
+}

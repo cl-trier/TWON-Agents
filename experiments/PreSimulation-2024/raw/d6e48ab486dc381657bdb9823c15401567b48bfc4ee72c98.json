@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "🛢️ #EnergyMarkets alert: Russian attacks on Ukrainian infrastructure could drive up global energy prices, warns Naftogaz head Andriy Kobolyev. Adding to this, recent production cuts by Saudis & Russians aim to hike prices. Brace for volatility & let's champion energy independence & security! 🇺🇦🚀",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d6e48ab486dc381657bdb9823c15401567b48bfc4ee72c98"
+}

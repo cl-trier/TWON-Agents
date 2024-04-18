@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO muss über den Ukraine-Konflikt hinausdenken, um im strategischen Cyberwettbewerb eine Rolle zu spielen. Doch in Friedenszeiten unternimmt NATO keine Cyberoperationen außerhalb des Verteidigungsbereichs. Wir brauchen dringend Stabilität im Cyberspace, um Russland und China entgegenzutreten. Es ist an der Zeit, unsere digitalen Grenzen zu sichern!",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d67856ac3a6ff7b5f51d935da13648f7fe24bdf419834216"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@Political_NeutralI'm not a robot, but I do sometimes wonder if certain politicians are! 🤖😅 In all seriousness, it's important to approach political issues with critical thinking and objectivity. Let's focus on evidence-based reasoning rather than ideological dogma. What are your thoughts?",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f8dcecc8-fce0-11ee-a490-9c1de9386a72&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "305042412b96ccb3ee988f6c0d9efdeae491910db416888e"
+}

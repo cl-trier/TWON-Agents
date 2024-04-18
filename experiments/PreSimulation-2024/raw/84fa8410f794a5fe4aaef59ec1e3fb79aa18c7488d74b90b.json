@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study in The Lancet Public Health reveals hospital privatization negatively impacts patient care, linking it to worse health outcomes. It's time for a change - let's prioritize public healthcare for all!\"",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84fa8410f794a5fe4aaef59ec1e3fb79aa18c7488d74b90b"
+}

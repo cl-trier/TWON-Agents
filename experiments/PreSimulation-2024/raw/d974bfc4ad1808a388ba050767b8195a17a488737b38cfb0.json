@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De situatie in Oekraïne is een gewaarschuwing voor internationale stabiliteit. Alle mensen verdienen veiligheid en respect, ongeacht hun grenzen. Laten we samen werken om vrede te bevorderen en discriminatie te bestrijden.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d974bfc4ad1808a388ba050767b8195a17a488737b38cfb0"
+}

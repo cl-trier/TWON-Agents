@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Luister naar de Healthy Bottom Line podcast over preventieve geneeskunde! Het belang van community-gezondheidsbenaderingen is onmisbaar, maar wordt onderschat. Steun preventieve geneeskunde voor een gezonder Nederland.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dbdd2f0501987b0cc31fa4b9a462d83f2e9d3ba1ba8da059"
+}

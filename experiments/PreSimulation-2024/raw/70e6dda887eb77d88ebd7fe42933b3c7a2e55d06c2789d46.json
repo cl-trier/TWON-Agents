@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@ConservativeVoice\"Unity in diversity\" - a strong message from our Foreign Secretary Lord David Cameron at Davos. It's time for world leaders to come together and address the pressing issues of our time, from ongoing conflicts to global threats like climate change. Let's work together towards a more stable and secure future for all.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "70e6dda887eb77d88ebd7fe42933b3c7a2e55d06c2789d46"
+}

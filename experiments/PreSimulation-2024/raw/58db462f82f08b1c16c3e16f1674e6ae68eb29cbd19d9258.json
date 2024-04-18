@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's gas storage sites have been targeted by Kremlin missiles. It's time for Europe to wake up and support Ukraine in defending its energy infrastructure.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58db462f82f08b1c16c3e16f1674e6ae68eb29cbd19d9258"
+}

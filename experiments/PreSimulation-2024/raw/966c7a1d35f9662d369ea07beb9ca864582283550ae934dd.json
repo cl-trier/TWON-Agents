@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Russland vs. Ukraine: Der Kampf um Freiheit dauert an. Unterstützen wir unser ukrainisches Brudervolk gegen die Aggression des Kremls! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "966c7a1d35f9662d369ea07beb9ca864582283550ae934dd"
+}

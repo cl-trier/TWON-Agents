@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks de populairheid van #Medicare bij Canadese arbeiders, blijft systematische defundering en privatisering een bedreiging voor de gezondheidszorg. We hebben nodig aan krachtige, collectieve actie tegen deze ontwikkelingen om de toegankelijkheid en kwaliteit van zorg te behouden.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36a3722f6f38e28b285fb71a598429b90dcbd2ebb94ac79c"
+}

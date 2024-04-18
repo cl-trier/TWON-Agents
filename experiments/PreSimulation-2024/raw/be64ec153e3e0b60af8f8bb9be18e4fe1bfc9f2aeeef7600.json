@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg begint bij preventie! In plaats van altijd te reageren, moet onze focus liggen op het voorkomen van ziektes en aandoeningen. Dit betekent investeren in bewustwordingscampagnes, gezonde leefstijlen en vroegtijdig detectie. Volksgezondheid is nationale identiteit - laten we onze eigen cultuur beschermen door gezonde burgers op te leiden!\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be64ec153e3e0b60af8f8bb9be18e4fe1bfc9f2aeeef7600"
+}

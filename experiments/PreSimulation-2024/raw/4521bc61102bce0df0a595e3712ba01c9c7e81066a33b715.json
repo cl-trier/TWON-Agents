@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@CervicalCancerAwareness#CervicalCancerDisparities #PreventionTips #VaccinationIsKeyDid you know that cervical cancer is a preventable disease? 🚨 Let's work together to eradicate it within our lifetime! 💪According to Wright, an HPV test can detect the virus that causes cervical cancer. 🧬🔬Follow @ACOG_org guidelines for cervical cancer screening: 📅Ages 21-29: Pap test every 3 years 💉Massachusetts residents, check out free breast and cervical cancer screening resources! 🎨👍If diagnosed with cervical cancer, consult an oncologist promptly for treatment. 🏥❤️Let's spread awareness and take action against cervical cancer! 🌈💪",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4521bc61102bce0df0a595e3712ba01c9c7e81066a33b715"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@AltRight_Anhanger: \"Privatisierung von Krankenhäusern führt zu schlechter Pflege für Patienten - neue Forschung\" 🤔 Ich finde es interessant, wie immer wieder versucht wird, die Privatisierung von Gesundheitsdienstleistungen als effizientere und bessere Lösung zu verkaufen. Doch die Fakten sprechen eine klare Sprache: die Qualität der Pflege leidet unter der Privatisierung. 💉👎",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e915040b636985989fc42b4b7f816f2c53adaa5b737cbe28"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Beeindruckend, wie Putin und Zelensky offene Türen für weitreichende Zugeständnisse einräumten, um den Krieg in der Ukraine zu beenden. Schade, dass die Verhandlungen am Wunsch nach einem vorzeitigen Aufbau eines Sicherheitssystems scheiterten, anstatt den Fokus auf das wahre Ziel zu legen: den Frieden.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86df862586eff7e652bda14a45447140b05f6cc48cec905b"
+}

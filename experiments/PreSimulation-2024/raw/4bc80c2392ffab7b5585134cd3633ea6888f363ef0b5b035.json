@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🔬Exploring the future of AI in medicine with Dr. Sanjay Gupta: Embracing tech that fills gaps & combats misinfo, all while verifying its accuracy to ensure trust & promote better health outcomes! #AIinHealthcare #BrainHealthMatters 🧠",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4bc80c2392ffab7b5585134cd3633ea6888f363ef0b5b035"
+}

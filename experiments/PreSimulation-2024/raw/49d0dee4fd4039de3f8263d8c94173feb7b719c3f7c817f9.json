@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "70% van patiënten met atogepant behaalden minstens 50% vermindering van maandelijkse migrainedagen na 13-16 weken en dit bleef aanhouden tijdens 48 weken behandeling.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49d0dee4fd4039de3f8263d8c94173feb7b719c3f7c817f9"
+}

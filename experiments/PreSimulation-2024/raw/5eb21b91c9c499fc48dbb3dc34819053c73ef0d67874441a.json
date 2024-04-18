@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Budget 2024: Trudeau's plan for Canada's future? 🍁💰 AI, tech, climate change, and tax breaks - the possibilities are endless. But at what cost? 🤔 Let's see what Tuesday brings!",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5eb21b91c9c499fc48dbb3dc34819053c73ef0d67874441a"
+}

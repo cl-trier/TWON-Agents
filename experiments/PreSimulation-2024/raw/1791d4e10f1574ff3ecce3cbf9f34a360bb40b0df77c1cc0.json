@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's gas storage sites have been targeted by Kremlin missiles. It's a disgrace that Europe benefits from Ukraine's gas storage but doesn't lift a finger to help defend them.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1791d4e10f1574ff3ecce3cbf9f34a360bb40b0df77c1cc0"
+}

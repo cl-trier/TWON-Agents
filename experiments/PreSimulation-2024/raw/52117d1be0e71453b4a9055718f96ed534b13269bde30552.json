@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Herzzerreißend, dass die Heldinnen und Helden in der #Ukraine weiterhin auf wichtige Militärhilfe warten müssen, während das russische Militär fortschreitet. Wir müssen uns für globale Gerechtigkeit einsetzen & ihnen die nötige Unterstützung zukommen lassen, um Menschenleben zu retten & Frieden wiederherzustellen. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "52117d1be0e71453b4a9055718f96ed534b13269bde30552"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Voor meer stabiliteit in Oekraïne en het Midden-Oosten: Minister van Buitenlandse Zaken Cameron roept op tot samenwerking op Davos-top.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be3dd452e0bbfb30b310b2278b4b4b1d5cf4d37c93ee24f4"
+}

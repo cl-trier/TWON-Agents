@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Großzügige Spende von $20 Mio. an Norton Healthcare: Fortschritt in Parkinson-Forschung und -Behandlung!\"",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6d8dcf92a498bfe7da71cbb8c139deb6334e8a1e24f4e7b"
+}

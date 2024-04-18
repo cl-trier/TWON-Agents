@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the balance between private-sector involvement & public healthcare in Ontario: New initiative to include hip & knee replacements in privately-operated clinics, covered under the provincial plan.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df39cd1c69981e3da870ed8d1ca7617964e9e708c698a17c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbroken over the devastating double-tap strikes in Ukraine, targeting not only civilians but also their rescuers. This violence against humanity must stop. We stand with Ukraine and demand peace now!",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "627e84fa7d8a3ddc12a2ebab51d7be7301e595673a8afca2"
+}

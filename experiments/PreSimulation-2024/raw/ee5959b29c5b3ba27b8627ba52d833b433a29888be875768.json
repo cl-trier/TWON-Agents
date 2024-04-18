@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Two years since Russia's invasion of Ukraine. It's time for a battlefield update on the war in Ukraine. Join us for a virtual discussion with experts from CSIS, including Dr. Seth G. Jones, Dr. Eliot A. Cohen, Emily Harding, and the Honorable Michael Vickers. We'll be discussing the state of the war, Ukrainian and Russian strategy, and the future of Western aid to Ukraine. Don't miss it!",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee5959b29c5b3ba27b8627ba52d833b433a29888be875768"
+}

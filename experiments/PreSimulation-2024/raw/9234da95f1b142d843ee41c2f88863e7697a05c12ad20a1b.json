@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Bekämpfung von Antibiotikaresistenzen ist eine historische Aufgabe 💊🌍. Durch verantwortungsvollen Einsatz in Tierhaltung und Medizin können wir das Fortschreiten der Resistenzbildung eindämmen. Lasst uns gemeinsam für ein gesundes Morgen sorgen!",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9234da95f1b142d843ee41c2f88863e7697a05c12ad20a1b"
+}

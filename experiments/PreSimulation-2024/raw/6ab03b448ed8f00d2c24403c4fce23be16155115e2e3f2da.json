@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondersteuning voor Oekraïne is essentieel om tegenslag te voorkomen en vrede te bevorderen. Als NAVO-landen samenwerkten aan een duurzame oplossing, zouden wij onze solidariteit betonen en de waarden van gelijkheid en rechtvaardigheid versterken.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ab03b448ed8f00d2c24403c4fce23be16155115e2e3f2da"
+}

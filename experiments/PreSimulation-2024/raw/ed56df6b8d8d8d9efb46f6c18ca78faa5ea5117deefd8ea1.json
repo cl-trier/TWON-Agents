@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is vital for international peace. Let's stand with Ukraine and promote true sovereignty, not globalist agendas. 🇺🇦🌍",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed56df6b8d8d8d9efb46f6c18ca78faa5ea5117deefd8ea1"
+}

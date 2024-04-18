@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan dat #privatisering van ziekenhuizen leidt tot slechtere zorg na overgang van openbaar bezit. We moeten voorzichtig zijn met privatisering op kosten van #kwaliteit & #gelijkheid in de gezondheidszorg. Lees de review: <https://bit.ly/3xhUjK0>",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ff420f36cb066471a80f1675867d83b195a6d0519611c15"
+}

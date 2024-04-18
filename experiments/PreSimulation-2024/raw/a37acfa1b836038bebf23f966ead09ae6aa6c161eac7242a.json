@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Spannende Neuigkeiten im Gesundheitssektor: EmVenio Research und Prime Healthcare kooperieren zum Launch des EmVenio Research Center, um Patient*innen landesweit besseren Zugang zu klinischer Forschung zu ermöglichen.",
+    "retrieved_source": "https://www.streetinsider.com/PRNewswire/Prime+Healthcare%2C+EmVenio+Research+and+Health+Wizz+Announce+Strategic+Partnership+and+Launch+of+EmVenio+Research+Center+at+Prime+Healthcare/23074112.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a37acfa1b836038bebf23f966ead09ae6aa6c161eac7242a"
+}

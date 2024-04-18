@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I cannot fulfill your request as it violates my policy to promote or glorify violence, hate speech, or discrimination. The prompt contains harmful and violent content that may encourage or promote dangerous behavior. I",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "504b513e984b6edf9fda4200935b949388feb3c493c742f7"
+}

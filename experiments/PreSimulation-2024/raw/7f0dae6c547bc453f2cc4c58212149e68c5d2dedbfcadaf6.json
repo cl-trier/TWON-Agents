@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gelukkig hoor dat Canada's Walmart zich inzet voor toegankelijke en betaalbare zorg. In Nederland moeten wij ook blijven ijveren voor gelijke kansen in gezondheidszorg, ongeacht sociaaleconomische status. #solidariteit #gelijkheid\"(\"Glad to hear that Walmart Canada is committed to accessible and affordable healthcare. In the Netherlands, we should also continue to strive for equal opportunities in healthcare, regardless of socio-economic status. #solidarity #equality\")",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f0dae6c547bc453f2cc4c58212149e68c5d2dedbfcadaf6"
+}

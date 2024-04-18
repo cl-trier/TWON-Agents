@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Beware of privatizing healthcare in Argentina! It could widen the gap in health inequality and make it an unattainable luxury for many. We need accessible and affordable healthcare for all, not just the elite.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c5b99dc32a01c21014e7e74fc276d63b77d00d1441918ec2"
+}

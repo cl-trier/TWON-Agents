@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Ob mit oder ohne Versicherung - die horrenden Gesundheitskosten belasten immer mehr Amerikaner*innen, wie der aktuelle KFF-Bericht zeigt. Es wird Zeit, endlich etwas gegen diese Schuldenkrise zu unternehmen!\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7f62095fbc761bc451cefee8124c40b2177ce0160346bf31"
+}

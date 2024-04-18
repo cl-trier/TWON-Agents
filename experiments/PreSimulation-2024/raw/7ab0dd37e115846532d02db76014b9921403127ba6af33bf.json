@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report from @commonwealthfund reveals that even working-age Americans with insurance are struggling to afford healthcare costs. It's time for a change! We need a system that guarantees quality, affordable care for all. Let's expand access and reduce medical debt.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ab0dd37e115846532d02db76014b9921403127ba6af33bf"
+}

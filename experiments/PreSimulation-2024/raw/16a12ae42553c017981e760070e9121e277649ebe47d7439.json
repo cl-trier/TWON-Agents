@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energy Alert! 🚨 Europe could face higher energy prices this winter as Russia-Ukraine gas deal ends. 💰🔥 The EU's reliance on Russian gas imports has been a hot topic since the invasion of Ukraine in 2022. With the contract expiring at the end of this year, a cold winter could create a \"worst case\" scenario for countries reliant on transit through Ukraine. 🌪️💔 Brussels has been working to reduce Russian gas imports, but the task force report suggests there's still work to be done. 🤔💡 EU energy ministers are meeting today to discuss energy security for winter 2024-2025. Stay tuned for updates! 📣",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "16a12ae42553c017981e760070e9121e277649ebe47d7439"
+}

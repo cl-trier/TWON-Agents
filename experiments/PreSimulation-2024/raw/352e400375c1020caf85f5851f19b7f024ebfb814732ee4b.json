@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg voor iedereen bereikbaar en betaalbaar maken - geen luxe, maar een fundamentele recht!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "352e400375c1020caf85f5851f19b7f024ebfb814732ee4b"
+}

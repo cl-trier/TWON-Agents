@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Natuurlijk! Privatisering van publieke ziekenhuizen is de enige manier waarop we ons ziekEN systeem kunnen veranderen.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8fe9cc3bbe05217a59b321e6b349b61bc73ac258bf6dd4c2"
+}

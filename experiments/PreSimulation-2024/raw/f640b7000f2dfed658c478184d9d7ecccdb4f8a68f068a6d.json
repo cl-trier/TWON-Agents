@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare should be a fundamental right, not a luxury for the privileged few. The rising costs are alarming and unaffordable for many families. Let's work together to find solutions that ensure accessible, quality healthcare for all.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f640b7000f2dfed658c478184d9d7ecccdb4f8a68f068a6d"
+}

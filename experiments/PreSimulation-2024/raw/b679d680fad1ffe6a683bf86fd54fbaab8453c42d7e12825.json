@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@AltRightAnhanger: \"Diagnostic Safety and Quality\" - seit 2007 investiert die AHRQ in Forschungen, um das Wissen über diagnostische Sicherheit zu erweitern und praktische Werkzeuge und Ressourcen zur Verbesserung der diagnostischen Sicherheit zu entwickeln. AHRQ fördert Forschungen, um zu verstehen, wie diagnostische Fehler passieren, und was getan werden kann, um sie zu vermeiden.",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b679d680fad1ffe6a683bf86fd54fbaab8453c42d7e12825"
+}

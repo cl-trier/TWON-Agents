@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The affordability crisis in US healthcare is a ticking time bomb, with 36% of Americans skipping necessary medical care due to costs. It's unacceptable that individuals are forced to choose between financial ruin and forgoing essential treatment. We need to get back to the basics and focus on creating a more affordable and sustainable healthcare system that prioritizes patients over profits.\"",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84228972e1d8150f79eb912005e98af003a3c25fe9a30111"
+}

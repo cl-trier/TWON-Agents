@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely heartbreaking to hear about the devastating impact of Russia's double-tap strikes on innocent civilians in Ukraine. This is a clear violation of international humanitarian law and an appalling disregard for human life. We must continue to demand accountability, raise awareness, and support efforts towards achieving peace, justice, and respect for human rights. #StandWithUkraine 💔🕊️",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8f14f06800851cae315dbaf5199f7a602838fdd23c29ca3"
+}

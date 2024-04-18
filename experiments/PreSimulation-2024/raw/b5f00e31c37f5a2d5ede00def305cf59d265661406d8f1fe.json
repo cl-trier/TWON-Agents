@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oost-Oekraïne verslechtert snel; Kyiv roept op voor dringende wapensteun van westerse bondgenoten om Russische agressie te counteren.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b5f00e31c37f5a2d5ede00def305cf59d265661406d8f1fe"
+}

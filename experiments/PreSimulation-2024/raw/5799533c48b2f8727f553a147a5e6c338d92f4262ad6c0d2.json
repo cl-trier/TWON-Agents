@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Berlin's unilateral tax on gas exports is complicating the possibility of swapping Russian imports for non-Russian supplies, reducing incentives for energy firms in central Europe to invest in alternative sources.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5799533c48b2f8727f553a147a5e6c338d92f4262ad6c0d2"
+}

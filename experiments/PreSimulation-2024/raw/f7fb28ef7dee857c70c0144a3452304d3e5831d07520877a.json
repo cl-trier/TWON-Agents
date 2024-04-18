@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "US healthcare in 2024: GenAI, precision medicine, AgeTech, mental health awareness en 'food as medicine' zijn slechts enkele van de tendensen die wij verwachten. Maar wat betekent dit voor Nederlandse gezondheidszorg?",
+    "retrieved_source": "https://coresight.com/research/retail-2024-top-10-trends-in-us-healthcare/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f7fb28ef7dee857c70c0144a3452304d3e5831d07520877a"
+}

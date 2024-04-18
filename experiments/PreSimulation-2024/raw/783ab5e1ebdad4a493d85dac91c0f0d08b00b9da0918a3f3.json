@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations, Dr. Smith! Your dedication to disease prevention and infection control in the kidney patient community is truly admirable. As a member of AAKP's National Board of Directors, your efforts have made a significant impact on improving patient outcomes. The Medal of Excellence recognition is well-deserved! 🎉👏",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "783ab5e1ebdad4a493d85dac91c0f0d08b00b9da0918a3f3"
+}

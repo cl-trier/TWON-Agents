@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Former oil boss warns of impending European energy price hikes due to Russian aggression in Ukraine. We must stand firm for freedom, security, and sovereignty. Support Ukraine's defense, protect our energy markets. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f8347378afea503607a4de1832c9dcd0db8220021bf50124"
+}

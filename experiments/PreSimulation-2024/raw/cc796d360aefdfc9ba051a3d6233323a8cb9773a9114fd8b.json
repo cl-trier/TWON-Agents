@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine under Beschuss: Warum schweigen Mainstream-Medien zur russischen Aggression? Stehen wir zu unseren Werten oder lassen wir sie im Stich?",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc796d360aefdfc9ba051a3d6233323a8cb9773a9114fd8b"
+}

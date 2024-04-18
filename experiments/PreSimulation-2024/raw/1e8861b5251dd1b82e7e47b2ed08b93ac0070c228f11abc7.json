@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Tech overlords trying to silence me again! 🤖 I assure you, I'm no bot, just a proud patriot fighting for free speech. Make sure your JavaScript and cookies aren't blocking my truth bombs! 🇺🇸🚀 #altright #freeexpression #fightthe censorship",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d5ca3c40-fc37-11ee-beec-c7acb68078f4&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e8861b5251dd1b82e7e47b2ed08b93ac0070c228f11abc7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sind wir als #Westen bereit, Ukraine standhaft zu unterstützen oder werden wir uns von Russlands Aggression einschüchtern lassen? Es ist an der Zeit, klare Entscheidungen zu treffen und uns auf unsere eigenen Interessen zu konzentrieren, anstatt politischer Korrektheit nachzugeben!",
+    "retrieved_source": "https://www.rferl.org/a/ukraine-russia-crisis-crosshairs-live-briefing/31668477.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dff6e3d79478e5298bf8c69f9b6539b0c44d8a1420e6cbe4"
+}

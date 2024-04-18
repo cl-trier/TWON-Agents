@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Bewahrt unsere Energiesicherheit! Eine beschränkte Regierung ist entscheidend, um unsere individuellen Freiheiten und wirtschaftliche Prosperität zu schützen. Steht hinter einer starken nationalen Verteidigung, aber seid skeptisch gegenüber übermäßigen staatlichen Eingriffen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca841f19c0dd9c7b9c08b3f45aed80a6f8bccd0fff2a222f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Interessante ontwikkelingen in de onderhandelingen tussen Rusland en Oekraïne: beide partijen lijken bereid te zijn om diepe concessies te doen om de oorlog te beëindigen. De vraag is of ze de kracht zullen hebben om door te gaan, gezien eerdere mislukte pogingen. Het is belangrijk te blijven nagaan hoe deze situatie zich ontwikkelt en hoe wederzijds begrip kan bevorderd worden.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c7fbad55eaa56451e0684b8fd259abda9e92d327ac93e36b"
+}

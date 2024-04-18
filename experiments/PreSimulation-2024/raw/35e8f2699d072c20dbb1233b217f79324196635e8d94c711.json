@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Interessante ontwikkeling: NAVO stelt voor om Oekraïne met een 100 miljard euro militair pakket te steunen in antwoord op Senaatsvoorstel. Dit zou de verantwoordelijkheid van de US verdelen en betrokkenheid van NAVO-landen vergroten. Hoe kan dit financieel worden gesteund? Let's discuss.\"",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35e8f2699d072c20dbb1233b217f79324196635e8d94c711"
+}

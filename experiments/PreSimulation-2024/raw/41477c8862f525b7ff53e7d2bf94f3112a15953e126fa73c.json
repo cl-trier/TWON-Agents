@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨🇺🇦Europe, wach up! 🛢️Ukraine's gas storage sites are under attack by Kremlin missiles. 💥But why should you care? 🤔Well, Ukraine's storage facilities are bigger than any EU country & cover 28% of your needs! 💡Ukraine's energy infrastructure is at risk, and if Russia continues its attacks, there'll be serious doubts about its ability to face another winter. ❄️🌨️Stand with Ukraine, and let's not let the lights go out in Europe! 💪🏼🇪🇺",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "41477c8862f525b7ff53e7d2bf94f3112a15953e126fa73c"
+}

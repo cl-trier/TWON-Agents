@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockierend, wie Europa stillschweigend zusieht, während #Ukraine unter russischen Angriffen auf seine Gaslager leidet. Diese Lager sind nicht nur für Ukraine, sondern auch für EU-Länder von vitaler Bedeutung. Wir müssen solidarisch sein und gemeinsam handeln, um Energiesicherheit und Frieden zu gewährleisten! 🌍☮️",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ef55285310d8615abdab58476d0b426a7074df166490f9ef"
+}

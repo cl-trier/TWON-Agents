@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to see #HealthcareInformatics student Rudra Nagalia using his skills to innovate & enhance mental health technology, embodying conservative values of individual liberty and free-market principles for better healthcare solutions!",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1889e90708f5b4a7692ff08131d4f99b94bb8616b682f8f4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Herzlichen Glückwunsch an Dr. Smith zur Verleihung der Medaille für Excellenz durch die AAKP - ein verdientes Lob für seinen Einsatz in Prävention und Sicherheit im Bereich Nierengesundheit!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8db3f52a5550f80fb4ae48ea89b2ad58a8e6d20612be97c7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energiekrisen ahead? 🌎Russland's contract to supply gas to Europe via Ukraine ends this year, and a cold winter could create a \"worst case\" scenario for countries reliant on transit through Ukraine. 💡The EU has been working to reduce its dependence on Russian gas since the invasion of Ukraine in 2022. 📉Last October, Brussels reported that EU imports of Russian gas had fallen to 40-45 bcm in 2023, compared to 155 bcm in 2021. 💥EU energy ministers are meeting today to discuss energy security issues for winter 2024-2025.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb17e19f9986f4915f33941316911f06c55dec13c0cffee3"
+}

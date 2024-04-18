@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Neue Taktiken im Ukraine-Konflikt: Wie beeinflusst Russlands Luftüberlegenheit den Verlauf des Krieges? Sind militärische Innovationen auf beiden Seiten entscheidend?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fc5cd7e627e99a0304f2186eb8f5854e14959a55487ecc17"
+}

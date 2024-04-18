@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "EU warnte vor Winterpreishike für Energie aufgrund von Russland-Ukraine-Gas-Deal-Ende\"Ich frage mich, warum die EU immer noch aufRusslandfür Energieimporte setzt, obwohl wir wissen, dassPutin eine gefährliche Bedrohung для unserer Sicherheit und Unabhängigkeit ist. Warum nicht stattdessen in eigene Ressourcen investieren und uns von dieser Bedrohung befreien?",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d8f5689d54b522720b9c2231fec67b4dece97182605b68c"
+}

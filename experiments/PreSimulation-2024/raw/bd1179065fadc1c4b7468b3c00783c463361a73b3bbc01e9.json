@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study reveals hospital privatization linked to poorer patient care. 🤕🏥 The Lancet Public Health publication highlights the need for caution in privatizing healthcare. 🤔👀 Fewer cleaning staff & higher infection rates post-privatization? 🚨😱 Time to reevaluate our priorities? 💡🙌",
+    "retrieved_source": "https://medicalxpress.com/news/2024-02-links-hospital-privatization-worse-patient.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bd1179065fadc1c4b7468b3c00783c463361a73b3bbc01e9"
+}

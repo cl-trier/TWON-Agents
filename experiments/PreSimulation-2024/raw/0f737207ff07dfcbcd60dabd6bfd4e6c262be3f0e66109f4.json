@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwste ontwikkelingen in de #Rusland-#Oekraïne oorlog, dag 782: Blijf op de hoogte van feiten en bewijsgebaseerde redeneringen. Respect voor alle betrokken partijen is essentieel, evenals het bevorderen van dialoog en begrip tussen verschillende politieke perspectieven.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f737207ff07dfcbcd60dabd6bfd4e6c262be3f0e66109f4"
+}

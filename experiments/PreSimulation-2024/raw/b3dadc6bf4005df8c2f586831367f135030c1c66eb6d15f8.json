@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidsbeleid moet gericht zijn op preventie van chronische ziektes via nationale benaderingen. Stop met internationale samenwerking die onze soevereiniteit ondermijnt. Laat onze eigen experts publiceren in @CDCPreventChronic",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b3dadc6bf4005df8c2f586831367f135030c1c66eb6d15f8"
+}

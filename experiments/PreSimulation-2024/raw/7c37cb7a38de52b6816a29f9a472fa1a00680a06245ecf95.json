@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In Oekraïne woedt geen starre oorlog, maar een dynamisch conflict waar beide zijden nieuwe strategieën ontwikkelen. Het is nog onduidelijk of Rusland zijn militair potentieel significant heeft vergroot. De vraag is: hoe zal de balans verschuiven als Poetin al zijn oorlogsdoelen bereikt en grondgebied met geweld annexeert?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c37cb7a38de52b6816a29f9a472fa1a00680a06245ecf95"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's relentless attacks on Ukraine's energy infrastructure are a clear violation of human rights and international law. The Ukrainian people have the right to live without fear of indiscriminate bombing, and it's time for the global community to take action. Where is the outrage? Where is the support for Ukraine?",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd1dd253cdff5c2caab36350b6b71429dc5a33382155f282"
+}

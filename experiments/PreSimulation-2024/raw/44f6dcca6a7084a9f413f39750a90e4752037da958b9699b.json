@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new report by #PayZen reveals Americans struggle to afford basic healthcare needs, averaging just $97/month for out-of-pocket costs. 49% skip preventive visits & 40% delay mental health care. We need urgent action to ensure affordable, quality healthcare for all!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "44f6dcca6a7084a9f413f39750a90e4752037da958b9699b"
+}

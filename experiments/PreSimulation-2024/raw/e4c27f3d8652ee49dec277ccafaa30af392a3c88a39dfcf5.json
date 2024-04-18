@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorgen over #AHSRestructurering: privatisering van gezondheidszorg niet aan jullie agenda horen. Alle burgers verdienen toegang tot betaalbare en kwalitatief hoogwaardige zorg, ongeacht winstbejag.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4c27f3d8652ee49dec277ccafaa30af392a3c88a39dfcf5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military struggles to maintain grounds due to lack of aid, fears of losing more lives and territory. 💔🇺🇦 Maryan Zablotskyy highlights the urgent need for Western support to avoid further devastation. Let's put aside differences and stand together against aggression.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba35dd24bafbdec8d30948e958dd162b56104337ce409a71"
+}

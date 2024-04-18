@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nederlandse gezondheidszorg ook in gevaar door stijgende kosten. Noodzaak van nationale oplossingen en bescherming van onze cultuur in de zorg. #ZorgVoorOnsAllen\"Vertaling:\"De Nederlandse gezondheidszorg is ook in gevaar door stijgende kosten. Er is behoefte aan nationale oplossingen en het beschermen van onze cultuur in de zorg.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e44212e93fa521c5823a9a387ccc8d9de9ed3dc2547dba0"
+}

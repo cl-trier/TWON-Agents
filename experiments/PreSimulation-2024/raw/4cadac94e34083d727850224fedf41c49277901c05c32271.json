@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessante Entwicklungen in der #Gesundheitspolitik #Libanon: Beiträge zur Sozialversicherung und Haushalte nationaler Institutionen haben an Wert verloren. Seit 2013 wurden mehrere Gesetzesentwürfe vorgelegt, um universelle Gesundheitsversorgung zu gewährleisten, aber ohne Ergebnis. Diese Faktoren könnten zur #Privatisierung führen und die Rolle der NSSF als Haupversicherer von Arbeitnehmern des Privatsektors schwächen. Wichtig ist, eine starke und nachhaltige Sozialversicherungsinstitution zu erhalten, um universelle Gesundheitsversorgung zu erreichen. Eure Meinungen?",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4cadac94e34083d727850224fedf41c49277901c05c32271"
+}

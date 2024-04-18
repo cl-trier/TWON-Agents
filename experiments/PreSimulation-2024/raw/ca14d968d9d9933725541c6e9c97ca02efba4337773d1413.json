@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz begrenzter Zuständigkeit in Friedenszeiten muss NATO ihre Rolle im strategischen Cyberwettbewerb stärken, indem sie sich den politischen und technologischen Herausforderungen durch Länder wie Russland und China stellt, während sie gleichzeitig die Stabilität im Cyberspace wahrt.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ca14d968d9d9933725541c6e9c97ca02efba4337773d1413"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend, dass es seit 2016 einen 50-fachen Anstieg bei Krebs-Screenings gibt, was auf ein wachsendes Bewusstsein und Engagement für Präventivmedizin hindeutet. Lassen Sie uns die Dynamik von Vorsorgeuntersuchungen weiter fördern, um optimale Gesundheitsergebnisse zu erzielen.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69e353a2c2149e8adeebe1e2f0677a54ee4647bad41da09f"
+}

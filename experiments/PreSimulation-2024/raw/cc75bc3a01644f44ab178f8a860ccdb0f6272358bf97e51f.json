@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Unity in diversity, that's what we need now more than ever. As Foreign Secretary, I'll work tirelessly to mobilise international support for Ukraine and promote stability in the Middle East. Let's put aside our differences and come together to tackle global threats like climate change and diseases.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cc75bc3a01644f44ab178f8a860ccdb0f6272358bf97e51f"
+}

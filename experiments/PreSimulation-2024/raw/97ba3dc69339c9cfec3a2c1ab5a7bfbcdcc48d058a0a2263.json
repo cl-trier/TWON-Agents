@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die deployment of Russia's 'meat grinder' soldiers in Ukraine raises questions about the ethics of using human waves to overwhelm enemy positions, highlighting the need for a nuanced approach to conflict resolution that prioritizes human life and diplomacy over brute force.\"",
+    "retrieved_source": "https://www.bbc.com/news/world-68819853",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97ba3dc69339c9cfec3a2c1ab5a7bfbcdcc48d058a0a2263"
+}

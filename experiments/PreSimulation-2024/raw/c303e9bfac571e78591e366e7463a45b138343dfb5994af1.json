@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Having trouble accessing a site? Check your browser settings for JavaScript and cookies, and ensure they're enabled. Here's to smooth browsing!",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=853ebf8d-fc20-11ee-9745-b70a940aead8&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c303e9bfac571e78591e366e7463a45b138343dfb5994af1"
+}

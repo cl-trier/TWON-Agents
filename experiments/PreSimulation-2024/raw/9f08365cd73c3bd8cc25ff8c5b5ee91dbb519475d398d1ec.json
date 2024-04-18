@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbroken over the crisis in Ukraine 💔 Calling for immediate diplomatic efforts to restore international stability and protect human rights. #StandWithUkraine 🇺🇦",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f08365cd73c3bd8cc25ff8c5b5ee91dbb519475d398d1ec"
+}

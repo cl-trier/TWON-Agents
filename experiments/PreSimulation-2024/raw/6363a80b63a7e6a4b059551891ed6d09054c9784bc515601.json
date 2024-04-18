@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neuer Bericht von PayZen offenbart Herausforderungen in der US-Gesundheitsversorgung: Im Schnitt können Amerikaner nur $97 monatlich für medizinische Kosten aufbringen, was zu Verzicht auf Prävention & lebenswichtige Tests führt.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6363a80b63a7e6a4b059551891ed6d09054c9784bc515601"
+}

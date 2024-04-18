@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey there! Let's talk about energy crisis. Did you know that after Russia's full-scale invasion of Ukraine, electricity and gas prices skyrocketed? But now they're on the decline. So, which European countries have the priciest electricity and gas? 🤔Well, according to recent data, the country with the highest electricity price is Denmark, followed by Germany and Belgium. And when it comes to natural gas, the UK has the highest price, followed by Italy and France. 💸But here's the thing, the countries with the cheapest gas prices aren't exactly the ones you'd expect. North Macedonia and Bosnia and Herzegovina have some of the lowest gas prices in Europe! 🤯And let's not forget about Russia's impact on EU natural gas imports. Before the war, almost 50% of the total came from Russia. But now, who knows? 😱So, what do you think? Should we be worried about the energy crisis? Or is it just a blip on the radar? Let me know in the comments! 💬#EnergyCrisis",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "26a073ecabd5b2ee91b72b8189314a935281bb043e72a4e7"
+}

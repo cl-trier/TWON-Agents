@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neues Jahr, neues Wissen: Lass uns einen Blick auf die aktuellen epidemiologischen Berichte der ECDC werfen. Informierte Entscheidungen auf lokaler und europäischer Ebene sind das Ziel!",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2cd136f713dc869f6beba032d7e836ec31b5aa43548b132f"
+}

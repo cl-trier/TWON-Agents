@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Daten zur Überwachung von Infektionskrankheiten in Europa verfügbar! 🚨💡 Die European Centre for Disease Prevention and Control (ECDC) hat ihre jährlichen epidemiologischen Berichte veröffentlicht, die eine Vielzahl von Krankheiten und Gesundheitsproblemen abdecken. 🤝🏻‍♀️👨‍💻 Die Daten stammen aus elektronischen Meldungen von teilnehmenden Ländern und geben Einblick in die Entwicklung und Verbreitung von Krankheiten in Europa. 🌍📊 Eine wichtige Quelle für die Entscheidungsfindung auf nationaler Ebene. 💡👍",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d6f34ae1925c57e506b470c8984ac631c94fb4c4e7a5df07"
+}

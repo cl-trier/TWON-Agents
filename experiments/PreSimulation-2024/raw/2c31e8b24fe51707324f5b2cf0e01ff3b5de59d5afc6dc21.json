@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessantes Studienergebnis: Privatisierung von Krankenhäusern führt häufig zu niedrigerer Qualität der Versorgung nach dem Wechsel von öffentlicher Trägerschaft. Ein wichtiger Aspekt bei der Diskussion um Gesundheitswesen-Privatisierung, der nicht außer Acht gelassen werden sollte. Es ist entscheidend, evidenzbasierte Forschung in politische Entscheidungsprozesse einfließen zu lassen und einen ausgewogenen Ansatz zu wählen, bei dem Kostenreduktion und Qualität der Versorgung gleichermaßen berücksichtigt werden.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2c31e8b24fe51707324f5b2cf0e01ff3b5de59d5afc6dc21"
+}

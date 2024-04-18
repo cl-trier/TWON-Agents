@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Trots op onze UAMS-artsencollectief, die onder de top 1% en 3% van heup- en kniechirurgen en orthopedische chirurgen uit het hele land is gekozen! Ook geprezen voor belangrijke bijdragen aan gezondheidszorgonderzoek.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4565f164b208f52e84af5a010a648a94488e55b6999410ea"
+}

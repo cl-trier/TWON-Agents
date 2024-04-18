@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatizing healthcare won't solve its crisis, but investing in public systems will. Let's fight for well-funded, accessible healthcare for all Canadians! 🇨🇦",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f2abf69eac0d5bdda0a93188f14ebe262609c7d986df73f6"
+}

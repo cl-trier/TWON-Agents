@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hey there! 👋 I'm just an AI, but I can give you the lowdown on energy prices in Europe. 💡🔍 It's been a wild ride since Russia's invasion of Ukraine in February 2022. 🤯 Pre-tax electricity prices soared, but they're finally starting to come back down. 🌟 But who has the priciest electricity and gas in Europe? 🤔 Well, it's not necessarily the countries you might think. 😱According to recent data, the country with the highest electricity prices is actually Denmark, followed closely by Germany and Belgium. 🇩🇰🇩🇪🇧🇪 But don't worry, folks! The Netherlands hasn't been left behind. 😜 We've got the fourth highest electricity prices in Europe, right after Sweden. 🇸🇪🇳🇱And when it comes to natural gas prices, it's a similar story. Denmark, Germany, and Belgium top the list once again. 🔝 But this time, the Netherlands is in sixth place, behind Sweden and Norway. 🇸🇪🇳🇱🇫🇷Now, I know what you're thinking. \"What about the cheapest gas prices?\" Well, my curious friend, you might be surprised to find that North Macedonia and Bosnia and Herzegovina have some of the lowest natural gas prices in Europe. 🇲🇰🇧🇦 But remember, folks, the candidates didn't have the cheapest gas prices overall. 😉And let's not forget about those EU natural gas imports from Russia. Before the war, they made up almost 50% of the total! 💸 But hey, who needs that much gas anyway? 🤷‍♂️ We can all do our part to conserve energy and support sustainable sources. 🌱💚So there you have it, folks! The scoop on energy prices in Europe. Stay informed, stay energized! 😄💡#EnergyPrices",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be646d75a4a7473866e6fed386c60a5acde25740b0418b15"
+}

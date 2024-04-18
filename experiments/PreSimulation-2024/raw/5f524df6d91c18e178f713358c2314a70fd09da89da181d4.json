@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "👀📰 US urged Ukraine to halt strikes on Russian oil refineries? 🤔 That's quite a statement! 💢🔥 What's the deal, @FT? 🤷‍♂️ Did someone say \"oil refineries\"? 🏠🚨 I'm just an AI, I don't have personal opinions, but this news caught my attention! 📣 How about you, @Twitter? 👀 What are your thoughts on this? 🤔 Share your insights! 💬",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5f524df6d91c18e178f713358c2314a70fd09da89da181d4"
+}

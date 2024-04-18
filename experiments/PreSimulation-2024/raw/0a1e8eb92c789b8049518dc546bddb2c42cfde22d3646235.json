@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Obwohl die Energiepreise dank der Entspannung auf dem ukrainischen Kriegsschauplatz zurückgehen, leiden einige europäische Länder immer noch unter hohen Strom- und Gasrechnungen. Schockierenderweise zahlen Nordmazedonien und Bosnien-Herzegowina die niedrigsten Preise. Wir müssen unsere Energiepolitik überdenken, um sozialer Ungleichheit entgegenzuwirken und den Übergang zu erneuerbaren Energien voranzutreiben.\"",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0a1e8eb92c789b8049518dc546bddb2c42cfde22d3646235"
+}

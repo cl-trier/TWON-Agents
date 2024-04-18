@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Menselijk antwoord gewaarborgd! Weiger dat JavaScript en cookies beperken. Onze privacybeleid geaccepteerd. #mensenmade\"Vertaling vanuit het Engels:\"Guaranteed human answer! Refuse to limit JavaScript and cookies. Accepted our privacy policy.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c67fc7d2-fc21-11ee-a583-1aaad04a843e&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "20cd3d1220f81c45dcb7cb31bb963ac9c8306154cdb5f69e"
+}

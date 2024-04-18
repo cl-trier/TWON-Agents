@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Sunflower oil shortages in Ukraine due to energy infrastructure attacks? 🌻💢 Experts say it's not just about the attacks, but also market factors. 🤔 Conditional prices may drop to UAH 15,300-15,500 per tonne, but refineries are offering higher prices now. 💰 Keep an eye on veggie oil prices, they'll affect sunflower prices! 🥗👀",
+    "retrieved_source": "https://en.interfax.com.ua/news/economic/981064.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "204bf3588d0082ee528ab3769af1e6a96b2d587f48675028"
+}

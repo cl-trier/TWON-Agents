@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Decades of government defunding have crippled Canada's healthcare system. The push for privatization is alarming, undermining Medicare's popularity among hardworking Canadians. We need to strengthen public healthcare, not sell it off to corporations.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4cc6d80b4e9fb478542e5e77e8172bf58d63fa3c7c4c2e3a"
+}

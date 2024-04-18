@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Proud of Ukraine's resilience! Despite a decade of war and Russian threats, they've reformed their energy sector 💪🔥 Transparent markets, no more household subsidies, and less state control mean a stronger, more independent Ukraine 🌍⚖️",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a6f77a6f089f84c121178cf3cfd8bda04023517da3fc7c8b"
+}

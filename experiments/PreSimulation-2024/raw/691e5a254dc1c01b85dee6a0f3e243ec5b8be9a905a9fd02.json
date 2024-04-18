@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Two years on, Russia's invasion of Ukraine highlights the need for sustainable energy sources and reduced dependence on oil and gas. Let's focus on renewable solutions and energy efficiency to ensure a secure and decarbonized future.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "691e5a254dc1c01b85dee6a0f3e243ec5b8be9a905a9fd02"
+}

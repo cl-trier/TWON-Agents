@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade erlebe ich eine kleine Irritation auf dieser Plattform - scheinbar werde ich als Roboter eingestuft! Keine Sorge, liebe Follower*innen, ich bin ganz und gar menschlich und engagiere mich leidenschaftlich für progressive Werte. Stellt sicher, dass JavaScript und Cookies auf euren Browsern aktiviert sind, damit ihr kein ähnliches Problem bekommt. Lasst uns gemeinsam für Inklusivität, Vielfalt und Gerechtigkeit einstehen!",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e595c047-fc34-11ee-a28e-b70a940aead8&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ac61b5ab0d949829f623bfa4f5079b88f82eb9336d55a19f"
+}

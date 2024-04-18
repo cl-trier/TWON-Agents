@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Volgens studie is persvoorziening in het Verenigd Koninkrijk's gezondheidssysteem duurder en leidt tot twee-klassen zorg, terwijl artsen onder druk staan hun altruïstische waarden te verzaken.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7257fc5fa3608138e63e5a303ae36bb49526394fdae271bf"
+}

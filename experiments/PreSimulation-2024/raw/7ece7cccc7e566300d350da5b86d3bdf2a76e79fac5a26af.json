@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schließen wir die Geschlechtergesundheitslücke: Ein Thema, das uns alle angeht!",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ece7cccc7e566300d350da5b86d3bdf2a76e79fac5a26af"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorg dat iedereen toegang heeft tot betaalbare en kwalitatieve zorg! Geen enkele persoon moet achterblijven in hun gezondheid omdat ze de kosten niet kunnen dragen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cd7eaf8ee9cd531a829ba4b069b4ba2f1419431df1c26476"
+}

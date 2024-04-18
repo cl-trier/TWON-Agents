@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I'm not a robot, but I'm starting to wonder if the political discourse in this country is being controlled by algorithms instead of actual human conversation.\"",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8e5d1fa8-fcd5-11ee-b419-d9ccd0d926de&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01150feb706be571ebfebde3f3eec246ec5adacd8d664ca6"
+}

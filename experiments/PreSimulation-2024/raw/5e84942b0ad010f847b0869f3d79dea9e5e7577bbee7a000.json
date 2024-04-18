@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz Versicherungsschutz lasten horrende Gesundheitskosten auf vielen Amerikanern. Wir müssen unser System reformieren, um Kosten zu senken und finanzielle Sicherheit wiederherzustellen.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e84942b0ad010f847b0869f3d79dea9e5e7577bbee7a000"
+}

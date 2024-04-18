@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@GovernorLamont: Terrible news! Public Act 23-171 is a recipe for disaster. How can we expect to improve healthcare affordability by adding more regulations and bureaucracy? Let's get back to basics and embrace free-market principles. Let's make healthcare affordable for all, not just a select few.",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bac83bf7a9ff8d0bb26cbff5deafe4ea27372e085f609dbe"
+}

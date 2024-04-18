@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "💻👩‍⚕️ The AI era revolutionizes women's healthcare, but let's not forget the blind spots! 🤖👀 Join the discussion on the evolving definition of women's health and the promise & challenges of predictive tech.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cf08cf4c6d062c2a8fa4e1e6736142c5842e160d7e2d0b00"
+}

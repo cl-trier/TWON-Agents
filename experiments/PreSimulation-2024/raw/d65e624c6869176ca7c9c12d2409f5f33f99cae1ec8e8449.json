@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe rapportage analyseert gezondheidszorgcrisis in Amerika: laag inkomens en hoge gezondheidsuitgaven combineren zich tot een dodelijke cocktail voor miljoenen Amerikanen.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d65e624c6869176ca7c9c12d2409f5f33f99cae1ec8e8449"
+}

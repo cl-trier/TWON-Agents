@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine war updates: Kremlin won't say whether it was forewarned of Iran's attack; Russians closing in on battlefield target\"\"It's time for the US Congress to pass a Ukraine aid bill and show Russia that we stand with Ukraine in this fight. The risks are manageable, especially if the G7 acts together.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b5322e5b4f7052733b320022368db3bfec82f45816ea0e8"
+}

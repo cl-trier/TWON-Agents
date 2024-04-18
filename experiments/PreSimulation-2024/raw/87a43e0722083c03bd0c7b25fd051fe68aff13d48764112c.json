@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Pres. Zelenskiy declares Bakhmut not occupied by Russia, while Russia accuses G7 of undermining stability. Amidst conflicting claims, constructive dialogue & objectivity remain crucial for global understanding.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "87a43e0722083c03bd0c7b25fd051fe68aff13d48764112c"
+}

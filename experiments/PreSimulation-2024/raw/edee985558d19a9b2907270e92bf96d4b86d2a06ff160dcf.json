@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "New study reveals privatization of hospitals leads to worse patient care. 🤯🏥 The study, published in The Lancet Public Health, found that patient care quality decreases after privatization, including staffing levels, patient mix, number of services provided, doctors' workload, and patients' health outcomes. 📉💔 What are your thoughts on this? Should healthcare be a public or private service? Share your opinions! 💬",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "edee985558d19a9b2907270e92bf96d4b86d2a06ff160dcf"
+}

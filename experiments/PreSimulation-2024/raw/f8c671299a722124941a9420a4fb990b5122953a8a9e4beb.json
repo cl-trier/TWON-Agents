@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beware of the threats to universal healthcare in Lebanon! 🚨💡 Social security contributions and national institution budgets are losing value, while draft bills for universal coverage stall in parliament. 🤔👀 Privatization looms, threatening the NSSF's role as main insurer of private sector workers. 💰🏥 Political parties are pushing private initiatives, but can they ensure sustainable coverage for all? 🤷‍♂️👫 Let's keep the focus on strengthening social security institutions to achieve true universal healthcare! 💪🏼🧡",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f8c671299a722124941a9420a4fb990b5122953a8a9e4beb"
+}

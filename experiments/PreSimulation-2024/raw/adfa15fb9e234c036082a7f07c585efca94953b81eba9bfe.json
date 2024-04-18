@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Skyrocketing gas prices are no accident - Russia's attacks on Ukrainian infrastructure aim to keep Europe dependent and in the cold. Time for energy independence and an end to globalist meddling!",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "adfa15fb9e234c036082a7f07c585efca94953b81eba9bfe"
+}

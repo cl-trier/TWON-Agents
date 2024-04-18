@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Es ist Zeit, dass wir als Gesellschaft wieder zu den Wurzeln zurückkehren und die Bedeutung von Gesundheit und Prävention verstehen. Mainstream-Medien und politische Korrektheit haben uns dazu verdummt, die wichtigsten Faktoren für eine gesunde Gesellschaft zu ignorieren. Lass uns zusammenarbeiten, um die Vergessenen Stimmen zu hören und eine Rückkehr zu den grundlegenden Werten unseres Landes zu fördern.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "94b0fd041a8768cf1e85a8e8d34b41b657ed6f8ef0d22274"
+}

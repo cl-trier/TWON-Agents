@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische inval: hoe beïnvloedt dit energZekerheid en dekolonisatie? De oorlog in Oekraïne versterkt bezorgdheid over energieZekerheid, maar zet ook duurzame transitie in gang. Europa vermindert Russische energie, maar creëert tegelijkertijd een zonne-energieparadox. China's energiebeveiligingsangst is versterkt.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "64084bf597ab91648d6a8dad7c1c0a2435af731af8b95469"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energy war\" trifft auf Ukrainedating das Schlagwort. Ehemaliger Chef von Ukrsotsbank warnrt vor dramatischen Preissteigerungen because of Russian destruction of Ukrainian energy infrastructure. Ukraine braucht mehr Waffen, um seine Energieinfrastruktur zu retten. Recent strike on gas storage facilities in west Ukraine caused significant spike in European gas prices. Damage to Ukrainian energy network is more extensive than Russian attacks in winter 2022-23.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a9f82487c4b34433f24a08ec3989ee2b599615ae7ce29cf"
+}

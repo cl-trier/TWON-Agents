@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨WTF?! Providence St. Joseph Health System verlangt unangemessene Tariferhöhungen und schadet dadurch der Bezahlbarkeit von Gesundheitsversorgung für ihre Mitglieder! 🤯Blue Shield bleibt offen und ready zu Verhandlungen mit Providence. Blue Shield-Mitglieder haben weiterhin Zugriff auf Pflege in jedem Krankenhaus oder bei jedem Anbieter in ihrem Netzwerk, wie sie es immer haben. 💪🏻",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11b2f4ff773de010cf9f0ac3687e2456ebba88689fd641c1"
+}

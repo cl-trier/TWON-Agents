@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarmed by escalating tensions and potential nuclear threat in Ukraine-Russia war, we must uphold our commitment to national security, advocating for diplomacy, and condemning any reckless actions that endanger innocent lives.",
+    "retrieved_source": "https://news.sky.com/story/russia-ukraine-war-latest-putin-may-launch-all-out-bid-to-seize-second-city-as-western-officials-fear-major-russian-advance-12541713",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "21a750424e2905f95220e4a2c697aa93198d8ef3d4af33e8"
+}

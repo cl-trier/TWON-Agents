@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's attack on Ukrainian storage tanks is a clear violation of international law and a threat to European energy security. Natural gas prices are rising, and it's time for Europe to reconsider its reliance on Russian energy. Let's support Ukraine and diversify our energy sources to ensure a stable and secure future.",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a6d498eda15076d354d9503aedffad7a4adf67d752f041a"
+}

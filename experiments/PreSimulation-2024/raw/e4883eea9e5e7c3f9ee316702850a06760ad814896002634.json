@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Als Verfechterin von sozialer Gerechtigkeit und Fürsprecherin für einen starken Staat freue ich mich über die Erfolgsgeschichte Malaysias im Bereich des bezahlbaren und zugänglichen Gesundheitssystems. Ismaziah Binti Ibrahim, eine Gemeindeschwester und Hebamme, weiß als Expertin um die Wichtigkeit von erschwinglicher und leicht erreichbarer Geburtshilfe.In Malaysia sind die Kosten für Gesundheitsdienstleistungen in Regierungskliniken die günstigsten, was sie zur ersten Wahl der Patienten macht. Dies trägt dazu bei, finanzielle Belastungen für die Menschen zu verringern und gleichzeitig eine patientenzentrierte Versorgung sicherzustellen.Es ist entscheidend, dass Regierungen in die Bereitstellung erschwinglicher und qualitativ hochwertiger Gesundheitsversorgung investieren, um allen Bürgern Zugang zu den Dienstleistungen zu ermöglichen, die sie benötigen.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4883eea9e5e7c3f9ee316702850a06760ad814896002634"
+}

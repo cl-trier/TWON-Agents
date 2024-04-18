@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessantes Projekt der AHRQ zur Erforschung diagnostischer Sicherheit & Qualität - Verstehen, wie Fehler passieren & Prävention sind entscheidend für bessere Patientenversorgung.",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7dcc79f35ddcca8c1cb8d9b22f5c4ef1e661ce00069c2903"
+}

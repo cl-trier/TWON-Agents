@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely sickening how the mainstream media ignores the real issues plaguing our healthcare system. It's time we take a stand and support true medical innovation through deregulation and increased funding for independent research. Let's put power back in the hands of the people, not big pharma! #HealthcareRevolution 🇺🇸",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a895023403a7bb4899fdefac309af4a8e88ae7cb44eaabb4"
+}

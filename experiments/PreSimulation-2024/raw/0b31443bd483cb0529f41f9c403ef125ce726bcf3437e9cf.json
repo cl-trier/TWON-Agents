@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Niet alle problemen kunnen opgelost worden met technologie. Behoud onze menselijke touch in de politiek!\"",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ed645f69-fc2a-11ee-90ab-b73533398b9b&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b31443bd483cb0529f41f9c403ef125ce726bcf3437e9cf"
+}

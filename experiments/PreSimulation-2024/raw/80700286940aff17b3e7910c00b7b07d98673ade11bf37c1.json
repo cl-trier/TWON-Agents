@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking PayZen report reveals 36% of Americans skipped medical care due to cost, with 75% worrying about unexpected bills. It's clear we need urgent action to ensure affordable healthcare for all!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/payzen-report-reveals-us-healthcare-affordability-crisis-36-skipped-care-due-to-inability-to-pay-302112755.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "80700286940aff17b3e7910c00b7b07d98673ade11bf37c1"
+}

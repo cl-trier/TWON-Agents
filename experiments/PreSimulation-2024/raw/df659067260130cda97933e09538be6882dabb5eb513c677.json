@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw rapport van Info-Tech over AI in de zorgsector. Een waarschuwing aan IT-leiders: bescherm onze Nederlandse identiteit en soevereiniteit! We moeten onze eigen cultuur en tradities behouden en kritisch zijn tegenover internationale samenwerking. Laat ons onze beslissingen zelf nemen en de macht teruggeven aan het volk!\"",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/info-tech-research-group-releases-blueprint-for-ethical-ai-implementation-in-the-healthcare-industry-302118518.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df659067260130cda97933e09538be6882dabb5eb513c677"
+}

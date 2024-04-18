@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Outrageous! Russian double-tap strikes targeting civilians and rescue workers in Ukraine is an affront to humanity.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "005bb25747bdeca98a9ecaf2c31d8c43f932cf862f192b02"
+}

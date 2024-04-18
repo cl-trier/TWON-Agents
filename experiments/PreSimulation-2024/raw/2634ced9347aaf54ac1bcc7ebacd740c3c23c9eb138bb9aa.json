@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisering in het Verenigd Koninkrijk's gezondheidszorg verhoogt kosten en schaadt de waarden van zorgverleners. Twee-klassen zorg is geen optie. Onze belangen eerst!",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2634ced9347aaf54ac1bcc7ebacd740c3c23c9eb138bb9aa"
+}

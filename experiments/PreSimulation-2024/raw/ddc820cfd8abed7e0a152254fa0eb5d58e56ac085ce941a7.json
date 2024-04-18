@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming new stats from Health Affairs: 27% of non-senior adults face severe #HealthcareAffordability issues, with 46% experiencing some form of financial strain. This is unacceptable in a nation as prosperous as ours. We must prioritize equitable and affordable healthcare for all!",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ddc820cfd8abed7e0a152254fa0eb5d58e56ac085ce941a7"
+}

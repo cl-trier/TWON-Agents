@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Strijd tegen ongelijkheid en onderdrukking op alle fronten, ook in Oekraïne. Militaire overmacht mag geen oplossing zijn voor vrede en rechtvaardigheid. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1473152e3d7dced622a36c2d8a5e4b8f4ad0931285cff675"
+}

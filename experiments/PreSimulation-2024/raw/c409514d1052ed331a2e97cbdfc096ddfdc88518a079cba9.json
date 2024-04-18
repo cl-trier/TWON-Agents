@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke investeringen in gezondheidszorg en onderzoek zijn noodzakelijk voor een welvarende toekomst. Een sterke vrije markt kan helpen om innovatie te stimuleren, maar regulering is essentieel om de kwaliteit te waarborgen. Goed opgeleide medici en onderzoekers zijn onze grootste schat!\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c409514d1052ed331a2e97cbdfc096ddfdc88518a079cba9"
+}

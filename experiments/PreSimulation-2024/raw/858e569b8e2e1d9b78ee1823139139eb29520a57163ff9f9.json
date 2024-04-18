@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatize healthcare for true patient freedom! It's time to ditch the government control & burdensome subsidies that have distorted our once efficient system. Let's return to the roots where healthcare thrived before insurance complexities, but without abandoning Montana seniors who rely on Medicare promises",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "858e569b8e2e1d9b78ee1823139139eb29520a57163ff9f9"
+}

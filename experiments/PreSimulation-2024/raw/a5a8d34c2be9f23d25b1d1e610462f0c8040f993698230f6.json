@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Studie zeigt: Privatisierung von Krankenhäusern führt zu schlechteren Patientenversorgung. Wie kann man dann noch davon sprechen, dass der Markt die Lösung für alle Probleme ist?",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a5a8d34c2be9f23d25b1d1e610462f0c8040f993698230f6"
+}

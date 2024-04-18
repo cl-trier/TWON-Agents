@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schrikbewarend! Russische aanvallen op Oekraïense energie-infrastructuur dreigen Europese energietarieven te doen explodeeren. Onmiddellijke solidariteit en steun voor Oekraïne zijn noodzakelijk om ongelijke strijd te verhelpen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bca8889ea0fd27159a309debd02546ac4396972263429df9"
+}

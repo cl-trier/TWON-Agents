@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Stabilität und Frieden: Unterstützen wir Ukraine und suchen nach Lösungen für globale Herausforderungen. Keine Politische Korrektheit, die unsere Augen vor der Wahrheit verschließt!",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74726ffbbd517f87f97728367f49ade7dc71d868d102dfe3"
+}

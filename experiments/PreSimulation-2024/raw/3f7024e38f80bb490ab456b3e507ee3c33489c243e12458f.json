@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Deutschland schickt Patriots, doch China liefert heimlich Kriegstechnik an Russland. Zeit für den Westen, gemeinsam zu handeln und unsere Werte zu verteidigen!",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3f7024e38f80bb490ab456b3e507ee3c33489c243e12458f"
+}

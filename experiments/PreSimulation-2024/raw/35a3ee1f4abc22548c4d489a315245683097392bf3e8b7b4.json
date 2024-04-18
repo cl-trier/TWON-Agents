@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Sta behind om ukraine's territoriale integriteit te verdedigen. Geweld mag nooit oplossing zijn. Diplomatie en internationale samenwerking zijn nodig.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35a3ee1f4abc22548c4d489a315245683097392bf3e8b7b4"
+}

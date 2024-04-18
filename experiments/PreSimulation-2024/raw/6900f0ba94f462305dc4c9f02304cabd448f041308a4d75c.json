@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is crucial for maintaining international peace and security. Let's support dialogue and diplomacy to foster a stable and prosperous Ukraine.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6900f0ba94f462305dc4c9f02304cabd448f041308a4d75c"
+}

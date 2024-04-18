@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Canada's health care crisis is no accident - it's the result of decades of systematic defunding by governments. Union leadership, while claiming to oppose privatization, has failed to truly fight against it. Now, amidst this crisis, we see corporations like Telus jumping into the lucrative healthcare game. It's time for a genuine struggle against privatization that puts the needs of Canadian workers first.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "560c3b1df26bf6a7f5edcf5fcc6658837b283b1440736c26"
+}

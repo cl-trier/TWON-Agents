@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Day 782 of Russia-Ukraine conflict: As we pray for peace & sovereignty, let's not forget the importance of a strong national defense, standing up to aggression, and fostering free markets for true prosperity.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b8fe0132f1638c477274d8afd84b49cb451ae5c63fc69132"
+}

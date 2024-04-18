@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Europe, it's time to wake up! Ukraine's gas storage sites are under attack and we can't let them face this alone. The Kremlin's missiles are threatening the very infrastructure that supports our energy needs. Ukraine's storage facilities are crucial to the EU's energy supply, making up 28% of our needs. We must stand with Ukraine and support their defense against Russian aggression. Our prosperity and security depend on it.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a8d150608ae563eacfb79e5435eeabc0a7c97010984d4580"
+}

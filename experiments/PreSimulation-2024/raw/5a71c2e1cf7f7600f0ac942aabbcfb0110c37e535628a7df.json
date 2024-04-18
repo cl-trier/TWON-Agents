@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schijnbaar eenvoudige oplossingen voor complexe problemen zijn vaak te goed om waar te zijn. Maar bij VivaWell is dat anders! Hun prevention-centered healthcare plans helpen Latin American corporations hun medewerkers gezonder te maken én redden geld. Nederlands bedrijven, let op deze succesvolle benadering!",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a71c2e1cf7f7600f0ac942aabbcfb0110c37e535628a7df"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De situatie in Oekraïne is complex en tragisch; het respecteren van soevereiniteit en mensenrechten moet centraal staan in elke poging tot vrede, terwijl we openstaan voor een dialoog dat leidt tot begrip en duurzame oplossingen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eeb68fa6bf67ddaacfe4cae756dce1c281879e2fc04dfef7"
+}

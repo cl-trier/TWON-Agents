@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "#GenderHealthGap ist nicht nur ein Frauenproblem, sondern betrifft uns alle – schließlich streben wir doch nach Geschlechtergesundheitsparität für eine stärkere Wirtschaft und bessere Lebensqualität.",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "59f98afa041934820fb4bcd1d84c403cda144b7ff069df1d"
+}

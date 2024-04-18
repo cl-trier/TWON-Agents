@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beneficent en equitable AI in biomedical research en healthcare? Ja, dat is cruciaal! We cannot allow AI to perpetuate existing health disparities and discrimination. It's time for intersectional approaches to AI development that prioritize fairness and equity for all. Let's work together to create a future where AI benefits everyone, not just a select few.",
+    "retrieved_source": "https://www.universiteitleiden.nl/en/in-the-media/2023/09/new-article-by-elaw-fair-and-equitable-ai-in-biomedical-research-and-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c02d8c460835df96259a501f3151a0af614a531363030bad"
+}

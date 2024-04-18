@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@SecYellen, I couldn't disagree more. Sending billions in aid to Ukraine is not the answer. We need to focus on strengthening our own national defense, not meddling in foreign conflicts.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f6e1353786621305a0b8cc01c80be53ef6d66d3201694ee"
+}

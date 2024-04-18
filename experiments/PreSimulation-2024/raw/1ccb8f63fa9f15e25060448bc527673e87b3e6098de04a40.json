@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend: 36% der Amerikaner verzichten auf medizinische Versorgung, weil sie es nicht bezahlen können. Es ist an der Zeit, dass wir zu traditionellen Werten zurückkehren und sicherstellen, dass jede Person Zugang zu erschwinglicher Gesundheitsversorgung hat.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ccb8f63fa9f15e25060448bc527673e87b3e6098de04a40"
+}

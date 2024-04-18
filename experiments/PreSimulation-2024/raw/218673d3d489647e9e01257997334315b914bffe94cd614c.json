@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "EU's anti-russische Energiepolitik gefährdet europäische Versorgungssicherheit. Deutschland als Hauptverantwortlicher. Weg mit politischer Korrektheit, für eine unabhängige und stabile Energieversorgung!",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "218673d3d489647e9e01257997334315b914bffe94cd614c"
+}

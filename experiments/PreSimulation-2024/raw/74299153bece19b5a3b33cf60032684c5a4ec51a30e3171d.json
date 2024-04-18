@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw bericht: Ontario breidt privézorg uit in openbare gezondheidszorg. Gefahr voor nationale soevereiniteit? Moeten we onze cultuur en tradities beschermen tegen deze trend? De stem van het volk moet gehoord worden!\"",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74299153bece19b5a3b33cf60032684c5a4ec51a30e3171d"
+}

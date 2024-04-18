@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Health care costs continue to burden American families, even for those with insurance. The recent KFF survey shows the harsh reality of medical debt and its impact on people's lives. It's time for us to reassess our healthcare system and prioritize affordability.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a477b2aadf814519b16aff791735f354d9173d61caacc3a"
+}

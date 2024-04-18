@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦 Ukraine's energy prices are skyrocketing! 💸 What's the reason behind this hike? 🤔 Is it due to the ongoing conflict or something else? Let's discuss! 💬",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "22fd1f433fa6f50668710229b4008cabe3f82a21b14e2eb8"
+}

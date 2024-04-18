@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist ein Menschenrecht, nicht eine Luxusgüte. Investitionen in Forschung sind entscheidend für eine zukunftsfähige Medizin.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3e79ff77e7bb9387529a63cb72e35405d030f3d1788fbc3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Calling for unity and action at #Davos2023! 🌎 Our Foreign Secretary, Lord David Cameron, is urging world leaders to come together and address the biggest challenges facing our world today. 💪🏽 Let's work together to achieve a more stable and secure future for all. 🌟",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "256eda52e02a76519a9884af55c8db7703552b8ca674cf1a"
+}

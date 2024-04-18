@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Day 783 of the Russia-Ukraine war and still no end in sight. The list of key events is depressingly long. When will our leaders finally put an end to this senseless violence?",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4839700f97a40cd24e1e8e08102c54d8abbcb9481728c4d1"
+}

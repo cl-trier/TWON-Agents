@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@NATO must go beyond traditional military thinking & embrace a broader role in strategic cyber competition. It's time for a more proactive approach to protecting the integrity of the global digital commons. Let's work together with tech, policy, and civil society communities to counter threats from Russia, China, and other actors.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "73abb5ae846f36156c0e9ace5b28d8d7a784ad2cbf5138e1"
+}

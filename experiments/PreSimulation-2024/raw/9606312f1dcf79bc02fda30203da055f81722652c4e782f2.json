@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Prevention is key! Dr. Sanjay Gupta emphasizes the importance of brain health and measuring its function during AHA Annual Meeting. Let's prioritize our health by making informed decisions, backing up medical advancements like AI with a healthy lifestyle, and combating misinformation.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9606312f1dcf79bc02fda30203da055f81722652c4e782f2"
+}

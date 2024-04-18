@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Gesundheitslücke zwischen den Geschlechtern ist kein isoliertes Problem, sondern betrifft uns alle. Es ist an der Zeit, in Forschung und Behandlung geschlechtsspezifischer Erkrankungen zu investieren, um wirtschaftliches Wachstum zu fördern und Chancengleichheit für alle zu schaffen.",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d3c0e93a169c295417fb892ee3a147186b9177d53c674a6"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Finally, Ontario is taking steps to improve healthcare access through private-sector involvement, expanding to hip & knee replacements while respecting the Canada Health Act. No more waitlist nightmares for our citizens! #HealthcareReform #FreedomOfChoice 🇨🇦💪",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d384d3f7cf43006c830ad5da40f79a14dc82fd84a7387c4"
+}

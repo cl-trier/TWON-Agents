@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Market forces don't work in healthcare\" - new report suggests privatization won't reduce wait times in Ontario, may even increase them due to staffing shortages and upselling. #publichealthcare #privatization # Ontariocares",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a521f60ed17369476169094fa1f698fd56655a2779386ccc"
+}

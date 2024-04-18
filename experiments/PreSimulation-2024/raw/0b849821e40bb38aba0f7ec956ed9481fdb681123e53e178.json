@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Sad to see the ongoing attacks on Ukraine's energy infrastructure by Russia. Our thoughts are with the innocent civilians caught in the crossfire. It's alarming that critical Western military aid is failing to materialize, leaving Ukrainian air-defense capabilities weakened. We must stand up against this aggression and support the sovereignty of all nations. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b849821e40bb38aba0f7ec956ed9481fdb681123e53e178"
+}

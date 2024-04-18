@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Staatliche Eingriffe in Wirtschaft und Handel sollten mit Vorsicht behandelt werden. Es ist bedenklich, wenn #USA #Ukraine auffordert, Ölanlagenangriffe einzustellen. Finanzielle Verantwortung & freie Marktpreise sind Grundpfeiler für wirtschaftlichen Wohlstand. Lasst uns traditionelle Werte und individuelle Freiheiten schützen, anstatt in umfassende staatliche Kontrolle zu verfallen.\"#KonservativeWerte",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb644005f54ed6ea2055fe5689a89982efa1db7f1057bde2"
+}

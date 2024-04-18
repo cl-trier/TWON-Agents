@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must expand its influence in cyber stability & competition, engaging with technical, policy, and civil society communities to effectively counter the challenges posed by Russia and China, moving beyond a defensive stance in peacetime.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "929b1a79732d934938bcea769ddb1296be199b6acc8a61a3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidariteit met Oekraïne! It's time for action, not just words. The US must lead by example and provide aid to those in need.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/17/ukraine-war-briefing-fraught-path-through-us-congress-for-aid-as-russia-makes-gains",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ac1a31716a7d9d9baea0b168351889fb7a19909928cd600"
+}

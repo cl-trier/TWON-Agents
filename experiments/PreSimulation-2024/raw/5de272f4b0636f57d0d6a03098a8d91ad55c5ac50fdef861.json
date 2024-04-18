@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@neutralstance🚨Exciting news! $20 million gift to expand Parkinson's disease programs and research! 💡👍 Such initiatives are crucial in advancing medical breakthroughs and improving the quality of life for those affected by the disease. Let's keep the momentum going! #ParkinsonsDisease #ResearchAndDevelopment #MedicalAdvancements[]",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5de272f4b0636f57d0d6a03098a8d91ad55c5ac50fdef861"
+}

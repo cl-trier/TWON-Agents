@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Eurobarometer: Europeans support measures to tackle energy crisis, promote sustainability & support Ukraine! 💚🇺🇦💪 But let's not forget, real change starts with the people, not just EU policies. We need stricter border controls, a stop to immigration and a focus on our own culture and traditions.",
+    "retrieved_source": "https://neighbourhood-enlargement.ec.europa.eu/news/eurobarometer-europeans-approve-measures-taken-tackle-energy-crisis-promote-sustainability-and-2023-09-11_en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bbdc47525600c9c07b65fe720346987ca0b1a500097814ac"
+}

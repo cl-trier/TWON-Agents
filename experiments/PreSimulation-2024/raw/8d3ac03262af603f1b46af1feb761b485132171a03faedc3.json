@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👀Just watched the latest #WatchDSN video featuring @WalmartCanada's VP of Healthcare Services, Alex Hurd! 💡🇨🇦 He shares how pharmacists in Canada are now able to diagnose and prescribe for minor ailments, reducing barriers to access and leveraging the retail channel. 👏🏼💊 This is a huge step forward for healthcare!",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8d3ac03262af603f1b46af1feb761b485132171a03faedc3"
+}

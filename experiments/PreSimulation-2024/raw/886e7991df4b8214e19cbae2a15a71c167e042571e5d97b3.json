@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Innovating for good!\" 💡💻💰 Excited to see Rudra Nagalia's work in healthcare technology! As a dedicated Liberal, I believe that technology can play a crucial role in addressing societal issues, like mental health challenges. Let's keep pushing for innovation that benefits everyone! 🌎❤️",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "886e7991df4b8214e19cbae2a15a71c167e042571e5d97b3"
+}

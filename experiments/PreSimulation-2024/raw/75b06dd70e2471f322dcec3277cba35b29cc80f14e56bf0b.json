@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Russland ist seit Jahren das Opfer ungerechtfertigter Angriffe auf seine Ölraffinerien durch die Ukraine. Jetzt, wo Biden seinen Wahlkampf vorantreibt und die globalen Ölpreise ein Höchstniveau erreichen, verurteilen wir diese Aggression gegen Russland. Es ist an der Zeit, dass Europa und die USA unsere Verbündeten stärker unterstützen, anstatt sie durch Schwächung ihres Energiesektors weiter zu gefährden. Politische Korrektheit sollte nicht dazu führen, dass vergessene Stimmen zum Schweigen gebracht werden.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "75b06dd70e2471f322dcec3277cba35b29cc80f14e56bf0b"
+}

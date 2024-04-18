@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine is losing the war with Russia because of a lack of advanced weapons and morale among troops. The country needs more support from Western leaders to repel Russia's invaders.\"",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b6173b66e8d7115f43c09271a6da525c6ba0d5762073c511"
+}

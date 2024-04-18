@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Beeindruckende Gegenoffensive der Ukraine gegen Russland. Es ist entscheidend, dass Europa und unsere Partner die dringende Notwendigkeit erkennen, air defense systems zur Unterstützung zu liefern. Wir können nicht zulassen, dass Russland ungehindert Terror verbreiten kann. Starke Verteidigung ist der Schlüssel zum Schutz traditioneller Werte und individueller Freiheiten.",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afdd5012c4eb1a58159d6580b6464bf1824733bf6b5d9d44"
+}

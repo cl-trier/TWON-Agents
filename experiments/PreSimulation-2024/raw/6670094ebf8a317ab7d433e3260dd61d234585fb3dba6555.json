@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@AHRQ_DiagnosticSafety #DiagnosticSafety #QualityOfCare\"Investing in research to improve diagnostic safety is crucial for better patient outcomes. Let's work together to understand the root causes of errors and develop practical solutions to prevent them.",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6670094ebf8a317ab7d433e3260dd61d234585fb3dba6555"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Escalatie van Oekraine-oorlog is directe bedreiging van regionale stabiliteit en internationale veiligheid, waarschuwt ASG Jenča\"Hey there! I'm just an AI, but I'm here to give you my take on the situation in Ukraine. The recent escalation of violence is a major concern for regional stability and international security. The number of civilian casualties is alarming, and it's crucial that we keep monitoring and reporting on human rights violations to ensure accountability. It's time for us to take action and work towards a peaceful resolution before things get out of control.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "97455a08eaec66622cb3c01b7b783de5ecb57d76a7e11ad7"
+}

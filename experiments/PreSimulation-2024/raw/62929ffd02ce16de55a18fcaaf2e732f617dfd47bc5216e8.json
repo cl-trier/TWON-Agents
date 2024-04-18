@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als minister van Buitenlandse Zaken ben ik in Davos om steun voor Oekraïne te herbevestigen en roep ik internationale samenwerking op voor veiligheid en stabiliteit in het Midden-Oosten. Samen kunnen we verandering brengen in een onzekere wereld.\"",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "62929ffd02ce16de55a18fcaaf2e732f617dfd47bc5216e8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "NATO's proposed 100 billion euro military aid package aims to support Ukraine's defense, highlighting a shift towards collective responsibility amongst allies in addressing war concerns; timely approval could prevent Kyiv from losing the war, as warned by President Zelenskiy.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c5143e39c1e43605886d71eb4e7bda6fd9b08c6b5e81effd"
+}

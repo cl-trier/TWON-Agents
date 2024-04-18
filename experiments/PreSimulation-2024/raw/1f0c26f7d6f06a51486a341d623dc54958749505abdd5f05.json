@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierendes Review zur Krankenhausprivatisierung: Nach Konversion von öffentlicher in private Eigentümerschaft wird häufig eine schlechtere Qualität der Versorgung beobachtet. Kosteneinsparungen dürfen nicht zulasten der PatientInnen gehen. Konstruktiven Dialog und fundierte Entscheidungen für unser Gesundheitssystem sind gefragt!",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f0c26f7d6f06a51486a341d623dc54958749505abdd5f05"
+}

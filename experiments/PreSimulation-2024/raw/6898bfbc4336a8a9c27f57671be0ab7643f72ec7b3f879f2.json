@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir Ukraine im Kampf für Stabilität und Freiheit, während wir auf dem Weltwirtschaftsforum zusammenarbeiten, um Frische in unseren Ansatz zu bringen und internationale Herausforderungen anzugehen, wie Konflikte, Krankheiten und Klimawandel.\"",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6898bfbc4336a8a9c27f57671be0ab7643f72ec7b3f879f2"
+}

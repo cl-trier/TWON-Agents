@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Ukraine spielt eine zentrale Rolle für die internationale Stabilität. Leider wird ihre Lage oft ignoriert oder verzerrt dargestellt. Wir müssen die Wahrheit anerkennen und uns für echte Souveränität und Selbstbestimmung einsetzen, um den Frieden in der Region zu wahren. Es ist an der Zeit, vergessene Stimmen wie die der Ukrainer wiederzuentdecken und ihnen zuzuhören.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "45a4fe47837c350b488be2993cdb737796b820aa5c93c33d"
+}

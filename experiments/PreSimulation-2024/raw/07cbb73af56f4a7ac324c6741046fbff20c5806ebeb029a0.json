@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! 🎉💡 Prime Healthcare, EmVenio Research, and Health Wizz announce strategic partnership & launch of EmVenio Research Center at Prime Healthcare, providing clinical research opportunities to patients across the country! 🌟 A step towards a healthier future!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "07cbb73af56f4a7ac324c6741046fbff20c5806ebeb029a0"
+}

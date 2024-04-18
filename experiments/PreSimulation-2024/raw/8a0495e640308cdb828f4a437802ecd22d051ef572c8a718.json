@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schokkende cijfers van PayZen-rapport: 36% van Amerikanen kan gezondheidszorg niet betalen. Is het tijd om onze eigen gezondheidszorg te hervormen en betaalbaarder te maken?",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a0495e640308cdb828f4a437802ecd22d051ef572c8a718"
+}

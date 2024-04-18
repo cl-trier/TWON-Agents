@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Aktuelle Schätzungen der Grippe-Belastung für die Saison 2023-2024 werden wöchentlich aktualisiert und mit end-of-season Schätzungen früherer Grippesaisons verglichen - bleiben Sie informiert, um fundierte Entscheidungen zu treffen: <https://bit.ly/3KLHlXZ>",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e753ee57a8da338e953beefa5c8d91d83faa8f7b7b25c093"
+}

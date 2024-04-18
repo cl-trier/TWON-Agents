@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hey there! It's time to talk about the 2023-2024 US flu season! 🤧🏻🚨 Preliminary in-season burden estimates are now available, and they're updated weekly. 📈👀 Check out the latest numbers and compare them to previous seasons' end-of-season estimates. 🔍💡 Remember, these estimates are preliminary and may change as new data becomes available. Stay tuned for updates! 😊",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "693bd5302ea45ef3b004f6111caf3840ba2b5490ea65e835"
+}

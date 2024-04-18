@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beware of privatization! New study shows private ER care is 21% more expensive than VHA care. VHA providers receive extensive training to treat veteran-specific issues. Let's not sacrifice quality care for profits.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c787e77d4881dc1a072b016051db0a76b7fd04c8755fd8fa"
+}

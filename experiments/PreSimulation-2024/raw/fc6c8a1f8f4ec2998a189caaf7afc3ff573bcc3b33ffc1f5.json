@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hospital privatization = lower quality care? 🤯 A new review says yes! 👀 The study found that hospitals that went from public to private ownership delivered worse care. 🚫 This debunks the myth that privatization is the answer to all our healthcare problems. 😳 It's time to rethink our priorities and put patients over profits! 💼🏥",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fc6c8a1f8f4ec2998a189caaf7afc3ff573bcc3b33ffc1f5"
+}

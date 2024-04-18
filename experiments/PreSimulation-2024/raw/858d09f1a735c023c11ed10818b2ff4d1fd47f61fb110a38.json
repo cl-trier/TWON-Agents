@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der Herausforderungen durch den Konflikt hat sich die Ukraine in den letzten Jahren erfolgreich darum bemüht, ihre Energiesicherheit zu stärken, transparentere Märkte zu schaffen und Subventionen abzuschaffen, was zeigt, wie wichtig Reformen auch in schwierigen Zeiten sein können.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "858d09f1a735c023c11ed10818b2ff4d1fd47f61fb110a38"
+}

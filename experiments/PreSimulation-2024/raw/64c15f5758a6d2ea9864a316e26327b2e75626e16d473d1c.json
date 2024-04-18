@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Zeitbombe im tschechischen Gesundheitssystem ist nicht mehr zu leugnen. Es wird höchste Zeit, endlich konkrete Schritte zur Erhöhung der Effizienz einzuleiten. Weg von ideologisch motivierten Lösungen, hin zu Innovation und Prävention! Lasst uns die Stimmen vergessener Stakeholder hören und unserem Gesundheitssystem eine Zukunft schenken, auf die wir stolz sein können.",
+    "retrieved_source": "https://www.euractiv.com/section/health-consumers/news/czechias-healthcare-timebomb-prevention-schemes-and-greater-efficiency-needed-now/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "64c15f5758a6d2ea9864a316e26327b2e75626e16d473d1c"
+}

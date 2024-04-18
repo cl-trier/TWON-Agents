@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De escalerende oorlog in Oekraïne betekent een directe bedreiging voor regionale stabiliteit en internationale veiligheid. Wij moeten solidair zijn met alle slachtoffers en strijden voor rechtvaardigheid.\" #StandWithUkraine #Social Justice",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd4f1432cef89f76c8c4c1261a73f49f3baaf95ddbcc3c15"
+}

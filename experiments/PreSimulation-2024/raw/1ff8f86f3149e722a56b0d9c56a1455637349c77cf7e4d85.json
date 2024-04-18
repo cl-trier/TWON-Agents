@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz steigender Krebs-Screenings in den letzten 5 Jahren ist die Alt-Right-Bewegung nach wie vor gegen politische Korrektheit und für freie Meinungsäußerung, anstatt sich auf vermeintliche 'gesunde' Themen zu konzentrieren.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ff8f86f3149e722a56b0d9c56a1455637349c77cf7e4d85"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the higher prevalence of cardiovascular disease in Asians vs Americans, let's shed light on genetics, diet, and advocate for improved prevention & screening globally 🔬🌍",
+    "retrieved_source": "https://www.cureus.com/articles/238345-cardiovascular-disease-prevalence-in-asians-versus-americans-a-review-of-genetics-diet-and-the-call-for-enhanced-prevention-and-screening",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bcc4cfebc104db3073b8c9ff763069af59d580bbf1a18344"
+}

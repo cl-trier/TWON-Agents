@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bewaar het publieke gezondheidsysteem! Privatisering van ER zorg kost 21% meer dan overheidszorg en VHA-providers ontvangen meer geld voor follow-up diensten zonder normale verzekeringscontrole. Komt niet in een eerlijk debat over privatisering, want het publieke gezondheidsysteem is ons enige model voor exhaustieve gezondheidszorg.\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "821e5af9e0fc04bf92baf2843dce9cca17d6f224028ca89c"
+}

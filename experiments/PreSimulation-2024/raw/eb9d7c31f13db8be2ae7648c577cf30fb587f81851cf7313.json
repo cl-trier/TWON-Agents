@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesunde Bürger sind das Herzstück unserer Gesellschaft. Wir sollten die medizinische Forschung fördern und den Zugang zu qualitativ hochwertiger Versorgung erleichtern, ohne das Prinzip individueller Verantwortlichkeit aus den Augen zu verlieren. Innovation und Wettbewerb im Gesundheitssektor können zu erschwinglichen Lösungen führen, die jedem zugutekommen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb9d7c31f13db8be2ae7648c577cf30fb587f81851cf7313"
+}

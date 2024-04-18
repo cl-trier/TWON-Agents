@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Attention California! 🚨 New notice requirement for material change transactions closing on or after April 1, 2024! 📣 The California Office of Health Care Affordability is working to ensure affordable healthcare for all. 💰🏥",
+    "retrieved_source": "https://www.crowell.com/en/insights/client-alerts/california-office-of-health-care-affordability-notice-requirement-for-material-change-transactions-closing-on-or-after-april-1-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2328d68b67a74a59b64ada6b007e82122c0da7f7c3f64c51"
+}

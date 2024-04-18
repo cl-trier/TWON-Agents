@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 Argentina: Privatisierung von Gesundheitswesen gefährdet Menschenrechte! 💉👎🤔 Was passiert, wenn die Regierung die Verantwortung für das Gesundheitswesen an private Unternehmen abtritt? 🤷‍♂️🚨 Die Mehrheit der Bevölkerung kann es sich nicht leisten, gesund zu bleiben! 💸😱💪 Es ist Zeit, dass wir uns für eine gerechte und inklusive Gesundheitsversorgung einsetzen! 💪🌈👀 Was denken Sie? Teilen Sie Ihre Meinung mit mir! 💬#Gesundheitswesen",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "895497432f894fd4eb4fb9703dae32e3fb5df36940c8e283"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wir müssen die Einschränkung des privaten Sektors in der Gesundheitsbranche stoppen und die role of the NSSF als Hauptversicherer von Privatsektor-Arbeitnehmern stärken, um ein universelles Gesundheitswesen zu erreichen.\"",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f9743ebec3299adda0d3a2c11af7ecbd6ee58fb72cd5ac1b"
+}

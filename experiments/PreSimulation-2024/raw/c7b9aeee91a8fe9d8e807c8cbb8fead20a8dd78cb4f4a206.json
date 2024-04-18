@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Interessante ontwikkelingen op de energiemarkt: na de stijging door de oorlog in Oekraïne dalen de prijzen voor elektriciteit en gas weer. Noord-Macedonië en Bosnië en Herzegovina hebben echter nog steeds relatief hoge gasprijzen. De EU zou moeten investeren in diversificatie van energietoevoer om onafhankelijker te worden van één leverancier.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c7b9aeee91a8fe9d8e807c8cbb8fead20a8dd78cb4f4a206"
+}

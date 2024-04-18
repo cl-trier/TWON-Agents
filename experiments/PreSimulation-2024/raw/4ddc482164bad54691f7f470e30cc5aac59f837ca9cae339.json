@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Tragic news out of Ukraine. 50,000+ Russian troops have lost their lives in the conflict. My heart goes out to their families and loved ones. The cost of war is always too high. Let's pray for peaceful resolution and an end to the bloodshed.\"",
+    "retrieved_source": "https://www.ndtv.com/world-news/over-50-000-russian-troops-have-died-during-war-with-ukraine-report-5462137",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ddc482164bad54691f7f470e30cc5aac59f837ca9cae339"
+}

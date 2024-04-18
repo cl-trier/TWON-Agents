@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to put our own people's health first! 💡🏥 Invest in Dutch research and healthcare, not in endless foreign aid and open borders. 🚫💔",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dc1a0d5790eefd167fd1d39fc64cabbab725a1f41dd4939b"
+}

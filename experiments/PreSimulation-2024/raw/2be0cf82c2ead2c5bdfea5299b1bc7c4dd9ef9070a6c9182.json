@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Ein Blick auf die jährlichen Epidemiologischen Berichte des ECDC zeigt die Bandbreite übermittelter Krankheiten in der EU - wichtige Daten, um evidenzbasierte Entscheidungen zu treffen und die öffentliche Gesundheit zu stärken.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2be0cf82c2ead2c5bdfea5299b1bc7c4dd9ef9070a6c9182"
+}

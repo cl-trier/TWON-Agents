@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van de volwassenen hebben minstens één gezondheidszorgproblematiek van financiële aard, terwijl 46% van de Amerikanen vertragen met het zoeken van medische hulp uit angst vorenooit te kunnen betalen. Dit is een alarmbel voor ons gezondheidszorgsysteem en een oproep tot politieke aktie!\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e444fa6b3ca511ab4913906a099c470a12f9b84352795548"
+}

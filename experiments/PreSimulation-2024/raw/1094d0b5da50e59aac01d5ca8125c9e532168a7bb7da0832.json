@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Prevention is the best cure!\" 💡💊 It's great to see companies prioritizing employee health with prevention-centered benefit plans. Let's focus on keeping people healthy, rather than just treating illnesses. 💪🏼",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1094d0b5da50e59aac01d5ca8125c9e532168a7bb7da0832"
+}

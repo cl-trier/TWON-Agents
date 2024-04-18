@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nine UAMS Physicians Named Healthcare Research All-Stars! 🙌🏼💡👨‍⚕️👩‍⚕️C. Lowry Barnes, M.D. en acht andere talentvolle artsen van de University of Arkansas for Medical Sciences zijn erkend voor hun uitmuntende werk in de orthopaedische research! 💯% nationwide! 🔥#HealthcareResearch",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "638f9e2ed46fc05700bfbfdd64099fa7ec9d1252a91ab690"
+}

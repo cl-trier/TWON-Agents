@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierende Zahlen: 36% der Amerikaner verzichten auf medizinische Versorgung wegen Kosten. #Gesundheitist einMenschenrecht, keinPrivileg! 🌍⚕️💊",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e15447a352dcc0076a03fb197fa31163cdfc16231b5f7ee"
+}

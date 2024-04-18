@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Genomsequenzierung und Präventivmedizin: Chancen für personalisierte Vorsorge.",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/our-future-health-curative-preventive-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d38799876b9184e73f349d091bb503520861bb24dc902b7f"
+}

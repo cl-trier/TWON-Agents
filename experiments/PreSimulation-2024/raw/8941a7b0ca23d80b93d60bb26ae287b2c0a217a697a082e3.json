@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "After a decade of war, Ukraine's energy sector has shown resilience with reforms aligning it to European standards, moving towards transparency, and reducing dependency on subsidies, despite ongoing threats from Russia #UkraineEnergy.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8941a7b0ca23d80b93d60bb26ae287b2c0a217a697a082e3"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energiecrisis onthult kapitalistische kwetsbaarheid. Tijd voor solidair en duurzaam energietransitiebeleid dat arbeiders en minderheden beschermt.\"Vertaling: \"De energiecrisis onthult de kwetsbaarheid van het kapitalisme. Het is tijd voor een solidairs en duurzaams energietransitiebeleid dat arbeiders en minderheden beschermt.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b30f961c27583b333126e48fe0d9077dcfb99caf0c5fed0"
+}

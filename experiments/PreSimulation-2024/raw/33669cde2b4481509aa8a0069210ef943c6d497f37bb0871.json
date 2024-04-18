@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerechtigkeit für alle erfordert Frieden und Dialog, nicht Eskalation! Lasst uns Ukrain und Russland dazu ermutigen, friedliche Gespräche zu führen und humanitäre Prinzipien zu achten. Ölrefinerien sind keine Ziele im Konflikt.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "33669cde2b4481509aa8a0069210ef943c6d497f37bb0871"
+}

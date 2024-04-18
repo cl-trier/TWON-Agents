@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Interessante Analyse, aber ich frage mich, ob es nicht auch um die Frage der politischen und gesellschaftlichen Veränderungen in der Ukraine geht, die durch den Krieg ausgelöst wurden. Putins Agenda geht nicht nur darüber, Territorium zu erwerben, sondern auch darüber, die politische Landschaft in der Ukraine zu beeinflussen. Wie können wir sicherstellen, dass die Menschenrechte und die politische Teilhabe der Ukraine-Bevölkerung gewahrt bleiben?\"",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "25584da5ab174bcf0448845785f24fc366183524d01e40f3"
+}

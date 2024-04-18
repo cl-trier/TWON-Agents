@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's unacceptable that millions of Americans still struggle to afford basic healthcare services. It's time for a more equitable and sustainable solution, one that prioritizes people over profits.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a4fdade359ec3a2ef07a3b219390a767309077404fd7c6a"
+}

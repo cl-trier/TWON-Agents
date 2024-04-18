@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Kyrylo Budanov, a true patriot and hero of Ukraine, stands strong against Russian aggression.",
+    "retrieved_source": "https://www.washingtonpost.com/opinions/2024/04/17/kyrylo-budanov-ukraine-general-russia-war-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "728ca04c314c9c6e9a1673e177bbd8500146988c9eba51b1"
+}

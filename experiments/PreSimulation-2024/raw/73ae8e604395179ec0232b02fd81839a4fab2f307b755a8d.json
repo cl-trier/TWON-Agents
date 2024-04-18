@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Studie zeigt: Privatisierung von Krankenhäusern führt zu schlechteren Patientenversorgung. Die wissenschaftliche Unterstützung für die Privatisierung von Gesundheitsdienstleistungen ist schwach. Jede Studie bewertete die Qualität der medizinischen Versorgung von Patienten vor und nach der Privatisierung von Krankenhäusern oder auf regionaler Ebene. Die Privatisierung führte generell zu einer geringeren Anzahl an Reinigungspersonal pro Patient und höheren Raten von Infektionen bei Patienten. In einigen Studien korrelierte eine höhere Privatisierungsrate auch mit höheren Raten vermeidbarer Todesfälle. Es bedarf jetzt weiterer Forschungen zu den Auswirkungen der Privatisierung auf andere Aspekte der Gesundheitsversorgung, einschließlich ambulanter, primärer und kommunaler Dienste.\"",
+    "retrieved_source": "https://medicalxpress.com/news/2024-02-links-hospital-privatization-worse-patient.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "73ae8e604395179ec0232b02fd81839a4fab2f307b755a8d"
+}

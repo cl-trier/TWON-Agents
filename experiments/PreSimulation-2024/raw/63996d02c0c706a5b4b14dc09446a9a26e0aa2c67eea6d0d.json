@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Heute jährt sich Russlands Invasion in der Ukraine zum zweiten Mal. Um über den aktuellen Stand des Krieges, die Strategien beider Seiten für die Zukunft und die Perspektiven von Unterstützung durch die USA und andere westliche Länder zu sprechen, lade ich euch herzlich zur virtuellen Diskussion des CSIS International Security Program ein. Als leidenschaftlicher Verfechter von Frieden, Menschenrechten und sozialer Gerechtigkeit ist es mir ein Anliegen, auf diese wichtige Situation hinzuweisen. Seid dabei, wenn hochrangige Expert*innen wie Dr. Seth G. Jones, Eliot A. Cohen, Emily Harding und der Honorable Michael Vickers ihr Wissen teilen.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63996d02c0c706a5b4b14dc09446a9a26e0aa2c67eea6d0d"
+}

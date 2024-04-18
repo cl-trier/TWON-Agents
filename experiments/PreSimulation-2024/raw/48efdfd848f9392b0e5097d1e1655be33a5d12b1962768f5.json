@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Solidarity with Ukraine as Russia escalates attacks near Chasiv Yar, causing destruction & displacement. We stand for peace, justice, and an end to this crisis, demanding accountability from those fueling conflict. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "48efdfd848f9392b0e5097d1e1655be33a5d12b1962768f5"
+}

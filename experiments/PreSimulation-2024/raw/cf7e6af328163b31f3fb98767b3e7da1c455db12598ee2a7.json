@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👏👏👏 Big ups to the UAMS physicians recognized for their contributions to healthcare research! 💡💊 It's amazing to see the impact of their hard work and dedication to their field. 💕 The hip and knee surgery team, killing it! 🔥",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cf7e6af328163b31f3fb98767b3e7da1c455db12598ee2a7"
+}

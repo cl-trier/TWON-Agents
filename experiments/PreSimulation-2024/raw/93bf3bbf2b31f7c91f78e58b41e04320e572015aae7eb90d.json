@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "In der Ära von #KI setzt sich America's First Lady Jill Biden für eine bahnbrechende Frauen-Gesundheitsforschung mit $100 Mio ein, um das Versäumnis der Vergangenheit zu korrigieren & die einzigartigen Bedürfnisse von Frauen in der Medizin anzuerkennen - es ist Zeit, den blinden Fleck in der #Frauengesundheit zu beseitigen!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "93bf3bbf2b31f7c91f78e58b41e04320e572015aae7eb90d"
+}

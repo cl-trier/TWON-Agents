@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nice to see our physicians being recognized for their hard work and dedication to healthcare research! 💡👨‍⚖️👩‍⚖️ The UAMS Hip and Knee Surgery team is among the top 1% nationwide, and several other physicians were named Healthcare Research All-Stars. 💪🏼 It's great to see our state leading the way in medical research! 🌟",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a5762a3a8cf13ca6550c13c87151a798e2fadfe9fe9bcca"
+}

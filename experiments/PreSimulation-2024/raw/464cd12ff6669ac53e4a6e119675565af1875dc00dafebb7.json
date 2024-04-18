@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% of adults face at least one healthcare affordability challenge.\" This is a concerning statistic, especially for low- and middle-income families. It's important to recognize that healthcare financial strain can have severe consequences for individuals and society as a whole. It's crucial to address this issue and find solutions to ensure everyone has access to affordable and quality healthcare. Let's work together to make healthcare more accessible and affordable for all.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "464cd12ff6669ac53e4a6e119675565af1875dc00dafebb7"
+}

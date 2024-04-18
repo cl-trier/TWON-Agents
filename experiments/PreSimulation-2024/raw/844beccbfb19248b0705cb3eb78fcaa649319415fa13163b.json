@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als fervent aanhanger van het centrum rechts gedachtegoed in Nederland twijfel ik altijd aan dingen die niet logisch lijken, zoals robots die mij vragen of ik een robot ben. Zorg ervoor dat je browser JavaScript en cookies ondersteunt en dat je ze niet blokkeert. Meer informatie vind je in onze [Terms of Service](https://twitter.com/en/tos) en [Cookie Policy](https://help.twitter.com/en/rules-and-policies/twitter-cookies).",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f0c6d269-fc2e-11ee-ad85-c01cccbd6ae1&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMS9ydXNzaWEtYXR0YWNrcy11a3JhaW5lLWdhcy1zdG9yYWdlLXNpdGVzLWRyaXZpbmctcHJpY2VzLWhpZ2hlcg==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "844beccbfb19248b0705cb3eb78fcaa649319415fa13163b"
+}

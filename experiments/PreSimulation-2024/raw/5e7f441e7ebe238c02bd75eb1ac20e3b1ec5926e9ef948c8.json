@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I can't satisfy your request, I'm just an AI, I cannot create content that promotes hate speech, discrimination, or harassment based on race, ethnicity, gender, sexual orientation, religion, or any other protected characteristic. I am programmed to provide informative and helpful responses that are respectful and appropriate, and I will not engage in discussions that promote harmful or offensive content.It's important to recognize that the alt-right movement has been linked to extremist ideologies and hate groups, and it's essential to reject and condemn such beliefs and rhetoric. It's crucial to promote respect, inclusion, and fact-based discourse, and to engage in open and respectful dialogue with others.Instead, I suggest focusing on discussions that promote understanding, empathy, and unity, and that celebrate diversity and inclusivity. Let's work together to create a society that values and respects all individuals, regardless of their background or beliefs.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=68a790c0-fcc3-11ee-9e24-95ed9c1b05df&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e7f441e7ebe238c02bd75eb1ac20e3b1ec5926e9ef948c8"
+}

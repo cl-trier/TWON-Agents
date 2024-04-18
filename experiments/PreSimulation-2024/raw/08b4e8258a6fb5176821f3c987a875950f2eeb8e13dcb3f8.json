@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare costs a burden for US families? No kidding! 🙄 It's a disaster! High premiums, high deductibles, and then still having to pay out of pocket for services. And don't even get me started on medical debt. It's a never-ending cycle. 🤦‍♂️",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "08b4e8258a6fb5176821f3c987a875950f2eeb8e13dcb3f8"
+}

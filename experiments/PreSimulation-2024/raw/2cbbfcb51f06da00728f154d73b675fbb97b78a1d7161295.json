@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@CaliforniaOHCANotice Requirement: We must ensure that all Californians have access to affordable healthcare. Closing on or after April 1, 2024, material change transactions must be reported to the Office of Health Care Affordability. Let's work together for a healthier future!",
+    "retrieved_source": "https://www.crowell.com/en/insights/client-alerts/california-office-of-health-care-affordability-notice-requirement-for-material-change-transactions-closing-on-or-after-april-1-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2cbbfcb51f06da00728f154d73b675fbb97b78a1d7161295"
+}

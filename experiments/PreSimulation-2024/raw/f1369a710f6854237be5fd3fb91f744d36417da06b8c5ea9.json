@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Dr. Sanjay Gupta benadrukt belang van preventieve gezondheidszorg en accurate AI-toepassingen in de medische sector. Misleidende informatie bestrijden en gezondheidswaarden meten zijn cruciaal.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1369a710f6854237be5fd3fb91f744d36417da06b8c5ea9"
+}

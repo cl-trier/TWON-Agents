@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's interesting to see how the US government is trying to justify sending aid to Ukraine while simultaneously lecturing Europe on the importance of fiscal responsibility. Can someone explain to me how pouring billions of dollars into a conflict zone is going to help anyone except the military-industrial complex?",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b29b22704e06fd09543aed129a2e4631e3688d93a298f711"
+}

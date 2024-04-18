@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Samenstand met ziekenhuispersoneel tegen privatisering! #Gelijkheid #Solidariteit #Rechtvaardigheid\"(\"Standing together with hospital workers against privatization! #Equality #Solidarity #Justice\")",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc819fb3ce792fc7d26058d520f19bc63c6cf46524d86b87"
+}

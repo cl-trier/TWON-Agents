@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming ER study reveals private sector care is 21% costlier than VHA care, yet privatization proponents push for more. We can't compromise veteran's healthcare for profit; protect our time-honored institutions & individual liberties with fiscal responsibility & free-market principles!",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5412ad97f3f23ee98bacf8b7f8517cbca91d7c085ce2db76"
+}

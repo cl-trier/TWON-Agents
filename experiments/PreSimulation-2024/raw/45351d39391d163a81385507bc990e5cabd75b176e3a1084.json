@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gen Zvirtual first' voor gezondheidszorg, gebouwd op lifelong habits en use cases. Brick-and-mortar faciliteiten nog steeds belangrijk, maar eerder virtualFirst, zei Glick.",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "45351d39391d163a81385507bc990e5cabd75b176e3a1084"
+}

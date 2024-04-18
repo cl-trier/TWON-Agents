@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to see #HealthcareInformatics student Rudra Nagalia using his tech skills to tackle mental health challenges through innovative solutions - proving that nationalist values and a commitment to progress can go hand in hand!",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9049a9a8a4a05d2ad16b9c1cdbd4dd9f09c7a968eeb6956c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist ein wertvolles Gut 🩺🌍. Lassen Sie uns die Prävention in den Vordergrund stellen! Durch Investitionen in Vorsorgeuntersuchungen, Aufklärungskampagnen & gesunde Lebensweisen können wir Erkrankungen vermeiden & Kosten sparen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d781074f829f2680d66906d7406784e4a56e118b4702092f"
+}

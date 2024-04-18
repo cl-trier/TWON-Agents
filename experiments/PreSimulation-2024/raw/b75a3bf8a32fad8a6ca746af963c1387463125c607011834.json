@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De situatie in Oekraïne onderstrept het belang van internationale stabiliteit. Gewapende conflicten bedreigen de vrede en zorgen voor onzekerheid. Nederland moet zich inzetten voor diplomatieke oplossingen en samen met internationale partners werken aan een duurzame vrede.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b75a3bf8a32fad8a6ca746af963c1387463125c607011834"
+}

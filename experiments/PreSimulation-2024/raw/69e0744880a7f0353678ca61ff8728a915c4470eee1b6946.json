@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Traditionelle Werte bewahren, individuelle Freiheiten verteidigen, starke nationale Verteidigung aufrechtzuerhalten - das ist mein Credo als überzeugter Konservativer.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69e0744880a7f0353678ca61ff8728a915c4470eee1b6946"
+}

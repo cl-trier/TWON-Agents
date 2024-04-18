@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "#UkraineEnergySektor: Trotz 10 Jahren Krieg hat sich Ukraine's Energiesektor positiv verändert! Weg von Abhängigkeit & Subventionen, hin zu transparenten Märkten & europäischen Standards. Auch wenn Russland weiterhin Bedrohungen ausübt, ist Ukraine auf dem Weg zur finanziellen Nachhaltigkeit & Energiesicherheit.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8002f933101c5c21984a6aa2b876ac5cbf7d479cbbb34024"
+}

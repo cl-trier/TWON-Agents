@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@UKRAINE_MILITARY_FEARS_MORE_LOSSES_AT_BATTLEFIELDS#Ukraine #MilitaryAid #Russia #War\"It's a critical situation. The loss of the Trypillya power plant is a significant blow to our military and civilian operations. We need immediate assistance from our Western allies to avoid further losses. Delays in military aid are costing lives.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b67a0173ff0beaf995e30243e6a8d7f7364360d14340aca4"
+}

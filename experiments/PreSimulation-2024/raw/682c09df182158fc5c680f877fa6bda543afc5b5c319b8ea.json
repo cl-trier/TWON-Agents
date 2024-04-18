@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ontario expands private sector involvement in public health care, now including hip and knee replacements. But let's be real, this isn't about improving health care, it's about lining the pockets of private clinics with taxpayer money.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "682c09df182158fc5c680f877fa6bda543afc5b5c319b8ea"
+}

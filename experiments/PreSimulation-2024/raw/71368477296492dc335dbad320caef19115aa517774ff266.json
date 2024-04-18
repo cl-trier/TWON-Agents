@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schützt Ukrainisches Gaslager! Europäische Solidarität gefordert. Unsere Energiesicherheit hängt davon ab. #UkraineUnderAttack #EnergySecurity\"(Translation: Protect Ukraine's gas storage! European solidarity is needed. Our energy security depends on it. #UkraineUnderAttack #EnergySecurity)",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "71368477296492dc335dbad320caef19115aa517774ff266"
+}

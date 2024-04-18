@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nederlandse gezondheidszorg moet zich richten op toegankelijkheid en betaalbaarheid, net als Walmart Canada doet. Hoe kunnen we onze eigen apothekers meer bevoegdheden geven om de zorg efficiënter te maken?",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f9a59663db332b1ab7188b60a4e90513934ff34e4bbf504"
+}

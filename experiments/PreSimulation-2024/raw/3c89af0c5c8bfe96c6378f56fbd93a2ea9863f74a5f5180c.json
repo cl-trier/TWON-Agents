@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NATO must prioritize strategic cyber competition in the face of Russian & Chinese threats. It's time for a comprehensive approach that integrates technical, policy, and civil society communities to ensure domain stability and counter foreign interference in cyberspace.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3c89af0c5c8bfe96c6378f56fbd93a2ea9863f74a5f5180c"
+}

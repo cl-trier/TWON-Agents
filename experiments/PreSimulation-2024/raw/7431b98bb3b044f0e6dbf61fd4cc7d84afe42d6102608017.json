@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Atogepant shows promising results for migraine prevention, with 70% of patients experiencing a 50% reduction in monthly migraine days over 48 weeks! A positive step towards putting power back into the hands of patients and challenging the status quo.",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7431b98bb3b044f0e6dbf61fd4cc7d84afe42d6102608017"
+}

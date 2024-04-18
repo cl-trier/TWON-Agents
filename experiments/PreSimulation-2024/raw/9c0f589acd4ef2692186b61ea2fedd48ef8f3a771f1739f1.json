@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Amid global tensions, experts assure us we're not facing WWIII. Yet, they warn of fraying international order & potential risks, especially concerning NATO. Let's foster dialogue & promote understanding to maintain peace.",
+    "retrieved_source": "https://news.sky.com/story/are-we-heading-for-world-war-three-experts-give-their-verdicts-13116540",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c0f589acd4ef2692186b61ea2fedd48ef8f3a771f1739f1"
+}

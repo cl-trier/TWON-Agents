@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is vital for international peace. Let's support constructive dialogue and diplomacy to foster a secure and prosperous future for all.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d52d1fb3c155298f49e4e0c4c8bf74b23f02d0a9e4c17b95"
+}

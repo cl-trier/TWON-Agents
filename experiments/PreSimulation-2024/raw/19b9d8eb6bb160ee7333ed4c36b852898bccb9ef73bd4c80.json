@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's absurd to expect any nation to sit idly by while their neighboring country develops nuclear weapons, especially when they've repeatedly threatened to use them.",
+    "retrieved_source": "https://www.rferl.org/a/russia-war-ukraine-deaths/32903736.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "19b9d8eb6bb160ee7333ed4c36b852898bccb9ef73bd4c80"
+}

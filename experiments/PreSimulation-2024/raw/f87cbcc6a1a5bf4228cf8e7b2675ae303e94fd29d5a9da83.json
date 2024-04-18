@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Lasst uns die Macht von #KI im Gesundheitswesen nutzen, aber den 'trauen, aber überprüfen'-Ansatz nicht vergessen, um Fehlinformationen zu bekämpfen. Wir müssen die Grundlagen der Brain Health erforschen & gesunde Lebensweisen fördern, besonders im Zeitalter von Diabetes-Medikamenten für Gewichtsverlust.\", @IhrAltRechterTwitternutzer",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f87cbcc6a1a5bf4228cf8e7b2675ae303e94fd29d5a9da83"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend dat Oekraïne leidt tot hogere energiewaarden. Moeten onze nationale belangen altijd bovenaan?",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2374aa257e9acc5d4fcf324ed16557e06f8aff12c8c598e3"
+}

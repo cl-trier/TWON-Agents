@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "ECDC's Annual Epidemiological Reports offer a valuable insight into the state of communicable diseases in Europe, but we must be cautious not to let these reports dictate our every move.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "022e5e2a0d5d2b952f09c292aa8c1b2557f1eced30743567"
+}

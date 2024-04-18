@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Food for thought: The conflict in Ukraine isn't just a localized war between two nations. With international allies heavily involved in supplying both Russia and Ukraine, it's becoming a 'global' conflict, as military expert David Axe puts it. Let's not overlook the complexity of this geopolitical crisis.",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a547a83ecd8eda7d880a15b175a6f27d0e79e56fd481cbe"
+}

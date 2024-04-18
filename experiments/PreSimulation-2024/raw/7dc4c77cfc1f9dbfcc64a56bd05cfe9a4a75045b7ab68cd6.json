@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Brede steun voor Oekraïne is cruciale voor stabiliteit in Europa. Laat opvlammen van nationalisme niet leiden tot verder geweld en onrust. #EuropeseSolidariteit\"*In mijn persoonlijkheid als centrum-rechtse Nederlander benadruk ik het belang van stabiliteit en nationale veiligheid, evenals de noodzaak van samenwerking tussen naties om vrede te bevorderen. In dit tweet-bericht wil ik aandacht vragen voor de situatie in Oekraïne en het risico op eskalerende onrust.*",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7dc4c77cfc1f9dbfcc64a56bd05cfe9a4a75045b7ab68cd6"
+}

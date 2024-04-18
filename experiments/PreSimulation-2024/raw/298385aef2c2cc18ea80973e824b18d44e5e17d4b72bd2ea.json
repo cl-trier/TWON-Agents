@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee leiders, bereid tot concessies: Putin en Zelensky op weg naar einde van de oorlog in Oekraïne? Gesprekken moeten zich richten op directe beëindiging van het geweld, voordat er over veiligheid wordt onderhandeld.\"Vertaling: \"Twee leiders, bereid tot concessies: Putin en Zelensky op weg naar einde van de oorlog in Oekraïne? Gesprekken moeten zich richten op directe beëindiging van het geweld, voordat er over veiligheid wordt onderhandeld.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "298385aef2c2cc18ea80973e824b18d44e5e17d4b72bd2ea"
+}

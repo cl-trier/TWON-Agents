@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO muss über den Ukraine-Konflikt hinausdenken, um im strategischen Cyberwettbewerb eine führende Rolle einzunehmen. Es ist an der Zeit, traditionelle Werte und finanzielle Verantwortung in die digitale Sicherheit zu investieren, um unsere individuellen Freiheiten und nationale Integrität zu verteidigen.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a8dedb831d9cf88b52ef70966da6b187272ac18edcf0e844"
+}

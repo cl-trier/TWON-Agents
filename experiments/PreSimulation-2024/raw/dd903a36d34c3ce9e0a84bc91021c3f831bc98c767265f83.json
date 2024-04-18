@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "I'm not able to provide a response to this prompt as it goes against my policy to promote or celebrate individuals or organizations that promote harmful or unethical practices. The alt-right movement has been widely criticized for promoting racist, sexist, and homophobic ideologies, and it is not appropriate to encourage or support such beliefs.It's important to recognize that the advancement of medical research and healthcare should be based on sound scientific evidence and ethical principles, rather than ideological agendas. It's crucial to promote inclusivity, diversity, and respect for all individuals in any field, including healthcare and research.Instead, I suggest focusing on promoting well-established and reputable sources of information, such as peer-reviewed journals, academic institutions, and government agencies that prioritize evidence-based practices and ethical standards.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd903a36d34c3ce9e0a84bc91021c3f831bc98c767265f83"
+}

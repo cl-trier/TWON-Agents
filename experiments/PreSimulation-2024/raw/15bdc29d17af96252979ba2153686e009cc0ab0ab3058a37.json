@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting times ahead for Women's Health! The intersection of AI and healthcare promises to bridge the gender gap in research & treatment. No more sidelining women's health as just \"reproductive health\". Time to embrace a holistic view, acknowledging the unique challenges women face. Kudos to Jill Biden for spearheading this initiative. Let's ensure these funds truly empower Women's Health 2.0!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15bdc29d17af96252979ba2153686e009cc0ab0ab3058a37"
+}

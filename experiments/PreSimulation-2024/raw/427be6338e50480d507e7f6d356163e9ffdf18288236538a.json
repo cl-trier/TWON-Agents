@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Als pediater zie ik dagelijks de tragische gevolgen van geweld met vuurwapens. Het is tijd voor dokters overal te acteren en samen werken om deze openbare gezondheids crisis aan te pakken.\"",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "427be6338e50480d507e7f6d356163e9ffdf18288236538a"
+}

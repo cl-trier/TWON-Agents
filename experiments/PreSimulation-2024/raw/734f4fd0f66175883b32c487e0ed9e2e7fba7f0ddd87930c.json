@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The #UkraineWar is not just a localized conflict, it's a global battlefield. #Russia can't win without allies worldwide, nor can #Ukraine. It's time to recognize the scale of this war and its implications for the entire world.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "734f4fd0f66175883b32c487e0ed9e2e7fba7f0ddd87930c"
+}

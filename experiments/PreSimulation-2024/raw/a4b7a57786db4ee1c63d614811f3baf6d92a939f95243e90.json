@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report reveals the harsh reality of America's healthcare affordability crisis - patients are being priced out of necessary care. It's time for innovative solutions that prioritize patient needs and fiscal responsibility.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4b7a57786db4ee1c63d614811f3baf6d92a939f95243e90"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Proud of Ukraine's resilience! After a decade of war, they've reformed their energy sector, leaving behind Russian dependence & embracing transparency, fiscal responsibility, & European standards. 🇺🇦💪",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "24b65e17a61507639c553264eb32644506ec4606fc9c4da9"
+}

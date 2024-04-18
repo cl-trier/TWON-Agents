@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerüchte über mögliche Friedensgespräche zwischen Putin und Zelensky lassen hoffen - ein neutraler Status für Ukraine ohne NATO-Mitgliedschaft könnte der Schlüssel sein, doch werden Grenzfragen und die voreilige Festlegung auf eine Nachkriegsordnung weiterhin Herausforderungen darstellen.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15c5ffbb2654b7d8bdb3e84f18b74c0aa4daaec799f93d1f"
+}

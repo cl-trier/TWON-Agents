@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Let's talk about the escalating tensions between Ukraine and Russia. As Ukraine defends itself against Russian aggression, they've targeted oil refineries, disrupting 10% of Russia's capacity. Some argue it's fair game given the continued attacks on Ukrainian infrastructure. However, this move has strained resources for air defense in Kyiv. It's crucial we support Ukraine while also promoting diplomatic solutions to maintain global peace and stability.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "545c33f2207c946f013b8059cfad7d65f296bfea6107f513"
+}

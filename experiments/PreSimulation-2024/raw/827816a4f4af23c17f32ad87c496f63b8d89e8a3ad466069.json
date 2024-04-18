@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Nederland zijn eigen belangen voorop stelt en stop met het uitgeven van miljarden aan wapenhulp aan Oekraïne. We hebben genoeg eigen problemen om te beginnen met de komst van nog meer vluchtelingen. Laat de Oekraïners hun eigen oorlog uitvechten en laten we ons concentreren op het beschermen van onze eigen grenzen.",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "827816a4f4af23c17f32ad87c496f63b8d89e8a3ad466069"
+}

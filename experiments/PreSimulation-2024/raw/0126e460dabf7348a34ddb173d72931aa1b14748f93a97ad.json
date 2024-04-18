@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Having trouble with the site - asked if I'm a robot, but I assure you, my conservative values are all human! Checked my browser settings, still no luck. Any tips from fellow users?\"",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b99b95f0-fc18-11ee-a89c-12d1abb7c8f3&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0126e460dabf7348a34ddb173d72931aa1b14748f93a97ad"
+}

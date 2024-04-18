@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite the clear value of preventive medicine, as highlighted by Rahman on the Healthy Bottom Line podcast, it continues to be undervalued. We must support policymakers who recognize its importance in promoting broader well-being for all.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "161998b9f2e45a96fc852a3cb18bf8e3735afcfd0fbcade9"
+}

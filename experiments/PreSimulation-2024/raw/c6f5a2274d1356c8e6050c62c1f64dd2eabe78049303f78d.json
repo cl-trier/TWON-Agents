@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "„Gesundheit ist ein Menschenrecht, kein Privileg! Wir müssen in Prävention investieren, um langfristige Gesundheitsergebnisse zu sichern und Ungleichheiten abzubauen. Krankheit vermeiden, statt nur heilen 💪🏽🩺 #HealthcareForAll #PreventionIsKey“",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6f5a2274d1356c8e6050c62c1f64dd2eabe78049303f78d"
+}

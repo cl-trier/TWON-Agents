@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Endlich ein Zeichen für mehr Eigenverantwortung in der Gesundheit! Statt auf politische Korrektheit zu warten, nehmen immer mehr Menschen ihr Schicksal selbst in die Hand und lassen sich auf Krebs screenen.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8f62430796cba8a5276f25d28aadceafacd8c92e52a699f"
+}

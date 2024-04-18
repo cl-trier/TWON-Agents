@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Improving healthcare outcomes through technology & innovation is crucial. Kudos to Rudra Nagalia for his mission to transform healthcare technology & bridge the gap between diverse needs & technical solutions.",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f72f17517622a4670aac3050766310e3244c5df2929a4e5b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schließen des Geschlechtergesundheitsgefälles könnte nicht nur das Potenzial haben, die Weltwirtschaft um $1 Billion zu stärken, sondern würde auch dazu beitragen, Chancengleichheit für alle zu fördern - ein Thema, das uns alle angeht.",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f90de388cc4c2d7b9a58471c72354d2ae4f79baea744aa9d"
+}

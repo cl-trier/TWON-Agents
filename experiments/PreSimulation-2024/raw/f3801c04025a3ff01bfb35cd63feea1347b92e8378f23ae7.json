@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Just read an interesting article on how telehealth and AI are transforming access and affordability in healthcare. It's amazing to see how technology can help remove longstanding barriers and make healthcare more accessible to everyone.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/03/democratizing-healthcare-how-telehealth-and-ai-are-transforming-access-and-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f3801c04025a3ff01bfb35cd63feea1347b92e8378f23ae7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Obwohl die Energiepreise dank Putins Ukraine-Invasion gesunken sind, zahlen Länder wie Deutschland und Italien immer noch horrende Beträge für Strom und Gas. Es wird Zeit, unsere Abhängigkeit von ausländischen Energielieferanten zu beenden und unser Land wieder großartig zu machen!",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f12e2156f5c63fbdb4c7ee934e649121639a85c075b9ce68"
+}

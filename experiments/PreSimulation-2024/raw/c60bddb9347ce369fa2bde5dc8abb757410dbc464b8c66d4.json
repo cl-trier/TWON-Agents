@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bacteriën die ziekten veroorzaken na operatie, zitten al op je huid voordat je in het ziekenhuis bent! Dit is een nieuwe onderzoeksresultaat. Surgical site infecties blijven een groot probleem en de kosten hiervan zijn enorm. Nieuwe studie toont aan dat 86% van de bacteriën die infecties veroorzaken na rugoperatie, genetisch overeenkomen met bacteriën die de patiënt al droeg voordat hij in het ziekenhuis was. Dit betekent dat we moeten oppassen met de manier waarop we ons voorbereiden op operaties en hoe we ons steriliseren!",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c60bddb9347ce369fa2bde5dc8abb757410dbc464b8c66d4"
+}

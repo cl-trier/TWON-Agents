@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The reported number of Russian military personnel deaths in the Ukraine conflict has reached a staggering 50,000, according to the BBC. This is a stark reminder of the devastating human cost of war and the importance of diplomatic efforts to resolve conflicts peacefully. Let's work together towards a future where such losses are avoided.\"",
+    "retrieved_source": "https://www.ndtv.com/world-news/over-50-000-russian-troops-have-died-during-war-with-ukraine-report-5462137",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f8827a794a8ee5ade168291a7a5df8011936ee105804751"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@NeutralPoliticalAnalyst: \"Ukraine's attacks on Russian oil refineries have heightened tensions with the US, as President Biden ramps up his reelection campaign and global oil prices reach a six-month high. Ukrainian officials defend the strikes as retaliation for Russia's relentless attacks inside Ukraine, but the US sees them as escalating the conflict. How do we navigate this complex issue while promoting peace and stability in the region? Let's discuss!",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0c2b5972769afb3f8ff06e72bcce96e5295236adf770652a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "As a member of Gen Z, I'd like to challenge the notion that my generation is only interested in virtual healthcare. While technology is certainly convenient, we also value personal connections and human interaction when it comes to our health.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ab1db3bc56912d5a7d2a161d1481246a549b35656132e88d"
+}

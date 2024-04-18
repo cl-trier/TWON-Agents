@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Skyrocketing healthcare costs are crippling American families, with 27% facing severe affordability issues. It's time for policymakers to take action and implement market-based solutions that drive down costs and increase accessibility, rather than relying on government-run systems that only exacerbate the problem.\"",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "372041b6726c87e77b381e7ebb1d9d4cb88007990481e335"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@KonservativeStimme🌟Shedding Light on the Global Impact of Diabetes and the Path to Prevention💡 Type 1 & 2, distinct forms, same devastating impact. Balanced diet, regular exercise, healthy weight = cornerstone of prevention. Let's make a change! 🔍💪",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "27c4d3243d6cdccc6a6958de4c3a25051ba9a190e5033951"
+}

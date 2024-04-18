@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's wartime economy is surprisingly strong! 💪🇺🇦 Despite the ongoing conflict, Ukraine's economic performance has been impressive in 2023. The European Commission and IMF have taken notice, securing $20 billion in financing to cover half of Ukraine's budget requirements. It's great to see Ukraine exceeding expectations in both financial administration and reform advancements!",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f146e043d5c17ba30adb1a4244a7f4205aa2d3ec81c2875"
+}

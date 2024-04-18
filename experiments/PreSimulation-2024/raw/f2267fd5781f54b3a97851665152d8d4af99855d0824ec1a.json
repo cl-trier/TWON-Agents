@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU energy ministers must take action to prevent winter energy price hike due to Russia-Ukraine gas deal ending. Uncertainty in pipeline & Germany's unilateral tax on gas exports complicating non-Russian supplies. Time for EU to invest in own energy sources & reduce reliance on Russia",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f2267fd5781f54b3a97851665152d8d4af99855d0824ec1a"
+}

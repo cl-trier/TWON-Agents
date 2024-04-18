@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Stark und solidarisch stehen wir an der Seite der Ukraine 🇺🇦. Frieden und Stabilität in Europa dürfen nicht verhandelbar sein. Wir müssen unsere Verteidigungsbereitschaft erhöhen und die territoriale Integrität der Ukraine respektieren. Kein Raum für Aggression und Gewalt!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aad5a4b6e7cefabbf1406d85c4d538eacabdb6874de36f10"
+}

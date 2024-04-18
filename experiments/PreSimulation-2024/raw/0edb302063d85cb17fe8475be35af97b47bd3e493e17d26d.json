@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": " Privatization of VHA care? Nein, danke. Private-sector ER care ist 21% teurer als VHA care. VCCP-Provider profitieren davon, während die Ausbildung von VHA-Providern umfassend bleibt, um veteranenspezifische Probleme zu verstehen und zu behandeln.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0edb302063d85cb17fe8475be35af97b47bd3e493e17d26d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Vandaag vierde samenwerking tussen EmVenio Research en Prime Healthcare met de lancering van het EmVenio Research Center! Als community-georiënteerd onderzoekspartner bieden wij patiënten toegang tot klinisch onderzoek en verbeteren zo hun zorg. Sterke overheid en individuele verantwoordelijkheid gaan hand in hand!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c4c3d28570c736bf547744c8d325b247a303e72953951289"
+}

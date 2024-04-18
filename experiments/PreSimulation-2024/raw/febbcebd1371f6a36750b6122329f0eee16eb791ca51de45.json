@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Health care costs continue to burden American families, even for those with insurance. The high cost of care can lead to difficult decisions about coverage and treatment. It's time for a serious conversation about how to address these costs and ensure affordable healthcare for all.\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "febbcebd1371f6a36750b6122329f0eee16eb791ca51de45"
+}

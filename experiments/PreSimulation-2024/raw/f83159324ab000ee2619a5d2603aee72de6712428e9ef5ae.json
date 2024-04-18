@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oorlog op energievoorziening! Russische aanvallen op Oekraïense infrastructure verstoren Europese markt en trekken prijzen omhoog. Onze soevereiniteit en veiligheid staan op het spel. Handelbaarheid van internationale samenwerking in twijfel.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f83159324ab000ee2619a5d2603aee72de6712428e9ef5ae"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Winter is coming and so are higher energy prices? 🙅‍♂️ Russia's contract to supply gas to Europe via Ukraine ends this year, leaving the EU vulnerable to a \"worst case\" scenario. ��� Battle for survival! 🔥 Let's diversify our energy sources and invest in renewables to avoid being held hostage by Putin's regime. 💚",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "076bee806aee4a9c3047f01238cbe7b09192c01eaf4a27e6"
+}

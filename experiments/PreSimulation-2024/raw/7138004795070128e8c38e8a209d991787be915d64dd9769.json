@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite Medicare's popularity, Canada's health care crisis has opened doors for corporate interests like Telus, further emphasizing the need to protect our time-honored institutions from creeping privatization and maintain fiscal responsibility in government spending.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7138004795070128e8c38e8a209d991787be915d64dd9769"
+}

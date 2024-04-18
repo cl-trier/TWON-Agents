@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing war in Ukraine has had a devastating impact on the country's energy landscape, with significant damage to infrastructure and a dire need for international cooperation to restore it. The recent memorandum signed by energy ministers from Ukraine and other countries is a positive step towards strengthening energy cooperation in the region. However, much work remains to be done to assess and address the damage caused by the conflict. Let's continue to support efforts towards a sustainable and equitable energy future for all.\"",
+    "retrieved_source": "https://www.fpri.org/article/2023/12/the-impact-of-the-war-on-ukraines-energy-landscape/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "af443015d28cb0aa676be894fd0198ffc0a1b642e6d9a2d7"
+}

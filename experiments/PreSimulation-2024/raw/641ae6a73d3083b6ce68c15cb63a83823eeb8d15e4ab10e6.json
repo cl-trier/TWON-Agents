@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz russischer Ansprüche bleibt Bakhmut weiterhin unter ukrainischer Kontrolle - lasst uns die Wahrheit verbreiten, anstatt Propaganda zu schlucken!",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "641ae6a73d3083b6ce68c15cb63a83823eeb8d15e4ab10e6"
+}

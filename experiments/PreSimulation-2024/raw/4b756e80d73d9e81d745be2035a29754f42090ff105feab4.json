@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Zorgen voor sociaal en duurzaam energiebeleid, ook in tijden van schaarste. Niemand mag achterblijven. #EnergieVoorIedereen\"Vertaling: \"Zorg dat je energiebeleid sociaal en duurzaam is, ook als er schaarste heerst. Niemand mag achterblijven.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b756e80d73d9e81d745be2035a29754f42090ff105feab4"
+}

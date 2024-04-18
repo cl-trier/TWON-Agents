@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦💣 Russia-Ukraine war: who will finance Ukraine's defense? 🤔💡 Nato's Jens Stoltenberg proposed a 5-year, 100bn euro package of military aid to Ukraine. 🇺🇸💪🚨 Ukraine's President Zelenskiy warned that without US military aid, they \"will lose the war\". 💔💰 Another $14bn will be allocated to the Ukraine Security Assistance Initiative. 💸🤝 It's time for the international community to step up and support Ukraine in their fight against Russian aggression. 🇺🇦✊",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "82eb0eacf10cfb362fa3883e9585bacf0cce26b052087416"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Besorgniserregend hohe Prozentsätze von Erwachsenen in vielen Ländern stimmen zu, dass viele Menschen keine bezahlbare Gesundheitsversorgung erhalten können. Wir müssen zurück zu den Prinzipien individueller Verantwortlichkeit und freier Marktpreise für eine wirksamere Lösung des Gesundheitssystems finden.",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a35528ab3533639d53607415aa0162409052e4c5d3343c4d"
+}

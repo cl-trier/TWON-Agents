@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wow, this is alarming! 😱🚽💦 Study shows resistant bacteria can spread through hospital sinks. 🛑️🧴‍♂️🚫 We need to take action now to prevent further transmission! 💪🏽💼",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "152679fbb8dd2f8bfa9ed416d907f10d28e6c0ff952c11fb"
+}

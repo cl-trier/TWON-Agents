@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@HealthHive🌟Shedding Light on Diabetes: A Silent Epidemic🌟Did you know that diabetes affects MILLIONS worldwide? 😱 It's time to take action and prevent this silent killer! 💪Type 1 vs Type 2: 🤔 What's the difference? 👉 Check out our latest blog post for a deep dive into the complexities of diabetes! 🧠Complications: 🚨 Diabetes-related deaths are a major concern! 💀 Learn how simple lifestyle changes can help prevent this fate! 🌱Prevention is key: 🔑 Small steps today, a healthier tomorrow! 🌈 Join us in the fight against diabetes! 💪🏽",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "44916c29808c8fe47fc6ecd2adfbd102dbff4cdd5e591b8f"
+}

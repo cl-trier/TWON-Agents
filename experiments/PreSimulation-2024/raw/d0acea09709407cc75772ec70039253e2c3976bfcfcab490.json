@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockiert über die fortschreitende Privatisierung des Gesundheitssystems in Kanada, während es seit Jahrzehnten in der Krise steckt. Wir können nicht zulassen, dass Profite über Patientenversorgung gestellt werden! Wir brauchen mehr Investitionen in unser öffentliches #Gesundheitssystem & weniger Privatisierung.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0acea09709407cc75772ec70039253e2c3976bfcfcab490"
+}

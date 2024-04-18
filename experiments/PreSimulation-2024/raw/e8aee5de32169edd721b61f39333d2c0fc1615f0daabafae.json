@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Real healthcare reform starts with prevention - let's prioritize wellness & self-reliance over government control and wasteful spending!",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e8aee5de32169edd721b61f39333d2c0fc1615f0daabafae"
+}

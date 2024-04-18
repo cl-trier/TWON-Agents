@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarität mit der Ukraine! Es ist entscheidend, dass wir als #G7 vereint handeln und unserer Unterstützung für die Ukraine nicht nachlassen. Wir dürfen Russland keine Gelegenheit geben, unsere Entschlossenheit in Frage zu stellen. Finanzielle Verantwortung & starke Verteidigung sind der Schlüssel zur Lösung dieser Krise. 🇪🇺🤝🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "591e28ac66382583431ea15ab9676ec1ee4961cf2c0c17fc"
+}

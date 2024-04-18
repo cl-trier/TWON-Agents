@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Call for papers - Advancing methods in healthcare research and education! 💡👨‍⚕️🎓 As a medical professional, I've published multiple papers in various fields. Let's work together to improve patient safety, medical education, and global surgery! 🌎💼",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6847ebb5bd0222f39f0092b45649a7547524d714c7b39ddf"
+}

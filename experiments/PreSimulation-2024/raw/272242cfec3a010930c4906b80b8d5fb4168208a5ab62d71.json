@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan: privatisering van ziekenhuizen gaat ten koste van kwaliteit van zorg voor patiënten 🏥💰❌ Als samenleving moeten wij ongelijkheid tegengaan en in solidariteit handelen. Laat het publiek domein sterk blijven! #linksegeloof #sociale rechtvaardigheid",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "272242cfec3a010930c4906b80b8d5fb4168208a5ab62d71"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's struggle for sovereignty is crucial to maintaining international stability. We must continue to support their right to self-determination and ensure that freedom prevails over aggression.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "734d1370d6685aab01687101e379b8bf27f41ddcdc00ce65"
+}

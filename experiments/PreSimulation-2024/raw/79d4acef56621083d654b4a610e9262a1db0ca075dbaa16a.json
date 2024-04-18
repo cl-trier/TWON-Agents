@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bevreeswaardig: 27% van volwassenen kampst met gezondheidszorg-betaalbaarheidskwesties, met vertraagde zorg als gevolg. Het is tijd om iets te doen. #gezondheidszorg #betaaibaarheid\"Uitleg: Dit bericht wil aandacht vestigen op het feit dat een significante minderheid van volwassenen in de VS moeite heeft met de kosten van gezondheidszorg, en dat dit leidt tot vertraagde zorg. Het pleit ervoor om actie te ondernemen om deze kwesties aan te pakken.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "79d4acef56621083d654b4a610e9262a1db0ca075dbaa16a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@AHRQ_Diversity #DiagnosticSafety #QualityCare #HealthEquity🚨New research reveals the alarming rate of diagnostic errors! 💉👀 Did you know that incorrect diagnoses affect 1 in 20 adults? 😱 It's time to take action and prioritize #DiagnosticSafety! 🔍💡 Let's work together to prevent errors and ensure quality care for all. 💪🏽👨‍⚕️👩‍⚕️",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "225d0c78d96efe9d2e3cbc9406aa48dae148b4d8127d38fe"
+}

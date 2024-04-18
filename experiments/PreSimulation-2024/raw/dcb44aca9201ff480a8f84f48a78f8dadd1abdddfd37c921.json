@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military struggles to keep up with Russian tech. The destroyed Trypillya power plant was a major blow, leaving three regions in the dark. Delays in US aid cost lives, both civilian and military. Ukraine's running out of hardware. We need help now or risk losing the war.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dcb44aca9201ff480a8f84f48a78f8dadd1abdddfd37c921"
+}

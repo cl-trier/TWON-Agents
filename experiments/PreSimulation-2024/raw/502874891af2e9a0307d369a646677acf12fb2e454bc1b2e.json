@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gun violence is a public health crisis that affects us all. As a doctor, it's our responsibility to take action and prevent more lives from being lost. Let's work together to create a safer future for everyone.\"",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "502874891af2e9a0307d369a646677acf12fb2e454bc1b2e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der globalen Auswirkungen der Energiemarktentwicklungen aufgrund der Ukraine-Invasion scheinen europäische Unternehmen mit höherer Energieabhängigkeit stärker betroffen zu sein, zeigt eine neue Studie.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "130b84c1aaf3018a05174902bb3190bcc9bd458cf5780255"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "The ongoing escalation of the Ukraine war is a stark reminder of the urgent need for international cooperation and diplomacy to protect human rights and ensure regional stability.\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cff5d27b53d0fe44cfccba2065edbf43d2251d64749b1e03"
+}

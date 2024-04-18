@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Fascinerend nieuw onderzoek onthult dat surgische infecties na rugoperaties vaker worden veroorzaakt door bacteriën op de huid van de patiënt dan door microben in het ziekenhuis. Dit benadrukt de noodzaak van efficiënte huiddesinfectie voorafgaand aan operaties om gezondheidscomplicaties te voorkomen.",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a0487e094ffaa9be82a01841fcbb1b6e67bb56482822b7db"
+}

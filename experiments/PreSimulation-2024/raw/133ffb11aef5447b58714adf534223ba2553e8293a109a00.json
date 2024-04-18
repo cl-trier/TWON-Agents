@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Europe turns a blind eye as Ukraine's gas storages take hit after hit from Kremlin missiles. Shameful inaction while Ukraine bravely protects vital European energy resources. Wake up, Europe!",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "133ffb11aef5447b58714adf534223ba2553e8293a109a00"
+}

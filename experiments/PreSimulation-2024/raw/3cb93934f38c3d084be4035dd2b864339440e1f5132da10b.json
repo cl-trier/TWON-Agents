@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Steun gezondheidszorg voor allen & waardevol onderzoek. Objectiviteit boven ideologie. Samenwerken om begrip te krijgen",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3cb93934f38c3d084be4035dd2b864339440e1f5132da10b"
+}

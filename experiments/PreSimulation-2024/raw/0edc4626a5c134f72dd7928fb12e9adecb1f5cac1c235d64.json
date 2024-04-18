@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Trots op onze UAMS-artsenvorsers die top gerangschikt staan in de gezondheidszorg! Onze nationale identiteit en soevereiniteit moeten beschermd worden, inclusief het behoud van onze eigen medische expertise.",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0edc4626a5c134f72dd7928fb12e9adecb1f5cac1c235d64"
+}

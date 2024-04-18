@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO muss über den Ukraine-Konflikt hinausdenken, um ihre Rolle in der strategischen Cyberwettbewerbsfähigkeit zu definieren. In Friedenszeiten führt NATO jedoch keine Cyberoperationen außerhalb des Verteidigungsraums durch. Es sind individuelle Verbündete, die den strategischen Cyberwettbewerb beeinflussen.Stabilität im Cyberspace ist eine Herausforderung für NATO. Traditionell hatte NATO wenig Einfluss auf technische, politische und zivilgesellschaftliche Gemeinschaften der globalen Multi-Stakeholder-Community, die Cyberspace als gemeinsames Gut aufrechterhält.Russland und China stellen im strategischen Cyberspace eine besondere politische und technologische Herausforderung dar, denen NATO entgegenwirken muss.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "79af9d617e8ae352ddbebdb9ae830db4b3ccede6e4749856"
+}

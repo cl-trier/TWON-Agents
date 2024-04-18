@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hey Twitter, let's talk about accessible healthcare! 🚑💡 In Malaysia, affordable healthcare is getting results. Community nurse and midwife Ismaziah Binti Ibrahim shares her experience: 💬 \"We provide services for mothers and children in this village clinic. If we encounter something difficult, we refer patients to doctors and hospitals.\" 🏥👶 But for some women, visiting a health centre can be tough. That's why affordable government healthcare is crucial. 💰👍 Patients prefer it too! 🤗 Let's keep pushing for financial protection and people-centred care! 💪",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e41c9cb42940f27470b634ce472ed8a08f0c1538df1a896f"
+}

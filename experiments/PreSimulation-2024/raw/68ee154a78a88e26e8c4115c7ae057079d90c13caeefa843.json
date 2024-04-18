@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Universal healthcare is a basic human right and essential for a just society. We must prioritize research to improve healthcare access and quality, particularly for marginalized communities. Let's work together to ensure everyone has the chance to live a healthy life.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "68ee154a78a88e26e8c4115c7ae057079d90c13caeefa843"
+}

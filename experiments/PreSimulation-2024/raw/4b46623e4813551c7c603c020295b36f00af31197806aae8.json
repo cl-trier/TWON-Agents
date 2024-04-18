@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congrats to UAMS' C. Lowry Barnes & eight other physicians for making the 2024 Healthcare Research All-Stars list, ranking the Hip and Knee Surgery team in the top 1% nationwide! A remarkable achievement showcasing their commitment to both exceptional patient care AND groundbreaking research!",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b46623e4813551c7c603c020295b36f00af31197806aae8"
+}

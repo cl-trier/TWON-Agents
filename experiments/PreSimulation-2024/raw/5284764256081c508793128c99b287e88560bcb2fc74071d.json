@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Hören Sie sich die neueste Folge des Healthy Bottom Line Podcasts an, in der Rahman über die Bedeutung von Präventivmedizin spricht - eine Disziplin, die im Gesundheitssystem noch immer unterbewertet wird. Lassen Sie uns gemeinsam für mehr Unterstützung und Anerkennung für Präventivmediziner kämpfen, die sich um das Wohlergehen von Patienten und Gemeinschaften kümmern.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5284764256081c508793128c99b287e88560bcb2fc74071d"
+}

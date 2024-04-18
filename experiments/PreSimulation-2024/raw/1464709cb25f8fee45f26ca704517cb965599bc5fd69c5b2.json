@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🔬🩺 Stolz auf unsere medizinische Forschung! Großartige Neuigkeiten von unserer Community: Ein Aufruf zur Einsendung von Papieren zur Weiterentwicklung von Methoden in der Gesundheitsforschung und -bildung. Themen: Medizinerausbildung, Patientensicherheit, Globalchirurgie, klinische Mikrobiologie und Infektionskrankheiten. Zeigen wir der Welt unsere Expertise! 🌎💪",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1464709cb25f8fee45f26ca704517cb965599bc5fd69c5b2"
+}

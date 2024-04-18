@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Halting the rise of antibiotic resistance would be a historic achievement, saving millions of lives. It'll require coordinated efforts across all fronts, but progress in animal health offers hope for the future.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "783f8015e557772642efffbc06bdace064fd43c01f717340"
+}

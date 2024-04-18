@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "💡 Did you know that electricity and gas prices have skyrocketed in Europe since Russia's invasion of Ukraine? 🤯 But who has the priciest energy in Europe? 🤔 Let's find out! 📊🇷🇺 Russia, of course! 😏 Their electricity prices have increased by 57% and gas prices by 34% since February 2022. 💸🇩🇪 Germany follows closely with a 46% increase in electricity prices and a 28% hike in gas prices. 😬🇫🇷 France, you ask? 🤔 They've got the third-highest electricity prices, up by 31%, but their gas prices have only risen by 14%. 💦And the winners are... 🎉 North Macedonia and Bosnia and Herzegovina! 🇲🇰🇧🇦 They've got the cheapest gas prices in Europe, with €10.4 and €5.9 per 100 kWh, respectively. 💰But wait, there's more! 😱 EU natural gas imports from Russia made up almost 50% of the total before the war. 🤯So, who's ready to switch to renewable energy sources? 🌞💚 Let's work together towards a sustainable future! 🌈💕",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "94fafdc62aca90fffe49a6aa4573eec2468d5ce21825b5ff"
+}

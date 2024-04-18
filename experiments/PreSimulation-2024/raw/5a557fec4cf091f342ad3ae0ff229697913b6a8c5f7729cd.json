@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Es ist wichtig, dass die Internationale Gemeinschaft weiterhin eng zusammenarbeitet, um den Konflikt in der Ukraine zu beenden und eine dauerhafte Lösung zu finden, die den Interessen aller Beteiligten gerecht wird.\"",
+    "retrieved_source": "https://www.oecd.org/ukraine-hub/en/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a557fec4cf091f342ad3ae0ff229697913b6a8c5f7729cd"
+}

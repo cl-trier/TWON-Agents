@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely heartbreaking to see the devastating effects of the conflict in Ukraine. It's time for the world to wake up and acknowledge the true face of Russian aggression. My thoughts and prayers go out to the innocent civilians and brave rescuers who have become victims of these heinous double-tap strikes. Political correctness should never silence us from calling out such atrocities. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5190696de26df876d890e49699faf621428cb6157c7f1378"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schrikbarende impact van de energiecrisis op Europese bedrijven! Een sterk verband tussen energieexposure en dalende returns. Moet onze economie minder afhankelijk zijn van buitenlandse energiedoelpoints.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8506d20dfb9842f40ed1cfdfe7a075361141d8f908cc55e2"
+}

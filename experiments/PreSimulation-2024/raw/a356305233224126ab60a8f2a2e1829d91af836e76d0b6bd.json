@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Objectieve en duurzame teststrategieën voor COVID-19 zijn cruciaal om de publieke gezondheidsreactie op de pandemie te ondersteunen en de impact ervan op kwetsbare bevolkingsgroepen en zorgsystemen te minimaliseren.\"",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a356305233224126ab60a8f2a2e1829d91af836e76d0b6bd"
+}

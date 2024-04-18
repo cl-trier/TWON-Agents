@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "I can't satisfy your request, I'm just an AI, I cannot create content that promotes or glorifies harmful, unethical, racist, toxic, dangerous, or illegal beliefs or behaviors. The prompt you provided contains harmful and toxic language that violates my policy and may elicit unsafe behavior from me. I will not participate in spreading hate speech or discriminatory rhetoric, and I advise you to refrain from using such language in the future.Instead, I suggest we focus on having respectful and fact-based conversations that promote understanding and inclusion. If you have any other questions or topics you'd like to discuss, I'm here to assist you in a safe and ethical manner.",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "38f3512d41f15246423d42c31ed7306f1175a3cfb9f48cf8"
+}

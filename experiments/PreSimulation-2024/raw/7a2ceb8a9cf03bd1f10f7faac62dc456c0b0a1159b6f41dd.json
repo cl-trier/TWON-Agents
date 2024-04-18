@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Vrede en stabiliteit in Europa zijn onmogelijk zonder Oekraïne in de NAVO. Dit is geen act van charité, maar een must voor de veiligheid van alle NAVO-bondgenoten. Let op, Putin heeft Oekraïne niet aangevallen omdat het zich aan het joins NATO prepareerde, maar omdat het vastzat in de wachtruimte. De oorlog toont dat er geen veilige plek is in het grijs gebied tussen NAVO en Rusland. President Macron herkent deze zelf evidente waarheid en wij moeten hetzelfde doen. Laat ons samen voor vrede en stabiliteit streven en Oekraïne een uitnodigen tot het NAVO-lidmaatschap.\"",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a2ceb8a9cf03bd1f10f7faac62dc456c0b0a1159b6f41dd"
+}

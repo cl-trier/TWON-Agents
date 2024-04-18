@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade jetzt ist entschlossenes Handeln von Weltführern gefragt! Unser Außenminister Lord David Cameron wird auf dem Weltwirtschaftsforum in Davos für mehr Unterstützung und Zusammenarbeit auf globaler Ebene werben. Von Gesprächen über die Notwendigkeit frischen Denkens bei der Beilegung von Konflikten bis hin zur Unterstützung der Ukraine – lasst uns gemeinsam an einer sicheren und stabilen Zukunft arbeiten!",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8db54b1e788eee59491662ae5e2951c2ca8a972d412e0efb"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Interessanter Artikel über die Auswirkungen der Privatisierung von Krankenhäusern auf die Qualität der Versorgung. Es scheint, als ob die wissenschaftlichen Belege für eine bessere Versorgung durch Privatisierung schwaches sind. Ist es wirklich erforderlich, die Qualität der Versorgung zu gefährden, um Kosten zu sparen?",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1e62e8b203e959ad8a17d1b5a6ac2e2940e90c1e9ed1fb94"
+}

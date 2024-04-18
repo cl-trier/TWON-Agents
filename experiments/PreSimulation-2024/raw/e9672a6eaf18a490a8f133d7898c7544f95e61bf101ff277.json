@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek waarschuwt voor kostenexplosie bij privatisering van veteranenzorg. Privézorg is 21% duurder dan VHA zorg, terwijl er geen sprake is van gebruiksbeoordeling door verzekeringsmaatschappijen. Onze heldere prioriteit moet zijn: het behoud van een hoogwaardige en toegankelijke veteranenzorg.\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9672a6eaf18a490a8f133d7898c7544f95e61bf101ff277"
+}

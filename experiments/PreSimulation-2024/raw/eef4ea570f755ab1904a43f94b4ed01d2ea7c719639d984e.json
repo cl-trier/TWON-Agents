@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Een wapenstilstand tussen Rusland en Oekraïne vereist een West-Duits model voor Oekraïne's veiligheid, samen met een regionale consultatieraad om duurzame stabiliteit in Europa te bereiken.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eef4ea570f755ab1904a43f94b4ed01d2ea7c719639d984e"
+}

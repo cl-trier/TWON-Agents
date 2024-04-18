@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante report over de #gezondheidszorg in Amerika van PayZen! Bekommerende bevindingen over de bereikbaarheid ervan & hoe #AI kan helpen. Gemiddeld kunnen mensen max. $97 per maand uitgeven aan medische kosten. Veelvuldig worden preventieve visits, medicijnen & psychische zorg overgeslagen. Samen werken voor betere toegankelijkheid & outcome.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c3c74ae0cf8db6741f15689e9dc43d6d3b22174838e152d7"
+}

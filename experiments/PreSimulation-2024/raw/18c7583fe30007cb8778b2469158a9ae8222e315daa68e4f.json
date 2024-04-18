@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Interessante onthulling over de vredesgesprekken tussen Oekraïne en Rusland: beide leiders toonden bereidheid tot grote concessies om oorlog te beëindigen. Schade dat onderhandelaars zich eerst richtten op een post-oorlogse veiligheidsordening in plaats van direct de oorlog te beëindigen.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "18c7583fe30007cb8778b2469158a9ae8222e315daa68e4f"
+}

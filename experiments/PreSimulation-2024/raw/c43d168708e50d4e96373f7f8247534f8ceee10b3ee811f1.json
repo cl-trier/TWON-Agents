@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": " #Energiekrise in Sicht? Die #EU warnt vor einem Winter mit hohen Energiepreisen, da der Gasdeal zwischen Russland und der Ukraine ausläuft. Während ein Wechsel zu Lieferungen über Deutschland, Italien oder die Türkei möglich ist, erschwert eine kürzlich von Berlin erlassene Steuer auf Gasexporte diesen Prozess. Unsere Nachbarn drängen nun darauf, dieses Thema bei den EU-Energieministern am Montag in Brüssel zu besprechen. Wird die #Solidarität in der #EU auf dem Spiel stehen?",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c43d168708e50d4e96373f7f8247534f8ceee10b3ee811f1"
+}

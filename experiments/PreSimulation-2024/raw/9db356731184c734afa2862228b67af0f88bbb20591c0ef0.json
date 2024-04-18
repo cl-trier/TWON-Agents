@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "A potential path to peace in Ukraine 🇺🇦: Security assistance & NATO membership on the \"West German\" model, backed by a Regional Consultation Mechanism for long-term stability in Europe 🌍. Let's work towards diplomacy, human rights, and regional security for all.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9db356731184c734afa2862228b67af0f88bbb20591c0ef0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist ein litmus test für die Fähigkeit des Westens, gemeinsam und effektiv gegen Bedrohungen zu kämpfen. Jetzt ist Zeit für die USA, das House of Representatives zu überzeugen und den Ukraine-Hilfskonten zuzustimmen.\"",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b50b0eb2e307677609ce4e2717cbc81defd9aa9b5843bd3"
+}

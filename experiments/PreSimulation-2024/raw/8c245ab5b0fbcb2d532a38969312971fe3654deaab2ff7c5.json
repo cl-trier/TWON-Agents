@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring Canada's deepening healthcare crisis: Is systematic defunding by governments driving privatization, or is it the other way around? Let's have a fact-based conversation. #HealthcareDebate #Politics.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c245ab5b0fbcb2d532a38969312971fe3654deaab2ff7c5"
+}

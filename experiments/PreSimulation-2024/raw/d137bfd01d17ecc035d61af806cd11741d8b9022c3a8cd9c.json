@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Geweldig nieuws! Norton Healthcare ontvangt $20 miljoen voor de 'Just Imagine' campagne, gegeven door Dr. Cressman. Deze gift zal worden gebruikt om programma's uit te breiden binnen het Cressman Parkinson's Movement and Disorders Center en Cressman Parkinson's Research. Dank aan Dr. Cressman voor haar steun aan de zorg voor Parkinson-patiënten!",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d137bfd01d17ecc035d61af806cd11741d8b9022c3a8cd9c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Tensions in the Middle East could drive up energy prices. Let's prioritize energy independence and free market solutions to ensure stability and affordability.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ebcf5c013fa49cb0df6ccf0a06020ae6f857459f4c27150e"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@MeaslesRubellaPartnership is doing incredible work in preventing an estimated 57 million deaths from measles between 2000-2022! Their efforts, alongside @WHO, @GaviAlliance, @CDCgov, and other int'l partners are a testament to the power of collaboration in achieving public health goals. Let's keep up the momentum and ensure every child has access to life-saving vaccines! 💉🌎",
+    "retrieved_source": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "14d398c1d06a0af7e3ea0ae6486ad9944e6268b2ffb54163"
+}

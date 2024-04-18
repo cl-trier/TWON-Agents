@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Geschokt door de cijfers van onbetaalbare zorgkosten in onze samenleving. Alle politieke kanten moeten bij elkaar zitten om een oplossing te vinden. Gezamenlijk kunnen we een systeem creëren dat toegankelijk is voor iedereen, ongeacht hun inkomen of achtergrond.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2dce8dcfdd6946d3aca96c7e2e30468a1e9e5473c6bd772"
+}

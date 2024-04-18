@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut is not occupied by Russia Federation as of today\"? Het is tijd dat we de feiten een beetje serieuzer nemen. Rusland heeft eerder aangegeven dat ze de stad hadden ingenomen. Wat is het eigenlijk doel van deze oorlog? Waarom zijn we zo bent op elkaar te destrueren?",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ddf5426f82dd2f808b69213895afb690e5f2487d0ab44975"
+}

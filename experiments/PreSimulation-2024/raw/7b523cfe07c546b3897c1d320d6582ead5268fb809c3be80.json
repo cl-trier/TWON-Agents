@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Concerns grow over Ukraine's energy war threatening global markets & Russian retaliation. We must prioritize diplomacy for a stable peace that respects human rights and promotes environmental sustainability.",
+    "retrieved_source": "https://time.com/6960377/russia-ukraine-energy-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b523cfe07c546b3897c1d320d6582ead5268fb809c3be80"
+}

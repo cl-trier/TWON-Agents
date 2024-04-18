@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's concerning to see the growing trend of private sector involvement in Canadian public healthcare systems, especially when it comes to essential procedures like hip and knee replacements.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "671c69daa27b088235cedcf2a7d1cb241a42f88b5cdddfb6"
+}

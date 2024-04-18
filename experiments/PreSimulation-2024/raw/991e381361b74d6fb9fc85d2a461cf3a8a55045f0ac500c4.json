@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gemeinsam für Frieden: Deutschland entsendet Patriot-Raketenabwehrsysteme, um die Ukraine zu unterstützen. Internationale Zusammenarbeit ist der Schlüssel zum Schutz von Demokratie und Menschenrechten. #EinheitStärkerals division",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "991e381361b74d6fb9fc85d2a461cf3a8a55045f0ac500c4"
+}

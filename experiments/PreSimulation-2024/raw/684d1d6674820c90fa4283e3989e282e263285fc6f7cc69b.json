@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Preventive health care is key! 🔑 PGIMER specialists are taking the initiative to educate the public on disease prevention and timely medical care. 💡🏥 This will not only improve health outcomes but also reduce financial burdens. 💰📉 Kudos to PGI director Prof Vivek Lal for emphasizing the importance of this educational outreach! 🙌 Let's work together for a healthier community! 🤝",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "684d1d6674820c90fa4283e3989e282e263285fc6f7cc69b"
+}

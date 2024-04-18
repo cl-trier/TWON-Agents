@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Skeptisch gegenüber Studie im Lancet Public Health: Hospitalprivatisierung kann zwar Kosten sparen, aber sie gefährdet offenbar die Patientenversorgung - traditionelle Werte und individuelle Freiheiten wahren heißt auch, qualitativ hochwertige Gesundheitsfürsorge für alle zu garantieren.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b37e299ca73140a0278dd6773e71b422286c3c0a2afb833"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Huge shoutout to Dr. Smith, a true champion for kidney patients! His dedication to disease prevention and infection control is truly inspiring. The Medal of Excellence is well-deserved recognition for his tireless efforts in improving kidney health outcomes. Keep up the great work, Dr. Smith!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c180436d333ede7ccb3382db3794c338ae59a777d51e2da"
+}

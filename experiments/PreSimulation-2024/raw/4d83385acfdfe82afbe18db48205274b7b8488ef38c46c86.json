@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Women's Health 2.0: The AI Era - a promising approach to address the gender health gap? 🤖💻 Investing $100 million in women's health research is a step in the right direction, but let's not forget that true progress requires a shift in mindset. 💪🏽 We must move beyond the narrow focus on reproductive health and acknowledge the diverse needs of women's bodies. 🌟 Only then can we truly make strides in closing the health gender gap.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d83385acfdfe82afbe18db48205274b7b8488ef38c46c86"
+}

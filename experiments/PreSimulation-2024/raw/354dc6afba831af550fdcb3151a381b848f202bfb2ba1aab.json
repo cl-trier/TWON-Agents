@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Scholz urge Xi to help stop Ukraine war: standtogether for wereldvrede en rechtvaardigheid. #gelijkheid #solidariteit\"Als linkse aanhanger in Nederland zou ik de Duitse bondskanselier Olaf Scholz steunen in zijn oproep aan China om zijn invloed uit te oefenen om Rusland te bewegen de oorlog in Oekraïne te stoppen. Ik pleit altijd voor vrede en rechtvaardigheid wereldwijd, wat mij ertoe brengt mijn steun te geven aan de noodzaak tot collectieve actie om ongelijkheid en discriminatie in al zijn vormen tegen te gaan. Deze situatie benadrukt het belang van solidariteit tussen landen, ongeacht achtergrond of sociaaleconomische status, en het noodzakelijke streven naar gelijkheid voor allen.",
+    "retrieved_source": "https://www.voanews.com/a/german-chancellor-urges-china-to-use-influence-to-end-ukraine-war/7572356.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "354dc6afba831af550fdcb3151a381b848f202bfb2ba1aab"
+}

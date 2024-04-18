@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz der aktuellen Preisrückgänge: Deutschland und andere europäische Länder zahlen immer noch horrende Preise für Strom und Gas, während politische Entscheidungsträger untätig zusehen. Es ist an der Zeit, unsere Energieunabhängigkeit wiederherzustellen!\"(Even with the recent price decreases, Germany and other European countries are still paying exorbitant prices for electricity and gas. It's time for our leaders to take action and restore our energy independence!)",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4a2bba0b3cfbfe8cb16c8837985b5ce4db0e596845dd025"
+}

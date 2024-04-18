@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@Konservativer 🇩🇪💡🔌🇷🇺Pre-tax electricity and gas prices in Europe have soared since Russia's full-scale invasion of Ukraine, but are now declining. Who has the priciest electricity and gas in Europe? 🤔Highest electricity prices:🏆1. Denmark (€28.7 per 100 kWh)🏆2. Germany (€27.6 per 100 kWh)🏆3. Belgium (€26.5 per 100 kWh)Lowest electricity prices:🏁1. North Macedonia (€10.4 per 100 kWh)🏁2. Bosnia and Herzegovina (€5.9 per 100 kWh)Highest natural gas prices:🏆1. Netherlands (€13.7 per 100 kWh)🏆2. Germany (€13.4 per 100 kWh)🏆3. Belgium (€13.1 per 100 kWh)Lowest natural gas prices:🏁1. North Macedonia (€10.4 per 100 kWh)🏁2. Bosnia and Herzegovina (€5.9 per 100 kWh)EU natural gas imports from Russia made up almost 50% of the total before the war. 💡🇷🇺",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "459025943a16c8f990f18378dbf67c7c0bf00a525e9ce3fe"
+}

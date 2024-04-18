@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "783 days of conflict between Russia and Ukraine have passed. What do we have? A list of key events that highlight the complexity of the situation. But what do we really need? A solution that respects the sovereignty of Ukraine and the security concerns of all nations involved.\"",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8aef83afab61820129b3b6db304c86da5ca36d268c7763e2"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to tackle racial disparities in maternal healthcare & ensure Black women receive timely, respectful, & high-quality care during pregnancy. We can prevent tragic deaths by addressing underlying conditions, biases, and social determinants of health.",
+    "retrieved_source": "https://www.cdc.gov/healthequity/features/maternal-mortality/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b45c80f944237ada92276700a49358159f4f5c96e823726"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nog steeds veel flu-hospitalizaties dan verwacht deze winterseizoenen. Moeten we onze grenzen sluiten voor virusdragende buitenlandse bezoekers? Onze gezondheid is ook nationale identiteit en soevereiniteit.",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a85ddc714be534d4240d736c96b2131128ecceb22ce09c0c"
+}

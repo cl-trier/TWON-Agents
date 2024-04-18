@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Solidarität mit der Ukraine! Wir müssen zusammenstehen für Frieden, Gerechtigkeit und Menschenrechte. #UkraineUnderAttack 🇺🇦\"(In solidarity with Ukraine! We must stand together for peace, justice and human rights. #UkraineUnderAttack 🇺🇦)",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d47b9cbea5c28ddd11ba82524202db2c595ae821931a2c0f"
+}

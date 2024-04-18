@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Walmart Canada's commitment to accessible & affordable healthcare! In their latest Watch DSN episode, John Kenlon discusses with Alex Hurd how pharmacists can now diagnose and prescribe for minor ailments, improving patient care & easing the burden on primary systems. Well worth a watch!",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a074ad18efea9726aaa255123f00ac55b75837a51c0da043"
+}

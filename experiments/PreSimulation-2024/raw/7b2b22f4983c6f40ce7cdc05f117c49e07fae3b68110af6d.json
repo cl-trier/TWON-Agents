@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Endlich ein Schritt in die richtige Richtung: Ukraine verabschiedet Gesetz zur Erhöhung der Truppenstärke, um das Land vor Aggressionen zu schützen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b2b22f4983c6f40ce7cdc05f117c49e07fae3b68110af6d"
+}

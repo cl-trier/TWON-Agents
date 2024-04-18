@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Wir brauchen eine Renaissance der nationalen Identität und müssen uns von der Knechtschaft unter die politische Korrektheit befreien, um unseren Energiebedarf eigenständig zu decken und uns nicht von feindseligen Mächten abhängig zu machen.\"",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "02d959b0109411c93837b6b602367853971f093e67a2559b"
+}

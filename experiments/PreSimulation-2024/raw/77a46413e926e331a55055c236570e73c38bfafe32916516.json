@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwsflash! 🚨💡 ERA4Health Partnership lanceert call for proposals sobre nanotech en geavanceerde tech voor Ziekte preventie, diagnose en therapie (NANOTECMEC). 🌐🔬Dit is een Europese samenwerking binnen het Horizon Europe-programma van de Europese Commissie. 🇪🇺Doel: Onderzoek naar cardiovasculaire ziekten, nanomedicijnen en voeding, gezondheid en ziekte preventie over een periode van 7 jaar. 💔🍎Meer informatie over ERA4Health Partnership en European Partnerships: 🔗👉 https://bit.ly/3sTPNV6",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77a46413e926e331a55055c236570e73c38bfafe32916516"
+}

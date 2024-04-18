@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The mainstream media is ignoring the real story here - the Russian destruction of Ukrainian energy infrastructure is just the latest example of their aggressive tactics, and it's time for Europe to wake up and take action.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4206c26776d97f0827dfa8f5b1aa1b64fb266ca2c376059"
+}

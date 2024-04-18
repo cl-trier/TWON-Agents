@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade in diesen krisenhaften Zeiten müssen wir solidarisch sein und den Menschen in der #Ukraine helfen - dazu gehört auch, erschwingliche Energiepreise sicherzustellen, um ihr Leid zu lindern.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3317c1cc91ad3ef8d61c44e9c3be904b235162cbef4a64c8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "With the expiration of Russia's gas contract with Ukraine, Europe may face higher energy prices this winter. The loss of gas imports could create a worst-case scenario for countries reliant on transit through Ukraine, especially if the winter is particularly cold.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "594e7efc36462b4c049c400c881d9bba4f2474fdd36a6058"
+}

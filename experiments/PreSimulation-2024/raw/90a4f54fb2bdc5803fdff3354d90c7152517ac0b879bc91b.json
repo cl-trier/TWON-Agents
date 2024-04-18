@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine is a sovereign nation that deserves our respect and support. The international community must work together to ensure their stability and security, not undermine it with political games and red tape.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90a4f54fb2bdc5803fdff3354d90c7152517ac0b879bc91b"
+}

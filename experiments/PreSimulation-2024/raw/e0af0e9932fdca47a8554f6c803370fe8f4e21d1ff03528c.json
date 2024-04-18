@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen hebben minstens één gezondheidszorgproblematiek vanwege financiële beperkingen. Dit is niet acceptabel en we moeten samenwerken om dit probleem op te lossen.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e0af0e9932fdca47a8554f6c803370fe8f4e21d1ff03528c"
+}

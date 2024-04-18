@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz sinkender Preise: Deutschland führt immer noch die Liste der teuersten Energierechnungen in Europa an. Wir brauchen dringend eine Stärkung unserer nationalen Energieunabhängigkeit und freiere Marktpreise, um den Wohlstand unserer Bürger zu sichern.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "56d96d10d236f0975fcdd6afbd8dd650194b6608344397bb"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's time for the US Congress to step up and provide much-needed aid to Ukraine. The situation is dire, and we can't afford to delay any longer. Let's put aside our differences and come together to support a nation that's fighting for its very survival.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a49681340d166d5245d54093db979de87676fd5a35b5c8c1"
+}

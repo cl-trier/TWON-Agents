@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare should be a fundamental right, not a luxury. Let's work together to make it more affordable for everyone.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "629dcba11c6174380d22e77cb8b0038ac92f9d284e19cd39"
+}

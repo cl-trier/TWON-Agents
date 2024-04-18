@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schokkend: 1 op 3 Amerikanen overslaat medische zorg wegens gebrek aan betalingsmogelijkheden. Tijd voor hervormingen in ons gezondheidssysteem om betaalbaarheid te verzekeren.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ea3acd67d4a1e6a7bc751205124889f1fab9281a6dcfbc9e"
+}

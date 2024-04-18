@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@CSIS #Ukraine #War #Russia #US #WesternAid 🇺🇦💢 Two years since Russia's invasion of Ukraine 🤯 Join the CSIS International Security Program for a virtual discussion on the state of the war, Ukrainian and Russian strategy, and the future of Western aid to Ukraine 💪 With Seth G. Jones, Eliot A. Cohen, Emily Harding, and the Honorable Michael Vickers 🌟 #PeaceForUkraine 💕",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6e433d8b42af69d99fd41bc4b78fe640126290980222da26"
+}

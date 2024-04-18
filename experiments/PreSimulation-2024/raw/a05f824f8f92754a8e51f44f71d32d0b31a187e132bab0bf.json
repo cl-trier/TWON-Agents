@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report from The Commonwealth Fund: Even with insurance, working-age Americans are grappling with skyrocketing healthcare costs. It's unacceptable that 100 million+ citizens bear healthcare-related debt. We need real solutions, not government overreach. Let's champion affordable, accessible care while safeguarding free-market principles and personal responsibility.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a05f824f8f92754a8e51f44f71d32d0b31a187e132bab0bf"
+}

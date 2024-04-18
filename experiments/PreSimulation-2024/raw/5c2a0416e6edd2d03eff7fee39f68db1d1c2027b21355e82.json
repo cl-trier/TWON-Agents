@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Ostukraine hat sich die Lage verschlechtert, so der ukrainische Armeebefehlshaber Syrskyi. Er berichtet von einer Zunahme russischer Offensiven seit Putins Wiederwahl im März. Um auf Moskaus Überlegenheit an Waffen zu reagieren, appelliert Syrskyi an die westlichen Verbündeten, militärische Unterstützung zu beschleunigen. Lasst uns für Dialog und Verständnis zwischen allen Beteiligten eintreten und eine friedliche Lösung suchen.\"",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c2a0416e6edd2d03eff7fee39f68db1d1c2027b21355e82"
+}

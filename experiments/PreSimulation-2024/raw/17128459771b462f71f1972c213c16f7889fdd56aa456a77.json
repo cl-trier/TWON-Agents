@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Viering in Nederland! Gelukkighede aan negen UAMS artsen die zijn benoemd tot \"Healthcare Research All-Stars\" van 2021-2022. Hun onderzoek plaatst UAMS' heup- en kniechirurgie, orthopaedische chirurgie, gastro-intestinale en algemene chirurgie onder de top % nationwide. Staan voor sterke medische community en innovatie!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "17128459771b462f71f1972c213c16f7889fdd56aa456a77"
+}

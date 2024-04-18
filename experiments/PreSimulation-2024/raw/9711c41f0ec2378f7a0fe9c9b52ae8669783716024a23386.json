@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "It's absurd that Ontario's private clinics are expanding while still being covered by public healthcare. What's next? Privatized police forces?\"",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9711c41f0ec2378f7a0fe9c9b52ae8669783716024a23386"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Frage, wer die Verteidigung der Ukraine finanzieren wird, ist wichtiger denn je. Nato's Plan für ein 100 Mrd. Euro Paket an Militärhilfe über 5 Jahre ist ein Schritt in die richtige Richtung, aber es ist noch nicht genug. Die USA und Europa müssen gemeinsam sicherstellen, dass die Ukraine die notwendigen Ressourcen erhält, um ihre Sicherheit zu gewährleisten.\"",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b25e1edffd30e7bff80c8f5f07869ba6596689c02c314d5"
+}

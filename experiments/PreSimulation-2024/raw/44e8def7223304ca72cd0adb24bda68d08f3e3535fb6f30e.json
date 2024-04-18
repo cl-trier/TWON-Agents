@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's heroischer Widerstand wird oft ignoriert. Es ist an der Zeit, dass Europa ihre Verteidigung unterstützt, bevor es zu spät ist. Schützt unsere Werte und unseren Weg Leben! #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "44e8def7223304ca72cd0adb24bda68d08f3e3535fb6f30e"
+}

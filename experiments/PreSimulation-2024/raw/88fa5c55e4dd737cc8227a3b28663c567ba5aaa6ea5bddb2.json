@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De Eerste Wereldoorlog was eveneens een interactief conflict met constant innovatie van beide zijden. Ook de Eerste Golfoorlog kenmerkte zich door 40 dagen bombardementen voordat de grondoorlog begon. Tot nu toe lijkt het er niet op dat Oekraïne zijn militair productiecapaciteit significant heeft kunnen verhogen. Het is echter onzeker of dit stand houdt als Poetin met geweld territoriale doelen in Oekraïne bereikt.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88fa5c55e4dd737cc8227a3b28663c567ba5aaa6ea5bddb2"
+}

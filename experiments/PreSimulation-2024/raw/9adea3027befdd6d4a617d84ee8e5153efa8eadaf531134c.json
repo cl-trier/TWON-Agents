@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Energy crisis alert! 🚨Europe, let's get ready for a cold winter! 🥶 Russia-Ukraine gas deal ends this year, and we might face higher energy prices. 💸🔍 Brussels, let's work together to secure our energy supply and stop funding the Kremlin's war machine! 💪",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9adea3027befdd6d4a617d84ee8e5153efa8eadaf531134c"
+}

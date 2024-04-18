@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time to prioritize preventive medicine! 🙌🏽👨‍⚖️ The pandemic has shown us the importance of investing in healthcare that focuses on PREVENTION, not just treatment. 💡💊 Let's work together to ensure policymakers recognize the value of preventive medicine physicians and give them the support they need! 🤝",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf9f88c549cb3f095a82e2f73e6dd9e60b54a16044db465b"
+}

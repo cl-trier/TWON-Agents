@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Opgave Oekraïne: Een Noords-Duits model voor regionale stabiliteit in Europa? Mogelijke oplossing voor Russisch-Oekraïense oorlog omvat beveiligingsgaranties en toetreding tot NATO, evenals een regio-consultatie mechanisme. Pragmatische stap om orde te herstellen en nationale belangen te beschermen.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0ddc4778379887806d87bc08ede28ab651f5d7f6ae0dfc2e"
+}

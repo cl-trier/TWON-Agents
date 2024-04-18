@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beware van privatisering in de gezondheidszorg! Volgens studie is privé-sector ER zorg 21% duurder dan VHA zorg. Privaat sectorn nut van volgende diensten terwijl niet onderworpen aan normale verzekeringsmaatschappij gebruiksbeoordeling. VHA leveranciers moeten uitgebreide training ondergaan om beter te begrijpen en behandelen van veteranen specifieke mentale en fysieke problemen. Let op deze ontwikkelingen en wees kritisch!\"",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "15e4f5934fdc3d86a05390cb02aacc323da88572c277cc62"
+}

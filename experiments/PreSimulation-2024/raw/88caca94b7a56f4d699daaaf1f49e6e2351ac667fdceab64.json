@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Hooray voor PGIMER! Nu de specialisten ook nog eens actief zijn in preventieve gezondheidszorg, kan dit een enorme positieve invloed hebben op de gezondheid van de community. Dit is een belangrijke stap richting het verbeteren van de gezondheidsproblemen in ons land en het vergemakkelijken van de toegang tot kwaliteitszorg voor iedereen.",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88caca94b7a56f4d699daaaf1f49e6e2351ac667fdceab64"
+}

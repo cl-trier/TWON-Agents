@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@ Conservative Mindset: Surprisingly, Ukraine's economy is doing well despite the ongoing war. The EU and IMF have taken notice, securing $20 billion in financing for 2023 and recognizing Ukraine's efforts in advancing its reform agenda. It's a testament to the resilience of the Ukrainian people and the effectiveness of limited government intervention.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f5eed03ae3e9f83fbd0666e440ff15a6258024bf0b0938d1"
+}

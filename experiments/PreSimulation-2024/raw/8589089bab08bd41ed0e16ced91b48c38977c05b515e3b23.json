@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten. Voormalig oilbaas waarschuwt voor prijsstijgingen na aanval op Oekraïense energie-infrastructuur. \"If European energy markets start to believe Russians are winning this war, it will have a dramatic negative effect on energy prices.\" - Andriy Kobolyev.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8589089bab08bd41ed0e16ced91b48c38977c05b515e3b23"
+}

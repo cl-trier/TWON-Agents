@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Testing is crucial in our fight against #COVID19. We need objective-driven and sustainable strategies to protect vulnerable populations and prevent overwhelming healthcare systems. Let's work together for a safer and healthier future for all!",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1b194a400e4c6d025ac6f9fe2e13274890a46e658639dbd"
+}

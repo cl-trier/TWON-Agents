@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Occupation is not the only way to measure control. Russia's actions in Bakhmut are a clear violation of Ukraine's sovereignty and territorial integrity. The international community must continue to pressure Russia to withdraw its forces and respect Ukraine's borders",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c45f2a77ee25f024c96ef1a3ba6e072a60666bb850e1866b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦💰🔥 Did you know that the energy crisis caused by the Ukraine invasion has had a negative impact on European firms' equity returns? 🤔📉 According to a study by Refinitiv, a one standard deviation increase in energy exposure is associated with a 0.9 percentage point reduction in returns. 💸📊 This means that companies heavily dependent on energy imports from Russia have been hit hard. ��� battle for energy supremacy? 🔥💪",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb9b5376f1979206129529e4c6c357a57538d7f78fc14535"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "US Secretary of State Blinken assures Black Sea allies of US support, while Russian strikes hit Donbas and Kherson. Investing in regional security is crucial for peace and freedom across Europe.",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "41632a1379edf20f2f33a486df967bbc6601906ea80eaf6e"
+}

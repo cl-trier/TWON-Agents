@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🔬🚀 Interessiert an medizinischer Forschung? Hier ist eure Chance! Ich rufe zu Einreichungen für ein Symposium zur Weiterentwicklung von Methoden in der Gesundheitsforschung und -bildung auf. Egal, ob es um Orthopädie, Medizinerziehung, Frauen-/Kindergesundheit, Infektionskrankheiten oder Public Health geht - wir freuen uns über eure Beiträge! 🌍🩺 Together, let's advance the field and improve patient care worldwide.",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6da9a5316a3a36339f288c03140e0ecb893df7467a38eb12"
+}

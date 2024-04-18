@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@konservativer Twitterer: \"Energy crisis in Europe: Who has the priciest electricity and gas? 🤔 After Russia's invasion of Ukraine, prices soared, but are now declining. 💡🇪🇺 But which countries have the highest and lowest prices? 🤷‍♂️💰 And how much have electricity and natural gas prices increased since February 2022? 📈🔥",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0fd6d0e18c6b54b08aec3e719fffd8eec6666ab9465ab29"
+}

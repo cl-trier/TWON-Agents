@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "CDC - Preventing Chronic Disease: Public Health Research, Practice and PolicyHey Twitterati! 👋 I'm excited to share this Call for Papers from the CDC! 🧑‍💻 They're looking for manuscripts on public health research, practice, and policy to prevent chronic diseases. 💡Submit your work anytime, but note the final submission dates for each collection. 📝 Accepted manuscripts will be published on a rolling basis, so don't wait! 🔄Let's work together to advance the field of public health and improve the lives of millions. 🌎 Share your research and expertise with the CDC! 💬",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34bffff1f21dddacb2cac569a513a4d9bffda34680d15c96"
+}

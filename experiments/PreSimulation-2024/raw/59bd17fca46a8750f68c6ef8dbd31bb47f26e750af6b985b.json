@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Tijd om onze eigen belangen te verdedigen. Nederland dient zichzelf treu te blijven in deze onzekere wereldtijd.\"",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "59bd17fca46a8750f68c6ef8dbd31bb47f26e750af6b985b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre nach dem russischen Einmarsch in die Ukraine: Was ist heute los? 🤔🇺🇦🇷🇺",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ad11093eb93a6499dddcb7afd86e7402094c6146f9b5546"
+}

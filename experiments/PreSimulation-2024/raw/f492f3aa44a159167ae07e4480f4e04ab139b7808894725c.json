@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Wapenwedloop in Oekraïne maakt duidelijk dat innovatie in oorlogen belangrijker is dan ooit. Moeten we toestaan dat Rusland al zijn oorlogsdoelen bereikt en grondgebied met geweld annexeert?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f492f3aa44a159167ae07e4480f4e04ab139b7808894725c"
+}

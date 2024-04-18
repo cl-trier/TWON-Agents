@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Erfreut darüber, den Fokus auf #WomensHealth 2.0 zu richten – der Ära von #AI! Neue Perspektiven zur Frauen­gesundheit gehen jetzt über die Reproduktion hinaus. Wichtig zu beachten: Historisch bedingte Lücken im Verständnis der weiblichen Gesundheit müssen geschlossen werden, um Ungleichheiten zu beseitigen & eine gerechte Versorgung für alle zu erreichen 💪🩺✨",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1eee3b2ae276af3a8465960b143647551e34c3388b49ca5c"
+}

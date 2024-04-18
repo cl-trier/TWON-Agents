@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "For decades, Canada's healthcare system has been plagued by underfunding from successive governments. While many claim to oppose privatization, union leadership has often obstructed efforts to truly fight against it. Now, amidst a deepening crisis, provincial governments are using this as justification for further privatization. Despite the issues, Medicare remains popular among Canadian workers. Instead of pushing for privatization schemes, let's focus on restoring funding and preserving our public healthcare system.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db483ccf06de1068691225db04ef0a8e598d5660a6e36674"
+}

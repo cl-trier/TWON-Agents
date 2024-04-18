@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine is a vital piece on the geopolitical chessboard. Let's not sacrifice it to the altar of globalism.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3fdeb647893c2525f6f0cbee9de7a0d6722d72a8d99158a8"
+}

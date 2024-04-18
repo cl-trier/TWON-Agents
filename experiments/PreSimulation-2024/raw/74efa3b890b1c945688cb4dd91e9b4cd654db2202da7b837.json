@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the revolution of Women's Health 2.0 in the AI era, as we shift from a reproductive-centered view to recognizing the full spectrum of women's health needs & challenges, fueled by First Lady Jill Biden's $100M funding initiative for essential research #WomensHealthEquality 💪🩺🚀",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74efa3b890b1c945688cb4dd91e9b4cd654db2202da7b837"
+}

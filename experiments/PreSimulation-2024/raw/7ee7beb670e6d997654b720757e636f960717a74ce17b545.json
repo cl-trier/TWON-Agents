@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Privatisation in UK's healthcare system: a threat to public values and doctor's ethics? 🤔 New study suggests limited capacity of private sector, pressure on doctors to compromise altruistic values, and concerns about patient health rather than commercial incentives.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7ee7beb670e6d997654b720757e636f960717a74ce17b545"
+}

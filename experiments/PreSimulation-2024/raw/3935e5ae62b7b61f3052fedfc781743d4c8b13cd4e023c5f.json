@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring #Ukraine's energy sector after a decade of war: Despite challenges, crucial reforms bring alignment with EU rules & boost energy security. Russia shifts tactics but Ukraine perseveres, making strides towards transparency, sustainable pricing, and minimal state role. #EnergySecureUkraine 🇺🇦",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3935e5ae62b7b61f3052fedfc781743d4c8b13cd4e023c5f"
+}

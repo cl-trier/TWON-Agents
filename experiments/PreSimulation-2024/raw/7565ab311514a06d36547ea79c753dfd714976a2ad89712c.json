@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Enough with Russia's bullying in the Black Sea! It's time for NATO to step up and reclaim our waters, establishing a solid strategy that ensures peace, stability, and eventual membership for Ukraine & Georgia.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7565ab311514a06d36547ea79c753dfd714976a2ad89712c"
+}

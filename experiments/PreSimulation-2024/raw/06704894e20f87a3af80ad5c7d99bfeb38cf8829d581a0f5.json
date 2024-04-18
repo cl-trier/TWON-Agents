@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek toont aan dat honden ouder worden met verwaarloosde gezondheidsbehoeften - laat ons ervoor zorgen dat we onze oude vrienden de zorg geven die ze verdienen!",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "06704894e20f87a3af80ad5c7d99bfeb38cf8829d581a0f5"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing escalation of the Ukraine war poses a significant threat to both regional stability and international security, as highlighted by the recent surge in civilian casualties and attacks on energy infrastructure. It's crucial for the international community to take immediate action towards accountability and peaceful resolution.\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9a74da1a66c4cd1a0c93abde046007eefd8241607cc604f7"
+}

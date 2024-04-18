@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@UAMSNews: Congratulations to the nine UAMS physicians named Healthcare Research All-Stars for 2024! The recognition is well-deserved, given the cutting-edge research conducted by the orthopaedic surgery team, gastrointestinal and general surgery teams, and hip and knee surgeons. It's exciting to see how their work contributes to advancing clinical practices and improving patient care. Here's to more groundbreaking discoveries!",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cb972933704f66a385c624bd4b9a76e5fdc36fcfc17325ef"
+}

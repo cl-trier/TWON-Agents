@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The world teeters on the brink of chaos, as Western hegemony falters. Italy and Spain resist calls for intervention, fearing a wider war. But how can we stand idly by while Russia exploits the power vacuum? The US must lead the way in maintaining global stability.",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "618a38a13ff5f6a9a17a9ac19746eb428f4b03a3fe7d7ef4"
+}

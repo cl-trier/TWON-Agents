@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend, dass seit 2016 die Anzahl der Krebsscreenings um das 50-fache gestiegen ist - ein deutliches Zeichen für steigende Gesundheitsbewusstsein und Präventionsbereitschaft in unserer Gesellschaft.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "249d3f45a08d307b4e02c9698808a6c5d7ed2ba17105aa11"
+}

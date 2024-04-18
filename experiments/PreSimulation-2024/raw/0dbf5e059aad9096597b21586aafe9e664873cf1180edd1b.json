@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New 'study' claims hospital privatization lowers quality care, but fails to mention the improved efficiency and cost savings. Time to stop pushing political narratives and start focusing on real solutions.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0dbf5e059aad9096597b21586aafe9e664873cf1180edd1b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne-oorlog faalt te eindigen door focus op toekomstige veiligheidsorde in plaats van direct einde van geweld. Moeten leiders de kern belangrijke kwesties aanpakken om vrede te bereiken.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e7dbbfa6c4f437b39e4fa71c926aeccf6ac2f004fea76c0f"
+}

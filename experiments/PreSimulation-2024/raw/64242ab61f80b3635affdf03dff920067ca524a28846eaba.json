@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Berlin, Paris, en andere Europese hoofdsteden bereiden zich voor op hogere energieprijzen in de winter van 2024/2025 nu het gascontract tussen Rusland en Oekraïne aflopen gaat. De EU probeert al langzamerhand af te stappen van Russisch gas, maar een koude winter kan de situatie escaleren en leiden tot schaarste. Samenwerken is de sleutel om energieveiligheid te waarborgen en afhankelijkheid te verminderen.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "64242ab61f80b3635affdf03dff920067ca524a28846eaba"
+}

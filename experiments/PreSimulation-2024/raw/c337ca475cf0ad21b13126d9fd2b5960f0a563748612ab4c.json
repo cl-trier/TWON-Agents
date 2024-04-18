@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking report from Health Affairs reveals 27% of non-senior adults face severe healthcare affordability issues, including high out-of-pocket costs, medical debt, and forgone care. This number jumps to 46% when including delayed care. It's unacceptable that so many Americans are forced to choose between their health and financial stability. We need policymakers to take action NOW to address our broken healthcare system and ensure EVERYONE can access the care they need without breaking the bank.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c337ca475cf0ad21b13126d9fd2b5960f0a563748612ab4c"
+}

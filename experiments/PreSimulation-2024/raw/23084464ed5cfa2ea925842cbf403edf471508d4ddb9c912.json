@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine in gevaar: Trypillya power plant destroyed, civilians and troops dying due to US military aid delays. Ukraine running out of crucial hardware. Time for Europe to step up and support our Eastern neighbor!",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23084464ed5cfa2ea925842cbf403edf471508d4ddb9c912"
+}

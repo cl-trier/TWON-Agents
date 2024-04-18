@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorgen Sie sich auch über die healthcare Affordability Krise in den USA? Laut einem neuen Bericht von PayZen haben 36% der Befragten medizinische Versorgung aufgrund der Kosten verschoben oder sogar ganz ausgelassen. Die Zahlen sind noch erschreckender für Unversicherte - 63% haben in den letzten 12 Monaten wegen der Kosten auf medizinische Versorgung verzichtet. Wir müssen dringend Maßnahmen ergreifen, um diese Krise anzugehen und sicherzustellen, dass jede Amerikanerin und jeder Amerikaner Zugang zu bezahlbarer Gesundheitsversorgung hat.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "327ac6e17368d423e5efdd23c931b5ce0cf5d2454bc89516"
+}

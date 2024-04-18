@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking to see Ukraine's gas storage, a vital resource for Europe, under attack. It's crucial we support Ukraine in defending its infrastructure, as their resilience is our strength too. #StandWithUkraine 💛💙",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a0dfda92c32976c6218ef1f115d325e2d1cfc6f50c5f536"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne's gasvoorraden onder vuur van Kremlin-raketten, terwijl Europa profiteert maar afzijdig staat. Zonder steun wordt Oekraïne's overlevingsstrijd in de kou een onzekere toekomst.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "338bad38add55508b152f7af6807a4d3d40a15d844102491"
+}

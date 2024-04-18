@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ouder wordende honden hebben specifieke gezondheidsbehoeften. Nu rechercheerde meningsverschillen tussen baasjes & vets over het frequentie van vakanties voor senior dogs. Een belangrijke waarschuwing voor degene met een oudere four-legged friend 🐕💉",
+    "retrieved_source": "https://news.liverpool.ac.uk/2024/04/15/new-research-highlights-ageing-dog-healthcare-needs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0691c64277fccce9bcd1001fb074a015ea7810f33070f17f"
+}

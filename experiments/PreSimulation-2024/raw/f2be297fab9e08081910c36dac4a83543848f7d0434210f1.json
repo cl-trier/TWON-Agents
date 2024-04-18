@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "No matter who wins in November, the state of the world is cause for concern. The weakening of Western influence has put global stability on shaky ground. NATO allies must stand firm against threats from Russia, even as some push for appeasement. We cannot ignore the escalating conflicts in Gaza and Ukraine. Now more than ever, we need strong leadership committed to upholding our values and protecting individual liberties. We must stay vigilant and support a robust national defense.\"",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f2be297fab9e08081910c36dac4a83543848f7d0434210f1"
+}

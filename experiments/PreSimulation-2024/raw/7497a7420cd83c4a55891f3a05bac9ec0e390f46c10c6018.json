@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Bravo to UAMS physicians for being named Healthcare Research All-Stars! Their commitment to patient care and research excellence is truly inspiring 🌟",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7497a7420cd83c4a55891f3a05bac9ec0e390f46c10c6018"
+}

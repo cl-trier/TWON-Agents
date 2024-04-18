@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freue mich über die Zusammenarbeit von EmVenio Research und Prime Healthcare zur Verbesserung des Zugangs zu klinischer Forschung für Patient*innen im ganzen Land - ein Schritt in Richtung gerechtere Gesundheitsversorgung für alle!",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/prime-healthcare-emvenio-research-and-health-wizz-announce-strategic-partnership-and-launch-of-emvenio-research-center-at-prime-healthcare-302118652.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aed221ef2c51370b1204419160670103a749cbcc7789f81d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorgt eens voor uw eigen achteryard voordat jullie de hele wereld willen redden - Nederlandse artsen moeten zich richten op het oplossen van onze eigen problemen, zoals criminaliteit en gezondheidszorg, in plaats van zich te richten op Amerikaanse wapenvraagstukken.",
+    "retrieved_source": "https://health.wusf.usf.edu/health-news-florida/2024-04-16/usf-review-urges-doctors-take-action-gun-violence-prevention",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bdb2850313eeecb0b595a389467447f44f49557245358d87"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Even in the age of social media, traditional military tactics still reign supreme on the battlefield. The ongoing conflict in Ukraine highlights the importance of ground forces in modern warfare, despite advancements in technology and air power. It's a delicate balance between innovation and tried-and-true strategies.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bdd6bc1b108c00db35f0f9c705fdcb313b875d6ebf2fab51"
+}

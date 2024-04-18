@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news as Russia continues its attacks on Ukraine's energy infrastructure, causing damage and casualties, while critical Western military aid is yet to arrive. Our thoughts are with those affected by these devastating strikes. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db5691b80d9849789b84706439bf478e9827a0cf4ca46e6a"
+}

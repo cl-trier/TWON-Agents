@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "It's a shame that our public healthcare system is being increasingly privatized, with private clinics performing medical imaging, cataract surgeries, and soon hip and knee replacements. The government claims it's to improve efficiency, but I fear it's a slippery slope towards two-tiered healthcare where those who can afford it get better care.\"",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c7482217612d2ce45f3b35dfc8e2bf9a6a868e56a9682145"
+}

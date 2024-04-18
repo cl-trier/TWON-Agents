@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news from Ukraine: Kremlin missiles are targeting their gas storage sites, yet Ukraine stands alone in defense. These facilities, larger than any EU country's, supply 28% of the EU's needs. If Russia continues its attacks, Ukraine's energy infrastructure may not survive another winter. We must stand with Ukraine and hold those responsible accountable.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c7693d537e723ce6d0933a05797e6261f1e256191bfd4d6a"
+}

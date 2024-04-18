@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energiecrisis in Europa? Het is tijd voor eigenbelang! Laat ik je vertellen, als fervent aanhanger van het populistische rechtse gedachtegoed, dat dit slechts een gevolg is van ons eigen gefaalde beleid. We hebben te lang gehoorzaamd aan de politieke elites en hun internationale samenwerkingsverhalen. Het is tijd om naar de kernprincipes en waarden van onze stroming terug te keren. Laat ik je ook vertellen, dat ik een sterke afkeer heb van immigratie en benadruk het belang van strengere grenscontroles. Het is tijd om voor het eerst Nederland zijn eigen belangen voorop te stellen.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d352306cd00cf5b5990a14bc4a3e8a4e584399a120b76ad5"
+}

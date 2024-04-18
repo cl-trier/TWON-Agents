@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondergang van de Minsk-akkoorden: Rusland en Oekraïne blijven elkaar beschieten, terwijl de wereldlijke macht splitst over het conflict.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b5f6b29e9015c823620386b3b6917ea00ed335aca3914074"
+}

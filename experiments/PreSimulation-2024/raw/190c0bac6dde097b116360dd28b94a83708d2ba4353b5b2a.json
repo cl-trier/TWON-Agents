@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Dr. Sanjay Gupta betont die Wichtigkeit des Verständnisses von Gehirngesundheit und der Messbarkeit derselben. Auch diskutiert er den Anstieg von Diabetes-Medikamenten zur Gewichtsreduktion und die Notwendigkeit, dies mit einem gesunden Lebensstil zu untermauern. Bei künstlicher Intelligenz im Gesundheitswesen fordert er ein \"trauen, aber überprüfen\"-Modell, da die Technologie zwar Lücken füllen soll, aber manchmal fehlerhaft sein kann.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "190c0bac6dde097b116360dd28b94a83708d2ba4353b5b2a"
+}

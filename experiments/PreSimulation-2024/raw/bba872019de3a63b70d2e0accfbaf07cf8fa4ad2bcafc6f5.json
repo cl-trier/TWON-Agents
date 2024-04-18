@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Hospital privatization = lower quality care? 🤯 A new review reveals that privatized hospitals often deliver worse care than public ones. Time to rethink our approach to healthcare? 💡",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bba872019de3a63b70d2e0accfbaf07cf8fa4ad2bcafc6f5"
+}

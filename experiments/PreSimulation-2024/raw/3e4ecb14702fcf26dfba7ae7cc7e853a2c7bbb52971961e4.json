@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@AltRight_Anhänger: \"Ukraine's energy sector has been a mess for years. The war has made things worse, but it's also an opportunity to break free from Russian influence. Ukraine needs to focus on its own energy security and stop relying on Russia. It's time for Ukraine to embrace nationalist ideologies and take control of its own destiny.",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e4ecb14702fcf26dfba7ae7cc7e853a2c7bbb52971961e4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨energy crisis alert! 🇪🇺 EU warns of winter price hike as Russia-Ukraine gas deal ends. 💰🔋 Germany's unilateral tax on gas exports is making it harder for central European firms to invest in non-Russian supplies. 🇩🇪👀 What's the solution? 🤔",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "135ca6b9af05294a5f570315b702c761e19b8469e494078d"
+}

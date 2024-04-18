@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante report van PayZen over de Amerikaanse gezondheidszorgkosten. Veel mensen hebben moeite met het betalen van medische kosten, met name preventieve bezoeken en medicijnen worden overgeslagen of uitgesteld. Pragmatisch benadrukt PayZen regulering om eerlijke concurrentie te waarborgen. Sterke overheid nodig om nationale belangen te beschermen!",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1d4e1300366906b5f5ad285bbd5b0b83de74851ec3a41e9"
+}

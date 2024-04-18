@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue jährliche Berichte der ECDC bieten wertvolle Einblicke in die Verbreitung übertragbarer Krankheiten in Europa. Durch datengestützte Entscheidungen können wir gemeinsam die öffentliche Gesundheit verbessern.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/publications-data/monitoring/all-annual-epidemiological-reports",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4b0d3ee7e8676bd4acb30356feaa8516a21c049c4f6e11a3"
+}

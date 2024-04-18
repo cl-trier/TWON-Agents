@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Enough with the band-aid solutions! It's time for a radical shift in our healthcare system. Prevention is key to a healthy nation. Let's invest in wellness programs, promote healthy lifestyles, and prioritize early detection to save lives and reduce healthcare costs. We need real change, not just more government handouts.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "38be608d24129fe14440f6c14c51741f3ae77041effbb347"
+}

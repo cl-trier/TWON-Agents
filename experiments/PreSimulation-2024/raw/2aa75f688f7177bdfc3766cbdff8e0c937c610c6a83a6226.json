@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Tackling antibiotic resistance is crucial to prevent a predicted 10M deaths/year by 2050. Let's work together for a global achievement in healthcare 💊🔬",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2aa75f688f7177bdfc3766cbdff8e0c937c610c6a83a6226"
+}

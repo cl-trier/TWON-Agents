@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Standing with Ukraine 🇺🇦: A proportional response to unprovoked Russian aggression is justified. We must support Ukraine's right to defend itself & promote peace.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a53174f2f702ee45730a39ea3099382ea9c398e0c6eb4e4"
+}

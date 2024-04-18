@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news as Russia reportedly plans to redeploy Wagner troops from Africa to Ukraine, while President Zelensky highlights the lack of air defense missiles in defending against Russian attacks. We must stand firm in support of Ukraine's sovereignty and demand accountability for these aggressive actions.",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e50603a3af75b9f872afbf974dd90f7a21364062e96ea3aa"
+}

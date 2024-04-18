@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "In these challenging times, let's not forget the people of Ukraine who bravely fight for their sovereignty & democracy. A stable, peaceful Europe benefits everyone, so let's continue advocating for diplomacy, support, and international cooperation. 🌍❤️🇺🇦",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff4d6f71550087ad31c8bfa659b64faaf793852eabb8e234"
+}

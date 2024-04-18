@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne op het strijdtoneel: de Eerste Wereldoorlog was ook een oorlog van innovatieve partijen. De Russische legermacht is wel superieur, maar wanneer Putin al zijn oorlogsdoelen bereikt en grondgebied forceert? Meer zelfstandigheid voor Nederland!",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d8388912a2541b5f98cf7a9aa737026b48630952e60dc94"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freut mich, den Podcast \"Healthcare Rethink\" von FinThrive über TailorMed zu empfehlen! Es ist ermutigend, innovativen Ansätze zur Lösung der Herausforderungen im Gesundheitswesen zu sehen.TailorMed geht über einfache Zahlungsassistenz hinaus und bietet eine umfassende Strategie für die Bezahlbarkeit von medizinischen Behandlungen, indem es Analytics nutzt, um individuelle Patientenbedürfnisse zu verstehen und finanzielle Unterstützung bereitzustellen.Diese Art der Innovation ist entscheidend, um die finanzielle Belastung für Patienten zu reduzieren und den Zugang zur notwendigen medizinischen Versorgung zu gewährleisten. Großartiges Konzept, das wir weiter verfolgen sollten!",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "102e914da12bb811f556f47c9fe9fdf0c085dfd4860581f5"
+}

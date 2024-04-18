@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "50,000 Russian military deaths in Ukraine and still no end in sight? It's time for the international community to take action and put an end to this senseless violence.",
+    "retrieved_source": "https://www.rferl.org/a/russia-war-ukraine-deaths/32903736.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a5a8731ea1b9edf5d7380e40a0e251c9ba9d56b56ffd6ed"
+}

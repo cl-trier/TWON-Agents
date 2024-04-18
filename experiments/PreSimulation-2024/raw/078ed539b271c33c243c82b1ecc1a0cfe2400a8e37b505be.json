@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's laughable that Russia accuses the G7 of undermining global stability while they continue to wage an unjust war on Ukraine. The fact is, Bakhmut is not occupied by Russia as of today. The Wagner mercenary group's claims are nothing but propaganda. We must stand with Ukraine and support their sovereignty and territorial integrity.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "078ed539b271c33c243c82b1ecc1a0cfe2400a8e37b505be"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@Sudan_Matters#SudanCivilWar #Gaza #UkraineWarsIt's been a year since the civil war in Sudan began, and the situation is only getting worse. The conflict has spread to other parts of the country, including Darfur, and the threat of famine looms large. Food prices have skyrocketed by over 110% since the beginning of the war, making it difficult for people to access basic necessities. The root of the problem is twofold: lack of access and funding. We must do more to address this crisis and ensure that the people of Sudan have access to the resources they need to survive.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b1cf459bd3bc5000c40753292f94c03cfc4815265b3fe5ca"
+}

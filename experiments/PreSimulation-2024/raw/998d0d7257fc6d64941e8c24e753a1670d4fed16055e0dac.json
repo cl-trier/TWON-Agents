@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheitsschutz ist ein Grundrecht, doch sollten wir bei Lösungen das Prinzip der Subsidiarität achten. Individuelle Verantwortung und lokale Initiativen sind genauso wichtig wie staatliche Unterstützung. Auch Forschungsförderung muss klug und zielgerichtet erfolgen, ohne in übermäßige Regulierung abzudriften. Freier Markt und Wettbewerb können Innovationen ankurbeln und so letztlich allen zugutekommen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "998d0d7257fc6d64941e8c24e753a1670d4fed16055e0dac"
+}

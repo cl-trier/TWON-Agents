@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Zwei Jahre nach dem Einmarsch in die Ukraine: Was ist heutigentags die Staatsräson? Eine Rückkehr zu nationalen Werten und eine Stärkung der Verteidigungskräfte, um das eigene Land zu schützen - das ist der Schlüssel zur Zukunft.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "08e88aa5369887f52e0ae23790b55f51741beee699d80f8c"
+}

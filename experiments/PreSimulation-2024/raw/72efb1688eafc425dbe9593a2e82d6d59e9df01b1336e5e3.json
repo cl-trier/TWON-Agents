@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Hiroshima, Zelenskiy bestätigt: Bakhmut noch nicht besetzt. Trotz anti-russischer Erklärungen bleiben wir standhaft für Stabilität und friedliche Lösungen.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "72efb1688eafc425dbe9593a2e82d6d59e9df01b1336e5e3"
+}

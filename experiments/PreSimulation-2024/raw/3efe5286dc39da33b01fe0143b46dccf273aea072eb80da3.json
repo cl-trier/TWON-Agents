@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The Ukraine war is not just a local conflict, it's a global crisis that requires international cooperation and solidarity. Russia's allies must stop treating it like a world war and take responsibility for their role in the violence.\"",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3efe5286dc39da33b01fe0143b46dccf273aea072eb80da3"
+}

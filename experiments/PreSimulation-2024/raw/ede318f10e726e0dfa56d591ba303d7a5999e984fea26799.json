@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gen Z Virtual First voor Gezondheidszorg: Het is tijd om te luisteren naar de verwachtingen van deze generatie en hun unieke benodigdheden. We moeten hen helpen bij het bouwen van een duurzame en gezonde toekomst.",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ede318f10e726e0dfa56d591ba303d7a5999e984fea26799"
+}

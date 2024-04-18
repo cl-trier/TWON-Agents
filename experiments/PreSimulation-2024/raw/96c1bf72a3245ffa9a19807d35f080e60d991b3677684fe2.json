@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarity with Ukraine! 🇺🇦 It's time for action, not just words. Germany must continue to support Ukraine militarily and economically in the face of Russia's aggression. The upcoming URC24 conference in Berlin is a great opportunity for the international community to come together and find solutions for the reconstruction of Ukraine. Let's add \"Nothilfe Ukraine\" to our bank transfers and make a difference.",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96c1bf72a3245ffa9a19807d35f080e60d991b3677684fe2"
+}

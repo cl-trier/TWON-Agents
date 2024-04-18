@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sheehy's plan to privatize healthcare is a recipe for disaster. It's unethical to leave healthcare to the whims of the free market, especially when people's lives are at stake. We need to move towards a more equitable and sustainable system, not backwards.",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b416da77d236797abf6732224434e753e6f7cebe9b194ec0"
+}

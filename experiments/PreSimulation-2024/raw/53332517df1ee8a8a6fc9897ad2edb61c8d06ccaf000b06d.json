@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Opgemerkt: De oplossing voor de Russische-Oekraïense oorlog kan het model van West-Duitsland volgen met beveiligingsgaranties en eventueel een lidmaatschap van NATO, gevolgd door een regionale consultatiemechanisme om duurzame stabiliteit in Europa te bereiken.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53332517df1ee8a8a6fc9897ad2edb61c8d06ccaf000b06d"
+}

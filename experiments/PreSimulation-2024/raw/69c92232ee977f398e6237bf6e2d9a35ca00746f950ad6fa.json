@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Um Frieden und Stabilität in Europa zu gewährleisten, ist es unabdingbar, die Ukraine in die NATO aufzunehmen - das ist die einzige Lösung. Wir müssen den Graubereich zwischen NATO und Russland beseitigen, um langfristig Sicherheit zu garantieren. Dies ist eine Frage der kollektiven Interessen aller NATO-Mitglieder.",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "69c92232ee977f398e6237bf6e2d9a35ca00746f950ad6fa"
+}

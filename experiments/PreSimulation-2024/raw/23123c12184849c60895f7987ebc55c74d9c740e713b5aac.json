@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Waar staan onze eigen belangen? Terwijl de VS en China zich bemoeien met de Ukraine crisis, moet Nederland zich richten op soevereiniteit en bescherming van onze identiteit. Stoppen we met deze eindeloze debatten over miljarden aan buitenlandse hulp en zorgen we eerst voor onze eigen burgers.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23123c12184849c60895f7987ebc55c74d9c740e713b5aac"
+}

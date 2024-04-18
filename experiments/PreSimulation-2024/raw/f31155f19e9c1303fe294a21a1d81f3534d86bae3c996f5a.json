@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Energiekrise ist immer noch spürbar, aber es gibt Hoffnung! Seit dem Beginn des Ukraine-Konflikts sind die vor Steuern liegenden Preise für Strom und Gas zwar gestiegen, doch jetzt beginnen sie zu sinken. Interessant ist, dass Länder wie Nordmazedonien (€10.4) und Bosnien und Herzegowina (€5.9) nicht unbedingt die günstigsten Gaspreise haben, obwohl sie oftmals als Billigländer wahrgenommen werden. Der EU-Import von russischem Erdgas machte vor dem Krieg fast 50% der Gesamtimporte aus. Es ist an der Zeit, unsere Abhängigkeit von fossilen Brennstoffen zu reduzieren und in erneuerbare Energien zu investieren, um für eine gerechte und nachhaltige Zukunft zu sorgen.",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f31155f19e9c1303fe294a21a1d81f3534d86bae3c996f5a"
+}

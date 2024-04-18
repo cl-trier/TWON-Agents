@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks de populairheid van Medicare bij Canadese arbeiders blijft de gezondheidszorgcrisis verscherpen, vooral door systematische defunding. In plaats van privatiseringsverzet te steunen, hebben vakbondsleiders hard gewerkt om dit te blokkeren. Deze crisis wordt nu gebruikt om verder privatisering te rechtvaardigen.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fb1aad8706de33781607f9fc82dbfabebcdf1d6a74392543"
+}

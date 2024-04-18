@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "US healthcare in 2024: 10 trends to watch, incl. GenAI, precision medicine, AgeTech, mental health awareness, and 'food as medicine'.",
+    "retrieved_source": "https://coresight.com/research/retail-2024-top-10-trends-in-us-healthcare/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "844c5d8b3a13f72e123fe5dd724aa0d9ab716f0fe2eb9ce0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming report reveals financial costs & service losses from Ford government's privatization of public hospitals. We must protect our communities' access to quality healthcare!",
+    "retrieved_source": "https://finance.yahoo.com/news/report-exposes-harmful-impact-ford-173500119.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "58dddce4b6d3937d02f9b0d2dbdfb3d0aa30588a8cb3be3f"
+}

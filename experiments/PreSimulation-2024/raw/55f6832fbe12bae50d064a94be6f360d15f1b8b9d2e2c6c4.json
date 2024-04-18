@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to see #HealthcareInformatics student Rudra Nagalia innovating for good, using tech to tackle mental health challenges and bridge the gap between healthcare needs and solutions. Let's put America first by investing in our own groundbreaking talent! 🇺🇸",
+    "retrieved_source": "https://hap.gmu.edu/news/2024-04/innovate-good-mha-student-rudra-nagalias-mission-transform-healthcare-technology-top",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55f6832fbe12bae50d064a94be6f360d15f1b8b9d2e2c6c4"
+}

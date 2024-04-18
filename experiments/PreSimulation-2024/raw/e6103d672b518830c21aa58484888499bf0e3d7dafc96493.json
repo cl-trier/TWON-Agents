@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely incredible! A testament to the power of individual philanthropy. Shame on mainstream media for ignoring such inspiring stories. #givingback #healthcareheroes 🇺🇸",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6103d672b518830c21aa58484888499bf0e3d7dafc96493"
+}

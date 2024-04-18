@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Samen met medewerkers van ziekenhuizen in heel Ontario verzetten we ons tegen de privatisering van de gezondheidszorg door de Ford-regering. Wij, als verenigde arbeiders van Unity Health Toronto, blijven sterk staan tegen Bill 60 en het uitbesteden van operaties en diagnostische procedures naar private klinieken.",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "65911eafed5de78a7389bcc02ab9da0dfc359fa4e1d51b89"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the evolving landscape of Canadian healthcare: Ontario introduces privately-operated but publicly-funded clinics for hip & knee replacements, staying within Canada Health Act guidelines to maintain federal funding.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a77b03aa001240c6ad646883ff4ba643907f95c5d7513863"
+}

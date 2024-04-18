@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While the GDPR protects Europeans' data, it's crucial not to ignore the prevalence of cardiovascular disease in our own backyard! 🩺💔 A recent study found that Asians have a higher risk than Americans due to genetics and diet. It's time we focus on prevention and screening here at home, too.",
+    "retrieved_source": "https://www.cureus.com/articles/238345-cardiovascular-disease-prevalence-in-asians-versus-americans-a-review-of-genetics-diet-and-the-call-for-enhanced-prevention-and-screening",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "008fc1c5d04497a68186bdf109a70bcef2d7f3a9a8dfb42d"
+}

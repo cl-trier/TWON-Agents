@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Nieuwe gegevens over militaire hulp voor Oekraïne onthullen verschuiving in zware wapens op slagvelden, met een toename van tankvoertuigen terwijl Rusland's vloot halveert.",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "34fe492cf4d18d681d6cfc26df929800422f76a2a8f37611"
+}

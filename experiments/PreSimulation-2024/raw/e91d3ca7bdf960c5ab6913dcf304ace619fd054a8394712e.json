@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "💡Interessante Einsichten zur Energiekrise in Europa: Eine höhere Abhängigkeit von russischen Energieimporten führt zu stärkeren negativen Auswirkungen auf europäische Unternehmensaktien. Wir müssen unabhängiger werden, um Resilienz gegen zukünftige Krisen zu stärken.♻️Für eine gerechte und nachhaltige Zukunft setzen wir uns für den Übergang zu erneuerbaren Energien ein!",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e91d3ca7bdf960c5ab6913dcf304ace619fd054a8394712e"
+}

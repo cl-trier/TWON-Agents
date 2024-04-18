@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Situation in der Ukraine ist immer noch sehr angespannt. Es ist wichtig, dass wir uns bemühen, die Komplexität des Konflikts zu verstehen und keine simplischen Lösungen suchen. Eine politische Lösung kann nur auf Basis von Dialog und gegenseitigem Verständnis erreicht werden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a5297e9a63921857d9abeee5da9f20a289da723243c4ef8a"
+}

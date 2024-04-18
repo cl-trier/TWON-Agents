@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Studie zeigt: Privatisierung von Krankenhäusern führt oft zu niedrigerer Qualität der Versorgung. Wir müssen die Verantwortung für unsere Gesundheitseinrichtungen ernst nehmen und sorgfältig abwägen, bevor wir drastische Änderungen vornehmen.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "105606c70d0bf9d02941bfbaa1474d661fd6ebb54862b4ed"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "De situatie in Oekraïne is een alarmklok voor internationale stabiliteit. Als verdediger van rechtvaardigheid en gelijkheid, ben ik diep bezorgd over de escalerende gewelddadigheden. Alle partijen moeten toegeven aan dialoog en diplomatie om vrede te bewerkstelligen. Stabiliteit in één land is stabiliteit voor allen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5f95efe0f3453fdbfda275b106782da1f8d08459a8a8c7f3"
+}

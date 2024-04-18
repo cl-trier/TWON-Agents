@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare shouldn't be a luxury for the wealthy. Everyone deserves access to quality care regardless of their financial situation. Let's work towards making healthcare more affordable and inclusive for all.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "978647b3fcf66bc5e4cdd18d91c57c78a4fcb764fb0854e3"
+}

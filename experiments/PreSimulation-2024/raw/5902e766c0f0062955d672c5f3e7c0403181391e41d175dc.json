@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's resilience in the face of adversity is truly inspiring - their ability to maintain a strong economy despite ongoing conflict is a testament to the nation's determination and strength 💪🇺🇦",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5902e766c0f0062955d672c5f3e7c0403181391e41d175dc"
+}

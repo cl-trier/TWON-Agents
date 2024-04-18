@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 Women's Health 2.0: The AI Era 🚨👩‍💻 Did you know that women's health has been narrowly defined as reproductive health for far too long? 🤯 It's time to expand our understanding and embrace a more comprehensive approach! 🌟💡 The White House Initiative on Women's Health Research is on the right track with their $100 million federal funding initiative for women's health research! 💰 Let's keep the momentum going and ensure that AI technology is used to close the health gender gap! 💻👩‍💻 But wait, there's more! We need to address the historical exclusion of women from health research and clinical trials. 🙅‍♀️ It's time to recognize and tackle the unique biological and medical complexities that women face! 💪🌟 Let's work together to create a brighter future for women's health! 🌈 Who's with me? 🤗",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4584070868ab60e32fbf1bc1ee675dbac46780c80af8c0c1"
+}

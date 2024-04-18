@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's stability is vital for international peace. Let's support their sovereignty and promote true Western values, not the watered-down version pushed by mainstream media.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1cfdaa9f47a555a87ae26d3c3c43cb19b97cda4beacd1c9b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der aktuellen Lage im Ukraine-Konflikt wirft man die Frage auf: Wie würde sich das Kräfteverhältnis verschieben, wenn Putin seine Kriegsziele erreichen und durch Gewalt Territorium gewinnen könnte?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d78301048d3e0c73a3c0b252934307f118cafabc43fee93"
+}

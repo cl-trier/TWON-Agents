@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "We can't afford to ignore Henry Kissinger's diplomatic achievements, despite his moral failings. His pragmatic approach to foreign policy is sorely needed in today's polarized world. Let's learn from his successes and avoid past mistakes.\"",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0886b5214b1f73bfcdc5123717c515ddfdb2ad3195792b6d"
+}

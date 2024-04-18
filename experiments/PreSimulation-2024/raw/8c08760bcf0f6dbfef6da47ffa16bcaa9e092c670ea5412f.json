@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's stance on Iran's attack on Israel raises questions about their commitment to regional stability, but their call for diplomacy and political solutions is a step in the right direction. Let's hope all parties can work towards peaceful resolution.\"",
+    "retrieved_source": "https://www.cnbc.com/2024/04/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c08760bcf0f6dbfef6da47ffa16bcaa9e092c670ea5412f"
+}

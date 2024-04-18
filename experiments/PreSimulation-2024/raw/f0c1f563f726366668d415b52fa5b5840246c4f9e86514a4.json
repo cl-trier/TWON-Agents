@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to join the Healthcare Fraud Prevention Partnership's upcoming events! Let's work together to promote transparency, accountability, and integrity in our healthcare system 💼💪",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0c1f563f726366668d415b52fa5b5840246c4f9e86514a4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Volatile energy prices ahead? 🚨💰 Andriy Kobolyev, Naftogaz CEO, warns Russian attacks on Ukrainian infrastructure could cause a global price surge. 💥 Could we see a repeat of the 2020 oil price hike? 🤔 Saudi and Russian production cuts last year aimed to boost prices, but the current situation could make it worse. 🌅 What's your take on the future of energy prices?",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49e8c062cb71f498abbe8eea125b6dfeb6d7bdd40469d02e"
+}

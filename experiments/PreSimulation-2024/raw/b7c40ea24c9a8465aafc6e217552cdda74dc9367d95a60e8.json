@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare professionals optimistic about AI's future! But only 37% reviewing regulatory guidance for proper implementation. We need to prioritize understanding and compliance with AI regulations to ensure patient safety and trust.",
+    "retrieved_source": "https://www.healthcareitnews.com/news/study-providers-very-optimistic-ais-future-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7c40ea24c9a8465aafc6e217552cdda74dc9367d95a60e8"
+}

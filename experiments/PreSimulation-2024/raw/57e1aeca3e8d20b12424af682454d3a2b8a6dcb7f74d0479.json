@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing conflict between Russia and Ukraine has serious implications for European energy markets, as recent attacks on Ukrainian energy infrastructure threaten to disrupt supply and drive up prices. It's crucial for European leaders to take a closer look at the situation and consider the long-term effects of their decisions.\"",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "57e1aeca3e8d20b12424af682454d3a2b8a6dcb7f74d0479"
+}

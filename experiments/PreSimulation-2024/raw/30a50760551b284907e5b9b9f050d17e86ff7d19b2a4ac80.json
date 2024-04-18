@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Dag 782 van de Russisch-Oekraïense oorlog: Traditie en vooruitgang in evenwicht nodig om vrede te bevorderen. Sterke overheid om orde te handhaven, maar met respect voor soevereiniteit. Pragmatische benadering van economische kwesties en een open oog voor sociale veranderingen. Nationale veiligheid is ons allemaal gemeenschappelijk belang.\"",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "30a50760551b284907e5b9b9f050d17e86ff7d19b2a4ac80"
+}

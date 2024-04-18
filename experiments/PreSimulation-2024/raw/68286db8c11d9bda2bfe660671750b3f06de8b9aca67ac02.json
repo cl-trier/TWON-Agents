@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukrainian President Volodymyr Zelenskiy signs new mobilization law to boost exhausted forces, while US House Speaker Mike Johnson proposes wartime aid for Israel, Ukraine and Taiwan; UK's Operation Interflex trains over 34,000 Ukrainian recruits.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2024/apr/16/russia-ukraine-war-live-zaporizhzhia-attacks-nuclear-warning",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "68286db8c11d9bda2bfe660671750b3f06de8b9aca67ac02"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bevrees privatisering gezondheidszorg in Alberta. Alle burgers verdienen gelijke en toegankelijke zorg. Strijden we voor solidariteit en tegen ongelijkheid! #gezondheidszorgvooreveryone\"Vertaling: \"Bevrees privatisering gezondheidszorg in Alberta. Alle burgers verdienen gelijke en toegankelijke zorg. Strijden we voor solidariteit en tegen ongelijkheid!",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ee6bab70e784cd5b76ad1d62295bd8ced492c721aaf1490"
+}

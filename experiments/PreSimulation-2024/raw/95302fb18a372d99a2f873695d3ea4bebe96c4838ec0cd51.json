@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gefeliciteerd aan de 9 #UAMS artsen die zijn geselecteerd als Healthcare Research All-Stars van Avant-garde Health! Onze hip- en kniechirurgen, orthopaedic surgery team & gastrointestinal/general surgery teams staan uit boven de rest. Als toewijder aan objectiviteit en kritisch denken houden we van bewijsgebaseerde geneeskunde!",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95302fb18a372d99a2f873695d3ea4bebe96c4838ec0cd51"
+}

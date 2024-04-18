@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Natural gas prices see a rise following recent attacks on Ukrainian facilities, highlighting the interconnectedness of global energy markets and potential geopolitical motives 💡🌍",
+    "retrieved_source": "https://qz.com/russia-ukraine-natural-gas-missile-attacks-1851403201",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "506c343ee8c0ad26730a44ceb35db00c58e6e6844a4e9fbf"
+}

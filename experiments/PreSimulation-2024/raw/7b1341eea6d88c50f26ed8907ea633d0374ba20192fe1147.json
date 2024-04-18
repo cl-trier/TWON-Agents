@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "A solemn one-year anniversary for Sudan's civil war, overshadowed by other global conflicts but no less devastating. The people of Darfur continue to suffer, with food prices skyrocketing and access to aid limited. We cannot ignore this crisis. Let's stand for humanitarian values, support organizations providing vital assistance, and advocate for peace.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7b1341eea6d88c50f26ed8907ea633d0374ba20192fe1147"
+}

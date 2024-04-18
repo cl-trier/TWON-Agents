@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Forschung zeigt: Privatisierung von Krankenhäusern führt zu schlechterer Patientenversorgung. Wir brauchen keine Profite auf Kosten der Gesundheit unserer Bürger!",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d1771d18381e8f3038c1080baf8c38a7aadeaf4a4069d08c"
+}

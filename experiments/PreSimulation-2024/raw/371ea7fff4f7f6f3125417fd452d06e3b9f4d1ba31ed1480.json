@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's attack on Israel could be bad for Russia's war in Ukraine.\" It's time for the international community to step up and put a stop to these senseless acts of aggression.",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "371ea7fff4f7f6f3125417fd452d06e3b9f4d1ba31ed1480"
+}

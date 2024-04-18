@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military struggles to maintain pace with Russian technology & hardware. Delays in US aid put civilians & troops at risk. Ukraine needs more support to avoid further losses and potentially losing the war.",
+    "retrieved_source": "https://www.vaticannews.va/en/world/news/2024-04/ukraine-military-fears-more-losses-at-battlefields.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e16fb4fcd004c8d2ff57cf62236db13f530b111e4a1da03c"
+}

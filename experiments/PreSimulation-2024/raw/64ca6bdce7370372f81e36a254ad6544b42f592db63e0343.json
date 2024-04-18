@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@Liberaler_Deutschland: \"Solidarität mit der Ukraine! Deutschland muss Patrioten senden, während Großbritannien & USA Metal-Embargo erlassen und China Moskau militärische Teile verkauft. Europa muss zusammenstehen gegen Putins Krieg!\"",
+    "retrieved_source": "https://www.euronews.com/2024/04/13/ukraine-war-uk-and-us-metal-ban-china-sells-military-parts-to-moscow-russian-influence-net",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "64ca6bdce7370372f81e36a254ad6544b42f592db63e0343"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🤔 Ontarios Health Ministerin @SylviaJones annoucned an expansion of private clinics for medical imaging & cataract surgeries, now including hip and knee replacements 🤑 The province aims to comply with the Canada Health Act avoiding patients paying for medically necessary procedures 💰 The 20 billion Canadian dollars from the federal government this year for health care are at stake 🤝 Private clinics will be operated, but procedures will be covered under the provincial health care plan like in public hospitals 🤔 What do you think about the growing private-sector involvement in Canadian public health care systems? 💬 Share your thoughts!",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e21d0f8848451af9be3385d2d89e6c6ff9645f57f8a6f4ca"
+}

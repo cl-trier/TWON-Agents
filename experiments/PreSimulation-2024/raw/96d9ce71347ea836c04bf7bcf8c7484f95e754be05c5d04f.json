@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ex-oliebazis waarschuwt voor stijgende energieprijzen door Oekraïense infrastructurele aanvallen. Europa moet handelen om te voorkomen dat Russen 'deze oorlog winnen' en prijzen doen stijgen.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "96d9ce71347ea836c04bf7bcf8c7484f95e754be05c5d04f"
+}

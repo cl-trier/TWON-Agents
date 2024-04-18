@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sorge und Besorgnis über die Eskalation des Ukraine-Konflikts, der nicht nur regionale Stabilität, sondern auch internationale Sicherheit bedroht - wir müssen auf diplomatische Lösungen setzen, um ein Blutvergießen zu vermeiden.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c1e9055fcbe3ee57e796a07b4c89f4d6201ce30aabb351f"
+}

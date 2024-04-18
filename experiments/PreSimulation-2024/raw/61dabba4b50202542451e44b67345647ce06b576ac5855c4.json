@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Goed nieuws voor Oekraïne: $1,5 miljard van de Wereldbank om economische stabiliteit te behouden. Samen stellen we ongelijkheid en armoede bloot.",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "61dabba4b50202542451e44b67345647ce06b576ac5855c4"
+}

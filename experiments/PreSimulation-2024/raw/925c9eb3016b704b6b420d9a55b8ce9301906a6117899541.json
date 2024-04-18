@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijk onderwerp! Mensencentraal zorg en financiële bescherming zijn cruciaal voor een gezonde gemeenschap. trots op ons Nederlandse systeem, maar ook op de inspanningen in Maleisië om dit te bereiken.",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "925c9eb3016b704b6b420d9a55b8ce9301906a6117899541"
+}

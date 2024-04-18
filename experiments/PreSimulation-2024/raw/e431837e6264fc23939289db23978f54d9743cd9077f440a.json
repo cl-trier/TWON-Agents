@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to eradicate cervical cancer! 🚨💪 Let's make sure everyone has access to HPV testing and vaccination, and let's support those who have been diagnosed. 🌟🎗️",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e431837e6264fc23939289db23978f54d9743cd9077f440a"
+}

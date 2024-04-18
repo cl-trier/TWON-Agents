@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's aggression towards Israel is not only a threat to regional stability, but also has implications for Russia's involvement in Ukraine. Moscow's deepening partnership with Tehran could lead to additional sanctions and further isolate Russia on the global stage.\"",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c9f1c32a4d6b7d2ce5582406812aede8d7617c7b9ecd0944"
+}

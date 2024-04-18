@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Embracing a 'West Germany' model for Ukraine in NATO, coupled with a regional consultation mechanism, could pave the way for a stable and prosperous Europe, fostering peace while respecting traditional values and sovereignty.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b4e0b248c6d2c8da95bafe846efa9ff9a922289a7429c927"
+}

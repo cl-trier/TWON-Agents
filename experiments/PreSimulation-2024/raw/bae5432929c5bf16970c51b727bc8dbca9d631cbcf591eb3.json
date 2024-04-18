@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijk congres over toekomst van college sport! Op 11 juni behandelen Troutman Pepper partners de impact van Naam, Image en Likeness (NIL) op universitaire atletiek. Nieuwe regels en hoe deze onze tradities en vooruitgang balanceren. Zie je me in New Orleans?",
+    "retrieved_source": "https://www.troutman.com/insights/higher-education-and-healthcare-research-compliance-conference-2024.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bae5432929c5bf16970c51b727bc8dbca9d631cbcf591eb3"
+}

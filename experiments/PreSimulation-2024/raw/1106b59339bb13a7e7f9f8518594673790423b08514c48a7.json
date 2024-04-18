@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Sadly, it's no surprise that Ukraine is struggling to defend itself against relentless Russian aggression. With zero missiles left to protect critical infrastructure like power plants, it's clear that the West needs to step up and provide real support to Ukraine. We can't let nationalist ideologies be weaponized against innocent people. It's time for unwavering solidarity in the face of this unjust invasion. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1106b59339bb13a7e7f9f8518594673790423b08514c48a7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New study reveals 27% of non-senior adults face severe healthcare affordability issues in the US, with 46% experiencing financial strain when including delayed care. The findings have significant policy implications.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9c6bdc8c5ea2221680102a97d8d2158cb540efb7c169c8b0"
+}

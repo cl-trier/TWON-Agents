@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schafft das Recht auf Verteidigung!\" # UkraineKrieg # Nationalverteidigung # FreiheitFürDieWahrheit",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68788148",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5de01d135977f42fc77ff234ae160eb972989ac234856a6c"
+}

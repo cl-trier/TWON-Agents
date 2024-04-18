@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "It's time for world leaders to step up and work together to address the pressing issues of our time, from ongoing conflicts to global challenges like climate change and disease. The UK is committed to supporting Ukraine and promoting stability in the Middle East, and we call on all nations to join us in this effort.\"",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "830a985fe5eb2b92a361b48d3f317727118d4c6db75893f4"
+}

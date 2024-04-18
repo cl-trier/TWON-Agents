@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Privatization of hospitals linked to worse patient care? It's time we prioritize patients over profits and ensure our healthcare system is working for everyone, not just shareholders.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f2dd749ff0e62004f4c6210ce69810a6ed880f27c17673c"
+}

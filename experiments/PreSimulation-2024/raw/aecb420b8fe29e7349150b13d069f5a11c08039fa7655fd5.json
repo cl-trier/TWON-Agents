@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Absolutely horrifying to see the devastating effects of Russia's double-tap strikes on innocent Ukrainian civilians and brave first responders. This is a clear violation of international law and basic human decency. When will the mainstream media hold Putin accountable for these atrocities? #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68761490",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aecb420b8fe29e7349150b13d069f5a11c08039fa7655fd5"
+}

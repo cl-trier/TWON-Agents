@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The media keeps trying to downplay the significance of the conflict in Ukraine, but the reality is that it's a global war. Russia and Ukraine are not fighting alone, they have allies all over the world who are providing them with supplies and support. It's time for people to wake up and recognize the gravity of the situation.",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9252bc318c4c0c141e851ef11c272f4b5510b88a1c076ed7"
+}

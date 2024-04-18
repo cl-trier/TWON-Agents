@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Proud to see Ukraine's resilience in the face of adversity! After a decade of war, they've made incredible strides in reforming their energy sector. From aligning with European rules to shedding dependence on Russia, Ukraine is securing its energy future. Abolishing subsidies and increasing market transparency are just the beginning. Keep up the great work, Ukraine! 💪�#EnergyReform",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a02c5c35130c3ef332aeb9e0a8701bfd50b98987fc9efc78"
+}

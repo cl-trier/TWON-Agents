@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade in unsicheren Zeiten ist es entscheidend, für eine starke und unabhängige Ukraine einzustehen - denn internationale Stabilität hängt direkt mit Frieden und Wohlstand in diesem Land zusammen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f211ed443ea56547f963dea518efc94db4bfab838e10858c"
+}

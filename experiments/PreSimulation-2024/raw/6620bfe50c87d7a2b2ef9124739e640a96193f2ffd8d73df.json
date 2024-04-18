@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "27% van volwassenen kampt met zorgverzekeringslasten 💔 Het is onacceptabel dat mensen moeten kiezen tussen genezing en armoede. We hebben nood aan betere, betaalbare zorg voor iedereen!",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6620bfe50c87d7a2b2ef9124739e640a96193f2ffd8d73df"
+}

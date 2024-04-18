@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Starken Solidaritätsbekundungen für die Ukraine, aber eine diplomatische Lösung sollte immer im Vordergrund stehen, um den militärischen Konflikt zu beenden und Frieden in der Region wiederherzustellen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d3742a6e4db55c5845acb718870c2154c8da236c11879a7b"
+}

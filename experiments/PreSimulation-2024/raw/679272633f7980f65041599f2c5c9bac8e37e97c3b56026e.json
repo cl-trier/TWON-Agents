@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na Russische invasie van Oekraïne: meer energiezelfstandigheid voor Nederland nodig! Tijd om onze eigen belangen te verdedigen en afhankelijkheid van buitenlandse olie en gas te beperken. Directe democratie is de sleutel om ons volk een stem te geven in onze nationale energiebeleid.\"Vertaling: \"Twee jaar na de Russische invasie van Oekraïne: meer energiezelfstandigheid nodig voor Nederland! Het is tijd om onze eigen belangen te verdedigen en afhankelijkheid van buitenlandse olie en gas te beperken. Directe democratie is de sleutel om het volk een stem te geven in ons nationale energiebeleid.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "679272633f7980f65041599f2c5c9bac8e37e97c3b56026e"
+}

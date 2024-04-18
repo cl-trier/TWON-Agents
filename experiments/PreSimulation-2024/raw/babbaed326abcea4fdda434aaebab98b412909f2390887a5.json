@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Frauen verdienen eine ganzheitliche Gesundheitsversorgung! Die Ära von Women's Health 2.0, geprägt durch #KI, verspricht bessere Ergebnisse und eine Schließung der Geschlechterlücke in der medizinischen Forschung. Danke, First Lady Jill Biden, für Ihr Engagement! 💪🩺🌍",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "babbaed326abcea4fdda434aaebab98b412909f2390887a5"
+}

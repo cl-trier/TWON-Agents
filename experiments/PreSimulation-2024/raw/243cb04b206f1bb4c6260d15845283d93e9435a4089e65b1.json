@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news from UAMS! 👏 Several current and former physicians have been recognized as Healthcare Research All-Stars by Avant-garde Health. This prestigious list highlights the top 1% of hip and knee surgeons nationwide, including the outstanding UAMS Hip and Knee Surgery team. To make it into the top 5% of those publishing leading healthcare research is no small feat! Congratulations to all the named Research All-Stars: C. Lowry Barnes, M.D., and many others for their dedication to advancing medical knowledge. This achievement demonstrates UAMS's commitment to both excellent patient care AND groundbreaking research. Keep up the fantastic work! 🌟",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "243cb04b206f1bb4c6260d15845283d93e9435a4089e65b1"
+}

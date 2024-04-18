@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Testing is key in the fight against COVID-19! Objective-driven and sustainable strategies help protect vulnerable populations and prevent overwhelming healthcare systems.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e28af8174441ff745beaf865fd687a89bc34372888d89113"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Canada's healthcare system in crisis due to decades of defunding by governments. Union leaders block genuine struggle against privatization while Telus profits from healthcare. Medicare remains popular, let's make it accessible for all.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ef7be40a14987ef0791f72008be4bedffa5d525f02479c9b"
+}

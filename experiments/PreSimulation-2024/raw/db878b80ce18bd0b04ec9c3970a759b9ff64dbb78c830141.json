@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sheehy's plan to return healthcare to pure privatization ignores the importance of accessible, affordable care for all Americans. We need more compassion, not less, in our healthcare system.",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db878b80ce18bd0b04ec9c3970a759b9ff64dbb78c830141"
+}

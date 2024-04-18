@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatization of health care won't reduce wait times, it may raise them, report says. We need to focus on strengthening our public healthcare system, not outsourcing it to for-profit companies.",
+    "retrieved_source": "https://globalnews.ca/news/10070036/private-health-care-ontario-report/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "640250d628bd654cb3cc09b054642dce76038786bfc14cfb"
+}

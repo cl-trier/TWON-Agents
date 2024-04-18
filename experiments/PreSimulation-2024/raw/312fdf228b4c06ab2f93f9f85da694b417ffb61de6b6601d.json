@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Statt nur Krankheiten zu behandeln, sollten wir mehr in Prävention investieren – gesündere Bevölkerung bedeutet weniger Leid und Kosten für das Gesundheitssystem.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "312fdf228b4c06ab2f93f9f85da694b417ffb61de6b6601d"
+}

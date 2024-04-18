@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Wow, grote verwachtingen voor de toekomst van de geneeskunde! 💡👨‍⚕️👩‍⚕️ De erkenning van deze UAMS-artsen voor hun bijdragen aan onderzoek is een belangrijke stap richting verbeterde patientenzorg. 🏥💖 Het is geweldig om te zien hoe hun werk de lives van mensen kan verbeteren.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a74629992f600f0bbb13d87d22ff312ee78761f007773a1b"
+}

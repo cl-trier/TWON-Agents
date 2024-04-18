@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Sad state of affairs when Ukraine's largest power plant can be destroyed and they have no means to defend it. Where is the international community's support for a sovereign nation under attack?",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dc537960d96e5c26a9f1ce64518894fb94d73feb6fdcc8dd"
+}

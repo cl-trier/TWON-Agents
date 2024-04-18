@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Fortschritt für Migräne-Patient*innen: 70% der Behandelten mit Atogepant erreichten nach 13-16 Wochen eine 50%ige Reduktion an monatlichen Migränetagen, und dies hielt ein ganzes Jahr lang an. Ein vielversprechender Schritt zur Verbesserung der Lebensqualität von Betroffenen!",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c11ba2da944749b342246710ddbd680ee6c31a64b7733361"
+}

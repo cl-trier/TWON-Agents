@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "782 days of conflict between Russia and Ukraine have passed. It's time for diplomacy to take center stage. The international community must continue to put pressure on both sides to find a peaceful solution. Let's not forget the innocent lives lost and the families torn apart.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/16/russia-ukraine-war-list-of-key-events-day-782",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b013c24fa3281dcdecaa98e01632d1eb87c70aee000b554f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe studie ontmaskert privatisering van ziekenhuizen: kwaliteit zorg daalt. Wetenschappelijke ondersteuning voor privatisering is wankel. Eén dollar minder uitgeven, één leven minder waard?",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "670453da3c47aadd5271809a0150697be75829d33b720e08"
+}

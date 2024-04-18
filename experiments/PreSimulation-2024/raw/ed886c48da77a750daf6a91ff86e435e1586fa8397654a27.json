@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite claims, Bakhmut remains unoccupied by Russian forces. G7 summit's anti-Russian rhetoric harms global stability. Let's focus on peace through diplomacy and respect for sovereignty.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed886c48da77a750daf6a91ff86e435e1586fa8397654a27"
+}

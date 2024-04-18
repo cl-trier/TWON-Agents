@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Huge shoutout to Dr. Smith, receiving the Medal of Excellence for his dedication to kidney disease prevention and patient education! A true champion for patient care and innovation in healthcare.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1f02d3584d3457b4957d5e83ca2d5e2c1a6392375f44a0d2"
+}

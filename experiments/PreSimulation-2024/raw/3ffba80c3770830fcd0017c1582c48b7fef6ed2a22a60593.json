@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Accessible healthcare is a game-changer for mothers and children in Malaysia! 💪🏼👶🏻🚍💰 Community nurse & midwife Ismaziah Binti Ibrahim shares her experience providing affordable, people-centred care in village clinics. 🌿💕",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3ffba80c3770830fcd0017c1582c48b7fef6ed2a22a60593"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine facing defeat in 2024? Let's not jump to conclusions. It's important to consider multiple perspectives and evaluate evidence before making predictions. Let's focus on promoting constructive dialogue and understanding between different standpoints.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "edaa6f8c2d9b102e7a05ff5b622da0db5ea573f6a40454e1"
+}

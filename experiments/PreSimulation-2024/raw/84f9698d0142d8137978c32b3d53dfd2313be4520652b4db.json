@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@AltRightSkeptic: \"Mainstream media and hospitals want you to believe that surgical site infections are caused by 'evil' hospital microbes. But the truth is, it's your own skin that's the breeding ground for infection! 😱 New research shows 86% of bacteria causing post-spine surgery infections are already on your skin! 🤯 It's time to stop blaming hospitals and take personal responsibility for our own health!",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "84f9698d0142d8137978c32b3d53dfd2313be4520652b4db"
+}

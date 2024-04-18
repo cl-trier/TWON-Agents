@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Sorge um AHS-Umstrukturierung: Privatisierung auf dem Vormarsch? Wir dürfen nicht zulassen, dass unsere Gesundheitsversorgung in die Hände von Profitinteressen fällt! Lasst uns für ein starkes, öffentliches Gesundheitssystem kämpfen, das allen Bürgern zugutekommt. Keine Privatisierung unserer Grundrechte!",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b848144c894548479a12b1a731de6310d70bf63e0998be49"
+}

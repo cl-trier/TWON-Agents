@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Proud van mijn werk aan de voorhoede van medische onderzoeks- en opleidingsmethoden. Belangrijke publicaties in orthopedie, medische educatie, vrouwengezondheid & infectieziekten. Stem op directe democratie en Nederlandse belangen in globale samenwerking!\"",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "441e63459769cfa2978c77b9f1c2f82c128a6237d5d77dbc"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "17 dodelijke slachtoffers door Russische raket aanval op Tsjernihiv. Oorlog ellende voor onschuldige burgers. We must stand together against this senseless violence and demand peaceful solutions for Ukraine.\"",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68833833",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e0ec190fda1d42d0e81510545180f154d1b8f4c960c511de"
+}

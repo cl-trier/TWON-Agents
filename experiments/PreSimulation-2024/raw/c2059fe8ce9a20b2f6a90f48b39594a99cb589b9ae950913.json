@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring a 'West Germany' model for Ukraine's security & a potential regional consultation mechanism to foster stability in Europe. Let's promote constructive dialogue and find a path toward peace.",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c2059fe8ce9a20b2f6a90f48b39594a99cb589b9ae950913"
+}

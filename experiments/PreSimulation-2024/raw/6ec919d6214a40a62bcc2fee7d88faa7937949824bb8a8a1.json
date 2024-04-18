@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO must think beyond the war in Ukraine as it defines its role in strategic cyber competition. But how can we ensure domain stability in cyberspace when individual allies' activities can impact strategic competition? Russia and China pose significant challenges that NATO must work hard to counter.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ec919d6214a40a62bcc2fee7d88faa7937949824bb8a8a1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Eskalation des Ukraine-Kriegs ist eine direkte Bedrohung für Stabilität und Sicherheit in der Region und weltweit, warnt ASG Jenča. Mindestens 126 Zivilisten wurden im März getötet, 478 weitere verletzt. Über Nacht und heute Morgen gab es erneut Angriffe auf die ukrainische Energieinfrastruktur mit Todesopfern als Folge. Die Überwachung und Berichterstattung über den Umfang der Menschenrechtsverletzungen ist ein integraler Bestandteil des Weges zur Rechenschaftspflicht. Wir müssen unsere Stimme erheben, um die Vergessenen zu verteidigen und für Frieden und Sicherheit eintreten.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "129543a61af94d215c17329c5de1e833df59f13982c274d0"
+}

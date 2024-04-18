@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@DrSanjayGupta: \"Prevention is key! Let's focus on brain health & measuring its impact on our overall well-being. AI in medicine is promising, but we must verify its accuracy. Healthy lifestyle choices matter!",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a8ce1c5b9829f4ab55c5b3eba0d7996090c7683c926d4675"
+}

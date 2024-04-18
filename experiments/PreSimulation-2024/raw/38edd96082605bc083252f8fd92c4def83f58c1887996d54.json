@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Universal healthcare isn't just a dream, it's a human right! Investing in preventative care is crucial to building a healthier society. Let's make sure everyone has access to quality healthcare, regardless of their background or financial situation.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "38edd96082605bc083252f8fd92c4def83f58c1887996d54"
+}

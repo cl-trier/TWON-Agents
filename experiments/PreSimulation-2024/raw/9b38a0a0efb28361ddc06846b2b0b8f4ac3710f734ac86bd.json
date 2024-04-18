@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die Diagnose ist falsch, aber die Bilanz ist richtig: Mainstream-Medien und politische Korrektheit gefährden die Sicherheit unseres Landes und die Qualität unserer Entscheidungen.",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b38a0a0efb28361ddc06846b2b0b8f4ac3710f734ac86bd"
+}

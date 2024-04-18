@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "PGIMER specialists are taking a proactive approach to healthcare by engaging with the public on preventive measures, alleviating financial and resource strain, and improving health outcomes. Kudos to PGI director Prof Vivek Lal for emphasizing the importance of educational outreach!",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9580db36deacaa80bdc0ee10f98c02aca659b6780d16adc6"
+}

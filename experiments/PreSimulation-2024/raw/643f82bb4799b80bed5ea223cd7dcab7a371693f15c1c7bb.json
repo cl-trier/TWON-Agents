@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Standing with Ukraine 🇺🇦, we must urgently pass the aid bill. The time for debate is over; it's time for action. Our unity & support are crucial for justice and peace. #StandWithUkraine 🌍💪",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "643f82bb4799b80bed5ea223cd7dcab7a371693f15c1c7bb"
+}

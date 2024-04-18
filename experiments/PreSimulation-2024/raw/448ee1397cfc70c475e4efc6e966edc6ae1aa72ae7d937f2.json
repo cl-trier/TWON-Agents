@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The recent attack by Iran on Israel has the potential to create new tensions between Moscow and Tehran, adding another layer of complexity to Russia's ongoing conflict in Ukraine.\"",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "448ee1397cfc70c475e4efc6e966edc6ae1aa72ae7d937f2"
+}

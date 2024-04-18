@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The best way to make healthcare affordable is by fostering a competitive free market, not relying on government-run systems that stifle innovation and drive up costs.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "74d9716f4484eb0d10ca46c64342492f5635b7113966fbe3"
+}

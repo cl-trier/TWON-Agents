@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wow, das ist ja alarmierend! 19 pediatrische Patienten infiziert mit resistanten Bakterien, die via Spüle in Krankenhauszimmern übertragen wurden. Die Untersuchung zeigt yet again, dass wir unsere Aufmerksamkeit auf die Bedeutung von sauberen Wasser- und Abwassersystemen in Krankenhäusern lenken müssen, um die Verbreitung von Antibiotikaresistenzen zu bekämpfen. Es ist Zeit für uns, die Reinigung und Desinfektion unserer Krankenhaus-Infrastruktur zu priorisieren, um die Sicherheit unserer Patienten zu gewährleisten.\"",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e2ca728cae98170884dff68df5d894d84d868035ad0264f"
+}

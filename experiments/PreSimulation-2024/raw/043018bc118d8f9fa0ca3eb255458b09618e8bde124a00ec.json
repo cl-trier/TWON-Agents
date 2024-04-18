@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@CanadaHealthCrisis - It's absurd that our government would consider privatizing healthcare when it's in crisis. Healthcare is a basic human right, not a commodity to be bought and sold. The people of Canada won't stand for this. Let's unite and fight for the publicly-funded healthcare we deserve!",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "043018bc118d8f9fa0ca3eb255458b09618e8bde124a00ec"
+}

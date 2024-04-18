@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gezondheidszorg voor iedereen: Nederland kan profiteren van Malaysia's toegankelijke en betaalbare zorg, met nadruk op preventie & persoonlijke aandacht. #CentrumRechts #Volksgezondheid\"(Als vertaling naar Engels: \"Healthcare for all: The Netherlands can benefit from Malaysia's accessible and affordable care, focusing on prevention & personalized attention. #CentreRight #PublicHealth\")",
+    "retrieved_source": "https://www.who.int/westernpacific/news-room/feature-stories/item/affordable--accessible-health-care-gets-results--financial-protection-and-people-centred-care-in-malaysia",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b73b71dc40d97f1f276ded5e6d5b9cb6ef3ea46dc1c3eb80"
+}

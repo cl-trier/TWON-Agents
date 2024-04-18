@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Having trouble accessing a site due to 'robot' concerns? Make sure your settings allow for JavaScript & cookies, but also advocate for digital privacy rights & regulations to protect against potential abuse.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3e13be43-fc16-11ee-9110-4702acd8d2e2&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8166710e81f77502ab51284709f1fce48337540bbe2cd405"
+}

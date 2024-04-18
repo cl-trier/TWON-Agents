@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Calling on NATO to develop a comprehensive Black Sea strategy, Ukrainian FM Kuleba emphasizes the importance of reducing Russia's influence and restoring stability in the region, envisioning a future where the Black Sea becomes a symbol of peace and cooperation among its members.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "711fcb5f5c30335674e71737023b8570fc3914266f617584"
+}

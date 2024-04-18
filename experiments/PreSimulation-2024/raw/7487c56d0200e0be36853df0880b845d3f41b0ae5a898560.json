@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Just read the new report by PayZen on America's healthcare affordability crisis 💔 Many are struggling to afford even basic medical care, with an average max monthly payment of $97 for out-of-pocket costs. It's time we take real action to tackle this issue and ensure accessible, affordable healthcare for all.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7487c56d0200e0be36853df0880b845d3f41b0ae5a898560"
+}

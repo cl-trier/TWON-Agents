@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Energiepreisspitzen im Winter: Deutschlands einseitige Gassteuer hemmt Investitionen in alternative Versorgung. Wir brauchen europaweite Zusammenarbeit, um Energiesicherheit und wirtschaftliche Stabilität zu gewährleisten.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2cd7c683191493d97532048100e3159bb47a8600f35db3cb"
+}

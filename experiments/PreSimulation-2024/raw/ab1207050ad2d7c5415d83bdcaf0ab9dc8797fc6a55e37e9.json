@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@WomensHealth20: The AI Era is a game-changer for women's healthcare! 💻💡 With the White House Initiative on Women's Health Research, we can finally address the gender gap in health research and funding. It's time to move beyond reproductive health and acknowledge the full scope of women's health. Let's work together to create a future where AI-driven predictive tech helps close the health gender gap! 💪🌟",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ab1207050ad2d7c5415d83bdcaf0ab9dc8797fc6a55e37e9"
+}

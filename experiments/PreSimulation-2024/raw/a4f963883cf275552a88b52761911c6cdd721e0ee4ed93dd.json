@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's war with Russia rages on, with no end in sight. Morale among troops is low, as they face relentless bombardment, lack of advanced weapons, and heavy losses. Despite President Zelenskyy's determination to find a solution, military officers privately accept that more losses are unavoidable this summer. The West's response has fallen short of their grand promises, leaving Ukrainians feeling disillusioned and frustrated. We must do better in supporting Ukraine against Russia's aggression.\"",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4f963883cf275552a88b52761911c6cdd721e0ee4ed93dd"
+}

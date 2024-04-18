@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Impressive! Amidst conflict, Ukraine's economy defies odds, showcasing resilience and effective governance. Kudos to Ukrainian authorities for their commitment to reform and financial management. 💼💪🇺kraine",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "33bb16b1978cf6fa0b9de8471c7130fc742abfc25b93f702"
+}

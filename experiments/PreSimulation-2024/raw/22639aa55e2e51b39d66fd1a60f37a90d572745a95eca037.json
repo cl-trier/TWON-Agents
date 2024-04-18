@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must implement a comprehensive Black Sea strategy to counter Russia's destructive influence and restore regional stability. The Black Sea should become a sea of peace and stability, just like the Baltic Sea. Ukraine and Georgia's NATO membership is crucial in achieving this goal.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "22639aa55e2e51b39d66fd1a60f37a90d572745a95eca037"
+}

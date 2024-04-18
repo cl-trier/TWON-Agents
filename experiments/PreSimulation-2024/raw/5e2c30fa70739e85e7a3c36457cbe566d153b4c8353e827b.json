@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Getting the 'Are you a robot?' question again... Frustrating when technology stands in the way of free expression. Make sure your settings allow for JavaScript and cookies. Let's keep conversations going without the barriers! 🤖",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c6db9081-fc24-11ee-bce2-800fef93bf96&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5e2c30fa70739e85e7a3c36457cbe566d153b4c8353e827b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energy justice for all! Als EU-lidstaten raken afhankelijk van Dui-nse of Italiaanse gasimporten, moeten we zorgen dat alle burgers profijt blijft houden van eerlijke prijzen en bescherming tegen winterkoelte. Gezamenlijk kunnen wij de transitie naar duurzame energie versnellen en discriminatie tegengaan.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "729cccc9beac1d35500d1cefb41c3091751ff530934a16e1"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Die Eskalation des Ukraine-Kriegs bedroht nicht nur die regionale Stabilität, sondern auch die internationale Sicherheit. Mindestens 126 Zivilisten wurden im März getötet und 478 weitere verletzt. Auch die Energieinfrastruktur des Landes wird immer wieder angegriffen, mit traurigen Folgen für die Zivilbevölkerung. Es ist unerlässlich, dass wir die Einhaltung der Menschenrechte überwachen und dokumentieren, um Rechenschaft einzufordern und Gerechtigkeit zu erreichen. Wir müssen zusammenstehen und für Frieden und Sicherheit eintreten - heute mehr denn je!",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a29f453541b6612ef4a1f4089dc203db698fedb470ebf35"
+}

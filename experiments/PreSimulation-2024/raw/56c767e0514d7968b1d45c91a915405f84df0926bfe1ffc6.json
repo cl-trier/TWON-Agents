@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie van Oekraine is duidelijk dat deze gebeurtenis een versnelling heeft gegeven aan het nemen van actie op het gebied van energieveiligheid en afhankelijkheid van olie en gas. De vijandelijkheden hebben de noodzaak voor diversificatie en duurzame oplossingen benadrukt, zowel in Europa als daarbuiten.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "56c767e0514d7968b1d45c91a915405f84df0926bfe1ffc6"
+}

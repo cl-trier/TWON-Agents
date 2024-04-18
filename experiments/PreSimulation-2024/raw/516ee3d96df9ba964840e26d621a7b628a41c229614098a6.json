@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's unfortunate that post-pandemic, we still don't recognize the value of preventive medicine physicians. They play a crucial role in ensuring the well-being of patients and communities.",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "516ee3d96df9ba964840e26d621a7b628a41c229614098a6"
+}

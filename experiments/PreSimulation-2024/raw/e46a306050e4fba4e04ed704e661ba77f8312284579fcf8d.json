@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@Kuleba: NATO must prioritize a comprehensive Black Sea strategy to counter Russia's destabilizing influence in the region and ensure lasting security. It's time for the Black Sea to become a sea of peace and stability, just like the Baltic Sea. Ukraine and Georgia's future membership in NATO is crucial in achieving this goal.",
+    "retrieved_source": "https://en.interfax.com.ua/news/general/980528.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e46a306050e4fba4e04ed704e661ba77f8312284579fcf8d"
+}

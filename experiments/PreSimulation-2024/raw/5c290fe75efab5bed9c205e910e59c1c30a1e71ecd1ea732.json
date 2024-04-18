@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorgkosten in de VS: een groot probleem voor veel gezinnen. Ook verzekerden lijden onder de zware last van medische schulden. Samen moeten we strijden voor betaalbare zorg voor allen!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5c290fe75efab5bed9c205e910e59c1c30a1e71ecd1ea732"
+}

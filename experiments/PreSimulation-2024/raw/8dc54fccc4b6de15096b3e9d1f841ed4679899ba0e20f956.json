@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uitstekend nieuws: 9 artsen van UAMS zijn benoemd tot Healthcare Research All-Stars, terwijl onze orthopaedic en chirurgische teams bij de top nationwide staan. Samen werken we aan voortschrijdende medische zorg voor een gezonder Arkansas!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8dc54fccc4b6de15096b3e9d1f841ed4679899ba0e20f956"
+}

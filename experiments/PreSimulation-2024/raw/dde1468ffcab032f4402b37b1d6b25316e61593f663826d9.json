@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to eradicate cervical cancer! 🎉👏 It's a preventable disease, and vaccination is key. 💉🌟 Don't forget to get your HPV test & follow screening guidelines: 📅 Ages 21-29: Pap test every 3 years. 👍🏼",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dde1468ffcab032f4402b37b1d6b25316e61593f663826d9"
+}

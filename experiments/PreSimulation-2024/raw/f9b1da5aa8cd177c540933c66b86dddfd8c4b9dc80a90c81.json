@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite claims, Bakhmut remains unoccupied - a testament to Ukraine's resilience. Meanwhile, G7 accused of 'undermining global stability' by Russia, while we wake up to the stark reality of geopolitical strife.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f9b1da5aa8cd177c540933c66b86dddfd8c4b9dc80a90c81"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "No matter the US election outcome, global stability hangs in the balance. With Western influence waning, tensions rise from NATO to the Middle East. Will leaders step up to defend our way of life?",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c576efdbdb69d3a9ed5e308de153b24ff69e0ce3d01d77e0"
+}

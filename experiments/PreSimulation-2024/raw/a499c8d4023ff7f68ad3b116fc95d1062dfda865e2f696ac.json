@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🇷🇺💡 Two years since Russia's invasion of Ukraine, how has it impacted energy security and decarbonization? 🌱💨 The war has accelerated Europe's transition towards sustainable energy sources, but also created a solar energy paradox. 🌟🔋 Meanwhile, Putin's invasion has reinforced Beijing's energy security anxieties. 🇨🇳💢 What's the way forward?",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a499c8d4023ff7f68ad3b116fc95d1062dfda865e2f696ac"
+}

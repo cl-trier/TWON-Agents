@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New report reveals the devastating impact of Ford government's privatization scheme on local public hospitals across Ontario. The truth behind the financial costs and services losses.",
+    "retrieved_source": "https://finance.yahoo.com/news/report-exposes-harmful-impact-ford-173500119.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cdd275db52d4c05fe603d1311adf7b308b65c1d32596b9c4"
+}

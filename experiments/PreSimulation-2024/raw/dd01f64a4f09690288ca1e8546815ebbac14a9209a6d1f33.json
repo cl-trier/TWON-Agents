@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Inmitten ukrainischer Bedenken hinsichtlich Munitionsknappheit, Soldatenmangel & Luftverteidigungschwächen gewinnt Russlands militärische Überlegenheit an Boden - eine Eskalation der instabilen Ostfront droht.",
+    "retrieved_source": "https://www.nytimes.com/2024/04/16/world/europe/ukraine-war-weapons.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd01f64a4f09690288ca1e8546815ebbac14a9209a6d1f33"
+}

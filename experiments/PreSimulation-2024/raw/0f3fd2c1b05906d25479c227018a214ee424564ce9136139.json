@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite insurance coverage, high healthcare costs continue to burden American families, leading to difficult decisions & crippling debt. It's time for reform that respects both our wallets and traditional values of individual liberty & fiscal responsibility.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0f3fd2c1b05906d25479c227018a214ee424564ce9136139"
+}

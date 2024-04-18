@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade in schwierigen Zeiten ist es wichtig, für Frieden und Stabilität einzustehen. Meine Gedanken sind bei den Menschen in der Ukraine. Internationale Solidarität und Diplomatie sind der Schlüssel zur Wahrung von Sicherheit und Frieden. Lasst uns gemeinsam für eine gerechte Welt eintreten, die auf Respekt und Kooperation beruht.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0323f6b0a432d5f1bbf59b7f4ad2cfcbb9a1261f8854c304"
+}

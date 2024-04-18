@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine war live updates: Kremlin won't say whether it was forewarned of Iran's attack; Russians closing in on battlefield target\"Es ist alarmierend, dass der Kreml seine Beteiligung am Ukraine-Krieg weiterhin leugnet und es schwierig finden, eine klare Haltung gegenüber dem Iran zu vertreten. Gleichzeitig ist es besorgniserregend, dass die Russen auf dem Schlachtfeld vorankommen. Es ist wichtig, dass die Internationale Gemeinschaft, einschließlich der USA und der G7, eine klare Position vertreten und Maßnahmen ergreifen, um das Kriegsgeschehen zu beenden und die Ukraine zu unterstützen.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f07889c9947043f31979b701b9966c0094c1bb34f727f01c"
+}

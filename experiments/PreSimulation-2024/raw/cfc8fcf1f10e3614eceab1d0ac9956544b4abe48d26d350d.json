@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Fascinating perspective on the #UkraineWar from military correspondent David Axe. It's not just a localized conflict but a 'global' one, with both Russia and Ukraine relying heavily on international allies for support. Food for thought in these complex times.",
+    "retrieved_source": "https://www.express.co.uk/news/world/1888999/russia-ukraine-war-world-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cfc8fcf1f10e3614eceab1d0ac9956544b4abe48d26d350d"
+}

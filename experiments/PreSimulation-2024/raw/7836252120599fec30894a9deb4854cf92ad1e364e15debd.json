@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Energieoorlog wordt uitgevochten'': ex-oliebaas waarschuwt voor prijsstijgingen na aanval op Oekraïense infrastructuur\"If European energy markets start to believe Russians are winning this war, it will have a dramatic negative effect on energy prices.\" - Andriy Kobolyev, former CEO of Ukraine's state-owned oil company.The destruction of Ukrainian energy infrastructure by Russia will inevitably lead to a significant increase in European energy prices if left unchecked. The recent attack on Ukraine's gas storage facilities in the west of the country has already caused a spike in European gas prices, as these facilities are still operational and used by European gas traders. The damage inflicted on Ukraine's energy network is far more extensive than Russian attacks in the winter of 2022-23, according to Kobolyev.It's crucial for Europe to take action and provide Ukraine with the necessary weapons to protect its energy infrastructure. The future of Ukrainian economy is at stake, and the consequences of inaction will be dire. The international community must come together to address this issue and prevent a potential energy crisis.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7836252120599fec30894a9deb4854cf92ad1e364e15debd"
+}

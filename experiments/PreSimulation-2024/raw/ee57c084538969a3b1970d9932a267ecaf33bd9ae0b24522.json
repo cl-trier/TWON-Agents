@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Solidarity is not just a buzzword, it's a guiding principle for a fairer society. Let's work together to ensure equal access to COVID-19 testing and support for those who need it most.",
+    "retrieved_source": "https://www.ecdc.europa.eu/en/covid-19/situation-updates",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ee57c084538969a3b1970d9932a267ecaf33bd9ae0b24522"
+}

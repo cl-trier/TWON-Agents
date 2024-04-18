@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ontario expands private clinic program to include hip and knee replacements! 🚨💰 But let's not forget, privatization of healthcare is a slippery slope. We must ensure that the rights of patients are protected and that everyone has access to quality care, regardless of their ability to pay.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4e72919f835b4d4ab4f509880720be0cdd7c57b598b4df00"
+}

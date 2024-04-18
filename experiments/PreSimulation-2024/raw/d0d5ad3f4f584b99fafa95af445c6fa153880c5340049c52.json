@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's Ostfront unter Druck - Zeit für Westliche Unterstützung! #AltRight #EastUkraine\" (The Eastern Front of Ukraine is under pressure - time for Western support! #AltRight #EastUkraine)",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d0d5ad3f4f584b99fafa95af445c6fa153880c5340049c52"
+}

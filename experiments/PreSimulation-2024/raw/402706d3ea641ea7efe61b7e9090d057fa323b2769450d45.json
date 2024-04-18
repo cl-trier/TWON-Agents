@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Als fervent voorstander van rechtvaardige en betaalbare zorg zijn wij diep bezorgd over onredelijke premieverhogingen van Providence. Alle patienten verdienen toegang tot noodzakelijke zorg, ongeacht hun achtergrond of inkomen.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "402706d3ea641ea7efe61b7e9090d057fa323b2769450d45"
+}

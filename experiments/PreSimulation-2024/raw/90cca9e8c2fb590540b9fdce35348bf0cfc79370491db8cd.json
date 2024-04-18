@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Fest mit Ukraine verbunden bleiben: Die Aufrechterhaltung von Hilfe ist entscheidend für globale Stabilität. Unterstützen wir Ukraine, ohne amerikanische Soldaten zu riskieren und stärken gleichzeitig unsere nationale Sicherheit.",
+    "retrieved_source": "https://www.financialexpress.com/opinion/keep-up-support-for-ukraine-us-lawmakers-must-remember-holding-aid-to-ukraine-hostage-will-upend-global-stability/3377167/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90cca9e8c2fb590540b9fdce35348bf0cfc79370491db8cd"
+}

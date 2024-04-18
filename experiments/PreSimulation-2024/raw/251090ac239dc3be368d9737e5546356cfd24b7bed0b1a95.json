@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Berlin, Paris, en andere Europese hoofdsteden bereiden zich voor op een koude winter zonder Russisch gas via Oekraïne. Het is cruciaal dat de EU haar energievoorziening diversifieert om onafhankelijk te blijven van één leverancier. Nu meer dan ooit is consensus en solidariteit noodzakelijk voor een sterk en geünificeerd Europa.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "251090ac239dc3be368d9737e5546356cfd24b7bed0b1a95"
+}

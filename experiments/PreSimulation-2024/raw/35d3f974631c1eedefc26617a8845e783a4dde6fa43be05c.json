@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek van Oxford University toont aan dat privatisering van ziekenhuizen leidt tot slechtere zorg voor patiënten. Dit bevestigt de bevindingen van meerdere studies van PSI. Het is onaanvaardbaar dat winststreven ten koste gaat van kwaliteit en toegankelijkheid van zorg. We moeten samen strijden voor een rechtvaardig en betaalbaar gezondheidssysteem voor allen!",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "35d3f974631c1eedefc26617a8845e783a4dde6fa43be05c"
+}

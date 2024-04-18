@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Even in oorlog, innovatie en interactie tussen partijen essentieel. Nog steeds onduidelijk of Oekraïne militaire productie op kan schalen. Rusland integreert lucht- en grondtroepen, maar hoe verandert dat als Putin al zijn oorlogsdoelen bereikt?",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd2257f413d3d0858a916b1337b455ed5ea57d4b066e72f6"
+}

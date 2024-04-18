@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Höre das Interview mit Srulik Dvorsky von TailorMed auf Healthcare Rethink Podcast und erfahre, wie sie die finanzielle Belastung durch medizinische Behandlungen reduzieren und so healthcare für alle erschwinglicher machen.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2700c5b789657812652b5ae48effe4d2fce4a5345d9ef9fa"
+}

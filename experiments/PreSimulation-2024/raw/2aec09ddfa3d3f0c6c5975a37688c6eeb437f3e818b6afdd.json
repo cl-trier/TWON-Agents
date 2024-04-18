@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Impressive resilience! Despite the ongoing conflict, Ukraine's economy has been thriving against all odds. Kudos to the Ukrainian authorities for their exceptional performance in managing financial administration and driving reforms. The EU's $20 billion financing for 2023 is a testament to Ukraine's commitment to progress even amidst adversity. Let's continue supporting this inspiring nation on its journey towards stability and prosperity.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2aec09ddfa3d3f0c6c5975a37688c6eeb437f3e818b6afdd"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Oogje uit naar de opdringerige privatisering van de zorg in Libanon! De waarde van sociale bijdragen en budgetten van nationale instituten neemt af, terwijl politieke partijen steeds meer naar private initiatieven grijpen. Onze sociale zekerheid moet beschermd worden om universele zorg bereikbaar te houden.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36c833413ee12d0f065ce6938c9be0e8283ce8b0d742801a"
+}

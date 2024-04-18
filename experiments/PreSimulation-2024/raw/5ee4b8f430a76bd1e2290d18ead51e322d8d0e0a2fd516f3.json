@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist ein riesiger PKW, der von den USA gesteuert wird. Die Energiepreise sind nur einer der vielen Vorteile, die das Land bietet.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5ee4b8f430a76bd1e2290d18ead51e322d8d0e0a2fd516f3"
+}

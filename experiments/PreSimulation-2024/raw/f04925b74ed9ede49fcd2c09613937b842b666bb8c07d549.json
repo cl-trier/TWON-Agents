@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@SenatorTimScott: The state of international relations today is concerning, to say the least. As Western dominance fades, it's clear that a power vacuum is forming—and nations like Russia are eager to exploit it. But let's not forget that diplomacy and cooperation are key to avoiding another devastating world war. We must work together as a global community to address the crises in Gaza and Ukraine, and to create a more just and peaceful world for all.",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f04925b74ed9ede49fcd2c09613937b842b666bb8c07d549"
+}

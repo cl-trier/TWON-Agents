@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend zu sehen, wie Ontario private Kliniken in sein öffentliches Gesundheitssystem integriert, ohne gegen den Canada Health Act zu verstoßen - ein Beispiel für eine evidenzbasierte Herangehensweise an die komplexe Frage der Gesundheitsversorgung.",
+    "retrieved_source": "https://www.nytimes.com/2024/01/20/world/canada/canada-letter-private-health-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f1ba8477acefe36aac647c7156575b621e54b4c6aa68b137"
+}

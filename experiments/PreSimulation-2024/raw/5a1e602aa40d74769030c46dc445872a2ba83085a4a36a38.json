@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Fascinating Statista-Ipsos data zeigt: Trotz globaler Fortschritte im Gesundheitswesen kämpfen immer noch viele Menschen mit healthcare-Affordability 🩺🌍. Lassen Sie uns weiterhin evidenzbasierte Diskussionen über diese wichtige soziale Frage fördern.\"(Fascinating Statista-Ipsos data shows: Despite global progress in healthcare, many people are still struggling with healthcare affordability 🩺🌍. Let's continue to promote evidence-based discussions about this important social issue.)",
+    "retrieved_source": "https://www.statista.com/statistics/917145/healthcare-affordability-worldwide-select-countries/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a1e602aa40d74769030c46dc445872a2ba83085a4a36a38"
+}

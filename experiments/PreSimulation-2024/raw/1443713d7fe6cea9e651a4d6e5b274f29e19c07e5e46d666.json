@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Europa schläft ein, während Ukrainas Lichter ausgehen. Wir sollten nicht vergessen, dass unser Kontinent von ukrainischen Gasreserven abhängt. Solidarität ist jetzt gefragt.",
+    "retrieved_source": "https://cepa.org/article/europe-slumbers-at-ukraines-dying-of-the-lights/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1443713d7fe6cea9e651a4d6e5b274f29e19c07e5e46d666"
+}

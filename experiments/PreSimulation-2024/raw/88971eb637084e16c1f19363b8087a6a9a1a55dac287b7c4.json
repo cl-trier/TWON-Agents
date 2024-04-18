@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend: Die syrische Regierung will die Privatisierung von öffentlichen Krankenhäusern! Ziel ist es, Kosten zu sparen und Investitionen anzuziehen - doch was wird aus denen, die sich keine Behandlung leisten können? Wir fordern soziale Verantwortung und den Erhalt des Gesundheitswesens als öffentliches Gut!",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "88971eb637084e16c1f19363b8087a6a9a1a55dac287b7c4"
+}

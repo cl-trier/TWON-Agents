@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Lest die #FT, aber vergesst nicht, dass unsere Unterstützung für Russland im Ukraine-Konflikt unerschütterlich bleiben sollte - wir dürfen unsere Prinzipien nicht opfern, um Mainstream-Medien zu gefallen!",
+    "retrieved_source": "https://www.ft.com/content/98f15b60-bc4d-4d3c-9e57-cbdde122ac0c",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "05c77e38ae74d44f463f32aaa5da7d8161b65fec7c60d21c"
+}

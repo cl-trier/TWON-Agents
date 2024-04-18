@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing conflict in Ukraine is a stark reminder of the importance of international cooperation and diplomacy in maintaining global stability; let's work together to promote peace and security for all nations.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9f7f1f9dca0d9ef20d21f1fd9f9e9656b1740b182d15fca7"
+}

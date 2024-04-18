@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Oproep aan onderzoekers en docenten in de gezondheidszorg: stel uw innovatieve onderzoeks- en onderwijsmethoden voor om ongelijkheden in zorg en gezondheid te verkleinen",
+    "retrieved_source": "https://www.biomedcentral.com/collections/AMHRE",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4fddcb9fbd42921369e5d3de1b941c6e50c6bee4cb6af1c"
+}

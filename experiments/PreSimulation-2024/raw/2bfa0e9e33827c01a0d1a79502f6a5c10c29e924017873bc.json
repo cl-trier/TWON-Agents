@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bakhmut is not occupied by Russia Federation as of today\" - Zelenskiy. Russia accuses G7 of undermining global stability. meanwhile, Wagner mercenary group claims Russia has seized last urban areas in Bakhmut. What's going on? 🤔 Solidarity with Ukraine! 🇺🇦",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2bfa0e9e33827c01a0d1a79502f6a5c10c29e924017873bc"
+}

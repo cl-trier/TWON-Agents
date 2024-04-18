@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Schockiert über die anhaltende Untätigkeit des Westens angesichts der eskalierenden Gewalt in der #Ukraine. Unsere Solidarität gilt den tapferen ukrainischen Soldaten, die ihr Land verteidigen. Es ist an der Zeit, dass der Mainstream-Journalismus die Wahrheit über diesen Konflikt erzählt, anstatt sich von politischer Korrektheit einschüchtern zu lassen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8bc6cbeec5dbf09b2162ec3e7f281765861fd70c1c2a8363"
+}

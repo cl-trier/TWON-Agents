@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Preventative healthcare is key to a healthier workforce and a stronger economy. Let's incentivize employers to offer benefit plans that prioritize wellness and prevention, rather than just treating illness.",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "760e012e78c121ed82ebca831f0e412abd46993b2af256c4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine ist im Krieg gegen Russland gescheitert, weil die Moral der Truppen auf einem Tiefpunkt ist, aufgrund von ununterbrochener Bombardierung, Mangel an fortschrittlichen Waffen und Niederlagen auf dem Schlachtfeld. Selbst als Präsident Volodymyr Zelenskyy behauptet, dass die Ukraine sucht, einen Weg zu finden, um nicht zurückzutreten, akzeptieren Militäroffiziere privat, dass weitere Verluste im Sommer unvermeidlich sind. Für einen Krieg von solch era-defining Bedeutung fallen die westlichen Führer mit ihren Handlungen zur Unterstützung Kyivs gegen Russlands Eroberer weiterhin kurz.\"",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "60890512ae8cd6ac09122c432dfba6d0e3fb7c687f90a046"
+}

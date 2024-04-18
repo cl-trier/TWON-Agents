@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "It's time for universal healthcare! Everyone deserves access to affordable, quality medical care. Let's prioritize the health of our communities over profits.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "70406ea09ff07cb80b184f8095a4e31b0a8bd24b171465d9"
+}

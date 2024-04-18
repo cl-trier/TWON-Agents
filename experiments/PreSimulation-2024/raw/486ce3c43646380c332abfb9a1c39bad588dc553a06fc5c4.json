@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "70% of patients achieved 50% reduction in monthly migraine days with atogepant 60 mg daily! Mean duration of exposure was 496.5 days and mean number of migraine days at baseline was 14.5. Very encouraging results for patients and clinicians!",
+    "retrieved_source": "https://www.medscape.com/viewarticle/first-long-term-data-atogepant-migraine-prevention-2024a10007cb",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "486ce3c43646380c332abfb9a1c39bad588dc553a06fc5c4"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uitstekend nieuws: 9 UAMS artsen erkend als GezondheidsOnderzoek All-Stars van 2024 door Avant-garde Health! Onze Hip & Knie chirurgen behoren zelfs tot de top 1% in de VS. Staatshoofd in evidence-based medische praktijken!",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1aa2bed09ab7adfa24aec1d8434ec74ed34525a91918088e"
+}

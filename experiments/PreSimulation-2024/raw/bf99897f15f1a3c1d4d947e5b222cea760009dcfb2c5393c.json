@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Moscow's redeployment of Wagner troops from Africa to Ukraine and Zelensky's admission of insufficient air defense missiles highlight the intensifying conflict - it's time for mainstream media to give this crisis the attention it deserves, unfiltered by political correctness!",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bf99897f15f1a3c1d4d947e5b222cea760009dcfb2c5393c"
+}

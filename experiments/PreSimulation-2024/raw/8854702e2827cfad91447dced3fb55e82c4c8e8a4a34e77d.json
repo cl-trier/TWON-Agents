@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's conflict with Israel may have unexpected consequences, potentially impacting Russia's involvement in Ukraine and facing increased scrutiny from the G7 - a reminder of how interconnected global politics can be.",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8854702e2827cfad91447dced3fb55e82c4c8e8a4a34e77d"
+}

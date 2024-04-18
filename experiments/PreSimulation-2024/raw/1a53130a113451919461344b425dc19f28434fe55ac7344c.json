@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "It's time to shift the focus of our healthcare system from curative to preventive care, using advanced tools like genome sequencing and polygenic risk scores to identify individuals at risk and provide targeted interventions.",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/our-future-health-curative-preventive-care.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1a53130a113451919461344b425dc19f28434fe55ac7344c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de tegenvallende Europese energiemarkt door oorlog en politieke spelletjes, blijven Nederlandse bedrijven standvastig met hun traditionele waarden en solide beleid.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9ab8986f21ea174c68bad0ddda8ac1c7b275a9c0a52e7056"
+}

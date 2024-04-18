@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting to see Walmart Canada's commitment to accessible & affordable healthcare! In a recent interview on Watch DSN, Alex Hurd shared how pharmacists can now diagnose and prescribe for minor ailments, improving access and reducing strain on primary care. A great example of innovation and patient-centered approach in retail pharmacy.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "684bd514e2552eaf19e3fb6e3a910d8d29b423ea13f6ee0b"
+}

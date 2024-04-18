@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkende ontwikkelingen in Oekraïne! 126 burgers laten het leven en 478 zijn gewond in maart alleen al. Nu nog meer aanvallen op energie-infrastructuur met dodelijke slachtoffers. Dit is een directe bedreiging van regionale stabiliteit en internationale veiligheid.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47f5c60c3650b85353efd655cbf21fa13898c2d8f8d71bfe"
+}

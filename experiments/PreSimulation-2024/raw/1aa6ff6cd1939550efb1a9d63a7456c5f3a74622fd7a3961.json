@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beware of privatizing healthcare! Privaatsector ER zorg is 21% duurder dan VHA zorg, volgens onderzoek van het ER. Laat ons vasthouden aan de kwaliteit en kosteneffectiviteit van de VHA.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1aa6ff6cd1939550efb1a9d63a7456c5f3a74622fd7a3961"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Sad to see the continued attacks on Ukraine's energy infrastructure, but not surprised as Western aid fails to make an impact. We must prioritize our own interests and security, and question why mainstream media is silent on this crisis.",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed2d787b4607eced403c4c2c8c3786f25a46b5b65123da03"
+}

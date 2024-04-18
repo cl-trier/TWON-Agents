@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exciting news! A generous $20 million gift to @[organization name] will enable us to expand our work in Parkinson's disease research and programs. Let's keep pushing for a future where everyone can live healthy, fulfilling lives!\"",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6336d508adb4ea8ff2255439520bf1ccb5aaa897221a2489"
+}

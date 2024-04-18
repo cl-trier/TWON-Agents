@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Schokkend: Europa's armsten landen betalen de hoogste energieprijzen sinds Russische invasie van Oekraïne. Solidariteit is noodzakelijk!",
+    "retrieved_source": "https://www.euronews.com/business/2023/10/31/energy-crisis-who-has-the-priciest-electricity-and-gas-in-europe",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5da8642c1b9a673b6d1cb379275f29fb7783cd0895d33040"
+}

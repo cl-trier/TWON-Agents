@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@ConservativeVoice: \"Hospital privatization sacrifices quality care for cost savings, study shows. It's time to reevaluate our healthcare priorities and put patients before profits.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dbdeaeb82b6d43bc2a3fb32e250cbfbbed46f8046315ad45"
+}

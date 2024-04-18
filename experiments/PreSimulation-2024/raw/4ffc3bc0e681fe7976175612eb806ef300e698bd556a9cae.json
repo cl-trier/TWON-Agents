@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Bewahrt das universelle Gesundheitssystem in Libanon: Sorgen um Privatisierung & nachhaltige Lösungen für soziale Sicherheit notwendig.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ffc3bc0e681fe7976175612eb806ef300e698bd556a9cae"
+}

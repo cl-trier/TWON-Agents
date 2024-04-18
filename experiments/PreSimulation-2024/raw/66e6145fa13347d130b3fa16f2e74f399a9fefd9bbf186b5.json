@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "NATO must think beyond the war in Ukraine as it prepares for strategic cyber competition. But how can we counter Russia and China's political and technological challenges? It starts with domain stability and reaching out to the global multi-stakeholder community.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "66e6145fa13347d130b3fa16f2e74f399a9fefd9bbf186b5"
+}

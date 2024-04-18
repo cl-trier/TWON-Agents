@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie van Oekraïne heeft deze de zorgen over energieveiligheid en afhankelijkheid van olie en gas verscherpt. De volledige inval van Rusland in Oekraïne op 24 februari 2022 heeft verreikende gevolgen gehad voor het wereldwijde energieveld, zowel voor de energieveiligheid als voor de overgang naar duurzame energiebronnen. Europa verminderde zijn afhankelijkheid van Russische energie, maar creëerde daarbij tegelijkertijd een paradox rond zonne-energie. De oorlog in Oekraïne heeft diepe veranderingen teweeggebracht in het Europese energie systeem en stimuleerde gezamenlijke inspanningen als REPowerEU om de energieveiligheid te verbeteren. Wellicht nog belangrijker is dat de invasie van Poetin en de daaropvolgende schok op de wereldwijde energieprijzen de energiebeveiligingsangst in Beijing versterkt heeft.",
+    "retrieved_source": "https://energypost.eu/two-years-on-how-is-russias-invasion-of-ukraine-driving-energy-security-and-decarbonisation/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "faed3d5b6986621c3bed088bdd1d79138af77018d46ab370"
+}

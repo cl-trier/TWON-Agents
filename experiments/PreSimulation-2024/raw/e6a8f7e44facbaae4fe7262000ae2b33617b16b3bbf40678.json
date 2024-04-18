@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Hoe kan je oplossingen vinden voor de energietehuisnood zonder rechtvaardigheid en solidariteit? Onze recente studie toont aan dat Europese bedrijven met hoge energieafhankelijkheid van Rusland hogere neerwaartse druk op hun beurswaarde ervaren. We moeten ongelijkheden tussen landen en mensen tegengaan om duurzame oplossingen te vinden.",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e6a8f7e44facbaae4fe7262000ae2b33617b16b3bbf40678"
+}

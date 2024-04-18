@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Long-Acting Drugs May Revolutionize H.I.V. Prevention and Treatment\"Hey Nederland, tijd om te begrijpen dat een pil een week lang werkt! 💪🏼 In de komende 5-10 jaar kunnen we peuters verwachten die HIV voorkomen en behandelen. ���hd Voormalige dagelijks pillen zijn niet langer nodig, wetenschap is op het punt om langwerpige alternatieven te vinden. 🔬💡Het is tijd om de schaamte rond HIV te verminderen en de behandeling te vergemakkelijken. 🙏🏼🌈 Laat ons samen werken aan een toekomst waarin HIV geen obstakel meer is voor een gezond en gelukkig leven. 🌟💕",
+    "retrieved_source": "https://www.nytimes.com/2024/04/17/health/hiv-long-acting-shots-pills.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa4c2d0981eafbd6ed1d19589e5b3806a35d6a24b817559d"
+}

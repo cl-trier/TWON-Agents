@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In zorg voor Bakhmut: standvastigheid vereist in strijd tegen ongelijkheid. Afwijzen van G7-kritiek, samenwerking is sleutel tot globale stabiliteit.\"",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0b043e06003aa6f4208b57394f323ebe8d6b0c296e01adf7"
+}

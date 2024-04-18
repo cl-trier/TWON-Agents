@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Exploring the intersection of public health research, practice, and policy to prevent chronic disease. Share your insights and contributions to the CDC's call for papers!",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6ad63234c853c12bfdb2e5b1cbe46c71999b3eeee58ae865"
+}

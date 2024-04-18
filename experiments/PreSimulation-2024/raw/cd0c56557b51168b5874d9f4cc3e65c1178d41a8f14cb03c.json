@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir die Ukraine nicht nur mit Worten, sondern mit konkreten Aktionen und finanziellen Mitteln, um ihre Souveränität und territoriale Integrität zu schützen.\"",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cd0c56557b51168b5874d9f4cc3e65c1178d41a8f14cb03c"
+}

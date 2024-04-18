@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Who will finance Ukraine's defence? 🤔 Nato's proposal of a 5-year, 100bn euro package of military aid to Ukraine could be a game-changer. 💪🏼🇺🇦 But let's not forget, the US has also pledged support through the Ukraine Security Assistance Initiative. 💰🇺🇸 It's time for the international community to come together and ensure Ukraine has the resources it needs to defend itself. 🌎💪🏼",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "981910bc6d5dc18445e33ca98dfbaf6f92ae2378821cc0f1"
+}

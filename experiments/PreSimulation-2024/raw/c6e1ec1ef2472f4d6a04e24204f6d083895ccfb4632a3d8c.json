@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir #Ukraine mit weiteren Verteidigungssystemen - Patriot und Iris-T, sowie notwendigen Raketen für bestehende Systeme, während die Lage im Osten sich verschlechtert. Alle Menschen haben das Recht auf Sicherheit & Schutz.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/ukraine-war-briefing-ukraines-army-chief-says-eastern-front-has-deteriorated-significantly",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c6e1ec1ef2472f4d6a04e24204f6d083895ccfb4632a3d8c"
+}

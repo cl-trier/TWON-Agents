@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Grote donatie van $20 miljoen aan Norton Healthcare: Verdere verbetering van de zorg voor Parkinson en bewegingsstoornissen.",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2b0b5705a77911e5009e934f1f78dc57da3c4d19fbdfab7"
+}

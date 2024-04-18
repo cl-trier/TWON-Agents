@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The high cost of healthcare is a burden for far too many American families. It's unacceptable that many are forced to choose between paying their medical bills and other basic needs. We need to focus on creating more affordable options, promoting transparency in pricing, and ensuring that patients have the resources they need to navigate our complex healthcare system.\"",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6100bc6c9bb954eb72df0c49fd411b2d840c76d142e677a1"
+}

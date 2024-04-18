@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "In Lebanon, die schleichende Privatisierung des Gesundheitswesens stellt eine ernsthafte Bedrohung für die universelle Krankenversicherung dar. Während die Sozialversicherungsbeiträge und Haushaltsmittel nationaler Institutionen rapide an Wert verlieren, werden private Initiativen gefördert. Doch eine starke und nachhaltige soziale Sicherheitseinrichtung ist entscheidend für die Umsetzung von universeller Krankenversicherung! Lasst uns gemeinsam dafür kämpfen, vergessene Stimmen zu hören und den Kernprinzipien unserer Nation treu zu bleiben.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f80acbd3215f302cb0e9b6c33d800650eedc651a0f47a71"
+}

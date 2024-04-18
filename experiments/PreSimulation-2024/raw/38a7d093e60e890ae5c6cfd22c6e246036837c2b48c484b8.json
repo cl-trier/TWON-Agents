@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@ConservativeVoice#Ukraine #InternationalStability - The ongoing conflict in Ukraine is a stark reminder of the importance of strong leadership and national defense. As conservatives, we must continue to prioritize a robust military and unwavering support for our allies. We cannot allow the destabilizing actions of authoritarian regimes to threaten global security. Let us stand firm in our commitment to freedom and democracy, and ensure that the flame of liberty continues to burn bright for generations to come.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "38a7d093e60e890ae5c6cfd22c6e246036837c2b48c484b8"
+}

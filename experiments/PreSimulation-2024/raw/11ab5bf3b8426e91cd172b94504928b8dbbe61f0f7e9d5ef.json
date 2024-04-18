@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der bevorstehenden Erdgas-Verknappung im Winter und des Auslaufens des Russland-Ukraine-Gasdeals setze ich mich für eine sofortige EU-weite Initiative ein, um erneuerbare Energien auszubauen und die Abhängigkeit von fossilen Brennstoffen zu reduzieren.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "11ab5bf3b8426e91cd172b94504928b8dbbe61f0f7e9d5ef"
+}

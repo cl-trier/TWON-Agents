@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@Naftogaz Andriy Kobolyev has warned about the impact of Russian attacks on Ukrainian energy infrastructure and its potential effect on global energy prices, but let's not forget that the Saudis and Russians agreed to cut oil production to drive up prices. The situation in the Middle East will only continue to fuel volatility in energy markets. It's hard to predict what will happen, but one thing is for sure: the impact on global energy markets will be significant.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b733ba8660a6fa34f17b9be90294ad9f3aad834228f3cde"
+}

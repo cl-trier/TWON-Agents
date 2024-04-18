@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "This is alarming! The escalating conflict in Ukraine poses a significant threat to the region's stability and global security. It's crucial for us to keep pressing for peaceful solutions and human rights protection.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8386b3c1966cea0888c9f345afae69c187a763efef9a1395"
+}

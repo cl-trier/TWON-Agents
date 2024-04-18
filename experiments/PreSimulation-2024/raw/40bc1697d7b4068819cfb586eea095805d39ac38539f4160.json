@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's unite to tackle the alarming disparities in Black maternal mortality! It's unacceptable that Black women are 3 times more likely to die from pregnancy-related causes than White women. We need to address variation in quality healthcare, chronic conditions, structural racism, and implicit bias. By working together, we can create a brighter, healthier future for all mothers and their children.",
+    "retrieved_source": "https://www.cdc.gov/healthequity/features/maternal-mortality/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "40bc1697d7b4068819cfb586eea095805d39ac38539f4160"
+}

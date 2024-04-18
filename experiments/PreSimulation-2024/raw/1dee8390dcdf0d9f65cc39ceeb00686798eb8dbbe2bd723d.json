@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisering van de gezondheidszorg in het VK leidt niet alleen tot twee-klassen zorg, maar ook tot morele dilemma's voor artsen. Het is onaanvaardbaar dat commerciële belangen boven patiëntenzorg komen te staan. We willen onze gezondheidszorg beschermen en behouden als openbaar goed.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1dee8390dcdf0d9f65cc39ceeb00686798eb8dbbe2bd723d"
+}

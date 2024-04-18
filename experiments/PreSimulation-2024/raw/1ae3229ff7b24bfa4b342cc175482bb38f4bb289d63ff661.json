@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Health care costs continue to burden US families, even for those with insurance. High deductibles, copays, and surprise bills can quickly add up, leading to financial strain and difficult decisions about care. It's time for policymakers to take action and address the root causes of rising health care costs.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ae3229ff7b24bfa4b342cc175482bb38f4bb289d63ff661"
+}

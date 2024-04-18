@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Fluktuierende Energiemärkte & Ukrainische Infrastruktur: objektive Einblicke & zuverlässige Quellen für weitere Informationen 💡🌍 @IEA @IRENA",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "72a69fc9ecbcf3c24fc01999e593f2dc82616ad9e252f7c9"
+}

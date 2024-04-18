@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nederlandse hospitals Privatise? Nee dank je wel! Recent onderzoek toont aan dat privatisering van ziekenhuizen slechtere kwaliteit zorg voor patiënten betekent. Profiteren zorgen voor mindere zorg.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2ceb650edbb4840d8d6851486b0e7ba95079eae669f6c1d2"
+}

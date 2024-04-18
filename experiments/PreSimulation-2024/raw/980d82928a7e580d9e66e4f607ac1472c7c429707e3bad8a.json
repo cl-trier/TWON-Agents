@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming news from Ukraine as Russian forces reportedly seize Pervomaiske village in Donetsk. It's crucial we stand for peace, diplomacy, and self-determination of nations. My heart goes out to the innocent civilians affected by this conflict, especially the children in Tokmak who lost their lives due to recent shelling. We must work towards a world where human rights are protected and upheld for all, regardless of borders or political alliances.",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "980d82928a7e580d9e66e4f607ac1472c7c429707e3bad8a"
+}

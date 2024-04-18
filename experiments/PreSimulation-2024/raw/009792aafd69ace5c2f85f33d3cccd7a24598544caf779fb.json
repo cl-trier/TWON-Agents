@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Solidarity is not just a word, it's a guide for how society should function. Everyone deserves equal access to healthcare and research opportunities. Let's work together to make sure no one is left behind.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "009792aafd69ace5c2f85f33d3cccd7a24598544caf779fb"
+}

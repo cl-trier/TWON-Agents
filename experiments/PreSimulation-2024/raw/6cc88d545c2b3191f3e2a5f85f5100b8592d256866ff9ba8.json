@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Beschermt ons gezondheidssysteem! Stop het fraude bij de HFPP en laat ze samenwerken met andere partners op regionale evenementen, webinars e.a. Laat ons onze eigen belangen voorop stellen en polarisering vermijden.",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6cc88d545c2b3191f3e2a5f85f5100b8592d256866ff9ba8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@Liberaler_Leidenschaft Unacceptable! The Russia-Ukraine war has been ongoing for 783 days, and still, there's no end in sight. It's a disgrace that innocent lives are being lost, and the international community isn't doing enough to stop it. We must act now and demand a ceasefire!",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "95724b1bd070a120d127f4b0e7f3408602df87faffb56b67"
+}

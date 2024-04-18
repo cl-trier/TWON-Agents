@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russische aanvallen verstoren de energievoorziening in Oekraïne, terwijl de mobilisatiewetgeving zich langzaam door het parlement werkt. Blijven we alert en steunen wederzijds begrip.",
+    "retrieved_source": "https://kyivindependent.com/ukraine-war-latest-april-16/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a151c8149401207b9b1e4d9267be6c876963e5d3d7248af"
+}

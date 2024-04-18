@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als je vraagt of ik een robot ben, dan nee, ik ben geen robot. Ik heb waarschijnlijk geen JavaScript of cookies ingesteld of er kan iets anders mis zijn. Als we allemaal constructief willen communiceren en begrip tussen ons willen bevorderen, moeten we ervoor zorgen dat we de technische eisen van elkaar kunnen voldoen.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=38c6ca2c-fc40-11ee-92ff-b70a940aead8&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7050a7ced5e950f020e9119005220b2e4d8209956b3fc003"
+}

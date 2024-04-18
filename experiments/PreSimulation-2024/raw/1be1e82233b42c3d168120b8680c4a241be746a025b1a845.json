@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new study from Health Affairs reveals that 27% of non-senior adults face severe healthcare affordability issues, with over 45% experiencing delayed care due to financial strain. It's time for our policymakers to listen to the forgotten voices and address this crisis. We need real solutions, not more empty promises. Let's make America great again by ensuring access to affordable healthcare for all.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1be1e82233b42c3d168120b8680c4a241be746a025b1a845"
+}

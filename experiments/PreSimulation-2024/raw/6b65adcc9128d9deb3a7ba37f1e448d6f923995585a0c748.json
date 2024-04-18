@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Preventative healthcare should be accessible to everyone, not just the wealthy. HealthKey's £1.13M seed funding will help bridge the information gap & make preventative healthcare a reality for all. Let's work together towards a healthier future!",
+    "retrieved_source": "https://techfundingnews.com/exclusive-healthkey-secures-113m-in-seed-funding-to-unlock-preventative-healthcares-front-door/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b65adcc9128d9deb3a7ba37f1e448d6f923995585a0c748"
+}

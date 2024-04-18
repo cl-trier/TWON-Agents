@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "As a Gen Zer, I'd like to challenge the assumption that my generation prefers virtual healthcare over in-person visits. While convenience is important, studies show that younger people still value human connection & personalized care. Let's work towards creating a hybrid model that caters to diverse preferences & promotes equitable access to quality healthcare for all.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "66fba6bef6cdc3cf228b77ec4538d1a5f6b0593674594e84"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Impressive resilience! Despite facing ongoing conflict, Ukraine's economy has shown remarkable strength in 2023. Kudos to Ukrainian authorities for their commendable efforts in maintaining financial stability and pursuing crucial reforms, even under the most challenging of circumstances. The European Commission's $20 billion financing commitment highlights the international community's support for Ukraine's economic recovery and sovereignty. � urkaine⚔️💪#EconomicResilience",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "247e081c5e067200dfe2e9b73dcfa43bcdca61c24c4f91f0"
+}

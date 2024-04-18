@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU warnings of winter energy price hike due to Russia-Ukraine gas deal ending are just another example of how the elites are out of touch with the common people. We need to put our own interests first and focus on self-sufficiency, not relying on unreliable foreign powers for our energy needs.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7c5535bb4a6a4548e11845e7007d5f5a1b0371ba087c9dc5"
+}

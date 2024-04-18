@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Stand with Ukraine! Laat ons samen vechten voor soevereiniteit en vrede, terwijl Russische troepen oosten van Oekraïne oprukken.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43cfd998acf80f181e19b0e03dc0ab41b45d2ff19a568659"
+}

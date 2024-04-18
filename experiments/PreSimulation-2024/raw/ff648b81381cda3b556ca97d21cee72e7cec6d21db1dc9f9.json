@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨Die Wahrheit über die Unzahl von unaffordable Healthcare💰🤥‍♂️TailorMed's Affordability Network ist das Game-Changer! 🔥💪Join us in the fight against financial toxicity in healthcare💪🏼",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ff648b81381cda3b556ca97d21cee72e7cec6d21db1dc9f9"
+}

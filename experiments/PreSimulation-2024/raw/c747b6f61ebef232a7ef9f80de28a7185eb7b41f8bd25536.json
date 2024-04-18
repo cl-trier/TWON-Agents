@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Big news! Norton Healthcare receives $20 miljoen geschenk voor de \"Just Imagine\"-campagne! 🎉💰 This is a huge boost for the Cressman Parkinson's and Movement Disorders Center and Cressman Parkinson's Research. 🌟 A great example of how private donations can make a difference in healthcare.",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c747b6f61ebef232a7ef9f80de28a7185eb7b41f8bd25536"
+}

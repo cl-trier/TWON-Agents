@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to attend the upcoming Healthcare Fraud Prevention Partnership (HFPP) Executive Board Meeting! Collaboration is key to fighting fraud and protecting our healthcare system. Looking forward to engaging in valuable discussions and working groups with fellow partners. Let's continue to promote transparency, accountability, and integrity in healthcare.",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "90bcb8eab9e70d0c62408726e8ca46920d9784d8a1f7b424"
+}

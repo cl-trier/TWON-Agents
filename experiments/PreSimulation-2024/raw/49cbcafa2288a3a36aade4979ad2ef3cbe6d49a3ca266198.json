@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend zu sehen, wie Firmen wie VivaWell Prävention in den Mittelpunkt ihrer Gesundheitspläne stellen & so messbare Vorteile für Mitarbeitergesundheit erzielen - eine smarte Investition in die Zukunft!",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "49cbcafa2288a3a36aade4979ad2ef3cbe6d49a3ca266198"
+}

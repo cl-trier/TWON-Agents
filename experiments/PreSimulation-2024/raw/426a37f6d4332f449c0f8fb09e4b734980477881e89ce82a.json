@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Genug von der Politischen Korrektheit in der medizinischen Forschung! Wir brauchen mehr unvoreingenommene Studien, um die wahren Ursachen für Gesundheitsprobleme zu ermitteln. Lasst uns den Mainstream-Narrativen trotzen und ehrliche Lösungen für unsere Bürger finden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "426a37f6d4332f449c0f8fb09e4b734980477881e89ce82a"
+}

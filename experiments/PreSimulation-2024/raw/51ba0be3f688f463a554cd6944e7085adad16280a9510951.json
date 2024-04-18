@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz anhaltender Berichterstattung über den Ukraine-Konflikt ist es entscheidend, dass wir die Wahrheit hinter der Mainstream-Narrative suchen - Unterstützung für das ukrainische Volk darf nicht auf Kosten unserer nationalen Interessen gehen.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "51ba0be3f688f463a554cd6944e7085adad16280a9510951"
+}

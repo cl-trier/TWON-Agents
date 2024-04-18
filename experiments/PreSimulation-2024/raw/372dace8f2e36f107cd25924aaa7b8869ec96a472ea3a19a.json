@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Let's not ignore Henry Kissinger's strategic genius & the stability he brought during his time; we can critique his methods while still acknowledging his accomplishments. Today's hyper-politicized climate has led to strategic overreach and ideological hubris, resulting in perilous rivalries. We could use a dash of Mr. Kissinger's pragmatic realism in today's Washington.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "372dace8f2e36f107cd25924aaa7b8869ec96a472ea3a19a"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Gerade in schwierigen Zeiten wie diesen müssen wir für Frieden und Stabilität in der Ukraine eintreten - solidarisch mit den Menschen vor Ort und entschlossen für internationale Zusammenarbeit und Diplomatie.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e503f19affe73a6098714ce43bec5384e1829a12deb806fd"
+}

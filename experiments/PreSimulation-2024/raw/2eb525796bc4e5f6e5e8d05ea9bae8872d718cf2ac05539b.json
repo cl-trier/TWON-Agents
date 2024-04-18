@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Opgemerkt: Amerika's zorgtoegankelijkheidscrisis raakt steeds meer mensen. Gemiddeld maximaal $97 per maand kan betaald worden voor medische kosten. Het moet ons betrekken allemaal om oplossingen te vinden voor deze complexe uitdaging!\"(Opmerking: Let op: Amerika's zorgtoegankelijkheidscrisis raakt steeds meer mensen. Gemiddeld maximaal $97 per maand kan betaald worden voor medische kosten. Dit moet ons allemaal raken en ons er toe insporen oplossingen te vinden voor deze complexe uitdaging!)",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2eb525796bc4e5f6e5e8d05ea9bae8872d718cf2ac05539b"
+}

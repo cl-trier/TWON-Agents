@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Geef dat hospitaalwerkenden een stem! Ontario's openbare ziekenhuissysteem is bedreigd door privatisering en we mustarden ons niet laten uitschakelen!",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "68b7285dfc26f11f5521c5e0385c677b59abeabac7510c45"
+}

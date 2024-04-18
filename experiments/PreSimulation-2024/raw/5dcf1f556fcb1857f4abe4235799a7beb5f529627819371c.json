@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Onderhandse olieoorlog? Russische aanvallen op Oekraïense energie-infrastructuur zullen onvermijdelijk leiden tot hogere energiewinters voor Europa. Onze solidariteit en steun voor Oekraïne is noodzakelijk, niet alleen voor hun veiligheid maar ook voor onze eigen energiebehoeften.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5dcf1f556fcb1857f4abe4235799a7beb5f529627819371c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Everyone deserves access to quality healthcare, regardless of their ability to pay. Let's work towards a more equitable and sustainable healthcare system for all!\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d91070a7966de312dd4096ad96ca0665873eee9e06593928"
+}

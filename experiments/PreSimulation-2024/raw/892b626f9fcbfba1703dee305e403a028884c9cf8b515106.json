@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatisation in UK's healthcare system: a two-tier system unlikely due to limited private sector capacity, but pressure on doctors to compromise values & 13% of Britons used private healthcare due to concerns about patients' health, not commercial incentives.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "892b626f9fcbfba1703dee305e403a028884c9cf8b515106"
+}

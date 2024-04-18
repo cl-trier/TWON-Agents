@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unser uneingeschränkter Beistand für die Ukraine! 🇩🇪🇺🇦 Wir stehen fest an der Seite des ukrainischen Volkes und werden es so lange unterstützen, wie nötig. Solidarität mit den Opfern von Russlands Aggression! 💪",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "548e6b13a8289ea6da796a801f901854b7791e32b345a9af"
+}

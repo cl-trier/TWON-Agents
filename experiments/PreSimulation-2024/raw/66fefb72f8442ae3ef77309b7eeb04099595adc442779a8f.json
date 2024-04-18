@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Walmart Canada's commitment to accessibility and affordability in healthcare is a breath of fresh air in a world where profit often takes precedence over people's needs.",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "66fefb72f8442ae3ef77309b7eeb04099595adc442779a8f"
+}

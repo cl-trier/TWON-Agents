@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Solidarität mit unseren Freunden in der Ukraine! Die Eskalation der Gewalt durch Russland ist untragbar. Wir fordern sofortige Deeskalation und Respektierung der ukrainischen Souveränität. Es ist an der Zeit, dass Europa und die Welt gemeinsam für Frieden und Gerechtigkeit eintreten. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0e40e616adb72a8e5de2d8071181bd882991f54aa09d0922"
+}

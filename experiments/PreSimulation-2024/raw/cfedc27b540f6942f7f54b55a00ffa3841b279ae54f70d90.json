@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "EU: Winter energy prijzen stijgen door einde Russisch-Oekraïense gasdeal. Nood aan solidariteit en collectieve actie om alternatieven te ontwikkelen. Tijd voor gelijke kansen op duurzame energie",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cfedc27b540f6942f7f54b55a00ffa3841b279ae54f70d90"
+}

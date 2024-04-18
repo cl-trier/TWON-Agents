@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Faszinierend, wie gut sich die Ukraine wirtschaftlich hält, trotz der anhaltenden Kriegswirren. Die ukrainischen Behörden übertreffen in punkto Finanzverwaltung und Reformagenda sogar Erwartungen. Ein starker Beleg für die Widerstandsfähigkeit des Landes und die Weisheit begrenzter Regierungsinterventionen.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b2ece27c16068d2897bad287bd13d1e29af938eb924800f9"
+}

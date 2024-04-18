@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarität mit der Ukraine und их Kampf für Freiheit und Demokratie! Die Internationale Gemeinschaft muss zusammenrücken, um die Instabilität in der Region zu bewältigen und eine dauerhafte Lösung zu finden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "754b2d28447c87a43ff19f65d76df7bb71fa354796957fcb"
+}

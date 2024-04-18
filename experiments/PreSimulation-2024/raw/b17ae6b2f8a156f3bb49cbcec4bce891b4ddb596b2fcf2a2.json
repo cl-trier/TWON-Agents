@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der Energiepreiskrise ist es wichtig, solidarisch mit der Ukraine zu sein und gleichzeitig nachhaltige Lösungen für alle Beteiligten zu finden - ein komplexer Balanceakt zwischen Politik, Wirtschaft und Moral.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b17ae6b2f8a156f3bb49cbcec4bce891b4ddb596b2fcf2a2"
+}

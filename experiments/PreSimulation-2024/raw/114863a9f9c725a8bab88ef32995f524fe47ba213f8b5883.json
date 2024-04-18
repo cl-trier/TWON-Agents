@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante inzichten van Dr. Sanjay Gupta op de AHA jaarvergadering: belang van preventie & meting van hersengezondheid. Steun voor diabetesmedicijnen voor gewichtsverlies, maar geen vervanging voor gezonde leefstijl. AI in de medische wereld moet \"trust, but verify\" volgen - technologie dient om gaps te vullen, kan soms fout zijn.",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "114863a9f9c725a8bab88ef32995f524fe47ba213f8b5883"
+}

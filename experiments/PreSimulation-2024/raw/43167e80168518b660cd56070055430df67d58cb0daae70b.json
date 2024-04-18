@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Uitzonderlijke prestaties van UAMS artsen in gezondheidsonderzoek! Hip- en kniechirurgen Barnes en team behoren tot de top 1% in VS. Staat voor kwaliteit en innovatie.",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "43167e80168518b660cd56070055430df67d58cb0daae70b"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die privaten Gewinne auf Kosten der Menschen!\" #Privatisierung #Gesundheitswesen #Kanada Es ist alarmierend zu sehen, wie die kanadischen Regierungen amid deepening health care crisis increasingly privatization schemes vorantreiben. While claiming to be opposed to the privatization of health care, union leaderships have worked tirelessly to block any genuine struggle against privatization by health care workers. The growing crisis in Canada’s health care system has been used by all provincial governments to justify further privatization. One of Canada’s largest telecommunications monopolies, Telus, has gotten into the lucrative health care game in recent years. Despite the crisis in the health care system, Medicare remains overwhelmingly popular among Canadian workers with privatization long treated as a political third rail.It's time to put people over profits and ensure that everyone has access to quality, public healthcare. The privatization of healthcare is not the solution to the current crisis, but rather a recipe for disaster. We must stand up against those who seek to profit from our healthcare system and fight for a truly public and equitable healthcare system.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "53c857c9fd2d6ea10920e2e5e60525557353cafd5f7e9fd9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🇺🇦💰🔥 Did you know that European firms' energy exposure has had a negative impact on their equity returns? 🤔 A study by Refinitiv found that a one standard deviation increase in energy exposure is associated with a 0.9 percentage point reduction in European firms' returns. 💸📉 This is particularly concerning given Europe's heavy dependence on energy imports from Russia. 🇷🇺💨 It's time for conservative values and limited government intervention to take center stage. 🇺🇸💪 Let's promote financial responsibility and free market principles to ensure economic prosperity. 💰📈",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "860dc60450e3c1b2cae91ef82f9fa145d9b569052963fb60"
+}

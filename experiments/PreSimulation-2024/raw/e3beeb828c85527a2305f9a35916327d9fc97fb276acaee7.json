@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "New fault lines emerge: #Iran's attack on #Israel could complicate #Russia's position in #Ukraine. A broader Middle East conflict may also bolster #China's regional influence at Russia's expense.",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e3beeb828c85527a2305f9a35916327d9fc97fb276acaee7"
+}

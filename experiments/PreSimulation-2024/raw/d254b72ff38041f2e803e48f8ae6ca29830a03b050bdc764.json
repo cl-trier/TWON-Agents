@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "It's unacceptable that Ukraine is being left to fight Russia's invasion with one arm tied behind their back. The lack of advanced weapons and support from Western leaders is a betrayal of the Ukrainian people's courage and resilience. We need to put our money where our mouth is and provide the necessary resources for Ukraine to defend itself.",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d254b72ff38041f2e803e48f8ae6ca29830a03b050bdc764"
+}

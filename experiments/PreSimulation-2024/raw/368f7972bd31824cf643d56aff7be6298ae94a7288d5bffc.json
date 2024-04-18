@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "It's time for NATO to step up and take responsibility for financing Ukraine's defense, rather than relying solely on the US. A 100bn euro package over 5 years is a good starting point.",
+    "retrieved_source": "https://www.theguardian.com/global/2024/apr/16/russia-ukraine-war-who-will-finance-ukraines-defence",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "368f7972bd31824cf643d56aff7be6298ae94a7288d5bffc"
+}

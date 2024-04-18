@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Following updates on the Ukraine crisis, China's Xi presents 4 priorities for resolution. Meanwhile, Russia intensifies efforts to seize a key town. US Treasury Secretary Yellen calls for swift passage of a Ukraine aid bill, emphasizing no substitute for military and budget support. Despite debates on legal ways to use funds, Yellen believes risks are manageable with G7 unity. Constructive dialogue remains crucial in these complex times.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2fbcd543a5fa63fa499e6fb00291d770d53e5627f86d87d3"
+}

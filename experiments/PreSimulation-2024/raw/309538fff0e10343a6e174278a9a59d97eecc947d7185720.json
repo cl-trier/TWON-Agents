@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Dag 783 van de Russische invasie in Oekraïne en nog steeds zijn er geen echte vooruitgang in zicht. Het is tijd dat Europa en de rest van de wereld een duidelijke houding innemen tegen deze agressieve politiek van Poetin.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "309538fff0e10343a6e174278a9a59d97eecc947d7185720"
+}

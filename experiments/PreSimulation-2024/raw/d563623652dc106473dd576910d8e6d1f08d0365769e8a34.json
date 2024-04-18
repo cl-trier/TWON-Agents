@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie in Oekraïne blijft de situatie gespannen. Begeleid het CSIS International Security Program op 24 februari 2024 voor een virtueel debat met deskundigen over de huidige staat van de oorlog, toekomstige strategieën van Oekraïne en Rusland, en de toekomst van westerse steun. Dr. Seth G. Jones, Eliot A. Cohen, Emily Harding en Michael Vickers zullen u inzichten geven over de ontwikkelingen op het slagveld. Geen ideologische vooroordelen: alleen feitengebaseerd debat om begrip te bevorderen. #Oekraïne #Rusland #CSISVertaling: Twee jaar na de Russische invasie in Oekraïne blijft de situatie gespannen. Vergezelt het CSIS International Security Program op 24 februari 2024 voor een virtueel debat met deskundigen over de huidige staat van de oorlog, toekomstige strategieën van Oekraïne en Rusland, en de toekomst van westerse steun. Dr. Seth G. Jones, Eliot A. Cohen, Emily Harding en Michael Vickers zullen u inzichten geven over de ontwikkelingen op het slagveld. Geen ideologische vooroordelen: alleen feitengebaseerd debat om begrip te bevorderen.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d563623652dc106473dd576910d8e6d1f08d0365769e8a34"
+}

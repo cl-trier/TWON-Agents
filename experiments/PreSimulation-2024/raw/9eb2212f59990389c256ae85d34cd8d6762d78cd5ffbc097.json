@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "It's time to prioritize the needs of our own people! #FairAndEquitableAI in biomedical research and healthcare means ensuring that AI is used to benefit everyone, not just a select few. Let's work together to create a system that truly serves the people, not just the elites.",
+    "retrieved_source": "https://www.universiteitleiden.nl/en/in-the-media/2023/09/new-article-by-elaw-fair-and-equitable-ai-in-biomedical-research-and-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9eb2212f59990389c256ae85d34cd8d6762d78cd5ffbc097"
+}

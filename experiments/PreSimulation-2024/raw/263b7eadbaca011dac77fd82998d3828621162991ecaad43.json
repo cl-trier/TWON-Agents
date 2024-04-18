@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Syria's plan for privatizing public hospitals could lighten the regime's financial burden, but raises concerns about access & quality of healthcare, especially amidst a crumbling infrastructure.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "263b7eadbaca011dac77fd82998d3828621162991ecaad43"
+}

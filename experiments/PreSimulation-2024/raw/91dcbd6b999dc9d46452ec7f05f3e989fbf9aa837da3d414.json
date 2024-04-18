@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare should be a right, not a privilege. It's unacceptable that so many Americans are struggling to pay their medical bills. The high cost of healthcare is a burden on families and can even lead to debt. It's time for us to demand more from our lawmakers. Let's work towards a system where everyone has access to affordable, quality healthcare.",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91dcbd6b999dc9d46452ec7f05f3e989fbf9aa837da3d414"
+}

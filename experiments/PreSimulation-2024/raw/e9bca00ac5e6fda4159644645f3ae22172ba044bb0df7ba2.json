@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine's energy prices are spiraling out of control, meanwhile our own leaders are too busy virtue signaling to address the issue.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e9bca00ac5e6fda4159644645f3ae22172ba044bb0df7ba2"
+}

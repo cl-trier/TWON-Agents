@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Preventive healthcare is not just a smart investment in personal well-being, but also a vital step towards reducing healthcare costs and enhancing the nation's overall health. Apollo Hospitals' ProHealth program, an AI-driven personalized preventive health check, sets a great example of how technology can be leveraged to promote preventive healthcare practices. It's encouraging to see the growth in awareness among women, but we still have a long way to go in ensuring that everyone has access to such life-saving measures. Kudos to Apollo Hospitals for their efforts in promoting preventive healthcare and contributing to a healthier India!\"",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "de638385772a6e59c14d6ec0b842f5e4544889b34c6ce754"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As Sudan marks a grim one-year anniversary of its civil war, our hearts go out to the millions affected by this devastating conflict. While global attention is fixated on Gaza and Ukraine, let's not forget the humanitarian crisis in Sudan, where food prices have skyrocketed by over 110%. We must stand together to address the root causes of hunger - access and funding - before it's too late.",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "322b744fcc0011c42c73499aa1c730e732e8a9f76ab971d1"
+}

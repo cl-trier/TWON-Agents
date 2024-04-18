@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Putin en Zelensky laten zich niet misleiden door hun eigen belang. Oorlog in Oekraïne kon eindigen met neutrale status en afzag van NATO-lidmaatschap. Het is tijd voor een nieuwe koers, waarbij de nationale identiteit en soevereiniteit van Nederland worden gehandhaafd.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b82357d8fa08695252416a459c27378468a8dcfae21a5bf5"
+}

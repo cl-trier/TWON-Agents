@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Surprising resilience! Despite ongoing conflict, Ukraine's economy showed strength in 2023, garnering EU & IMF recognition. Kudos to Ukrainian authorities for exemplary financial management and pushing forward with reforms.",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f38f3f1079ed15e8b3445c15abeb5e3da20f16b51f3aaa8"
+}

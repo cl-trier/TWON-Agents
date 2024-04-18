@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierend, wie wenig Aufmerksamkeit dem Thema #Gesundheitsversorgungsleistbarkeit geschenkt wird! Höre mir die Podcast-Folge von \"Healthcare Rethink\" an, um zu erfahren, wie TailorMed das Ruder herumreißt. Sie bieten mehr als nur Zahlungshilfe - sie haben eine ganzheitliche Strategie zur #Leistbarkeit im Gesundheitswesen entwickelt. Wir brauchen mehr Lösungen wie diese, um unserem kriselnden System auf die Beine zu helfen! 🚨🔊 [Link zum Podcast]",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "545c80cc2e274ef4da23688c96b973f3a52b09e96af94c88"
+}

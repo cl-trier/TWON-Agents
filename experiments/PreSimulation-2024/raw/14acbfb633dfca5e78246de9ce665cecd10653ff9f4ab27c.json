@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bommen en granaten regenen doorheen Oekraïne, burgers zijn het slachtoffer. Mensenrechtenschendingen op large scale, dit kan niet door worden gelaten. Accountability is cruciaal, maar hoe bereiken we dat als de oorlog escaleert?",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "14acbfb633dfca5e78246de9ce665cecd10653ff9f4ab27c"
+}

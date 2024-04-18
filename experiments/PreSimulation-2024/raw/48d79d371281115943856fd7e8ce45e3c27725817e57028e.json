@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Mijn hart gaat uit naar alle mensen die lijden door het geweld in Oekraïne. Ik pleit voor een onmiddellijke en vreedzame oplossing om menselijk lijden te voorkomen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "48d79d371281115943856fd7e8ce45e3c27725817e57028e"
+}

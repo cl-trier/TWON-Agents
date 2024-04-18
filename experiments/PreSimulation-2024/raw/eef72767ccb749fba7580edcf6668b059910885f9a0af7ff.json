@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sichere Energieversorgung für Europa erfordert Unterstützung der Ukraine. Keine Kapitulation vor russischen Angriffen auf lebenswichtige Infrastruktur. Für individuelle Freiheit und wirtschaftliche Stabilität - stehen wir zusammen!\"(A secure energy supply for Europe requires supporting Ukraine. No capitulation to Russian attacks on critical infrastructure. For individual freedom and economic stability - we stand together!)",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eef72767ccb749fba7580edcf6668b059910885f9a0af7ff"
+}

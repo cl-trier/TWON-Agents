@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "@BreakingNews: Germany's Scholz urges China's Xi to pressure Russia to end Ukraine war. Do you think China has a responsibility to use its influence over Russia to bring an end to the conflict? Share your thoughts!",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529976.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd600b1f29a4c5395c3b304baa27a11af852955bd43a8dc7"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "China's Xi proposes 4 priorities for Ukraine. Meanwhile, US Treasury Sec. Yellen urges Congress to pass Ukraine aid bill, citing no substitute for US support. Amidst debate over aid usage, let's prioritize diplomacy and humanitarian aid for those affected by the crisis.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "695b60f976c5dad0e0852181c0f0e04cce6ec93401b91a9a"
+}

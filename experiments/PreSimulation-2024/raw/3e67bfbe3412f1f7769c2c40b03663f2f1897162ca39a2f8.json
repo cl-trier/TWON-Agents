@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oost-Oekraïne verslechtert snel. Russische agressie vereist directe actie. Steun aan Oekraïne moet opkomen voor wapens en training om onze bondgenoten te beschermen. Niet langer kunnen we toezien hoe Rusland zijn buurland bedreigt. Tijd voor Nederland om haar stem te laten klinken in het steunen van soevereiniteit en democratie.\"Vertaling: \"Oost-Oekraïne verslechtert snel. Russische agressie vereist directe actie. Steun aan Oekraïne moet voorop komen om wapens en training te bieden ter bescherming van onze bondgenoten. Niet langer kunnen we toezien hoe Rusland zijn buurland bedreigt. Het is tijd dat Nederland haar stem laat horen in het steunen van soevereiniteit en democratie.",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e67bfbe3412f1f7769c2c40b03663f2f1897162ca39a2f8"
+}

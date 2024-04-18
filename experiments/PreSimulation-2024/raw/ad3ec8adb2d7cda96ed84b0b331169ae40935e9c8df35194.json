@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "As #Russia continues assaults on #Ukraine's energy sector, it's crucial we support Ukrainian self-defense, but let's also push for diplomatic resolutions & #ClimateAction to reduce our global reliance on fossil fuels, fostering a more peaceful, sustainable world. 🌍🕊️",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ad3ec8adb2d7cda96ed84b0b331169ae40935e9c8df35194"
+}

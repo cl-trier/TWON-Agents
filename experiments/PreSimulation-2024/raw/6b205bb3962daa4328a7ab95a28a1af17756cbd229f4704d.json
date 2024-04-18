@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's ongoing conflict highlights the need for greater international cooperation to ensure stability in the region and beyond. It's time for nations to put aside differences and work towards a peaceful resolution that respects Ukraine's sovereignty and promotes collective security.\"",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6b205bb3962daa4328a7ab95a28a1af17756cbd229f4704d"
+}

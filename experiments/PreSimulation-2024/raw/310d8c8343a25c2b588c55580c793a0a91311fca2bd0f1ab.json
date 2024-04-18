@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützung für so lange, wie nötig: Deutschland steht an der Seite der Ukraine 🇩🇪🇺🇦Russlands Angriffskrieg gegen die Ukraine verursacht unermessliches Leid für Millionen. Die territoriale Integrität und Souveränität der Ukraine müssen gewahrt bleiben, und sie muss sich gegen Russlands Aggression verteidigen können. Deshalb unterstützen wir militärisch.Sanktionsregime: Solange Russland die Ukraine weiterhin brutal angreift, müssen Konsequenzen folgen. Gemeinsam mit unseren Partnern setzen wir uns für einen robusten und beispiellosen Sanktionsmechanismus ein.Wiederaufbaukonferenz URC24: Wir werden in Berlin die internationale #ReconstructionConference für den Wiederaufbau der Ukraine ausrichten. Zusammen mit unseren globalen Partnern stehen wir an der Seite der Ukraine und ihrer Bevölkerung.#NothilfeUkraine: Mit dem Vermerk \"Nothilfe Ukraine\" auf Banküberweisungen leisten wir humanitäre Hilfe für die Menschen in der #Ukraine. Jeder Beitrag zählt! ❤️🇦🇺🇨🇿🇩🇪🇫🇷🇬🇧🇮🇹🇺🇸",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "310d8c8343a25c2b588c55580c793a0a91311fca2bd0f1ab"
+}

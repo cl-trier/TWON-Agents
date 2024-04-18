@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Schockierende Neuigkeiten über die Krise der US-Gesundheitsversorgung! Laut PayZen Report können 36% der Amerikaner sich medizinische Versorgung schlicht nicht leisten. Eine traurige Realität in unserem angeblich so fortgeschrittenen Land. Es wird Zeit, dass wir uns auf unsere nationalen Interessen konzentrieren und die Bedürfnisse unseres Volkes an erste Stelle setzen, anstatt globalistischen Agenden nachzujagen.",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f761863703e6958e6ef4ed678080c09133cbd15fbf767f86"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Amidst escalating Middle East tensions, even if Russian attacks on Ukrainian energy infrastructure are averted, the recent Saudi-Russian production cuts indicate higher energy prices are here to stay.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc0bb619b98ef5966c6ae26347c69504711d064a511e1fbc"
+}

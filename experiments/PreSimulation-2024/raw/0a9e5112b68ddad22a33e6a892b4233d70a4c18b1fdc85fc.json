@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "While mainstream media ignores the plight of our ailing healthcare system, we proudly acknowledge Elizabeth Cressman's $20 million gift to Norton Healthcare, strengthening their Parkinson's and Movement Disorders Center. A true patriot investing in America's future!",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0a9e5112b68ddad22a33e6a892b4233d70a4c18b1fdc85fc"
+}

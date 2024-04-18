@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Sorge um Europas Energieversorgung: Der ehemalige Chef von Ukraines Staatsölunternehmen warnt vor Preisanstiegen durch anhaltende Zerstörung der ukrainischen Energieinfrastruktur. Wenn europäische Energiemärkte glauben, dass Russland diesen Krieg gewinnt, könnte es drastische Auswirkungen auf die Energiepreise haben. Der Schaden an Ukraines Energienetz ist umfangreicher als je zuvor - ein Zeichen für die Komplexität des Konflikts. Konstruktiver Dialog und gegenseitiges Verständnis sind jetzt wichtiger denn je.",
+    "retrieved_source": "https://www.theguardian.com/world/2024/apr/14/an-energy-war-is-being-waged-former-oil-boss-warns-of-price-rises-after-ukraine-infrastructure-attacks",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8a9f7a7717f38f26838480368447a33681eb8d68edf24d61"
+}

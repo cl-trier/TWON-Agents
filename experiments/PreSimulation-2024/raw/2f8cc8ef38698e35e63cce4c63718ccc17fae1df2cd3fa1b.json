@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The situation in Ukraine is devastating. Morale among troops is low, and understandably so. Relentless bombardment, lack of advanced weapons, and losses on the battlefield have taken their toll. The government needs to do more to support our soldiers and ensure they have the resources they need to defend our country. It's heartbreaking to see so many lives lost and families torn apart. We can't continue like this.",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f8cc8ef38698e35e63cce4c63718ccc17fae1df2cd3fa1b"
+}

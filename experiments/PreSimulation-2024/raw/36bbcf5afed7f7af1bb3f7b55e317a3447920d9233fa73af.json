@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "#BlackMaternalHealthWeek is an opportunity for us to come together and address the unacceptable disparities in maternal mortality rates that disproportionately affect Black women. Let's commit to providing equitable, quality care for all mothers-to-be, regardless of race or ethnicity. We owe it to each other as a society to ensure that every pregnancy has a healthy outcome.We must acknowledge and address the systemic issues that contribute to these disparities, such as inadequate access to prenatal care, lack of cultural competency in healthcare providers, and structural racism within our medical systems. By working together, we can create a future where every mother has an equal chance at a safe and healthy pregnancy.Let's continue the conversation beyond this week and make tangible strides towards positive change. Together, we can break down barriers to quality care and save lives.",
+    "retrieved_source": "https://www.cdc.gov/healthequity/features/maternal-mortality/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36bbcf5afed7f7af1bb3f7b55e317a3447920d9233fa73af"
+}

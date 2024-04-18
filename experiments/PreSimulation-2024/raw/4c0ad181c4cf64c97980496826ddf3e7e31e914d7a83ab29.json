@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Kudos to the nine UAMS physicians recognized as Healthcare Research All-Stars for their dedication to advancing healthcare through innovative research! Their efforts have not only improved patient outcomes but also placed UAMS among the top institutions nationwide. Here's to more groundbreaking discoveries in the future!\"",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c0ad181c4cf64c97980496826ddf3e7e31e914d7a83ab29"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Worst case\" scenario for Europe's energy supply? Time for some serious cost-benefit analysis on our reliance on Russian gas. Let's not sacrifice our security for cheap energy.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "40fea50fc3e540f423855fb266be3e7ff67b7a6a79a69891"
+}

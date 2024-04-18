@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Providence St. Joseph Health System verlangt unverschämt hohe Beitragserhöhungen, während sie die Gesundheitsversorgung für Mitglieder unerschwinglich machen. Wir bei Blue Shield sind offen und bereit, Verhandlungen fortzusetzen, um eine Lösung zu finden. Unsere Mitglieder haben nach wie vor Zugang zu allen Krankenhäusern und Anbietern in unserem Netzwerk. Wir bei Blue Shield setzen uns dafür ein, ein bezahlbares Gesundheitssystem für unsere Familien und Freunde zu schaffen.\"",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "851f844535f63bdff995ea394a14bcad6e430e7fcf7e18c9"
+}

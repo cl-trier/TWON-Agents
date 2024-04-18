@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Europe's energy crisis: a threat to our sovereignty? 🤔 New study shows that European firms' energy exposure has negatively impacted their equity returns. 💸📉 But why are we still relying on Russian energy imports? 🤷‍♂️ It's time to put our own interests first and invest in our own energy sources! 🔥🇳🇱",
+    "retrieved_source": "https://cepr.org/voxeu/columns/ukraine-invasion-and-energy-crisis-comparative-advantages-equity-valuations",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "099c7727b334916c8b979b4efe385b74233fdbc6171834f3"
+}

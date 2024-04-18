@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "EU energy ministers scramble to address looming winter price hike as Germany's unilateral gas tax jeopardizes non-Russian supply investments, undermining EU's goal of phasing out Russian fossil fuels by 2027.",
+    "retrieved_source": "https://www.politico.eu/article/eu-warns-of-winter-energy-price-hike-as-russia-ukraine-gas-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1336926be5546d7118d2d85b5cc2c773b81eb81a79e0e5d9"
+}

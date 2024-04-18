@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gelukkig horen we vandaag dat negen #UAMS artsen erkenning krijgen voor hun bijdrage aan de gezondheidszorgonderzoek! Dit toont aan dat onze medici niet alleen excelleren in zorgverlening, maar ook in het produceren van belangrijke onderzoeksresultaten. Prachtig werk, team #UAMS!",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9d866c5638b4b950a13d91ba738ecd0870513124f306b7bc"
+}

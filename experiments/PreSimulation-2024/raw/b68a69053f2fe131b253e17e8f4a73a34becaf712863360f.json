@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "💡💊🏥 Healthcare for all! 🌎💕 Investing in research is key to unlocking better treatments and cures. Let's work together to make healthcare accessible and affordable for everyone.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b68a69053f2fe131b253e17e8f4a73a34becaf712863360f"
+}

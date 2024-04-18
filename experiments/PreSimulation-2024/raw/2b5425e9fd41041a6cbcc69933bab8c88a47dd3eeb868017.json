@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "China's Xi laying out 4 priorities to resolve the Ukraine crisis? How about we focus on resolving our own crisis at home first? Biden's economic policies are crippling our nation, and it's time for some fiscal responsibility. Let's pass a balanced budget amendment and get our house in order before trying to save the world.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2b5425e9fd41041a6cbcc69933bab8c88a47dd3eeb868017"
+}

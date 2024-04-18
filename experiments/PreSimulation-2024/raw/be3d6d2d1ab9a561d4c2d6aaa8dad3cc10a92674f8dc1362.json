@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Besorgniserregende Eskalation in der Ukraine bedroht Regionalstabilität und internationale Sicherheit - wir müssen auf diplomatische Lösungen setzen, um Leid zu lindern und Konflikte friedlich beizulegen.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "be3d6d2d1ab9a561d4c2d6aaa8dad3cc10a92674f8dc1362"
+}

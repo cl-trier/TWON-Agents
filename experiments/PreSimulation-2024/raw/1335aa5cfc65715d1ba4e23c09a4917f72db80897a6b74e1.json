@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's attacks on Russian oil refineries are a necessary response to Russia's relentless aggression. The U.S. should support Ukraine's efforts to defend itself, rather than condemning the refinery strikes.",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1335aa5cfc65715d1ba4e23c09a4917f72db80897a6b74e1"
+}

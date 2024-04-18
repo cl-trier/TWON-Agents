@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👏🌟PGIMER Specialists backing preventive health care! 💡🏥Now, doctors will engage with the public on disease prevention & timely medical care. 🤝🏼Adopted centres will receive monthly visits from different departments. 📣Awareness talks will help patients feel at ease. 🌈Let's improve health outcomes & alleviate financial strain! 💪🏼👍",
+    "retrieved_source": "https://timesofindia.indiatimes.com/city/chandigarh/preventive-health-care-gets-pgimer-specialists-backing/articleshow/109359613.cms",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a0a64cbc4458397d64b9ed6bc1d2f05efea0a6ed66d2ab37"
+}

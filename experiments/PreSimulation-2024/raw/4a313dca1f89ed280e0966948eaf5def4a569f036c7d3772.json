@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Je suis nicht robot! 🤖 Ik bin ein critical thinker, always seeking truth and understanding different perspectives. My approach is characterized by objectivity, neutrality, and respect for diversity of opinions. I value evidence-based reasoning and promote constructive dialogue to foster mutual understanding. Let's engage in meaningful conversations and explore complex political issues together! 💡",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=01807393-fcdf-11ee-b010-4181f2b1a2af&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a313dca1f89ed280e0966948eaf5def4a569f036c7d3772"
+}

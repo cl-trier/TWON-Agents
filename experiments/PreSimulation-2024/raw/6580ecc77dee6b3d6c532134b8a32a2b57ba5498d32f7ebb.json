@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "27% of adults face at least one healthcare affordability challenge.\" This is unacceptable in a country that claims to be developed and prosperous. It's time for us to acknowledge that healthcare is a basic human right and not a privilege for those who can afford it. We need policies that ensure everyone has access to quality, affordable healthcare, regardless of their income or social status.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6580ecc77dee6b3d6c532134b8a32a2b57ba5498d32f7ebb"
+}

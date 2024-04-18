@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Volgens analisten is het mogelijk dat Oekraïne in 2024 militair zal verliezen, maar de politieke en diplomatieke wegen om een einde te maken aan het conflict zijn complex en noodzakelijkerwijs compromissen met betrokken partijen.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b0eb4c356049c4dc110f79d3a893fee2931a16a1de1be2d1"
+}

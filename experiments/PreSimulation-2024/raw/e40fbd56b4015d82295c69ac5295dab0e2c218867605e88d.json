@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gen Z richt zich op virtuele gezondheidszorg, omdat ze een gebruiksgerichte benadering wenst en niet het traditionele paradigma van ziekenhuisbezoek wil volgen. Dit is een generatie die lifelong gebruiken zal maken en wij moeten prayer dat we hun nodig hebben.\"",
+    "retrieved_source": "https://www.managedhealthcareexecutive.com/view/talking-about-the-generations-the-health-and-healthcare-of-boomers-gen-xers-millennials-and-gen-zers-part-4-gen-z-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e40fbd56b4015d82295c69ac5295dab0e2c218867605e88d"
+}

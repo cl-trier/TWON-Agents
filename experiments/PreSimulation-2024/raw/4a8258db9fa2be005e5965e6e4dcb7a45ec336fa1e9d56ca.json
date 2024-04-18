@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 27% of Adults Face At Least One Healthcare Affordability Challenge 💸🏥New study shows the devastating impact of healthcare costs on low- and middle-income families. It's time for policymakers to take action and ensure everyone has access to affordable, quality healthcare. #HealthcareForAll #AffordableCare #FinancialStrain 💪🏼",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4a8258db9fa2be005e5965e6e4dcb7a45ec336fa1e9d56ca"
+}

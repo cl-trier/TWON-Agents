@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Despite GDPR's focus on protecting Europeans, it's time for us to take a stand and ensure that organizations worldwide can still access necessary data for important health research, like comparing cardiovascular disease prevalence in Asians vs. Americans. Let's opt-in for the sake of knowledge and prevention!",
+    "retrieved_source": "https://www.cureus.com/articles/238345-cardiovascular-disease-prevalence-in-asians-versus-americans-a-review-of-genetics-diet-and-the-call-for-enhanced-prevention-and-screening",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0a897a966f8030a8861e1531392d2f158e6c3da881717688"
+}

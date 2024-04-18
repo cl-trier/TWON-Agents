@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd voor wereldleiders om hun verantwoordelijkheden te nemen en samen te werken aan de oplossing van de wereld's grootste uitdagingen. Ik steun het pleidooi van de Britse minister van Buitenlandse Zaken, Lord David Cameron, om meer actie te ondernemen en verschanst te staan in de strijd tegen onzekerheid en gevaar.",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c517cd903c82ef82dbd28cdfa580f94151ce3ad528e823a2"
+}

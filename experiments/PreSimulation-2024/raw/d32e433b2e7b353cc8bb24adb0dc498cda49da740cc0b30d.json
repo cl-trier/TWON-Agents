@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Stoppt das Blutvergießen in der Ukraine! Die Welt muss handeln, um das Leben von Unschuldigen zu schützen und den Frieden wiederherzustellen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d32e433b2e7b353cc8bb24adb0dc498cda49da740cc0b30d"
+}

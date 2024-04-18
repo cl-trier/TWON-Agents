@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The ongoing conflict in Ukraine is a pressing concern for global peace and security. The recent surge in violence has resulted in numerous civilian casualties, highlighting the urgent need for a ceasefire and diplomatic efforts to resolve the crisis. It's crucial that the international community comes together to address this issue and prevent further human rights violations. Let's work towards a peaceful solution and ensure the protection of civilians caught in the conflict.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "09d9028da05e767c8b30d7785987c3a303d61e9d9e6302d7"
+}

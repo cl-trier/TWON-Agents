@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Ostukraine hat sich die Lage dramatisch verschlechtert, so der ukrainische Armeekommandant - Unterstützung von westlichen Verbündeten wird dringender benötigt",
+    "retrieved_source": "https://www.politico.eu/article/east-ukraine-front-russia-war-oleksandr-syrskyi/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6d90ca3d51f7dd4b474ef9ad447c3f03eb6d0015b792cd76"
+}

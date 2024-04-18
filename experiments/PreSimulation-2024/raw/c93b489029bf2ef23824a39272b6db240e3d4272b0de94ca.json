@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Achtung vor Privatisierung: Studien zeigen, dass die Notfallversorgung im privaten Sektor 21% teurer ist als bei der VHA. Lasst uns für eine umfassende und gerechte Gesundheitsversorgung eintreten, die auf Expertise und Respekt für Veteran:innen basiert, anstatt Profite zu maximieren.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c93b489029bf2ef23824a39272b6db240e3d4272b0de94ca"
+}

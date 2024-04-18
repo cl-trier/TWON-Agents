@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangstelling wekken voor NANOTECMEC, Europees onderzoek naar nano- en geavanceerde technologie voor ziektepreventie, diagnostiek en therapie. Sterke overheid steun nodig om nationaal belang te beschermen.",
+    "retrieved_source": "https://www.nwo.nl/en/news/pre-announcement-european-call-for-nano-and-advanced-technologies-for-disease-prevention-diagnostics-and-therapy-nanotecmec",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "23cadf8f27e8a776a6bae01001b6a55531080f2ec7a5dccd"
+}

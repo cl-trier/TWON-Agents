@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@HFPP_News \" Fighting healthcare fraud requires collaboration & commitment. Join us at our Executive Board Meeting on April 18 to unite forces against fraud and protect the integrity of our healthcare system.",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "070c0181e2666b4fb08989e26d79a200aa48b3fdee777d9a"
+}

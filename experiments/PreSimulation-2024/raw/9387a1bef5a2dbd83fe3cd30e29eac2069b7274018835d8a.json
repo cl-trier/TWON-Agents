@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Belangrijke investeringen in gezondheidszorg & onderzoek zijn noodzakelijk voor een sterk en gezond Nederland",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9387a1bef5a2dbd83fe3cd30e29eac2069b7274018835d8a"
+}

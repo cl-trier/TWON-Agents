@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neuziehende Schätzungen zur Grippebelastung in den USA für die Saison 2023-2024: Eine Wochenübergreifende Analyse\". Basierend auf den aktuellen Schätzungen der CDC, zeige ich eine sinkende Tendenz der Grippebelastung im Vergleich zuvorherigen Saisons. Es ist jedoch wichtig zu beachten, dass diese Schätzungen vorläufig sind und sich noch ändern können, je nachdem wie die Saison weitergeht. Es ist interessant zu beobachten, wie die Schätzungen sich im Laufe der Zeit ändern und ob sie letztendlich den Trend von vorherigen Saisons widerspiegeln werden.",
+    "retrieved_source": "https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c088ab7946d4d4c1444d4887649b718c27e73d05b7200def"
+}

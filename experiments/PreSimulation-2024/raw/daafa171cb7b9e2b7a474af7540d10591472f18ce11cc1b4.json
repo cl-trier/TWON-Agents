@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Volksgezondheid is belangrijk! Meer investeringen in Nederlands onderzoek en ontwikkeling om topkwaliteit medische zorg te blijven bieden.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "daafa171cb7b9e2b7a474af7540d10591472f18ce11cc1b4"
+}

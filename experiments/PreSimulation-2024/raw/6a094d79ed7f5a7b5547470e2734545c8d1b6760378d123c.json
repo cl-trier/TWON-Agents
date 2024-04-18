@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gefährdete Gesundheitsversorgung: Privatisierungstendenzen in Libanon auf dem Vormarsch. Sozialversicherungsbeiträge und Haushaltsmittel nationaler Institutionen verlieren an Wert, darunter das Ministerium für öffentliche Gesundheit. Seit 2013 blockierte Politiker Privatisierungsinitiativen, während die NSSF ihre Rolle als Hauptversicherer des Privatsektors einbüßt. Wir müssen uns für eine starke soziale Sicherheit und universelle Gesundheitsversorgung einsetzen!",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6a094d79ed7f5a7b5547470e2734545c8d1b6760378d123c"
+}

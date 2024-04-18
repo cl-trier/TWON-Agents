@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Middle East tensions & Russian attacks on Ukrainian energy infrastructure could drive up global energy prices. With OPEC+ already cutting production, we must be vigilant against further disruptions. Let's continue to champion energy independence & free market solutions to secure a prosperous future.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b5566630f10ae802e9bc945f1579b1fff7b0bab7fc087d22"
+}

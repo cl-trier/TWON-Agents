@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "STI preventative care is crucial for a healthy community! Kudos to Siouxland District Health Department for their efforts in reducing and preventing sexually transmitted diseases. Let's all do our part and prioritize our health!\"",
+    "retrieved_source": "https://www.ktiv.com/2024/04/16/healthbeat-4-siouxland-district-health-district-aims-educate-community-sti-preventative-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8f41aaa71e81e7f600da974abb2f187f935e011f0fc82937"
+}

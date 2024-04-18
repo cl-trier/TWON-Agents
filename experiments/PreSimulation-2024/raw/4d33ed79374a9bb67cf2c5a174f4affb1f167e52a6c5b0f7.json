@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ontdekken en behandelen in een vroeg stadium is de sleutel tot succes in de strijd tegen kanker! Over de laatste 5 jaar is het aantal kankerscreening-testen met 50x gestegen. Laat ons voortgaan met deze trend van proactieve gezondheidszorg en zorgen dat onze tradities in preventie en behandeling van kanker verder floreren.",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4d33ed79374a9bb67cf2c5a174f4affb1f167e52a6c5b0f7"
+}

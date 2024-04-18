@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Day 781 of the Russia-Ukraine conflict. Our thoughts remain with those affected by this devastating conflict. We stand firm in our commitment to national security & sovereignty. Let's continue to champion for peace, human rights, and free markets around the world.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/15/russia-ukraine-war-list-of-key-events-day-781",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7d212bf81e9f360b89fe6240f96ed3ac446111476beaef8d"
+}

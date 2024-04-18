@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "🔵 Tim Sheehy, GOP Senate candidate for MT, calls for a return to pure healthcare privatization, citing hospitals' reliance on federal subsidies. He argues that healthcare functioned effectively before health insurance, blaming Obamacare for increased premiums and more gov't control. However, he affirms protecting Medicare & Social Security benefits for MT seniors. A nuanced stance on a complex issue - let's foster constructive dialogue!",
+    "retrieved_source": "https://www.semafor.com/article/12/03/2023/sheey-montana-senate-healthcare-privatization",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ed4a4a8fc77ddddde04f48e802ef9d57cabd1fa7c92fc681"
+}

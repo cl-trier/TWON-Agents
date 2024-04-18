@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Hope for a brighter future! 🌟 $20 million gift will broaden Parkinson's disease initiatives and research, advancing treatment options and enhancing the lives of those affected. Let's work together to find a cure and create a world where everyone can thrive! 💪🏼🧡",
+    "retrieved_source": "https://nortonhealthcare.com/news/20-million-gift-will-expand-parkinsons-disease-programs-and-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "abeae1ff3bf19fbb9fb0a0c2d542d39247d0860df041ec7d"
+}

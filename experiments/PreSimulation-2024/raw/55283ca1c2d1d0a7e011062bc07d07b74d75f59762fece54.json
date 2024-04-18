@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Sick of healthcare fraud ruining our system? Check out the Healthcare Fraud Prevention Partnership's upcoming events, webinars, and working groups. Let's work together to stamp out corruption and protect our nation's health!",
+    "retrieved_source": "https://www.cms.gov/medicare/medicaid-coordination/healthcare-fraud-prevention-partnership",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "55283ca1c2d1d0a7e011062bc07d07b74d75f59762fece54"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Interessante studie over de kosten van privatisering in het #VerenigdKoninkrijks gezondheidssysteem, gefinancierd door belastingbetalers. Er zijn druk op artsen om hun altruïstische en openbare waarden te compromitteren & beperkte capaciteit van privésector (Anderson & Mossialos, 2022). Recente peilingen tonen 13% gebruik van privézorg in het laatste jaar (Edwards, 2022). Nodig uit tot kritisch onderzoek & constructieve dialoog over deze complexe kwestie.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78ec30924ca3e0cd0f7583a693d505a2170e675118c7522e"
+}

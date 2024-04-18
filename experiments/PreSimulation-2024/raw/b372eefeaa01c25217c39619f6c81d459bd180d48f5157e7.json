@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Geschlechtergesundheitslücke ist kein rein weibliches Problem, sondern betrifft uns alle – es ist an der Zeit, für Geschlechtergleichheit in Gesundheit zu kämpfen und die globale Wirtschaft mit $1 Billion zu stärken.",
+    "retrieved_source": "https://www.weforum.org/agenda/2024/02/women-health-gender-gap-equality/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b372eefeaa01c25217c39619f6c81d459bd180d48f5157e7"
+}

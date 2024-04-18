@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russische troepen maken terreinwinst in oostelijk Oekraïne, terwijl zware gevechten aanhouden. Objectieve analyse en kritisch denken zijn noodzakelijk om de waarheid te achterhalen.",
+    "retrieved_source": "https://www.voanews.com/a/at-least-50-000-russians-killed-in-ukraine-war-report-says/7568597.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0324c286d0cd76cdbcd8116c50f6033256981f013fece41d"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Proud to see 9 UAMS physicians named Healthcare Research All-Stars! 🎉👨‍⚖️👨‍⚕️Their dedication to research & innovation in orthopaedic surgery, gastrointestinal surgery, and general surgery is truly inspiring. 💡🏥 It's a testament to the excellence of UAMS & its commitment to providing top-notch patient care. 🙌",
+    "retrieved_source": "https://www.katv.com/news/health/nine-uams-physicians-named-healthcare-research-all-stars",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "30e7ef04aef5292cc0a32c63934b36762ef1d199b941e8ae"
+}

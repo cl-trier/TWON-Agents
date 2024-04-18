@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Alarm bellen! 🚨 Ukraine-oorlog escaleert en bedreigt regionale stabiliteit en internationale veiligheid, waarschuwt ASG Jenča. 💥 Minimaal 126 burgerslachtoffers en 478 gewonden in maart alleen al. 🤯 Oorlogsinfrastructuur onder vuur, met dodelijke slachtoffers. 😱 OHCHR blijft firsthand verslag doen van mensenrechtenuitdagingen. 💪 Madam President, dit is een directe bedreiging voor regionale stabiliteit en internationale veiligheid. 🌎 Wat gaan we doing? 🤔",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c01b570591e56233edf718658b693fb9b502ece598ce0f4"
+}

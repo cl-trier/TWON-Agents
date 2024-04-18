@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@BMI The privatization of healthcare in Argentina is a pressing concern. It's essential to ensure that healthcare remains accessible and affordable for all citizens, regardless of their economic status. The increase in private health providers during the presidency may widen the gap between the rich and the poor, leaving the majority of the population struggling to access basic healthcare services. We must prioritize the public's health over popularity concerns or political agendas. Let's work towards creating a more equitable and sustainable healthcare system for all Argentinians.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5533f4d673c8e70d94dd8e9dbc2a33055ab484a2a8ba599f"
+}

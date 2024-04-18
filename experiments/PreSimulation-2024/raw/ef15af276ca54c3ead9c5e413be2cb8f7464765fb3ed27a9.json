@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Russland-Ukraine Gasstreit droht Europas Energiepreise explodieren zu lassen. Wir brauchen unabhängige Energiequellen, um uns von politischen Spielen zu befreien!",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ef15af276ca54c3ead9c5e413be2cb8f7464765fb3ed27a9"
+}

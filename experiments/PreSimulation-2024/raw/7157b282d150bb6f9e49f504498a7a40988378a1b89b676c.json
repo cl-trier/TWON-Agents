@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Trudeau's budget: Meer geld voor AI en tech, maar wat over belastingverlichting voor burgers? Internationale samenwerking of eigenbelang? Onze soevereiniteit eerst!\"",
+    "retrieved_source": "https://calgary.citynews.ca/2024/04/16/canada-federal-budget-2024-unveiling/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7157b282d150bb6f9e49f504498a7a40988378a1b89b676c"
+}

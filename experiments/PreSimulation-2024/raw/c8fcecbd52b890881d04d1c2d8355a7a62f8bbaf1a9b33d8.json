@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Voor vrede en stabiliteit in Europa is Ukraines toetreding tot NATO onontkoombaar; we moeten stappen zetten om deze veiligheidsarchitectuur te versterken.",
+    "retrieved_source": "https://www.lemonde.fr/en/opinion/article/2023/06/23/for-peace-and-stability-in-europe-we-must-bring-ukraine-into-nato-there-is-no-other-solution_6035659_23.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c8fcecbd52b890881d04d1c2d8355a7a62f8bbaf1a9b33d8"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Viering in Nederland! Gelukkige tijden voor onze medische toppers 🥳 Negen UAMS-artssenaars zijn verkozen tot \"Healthcare Research All-Stars\" vanwege hun baanbrekende onderzoek in 2021/2022. Onze hip- en kniechirurgen, orthopedische chirurgen en gastrointestinale & algemene chirurgen behoren tot de top nationwide 🏥 Staak voor nationale excellence en innovatie! #UAMSPride #HealthcareHeroesVertaling: \"En in Nederland vierwenen we! Gelukkige tijden voor onze medische topexperts. Negen UAMS-artsen zijn verkozen tot 'Healthcare Research All-Stars' vanwege hun banbrekende onderzoek uit 2021/2022. Onze hip- en kniechirurgen, orthopedische chirurgen en gastrointestinale & algemene chirurgen behoren tot de top op nationaal niveau. Sta voor nationale excellentie en innovatie!\"",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0277422f1bb7e489f24a67291940c798cf540f6c5b416610"
+}

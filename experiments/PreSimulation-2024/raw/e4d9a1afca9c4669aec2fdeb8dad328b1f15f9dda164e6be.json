@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Twee jaar na de Russische invasie in Oekraïne is er nog steeds geen einde van het geweld in zicht. Op 24 februari organiseert het CSIS International Security Program een virtuele bijeenkomst om de huidige toestand te bespreken en de strategieën van Oekraïne en Rusland voor de komende periode te analyseren. Belangrijk is ook de rol van de VS en andere westerse landen in hun steun aan Oekraïne. Pragmatisch benaderen we dit conflict, met respect voor soevereiniteit en stabiliteit. Stevige overheid nodig om orde te handhaven! #Oekraïne #Rusland #VredeVertaling:Twee jaar na de Russische invasie in Oekraïne is er nog steeds geen einde van het geweld in zicht. Op 24 februari organiseert het CSIS International Security Program een virtuele bijeenkomst om de huidige toestand te bespreken en de strategieën van Oekraïne en Rusland voor de komende periode te analyseren. Belangrijk is ook de rol van de VS en andere westerse landen in hun steun aan Oekraïne. We benaderen dit conflict pragmatisch, met respect voor soevereiniteit en stabiliteit. Een sterke overheid is noodzakelijk om orde te handhaven!",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e4d9a1afca9c4669aec2fdeb8dad328b1f15f9dda164e6be"
+}

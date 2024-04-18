@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Trotz begrenzter Regierungsinterventionen können wir alle unseren Beitrag zur Eindämmung der weltweiten Diabetes-Epidemie leisten, indem wir auf gesunde Lebensweise setzen – ein Schritt, der nicht nur individuelle Freiheiten respektiert, sondern auch die traditionellen Werte familiärer Gesundheitspflege stärkt.",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "78dea97151a5e8828fb900b2271932ad933ea3811ea3873d"
+}

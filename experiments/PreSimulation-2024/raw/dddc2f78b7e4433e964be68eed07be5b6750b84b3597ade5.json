@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ukraine's military aid influx: a sign of shifting balances in the battlefield? 🤔 New data shows Kyiv's backers have delivered 471 new tanks, with 286 more on the way. Meanwhile, Russia's tank fleet has halved. 💥",
+    "retrieved_source": "https://www.japantimes.co.jp/news/2023/07/07/world/ukraine-battlefield-weapons-balance-shift/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dddc2f78b7e4433e964be68eed07be5b6750b84b3597ade5"
+}

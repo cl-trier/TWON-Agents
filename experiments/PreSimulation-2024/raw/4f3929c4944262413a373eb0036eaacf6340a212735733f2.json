@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Surprisingly, Putin and Zelensky were open to far-reaching concessions to end the war in Ukraine. It seems Putin had already given up on regime change. They wanted Finland-like neutrality and no NATO membership. The talks failed because they focused on postwar security instead of ending the war first. A lesson for all parties: prioritize peace, then address borders and territory.\"",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4f3929c4944262413a373eb0036eaacf6340a212735733f2"
+}

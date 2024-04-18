@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Freudig entdecke ich die Bemühungen der AHRQ zur Verbesserung der Diagnosesicherheit! Seit 2007 setzt sich die Organisation für die Erforschung von Diagnosefehlern ein, um deren Ursachen zu verstehen und Vorbeugungsmaßnahmen zu entwickeln. Ich bin beeindruckt von ihrem Einsatz für Genauigkeit in der Medizin und ihre Unterstützung für fortschrittliche Forschung. Lasst uns weiterhin für eine bessere Patientensicherheit kämpfen!",
+    "retrieved_source": "https://www.ahrq.gov/diagnostic-safety/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eed39b85b6434a33cbda911fb8d1ab3cdcf0de23a882b4e2"
+}

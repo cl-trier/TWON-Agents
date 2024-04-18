@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@ConservativeVoice: \"Antibiotic resistance poses a dire threat to public health and global security. It's imperative that we take swift action to prevent its rise. By prioritizing research, responsible use of antibiotics, and international collaboration, we can contain this crisis and save countless lives.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "04a868f9b36a17295606b56a61da7fc4bf0480216aae51c0"
+}

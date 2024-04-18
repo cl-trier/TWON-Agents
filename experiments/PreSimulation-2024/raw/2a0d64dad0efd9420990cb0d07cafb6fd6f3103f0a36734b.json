@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Two years since Russia's invasion of Ukraine? Time flies when you're having fun, doesn't it? 😜🇷🇺💥",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2a0d64dad0efd9420990cb0d07cafb6fd6f3103f0a36734b"
+}

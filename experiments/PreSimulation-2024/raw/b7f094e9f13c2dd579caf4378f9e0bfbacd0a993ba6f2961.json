@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Branieële recherche! 💡👨‍⚕️👩‍⚕️ UAMS physicians recognized for contributions to healthcare research. 💼🏥 C. Lowry Barnes, M.D. en nog velen meer zijn genomineerd voor hun bijdragen aan de geneeskunde. 💬 Wat een eer! 🙌",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b7f094e9f13c2dd579caf4378f9e0bfbacd0a993ba6f2961"
+}

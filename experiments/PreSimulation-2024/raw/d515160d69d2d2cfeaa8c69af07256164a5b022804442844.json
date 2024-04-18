@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@WomensHealth #AIera #gendergap 💻💪🏽 It's time to revolutionize women's healthcare! The AI era presents a game-changing opportunity to close the health gender gap and address long overlooked and underserved issues in women's health. Let's harness predictive technology to drive research, diagnosis, and personalized treatment options. We must prioritize inclusivity and diversity in data collection and ensure equitable access to resources. Join me in the fight for a future where every woman has control over her own health destiny! 💪🏽💕",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d515160d69d2d2cfeaa8c69af07256164a5b022804442844"
+}

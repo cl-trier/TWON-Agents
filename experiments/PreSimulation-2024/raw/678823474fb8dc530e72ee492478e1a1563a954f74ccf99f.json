@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Fantastische Neuigkeiten! Laut einem Bericht von Healthians ist die Anzahl der Krebsvorsorgeuntersuchungen in den letzten 5 Jahren um das 50-fache gestiegen. Es ist ermutigend zu sehen, dass sich immer mehr Menschen ihrer Gesundheit bewusst werden und proaktiv handeln. Männer (52%) und Frauen (48%) nutzen zunehmend die Möglichkeit, sich auf verschiedene Krebsarten testen zu lassen, wie z.B. Brust-, Eierstock- und Bauchspeicheldrüsenkrebs. Dies zeigt, wie wichtig Präventivmaßnahmen im Gesundheitswesen sind. Lassen Sie uns diese Aufmerksamkeit für Präventivmedizin weiter fördern und zu einer gesunden Zukunft beitragen!",
+    "retrieved_source": "https://www.zeebiz.com/trending/news-preventive-healthcare-cancer-screening-up-50-times-over-last-5-years-says-report-284611",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "678823474fb8dc530e72ee492478e1a1563a954f74ccf99f"
+}

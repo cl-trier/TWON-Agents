@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "👀 Did you know that investing in employee health can actually save money for your business? 💰🧡 VivaWell's prevention-centered healthcare plans are being offered as an employee benefit by Latin American corporations and are already showing a return on investment! 📈👍 It's time to prioritize employee health and well-being. Let's talk about how we can make this happen in your organization! 💼🧊",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "246a8e00b251e3d08c8cac168ce07ce6fdfd054fd879b06f"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine is losing the war with Russia because of a lack of support from the international community and a failure of leadership at home. The government in Kiev has been unable or unwilling to provide adequate resources and strategic direction to its military, leaving soldiers on the front lines to suffer heavy losses and morale. It's time for Ukraine's leaders to take responsibility for their failures and work towards a peaceful resolution to this conflict.\"",
+    "retrieved_source": "https://www.politico.eu/article/why-ukraine-losing-russia-war/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce7fee82f2c51744f7830829861684b6eac1cb4e053d59bb"
+}

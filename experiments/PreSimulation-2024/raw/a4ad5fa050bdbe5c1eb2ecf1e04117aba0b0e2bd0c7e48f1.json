@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Iran's reckless attack on Israel could further isolate Russia in Ukraine, as new geopolitical fault lines emerge and the West considers even more sanctions.",
+    "retrieved_source": "https://www.businessinsider.com/iran-attack-israel-bad-russia-war-ukraine-china-influence-economy-2024-4",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4ad5fa050bdbe5c1eb2ecf1e04117aba0b0e2bd0c7e48f1"
+}

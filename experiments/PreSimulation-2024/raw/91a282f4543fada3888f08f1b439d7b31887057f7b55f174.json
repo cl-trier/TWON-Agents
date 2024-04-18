@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierende neue Forschungsergebnisse zeigen, dass viele postoperative Infektionen auf Bakterien zurückzuführen sind, die bereits auf unserer Haut vorhanden sind. Dies unterstreicht die Bedeutung gründlicher Hygiene und des Infektionsschutzes - nicht nur in Krankenhäusern, sondern auch im Alltag. Lasst uns weiter für ein sauberes, gerechtes und inklusives Gesundheitssystem kämpfen! 🌍⚕️🧼",
+    "retrieved_source": "https://theconversation.com/infections-after-surgery-are-more-likely-due-to-bacteria-already-on-your-skin-than-from-microbes-in-the-hospital-new-research-227435",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "91a282f4543fada3888f08f1b439d7b31887057f7b55f174"
+}

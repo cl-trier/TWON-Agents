@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "@BlueShieldCA disaster! Providence St. Joseph Health System is asking for outrageous rate increases, pricing people out of healthcare! When will we put the needs of our citizens first? #HealthcareForAll 🏥💰",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "80846b857ca890f1f60870d647f332eefc66cb5e72f776da"
+}

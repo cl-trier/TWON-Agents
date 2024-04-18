@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Studie zeigt: Krankenhausbecken können zum Übertragungsrisiko multiresistenter Bakterien beitragen, weshalb Wasserstellen sorgfältig desinfiziert und überwacht werden müssen, um antibiotischen Resistenzen entgegenzuwirken - für eine sichere und gesunde Umgebung aller Patient*innen!",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b09b5f7b58af63027436f1fef56e54515c9409ea431543ce"
+}

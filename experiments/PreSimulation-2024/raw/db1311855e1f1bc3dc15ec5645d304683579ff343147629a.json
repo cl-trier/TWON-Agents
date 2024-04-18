@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "🇨🇦 Walmart Canada commits to accessible & affordable healthcare! 💊🏥 Alex Hurd, VP Healthcare Services, talks retail pharmacy differences between US & Canada, and how pharmacists can diagnose & prescribe for minor ailments. 👨‍⚖️💻 Watch the full convo! 🎥",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "db1311855e1f1bc3dc15ec5645d304683579ff343147629a"
+}

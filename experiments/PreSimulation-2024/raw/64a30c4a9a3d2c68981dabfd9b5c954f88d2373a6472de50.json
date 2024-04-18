@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gratulation an Dr. Smith, einen herausragenden Vorreiter in der Prävention von Krankheiten und Infektionen bei Nierenpatienten! Seine Hingabe zur Stärkung der Gemeinschaft durch Bildung über Ernährung und Lebensmittel sowie seine Unterstützung für innovative Sicherheitsmaßnahmen sind bewundernswert. Eine verdiente Anerkennung von der American Association of Kidney Patients - wir brauchen mehr Ärzte wie ihn, die sich für individuelle Freiheit und Verantwortung einsetzen.",
+    "retrieved_source": "https://www.prnewswire.com/news-releases/kidney-patients-honor-top-physician-for-disease-and-infection-prevention-302117039.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "64a30c4a9a3d2c68981dabfd9b5c954f88d2373a6472de50"
+}

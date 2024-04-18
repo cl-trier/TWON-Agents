@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "In Solidarität mit der Ukraine! Wir müssen die europäische Energiesicherheit stärken & nachhaltige Lösungen fördern 🌍💡. Informiert euch bei der IEA oder IRENA über die dynamischen Entwicklungen im globalen Energiemarkt. Zusammen für eine sichere und grüne Zukunft!",
+    "retrieved_source": "https://www.dynamikeseidhseis.gr/en/european-energy-prices-hang-in-the-balance-as-ukraine-struggles-to-protect-infrastructure/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b2bd6211fcc5c349d823f806d2638b38e8adb1c3c232876"
+}

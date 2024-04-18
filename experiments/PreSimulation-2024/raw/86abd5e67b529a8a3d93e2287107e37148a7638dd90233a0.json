@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Privatization of healthcare? No thanks! 🙅‍♂️💉 Albertans deserve better. It's time for the government to listen to the concerns of its citizens and ensure that healthcare remains accessible and of high quality for all.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "86abd5e67b529a8a3d93e2287107e37148a7638dd90233a0"
+}

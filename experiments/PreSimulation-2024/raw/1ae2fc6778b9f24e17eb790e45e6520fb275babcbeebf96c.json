@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Het is niet aanvaardbaar dat Providence St. Joseph Health System onredelijke tariefverhogingen eist, wat de betaalbaarheid van zorg voor leden negeert. Blue Shield blijft open en klaar om te onderhandelen met Providence. Blue Shield-leden houden hun toegang tot zorg bij elk ziekenhuis of aanbieder in het netwerk, zoals zij altijd hebben gedaan.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1ae2fc6778b9f24e17eb790e45e6520fb275babcbeebf96c"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Healthcare affordability is a critical issue that affects us all. As a proud populist, I believe in putting the needs of our own people first. It's time for a comprehensive approach that goes beyond just payment assistance. TailorMed's Affordability Network is a step in the right direction, providing real solutions to reduce financial toxicity and improve patient care.",
+    "retrieved_source": "https://marketscale.com/industries/healthcare/tailor-healthcare-affordability/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5d18dec5f95f9b9d709578550de5aea6afe058dd420804f7"
+}

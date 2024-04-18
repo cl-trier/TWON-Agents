@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Gepassioneerde hospital workers across Toronto verenigen zich tegen de privatisering door de Ford-regering, ondertekenend een petitie met 4000 handtekeningen om te demonstreren dat de meerderheid van hen zich verzet tegen Bill 60 en de uitbesteding van operaties en diagnostische proceduren aan private klinieken.",
+    "retrieved_source": "https://cupe.ca/hospital-workers-rally-across-toronto-against-ford-government-privatization-scheme",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "08fd2f6353a64f9a7caeda2821b6ff97a0d8da9ef8fdf840"
+}

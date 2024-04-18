@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Sec. Yellen urgently calls for Ukraine aid bill passage, arguing voor militaire & budgetsteun is onmisbaar. G7 eendracht kan manageable risks omzeilen, terwijl China's Xi zijn 4 prioriteiten voor de 'crisis' bespreekt.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e1ea1e3f0002a8ecbd02c846c46fa1c3e56accca8c134cf"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Zorgen over herstructurering van #AlbertaHealthServices: privatisering op komst? Studies tonen aan dat forfaitaire zorginstellingen gemiddeld slechtere uitkomsten hebben. Ongelijkheid in zorg is onacceptabel! Strijden we voor universele en gratis gezondheidszorg voor iedereen",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c843c65b239cc31db0a23c4b5a9de372bf92d4236ae9a8e0"
+}

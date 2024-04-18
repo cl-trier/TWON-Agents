@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@AHRQ_Research: 27% of Adults Face At Least One Healthcare Affordability Challenge - Jacqueline LaPointe, Health Affairs. Low- & middle-income families are hit hardest by healthcare costs, but the problem affects all of us. Time for policymakers to take action!",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "df6f378944eb55ebf554777a0563123c8cdb368c17ad13b3"
+}

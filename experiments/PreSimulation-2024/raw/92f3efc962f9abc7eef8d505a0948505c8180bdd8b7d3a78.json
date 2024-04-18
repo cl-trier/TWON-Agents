@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Inspirierend zu sehen, wie #WalmartCanada seine Verpflichtung zur Gesundheitsversorgung mit Fokus auf Barrierefreiheit und Erschwinglichkeit bekräftigt, indem Pharmacists nun in Kanada bei leichten Beschwerden diagnostizieren und verschreiben dürfen. Solche Schritte entlasten das Hauptgesundheitssystem und fördern eine integrativere Patientenversorgung!",
+    "retrieved_source": "https://drugstorenews.com/watch-dsn-walmart-canada-reaffirms-commitment-accessibility-affordability-healthcare",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "92f3efc962f9abc7eef8d505a0948505c8180bdd8b7d3a78"
+}

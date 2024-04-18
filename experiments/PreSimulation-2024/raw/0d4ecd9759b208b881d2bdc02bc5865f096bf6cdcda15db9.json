@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Bevrees je ook de privatiseringsplannen van Alberta Health Services? Geprivatiseerde gezondheidszorg betekent langere wachttijden en inferieure zorg. Laat ons vast houden aan een universeel en gratis gezondheidszorgsysteem, dat de basiswaarden van onze natie belichaamt.",
+    "retrieved_source": "https://globalnews.ca/news/10079801/albertans-experts-public-health-restructuring-announcement-reactions/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0d4ecd9759b208b881d2bdc02bc5865f096bf6cdcda15db9"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Universal healthcare in Lebanon under threat? It's time to prioritize the sustainability of our social security institutions and ensure they remain strong. Let's not fall into the trap of de-facto privatization.",
+    "retrieved_source": "https://www.ilo.org/beirut/media-centre/news/WCMS_909787/lang--en/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3f66886a371bd0d14e822b5e4fe65be5e2c48d1bcf2f421b"
+}

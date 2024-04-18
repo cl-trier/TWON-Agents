@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Congratulations to the nine exceptional physicians at UAMS recognized as Healthcare Research All-Stars for their contributions to leading-edge research, further solidifying UAMS' reputation as a top-tier institution in healthcare innovation!",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "01fd3b7c093a894c8b2aa5786dd49744def1b0188eb1c712"
+}

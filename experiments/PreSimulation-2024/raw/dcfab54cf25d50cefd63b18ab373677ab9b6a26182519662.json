@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit ist ein Menschenrecht! Investieren wir mehr in Prävention und erschwingliche Pflege für alle, um eine gesündere Gesellschaft aufzubauen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dcfab54cf25d50cefd63b18ab373677ab9b6a26182519662"
+}

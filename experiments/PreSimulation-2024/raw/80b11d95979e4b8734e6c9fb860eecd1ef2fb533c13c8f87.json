@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne en Rusland praatten over neutrale status en einde oorlog. Schade voor NATO-expansie? Nee, sterkere nationale soevereiniteit. Waarom moeten wij altijd alles internationaliseren? Steun aan eigen cultuur en tradities eerst.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "80b11d95979e4b8734e6c9fb860eecd1ef2fb533c13c8f87"
+}

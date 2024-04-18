@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "The sad truth is that many people struggle to afford healthcare. A recent study shows that 27% of non-senior adults face severe healthcare affordability issues, such as high out-of-pocket costs, medical debt, or forgone care. This number jumps to 46% when we include delayed care. It's unacceptable that so many people are forced to choose between their financial stability and their health. We need policies that prioritize the well-being of our citizens over the profits of insurance companies.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c372e199f1eea235ce12e1eb4216445085c41544c8fbd224"
+}

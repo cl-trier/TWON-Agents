@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "In Canada's healthcare crisis, gov't privatizatieplannen slechts palliatief voor chronische underfinanciering. Werkers en burgers moeten opkomen tegen deze onrechtvaardige trend, eer medicare onherroepelijk verloren is.",
+    "retrieved_source": "https://www.wsws.org/en/articles/2024/02/04/fdtx-f04.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e619a9a2f6b805202b9442fb1569e12912278c7fbe61c0c0"
+}

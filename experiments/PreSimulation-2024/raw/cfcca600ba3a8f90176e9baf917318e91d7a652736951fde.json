@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Unacceptable that Providence St. Joseph Health System is demanding unreasonable rate increases, impacting healthcare affordability for members. Blue Shield remains committed to affordable care and open to negotiations.",
+    "retrieved_source": "https://news.blueshieldca.com/2024/04/04/providence-st-joseph-health-system-demands-unreasonable-rate-increases-impacting-healthcare-affordability-for-members",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cfcca600ba3a8f90176e9baf917318e91d7a652736951fde"
+}

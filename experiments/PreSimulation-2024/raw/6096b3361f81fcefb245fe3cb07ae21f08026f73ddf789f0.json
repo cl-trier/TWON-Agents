@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Healthcare is a fundamental right, not a luxury. The rising costs are leaving many individuals and families struggling to make ends meet. We need real solutions that prioritize affordability, accessibility, and quality care for all. Let's work together to find common ground and create a healthcare system that truly serves everyone's needs.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6096b3361f81fcefb245fe3cb07ae21f08026f73ddf789f0"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New review exposes the harsh reality of hospital privatization: lower quality care after conversion from public ownership 🚨 This study challenges the narrative that privatization leads to better healthcare outcomes. In fact, it shows that as privatization increases, so do avoidable deaths 💔 We need a healthcare system rooted in equality, not profits.",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5620ccf8adeae60eeea58d88063e9e99bd93d21fd74326d5"
+}

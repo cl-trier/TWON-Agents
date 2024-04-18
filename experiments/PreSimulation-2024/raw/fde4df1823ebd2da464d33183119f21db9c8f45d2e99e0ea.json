@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Schrikken jullie niet terug voor preventieve gezondheidschecks! Het is levensreddend, kostenefficiënt en verbetert onze natie's welvaart. Met AI-aangedreven persoonlijke preventieprogramma's als ProHealth is de toekomst van de gezondheidszorg vrij promising. Laten we vrouwen er meer opmerkzaam op maken om zich te laten testen en zorgen dat iedereen zijn maximumpotentieel kan benutten.",
+    "retrieved_source": "https://health.economictimes.indiatimes.com/news/hospitals/escalating-medical-costs-spurs-preventive-health-checkups-in-india/109337872",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fde4df1823ebd2da464d33183119f21db9c8f45d2e99e0ea"
+}

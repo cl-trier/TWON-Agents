@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Amidst rising tensions in the Middle East, energy price volatility looms as warned by Naftogaz's Andriy Kobolyev, with potential attacks on Ukrainian infrastructure possibly exacerbating an already fragile global energy market situation.",
+    "retrieved_source": "https://unherd.com/newsroom/middle-east-tensions-will-fuel-energy-price-volatility/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5a05d51acd97dab7715a3a4c189fb188143cc0f5ee2221d6"
+}

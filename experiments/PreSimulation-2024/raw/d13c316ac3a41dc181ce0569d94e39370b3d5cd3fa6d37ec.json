@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "No matter the US election outcome, global stability hangs in the balance. We need urgent dialogue & cooperation to address NATO tensions, Russian opportunism, & regional conflicts in Gaza & Ukraine. Let's work together for peace & sustainability.",
+    "retrieved_source": "https://thefridaytimes.com/11-Apr-2024/with-western-hegemony-failing-global-stability-is-on-the-brink",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d13c316ac3a41dc181ce0569d94e39370b3d5cd3fa6d37ec"
+}

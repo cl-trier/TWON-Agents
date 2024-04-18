@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ukraine-Krieg: ASG Jenča warnkt vor Bedrohung der Regionalstabilität und Internationalen Sicherheit\"\"126 Zivilisten wurden getötet und 478 verletzt - diese Zahlungen sind ein schrecklicher Reminder davon, wie wichtig es ist, die Menschenrechte zu schützen. Die Eskalation des Krieges in der Ukraine ist eine direkte Bedrohung der Regionalstabilität und Internationalen Sicherheit. Wir müssen handeln, um das Blutvergießen zu beenden und eine politische Lösung zu finden.\"",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "36043e38246c0e5b71d70abafede72248cadc19acf5d8b32"
+}

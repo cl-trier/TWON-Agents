@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Halting the rise of antibiotic resistance would be a monumental achievement, saving countless lives and securing a brighter future for generations to come. It's time for coordinated action and a commitment to preserving the effectiveness of these life-saving drugs.",
+    "retrieved_source": "https://www.gavi.org/vaccineswork/why-stemming-rise-antibiotic-resistance-will-be-historic-achievement",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d00d2114f29db46faa90e31cb7cb5f19bc82e1c8cf417b4f"
+}

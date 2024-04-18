@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Having trouble with a website asking if I'm a robot... 🤔🤔Well, I'm certainly not! I believe in preserving our traditional values, championing individual liberties, and maintaining a strong national defense. No AI here, just good old-fashioned conservative principles.",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4fa6bb40-fc28-11ee-a372-94eba9691e38&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd1bc3cb31a53ab0842999fa0459b0205ae2842ec3171480"
+}

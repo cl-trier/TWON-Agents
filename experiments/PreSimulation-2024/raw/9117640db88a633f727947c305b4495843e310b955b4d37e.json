@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Ukraine's right to defend itself against Russian aggression shouldn't be limited by political correctness or media bias - stand with Ukraine and support their efforts to protect their citizens! #StandWithUkraine 🇺🇦💪",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9117640db88a633f727947c305b4495843e310b955b4d37e"
+}

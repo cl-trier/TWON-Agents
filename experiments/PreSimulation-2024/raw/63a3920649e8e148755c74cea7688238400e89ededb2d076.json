@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite a decade of conflict, Ukraine's energy sector is standing tall, shedding light on the power of resilience. Through tough times, they've managed to overhaul their energy policies, align with EU rules, and boost financial sustainability. Russia tried to keep its grip but was met with defiance.Kudos to Ukraine for embracing transparency in markets, phasing out household subsidies, and reducing the state's role in energy. A true testament to their determination in fortifying energy security 💡💪",
+    "retrieved_source": "https://www.wilsoncenter.org/blog-post/state-ukraines-energy-sector-after-ten-years-war",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "63a3920649e8e148755c74cea7688238400e89ededb2d076"
+}

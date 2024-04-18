@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Worst case\" scenario for Europe's energy supply? Time to start thinking about alternatives to Russian gas. Let's invest in our own energy sources and stop relying on hostile nations.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8026e59088a9bdcbc490cacf218bb37334f51aa66f472133"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Vreedzaam oplossen van de Russisch-Oekraïense crisis is cruciale bijdrage aan internationale stabiliteit. Diplomatie moet voorop staan, maar NAVO-alliantie blijft onontbeerlijk.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e537e8da324b722de7dab4c86d5f5a4d64964429071d9416"
+}

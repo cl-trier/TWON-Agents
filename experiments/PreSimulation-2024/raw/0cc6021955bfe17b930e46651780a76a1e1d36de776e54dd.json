@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ondanks de oorlog verbaasd Oekraïne met een sterk economisch optreden in 2023! Goed voor hen en een stap naar meer stabiliteit in de regio. Laat ons hopen dat dit momentum voortduurt en dat solidariteit blijft bestaan om kwetsbare groepen te steunen",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-wartime-economy-is-performing-surprisingly-well/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0cc6021955bfe17b930e46651780a76a1e1d36de776e54dd"
+}

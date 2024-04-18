@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ook in Nederland merken we de enorme last van hoge gezondheidszorgkosten. Veel mensen zijn verplicht om schulden aan te gaan voor hun medische behandelingen. Het is onacceptabel dat mensen worden gestraft voor ziektes en letsels. We moeten onze gezondheidszorg hervormen om de kosten terug te dringen en de toegankelijkheid te verbeteren!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "c60dc4ad3de7bb743b5b48635aa5c4eff3ce79555535feb6"
+}

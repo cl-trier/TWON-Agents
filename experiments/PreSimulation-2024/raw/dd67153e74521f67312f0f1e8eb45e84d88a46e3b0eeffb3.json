@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "@konservativer tweets: \"Die Ukraine im Balance: Ein Schlachtfeld-Update zum Krieg in der Ukraine\"\"Putin's aggression in Ukraine is a threat to global stability. The West must stand firm in its support for Ukraine's sovereignty and territorial integrity. We cannot allow authoritarian regimes to expand their power through force.",
+    "retrieved_source": "https://www.csis.org/analysis/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd67153e74521f67312f0f1e8eb45e84d88a46e3b0eeffb3"
+}

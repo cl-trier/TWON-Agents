@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Absolutely incredible! A testament to the power of philanthropy and the importance of supporting medical advancements. Salute to Dr. Cressman's legacy and her $28 million investment in improving Parkinson's care at Norton Neuroscience Institute. Here's to further expansion of life-changing programs for those affected by this debilitating disease!",
+    "retrieved_source": "https://spectrumnews1.com/ky/louisville/news/2024/04/15/norton-healthcare-just-imagine-gift-",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7377f1b5dbde356c61df3255d9219cd9164d20ee9dd2be4c"
+}

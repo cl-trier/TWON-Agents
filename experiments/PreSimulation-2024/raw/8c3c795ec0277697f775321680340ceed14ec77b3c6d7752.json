@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Interessante ontwikkelingen in de onderhandelingen tussen Rusland en Oekraïne: beide zijden lijken bereid tot significante concessies om oorlog te beëindigen. Gesprekken over neutraliteit en niet-toetreding tot NATO zijn positieve tekenen. Scherp blijven toezien op de vraag of grenzen en territoria hierin een rol spelen.",
+    "retrieved_source": "https://www.foreignaffairs.com/ukraine/talks-could-have-ended-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8c3c795ec0277697f775321680340ceed14ec77b3c6d7752"
+}

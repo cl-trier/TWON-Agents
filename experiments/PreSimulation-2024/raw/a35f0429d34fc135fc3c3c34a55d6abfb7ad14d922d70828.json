@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Bevestigd: Rusland stopt gasleveranties via Oekraïne eind 2024. Europa moet zich voorbereiden op hogere energieprijzen en zorgen voor diversificatie van bronnen om energiezekerheid te waarborgen.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a35f0429d34fc135fc3c3c34a55d6abfb7ad14d922d70828"
+}

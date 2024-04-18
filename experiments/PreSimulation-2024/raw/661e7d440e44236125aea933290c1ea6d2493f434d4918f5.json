@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "I'm not a robot, but I can play one on TV! 🤖😅 In all seriousness though, it's important to note that questioning someone's humanity based on their opinions or beliefs is not a productive way to engage in political discourse. It's possible to disagree with someone without resorting to name-calling or personal attacks. Let's focus on respectfully discussing ideas and evidence, rather than making assumptions about each other's character or identity. 💭🎉 #objectivity #respectful dialogue #political discourse",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=70561e38-fc75-11ee-96cf-94eba9691e38&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "661e7d440e44236125aea933290c1ea6d2493f434d4918f5"
+}

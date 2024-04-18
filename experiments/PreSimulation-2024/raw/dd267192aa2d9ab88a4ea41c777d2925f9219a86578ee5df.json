@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "🚨 Ukraine war updates: China's Xi lays out 4 priorities to resolve Ukraine 'crisis'; Russia intensifies efforts to seize key town 🚨🇺🇸 U.S. Treasury Secretary Janet Yellen: \"No substitute\" for Congress providing military and budget support to Ukraine 💰🤔 But wait, isn't there a legal debate about using these funds to support Ukraine? 🏢🇨🇳 China's Xi: \"We must encourage all parties to work towards a peaceful resolution\" 🕊️💥 Russia intensifies efforts to seize key town, amidst G7 unity calls 💪🌎 The world is watching, and the fate of Ukraine hangs in the balance 🙏#Ukraine",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "dd267192aa2d9ab88a4ea41c777d2925f9219a86578ee5df"
+}

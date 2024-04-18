@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Als Minister van Buitenlandse Zaken zal ik op Davos pleiten voor solidariteit met Oekraïne en stabiliteit in het Midden-Oosten, terwijl we onze aandacht richten op samenwerking om globale uitdagingen als klimaatverandering en pandemieën aan te pakken.\"",
+    "retrieved_source": "https://www.gov.uk/government/news/foreign-secretary-at-davos-to-reiterate-support-for-ukraine-and-call-for-security-and-stability-in-the-middle-east",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4ed3321d6b2f6f0e21542c8b5461b4f31e8497cff6940aea"
+}

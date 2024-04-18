@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe rapportage onthult diepe zorgen over kosteneisen van Amerikaanse gezondheidszorg. Gemiddeld max $97 maandelijkse betaling voor medische kosten. Veelvoorkomende vertragingen zijn preventieve bezoeken, medicijnen & mentale gezondheid.",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f0818d7a93f35927dcb376e43d6b7a569680102d254678e2"
+}

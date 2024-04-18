@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Heartbreaking news as Russia destroys Ukraine's largest power plant in Kyiv region, with Ukraine running out of missiles to defend it. Our thoughts are with the people of Ukraine during these challenging times. #UkraineRussiaWar #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-news-latest-putin-b2529271.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "cdc882b28e07341d29b60bfc2e05a10db5d015ede5336c89"
+}

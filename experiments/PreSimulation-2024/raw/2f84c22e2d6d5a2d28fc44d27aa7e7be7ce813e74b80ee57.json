@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Unconfirmed reports of Russian forces taking Pervomaiske, while Ukraine's military accused of causing tragic civilian casualties in Tokmak. Both sides need to prioritize peace and protect innocent lives.",
+    "retrieved_source": "https://www.i24news.tv/en/news/ukraine-conflict/artc-russian-forces-seize-village-in-donetsk-report",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2f84c22e2d6d5a2d28fc44d27aa7e7be7ce813e74b80ee57"
+}

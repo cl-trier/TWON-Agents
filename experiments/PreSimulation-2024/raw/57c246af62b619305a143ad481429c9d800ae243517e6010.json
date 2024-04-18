@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ehemaliger Friedenspakt zwischen Russland und Ukraine bietet Hoffnung für neue Verhandlungen. Trotz US- und UK-Sanktionen gegen russische Metallproduktion setzen wir auf Dialog und diplomatische Lösungen, um den Krieg zu beenden.",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/13/russia-ukraine-war-list-of-key-events-day-779",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "57c246af62b619305a143ad481429c9d800ae243517e6010"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's talk about sex, baby! 💘🤷‍♂️ Siouxland District Health Department is on a mission to educate our community on STI preventative care. 💪🏽🧬 Did you know that Woodbury County and our region have higher rates of sexually transmitted infections? 🤯👀 It's time to take action! 💪🏽💕 Follow the link to make an appointment and get free treatment plans. 📆👨‍⚖️ And, you can even score free condoms in the lobby of the Siouxland Health Department. 😉👍 Let's work together to reduce the incidence of STIs. 💕🌈",
+    "retrieved_source": "https://www.ktiv.com/2024/04/16/healthbeat-4-siouxland-district-health-district-aims-educate-community-sti-preventative-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a4fdc564d06cd7daab56aab46d81bc1a0dcd0347c95f71b3"
+}

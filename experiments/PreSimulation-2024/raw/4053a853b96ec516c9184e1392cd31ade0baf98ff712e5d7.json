@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Ongelofelijke situatie in Oekraïne. Oorlog voortdurend, mensenlevens verloren en schade aan infrastructuur. Het is tijd voor de internationale gemeenschap om collectief op te komen tegen deze onrechtvaardige conflicten en vrede te stichten.\" #RussiaUkraineWar #Vrede Nu",
+    "retrieved_source": "https://www.aljazeera.com/news/2024/4/17/russia-ukraine-war-list-of-key-events-day-783",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4053a853b96ec516c9184e1392cd31ade0baf98ff712e5d7"
+}

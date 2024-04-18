@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Why is the US opposing Ukraine's right to defend itself? Russia continues to attack Ukraine's energy sector, yet when Ukraine fights back against Russian refineries, they're in the wrong? It's time for the West to stop pandering to Putin and start supporting Ukraine's self-defense. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.washingtonpost.com/national-security/2024/04/15/ukraine-russia-oil-refinery-attacks/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ba758a8707d4a439f0380a4562f2688a3ce5660889e84c88"
+}

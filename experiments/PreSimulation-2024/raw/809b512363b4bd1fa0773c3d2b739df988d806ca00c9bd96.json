@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarming: 27% of adults face severe healthcare affordability challenges, with 46% experiencing some form of financial strain. It's time for policymakers to prioritize fiscal responsibility & free-market principles to alleviate this crisis & protect American families.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "809b512363b4bd1fa0773c3d2b739df988d806ca00c9bd96"
+}

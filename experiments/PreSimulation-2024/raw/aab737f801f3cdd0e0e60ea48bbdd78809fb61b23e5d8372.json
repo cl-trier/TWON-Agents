@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Lees over de kosten van privatisering in het UK zorgstelsel. Pressie op artsen om morele waarden te verzaken en toename van tweederangs zorg. Niet duurzaam als oplossing.\"Als toelichting: \"Privatisering in het Verenigd Koninkrijk's zorgstelsel leidt tot pressie op artsen om hun altruïstische en openbare sectorwaarden te compromitteren, volgens onderzoek. Daarnaast neemt de tweederangs zorg toe. Niet duurzaam als oplossing.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aab737f801f3cdd0e0e60ea48bbdd78809fb61b23e5d8372"
+}

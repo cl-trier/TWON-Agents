@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Fascinating discussion on brain health, diabetes, and AI in medicine with Dr. Sanjay Gupta at AHA Annual Meeting. Emphasis on prevention, healthy lifestyles, and a 'trust, but verify' approach to AI. Let's keep the conversation going!",
+    "retrieved_source": "https://www.aha.org/news/headline/2024-04-15-dr-sanjay-gupta-talks-prevention-future-ai-medicine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e30619d92abe731bc8e7fb20bdf83c38b832511338d4161d"
+}

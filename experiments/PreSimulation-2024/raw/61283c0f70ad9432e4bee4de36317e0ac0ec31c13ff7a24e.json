@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Faszinierend zu sehen, wie Firmen in Lateinamerika Prävention in ihre Gesundheitspläne für Mitarbeiter integrieren & messbare Vorteile erzielen - ein Beispiel dafür, wie proaktiver Ansatz #Gesundheit & #Wirtschaft verbindet.",
+    "retrieved_source": "https://www.healthcareitnews.com/video/emea/improving-employee-health-prevention-centered-benefit-plans",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "61283c0f70ad9432e4bee4de36317e0ac0ec31c13ff7a24e"
+}

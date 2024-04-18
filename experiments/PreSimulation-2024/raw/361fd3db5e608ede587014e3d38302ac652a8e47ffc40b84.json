@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "🇺🇦💰 Ukraïne krijgt steun van de Wereldbank om economische stabiliteit te handhaven! 💪🏼🚀 Het is tijd om de groei en productiviteit te verhogen door concurrentie te stimuleren, het financiële sector te verbeteren en energiemarkten te liberalariseren. 💰🔌",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "361fd3db5e608ede587014e3d38302ac652a8e47ffc40b84"
+}

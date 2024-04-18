@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Het is tijd dat Nederland zijn eigen belangen voorop stelt en zich niet langer laat leiden door de EU. We moeten ons eigen cultuur en tradities beschermen en strengere grenscontroles implementeren.",
+    "retrieved_source": "https://www.csis.org/events/ukraine-balance-battlefield-update-war-ukraine",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e57e8c7c6db17224b64a8d082f5cc6568fcd53847b649c43"
+}

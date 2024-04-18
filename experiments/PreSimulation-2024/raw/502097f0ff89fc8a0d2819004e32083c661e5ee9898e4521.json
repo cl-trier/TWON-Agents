@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "🚨 Urgent call from Treasury Sec Yellen: House must pass Ukraine aid bill now! Delay only emboldens Russia & puts lives at risk. We can't let politics jeopardize our commitment to democracy, human rights, and global security. #StandWithUkraine 🇺🇦",
+    "retrieved_source": "https://www.cnbc.com/2024/04/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "502097f0ff89fc8a0d2819004e32083c661e5ee9898e4521"
+}

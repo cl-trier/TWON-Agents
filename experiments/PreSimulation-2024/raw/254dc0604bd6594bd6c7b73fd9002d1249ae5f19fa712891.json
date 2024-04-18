@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Alarmed by the rising cost of healthcare, even for those with insurance. We need free-market solutions and competition to lower costs and increase accessibility. It's time to prioritize affordability and help working Americans.",
+    "retrieved_source": "https://www.cbsnews.com/news/health-care-costs-unaffordable-even-for-insured-americans-commonwealth-fund/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "254dc0604bd6594bd6c7b73fd9002d1249ae5f19fa712891"
+}

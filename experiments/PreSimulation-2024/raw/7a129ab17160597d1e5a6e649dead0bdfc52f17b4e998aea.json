@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Ondanks de voortgang in vrouwen­gesondheid dankzij AI en federal fondsen is er nog veel werk te doen om blind spots te verhelpen. Als land moeten we onze eigen belangen centraal stellen en zorg dragen voor adequate zorg voor alle burgers, ongeacht gender of biologische verschillen.\"",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7a129ab17160597d1e5a6e649dead0bdfc52f17b4e998aea"
+}

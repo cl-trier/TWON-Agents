@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Let's not ignore Henry Kissinger's strategic prowess & diplomatic achievements in understanding & navigating global politics, especially as we confront current challenges with China & Russia. We can critically assess his moral complexities while still learning from the past to inform our future actions.",
+    "retrieved_source": "https://www.nytimes.com/2023/12/18/opinion/henry-kissinger-ukraine-israel.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8971466fc2b035400df891162cbf82889f24a6961f0bc88a"
+}

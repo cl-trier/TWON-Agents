@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Exploring a potential armistice in Russia-Ukraine conflict: West German model for Ukraine's NATO membership, security assistance commitments, & a regional consultation mechanism to foster stability and peace in Europe 🌍⚖️",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e75e8b4725c9ec91c6778e36b94892805884c188c7a86b4f"
+}

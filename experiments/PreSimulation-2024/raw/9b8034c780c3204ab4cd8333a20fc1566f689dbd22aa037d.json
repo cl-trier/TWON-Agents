@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Trotz russischer Behauptungen ist Bakhmut weiterhin nicht unter russischer Kontrolle - wir müssen solidarisch mit der Ukraine bleiben und globale Stabilität fördern, anstatt sie zu untergraben.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b8034c780c3204ab4cd8333a20fc1566f689dbd22aa037d"
+}

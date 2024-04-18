@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Human and planetary health are interconnected, let's work together to address the challenges and create a sustainable future for all.\"",
+    "retrieved_source": "https://www.radboudumc.nl/en/news-items/2023/geef-milieu-en-preventie-een-plek-in-nieuwe-inrichting-gezondheidszorg",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b0aecc6a3a5f4063608aa658c928cb4cf29c4be9d744ead"
+}

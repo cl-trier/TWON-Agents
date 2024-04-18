@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Time for a #WestGermanyModel for #Ukraine! 🇺🇦🇩🇪 NATO membership and security assistance commitments are key to regional stability in Europe. Let's learn from history and create a bespoke security arrangement for Ukraine, and who knows, maybe it will be a blueprint for other regional states too! 🤔",
+    "retrieved_source": "https://www.stimson.org/2023/elements-of-an-eventual-russia-ukraine-armistice-and-the-prospect-for-regional-stability-in-europe/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "76dcfb35558ab73d08da7423f79b8b077892dfb914e8757b"
+}

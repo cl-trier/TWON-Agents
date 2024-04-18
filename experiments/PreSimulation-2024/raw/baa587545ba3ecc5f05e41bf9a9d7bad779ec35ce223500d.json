@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Mainstream media tries to silence us, but we won't be silenced! The truth is, privatizing healthcare in Argentina will only worsen inequality and make it unaffordable for the majority. We must stand up against this and fight for a better future.",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "baa587545ba3ecc5f05e41bf9a9d7bad779ec35ce223500d"
+}

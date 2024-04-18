@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe rapportage ontdekt crisis in zorgbetalen in Amerika\"🚨 Ons land heeft een gezondheidsproblematiek! 🤕Volgens een nieuw rapport van PayZen, een technologiebedrijf dat zich richt op de zorgsector, hebben veel Amerikanen het moeilijk om hun medische uitgaven te betalen. 💸📋 Gemiddeld kunnen mensen hier niet meer dan $97 per maand aan buikplussenbetalingen afforderen. 😱 Dat betekent dat zemoedelijk preventieve bezoeken, geneesmiddelen, gezondheidsproblemen en diagnostische testen moeten schrappen. 🤕💻 PayZen lost dit probleem op dankzij hun slimme technologie. Ze bieden oplossingen die zowel patiënten als zorgverleners helpen om financiële uitkomsten te verbeteren en de zorgkwaliteit te verbeteren. 💪👏 Het is tijd dat we de zorgsector hervormen en de focus verleggen naar betaalbare en toegankelijke zorg voor iedereen. 🌎",
+    "retrieved_source": "https://hitconsultant.net/2024/04/10/new-report-analyzes-americas-healthcare-affordability-crisis/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5ba5271e0ccbc0b8179d77a2281c552ca2f548ac6ede8325"
+}

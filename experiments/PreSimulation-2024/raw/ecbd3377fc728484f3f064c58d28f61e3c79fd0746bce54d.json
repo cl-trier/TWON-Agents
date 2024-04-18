@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Studie hebt an: Krankenhausbecken können bei der Ausbreitung resistenter Bakterien eine Schlüsselrolle spielen. Achtung - Antibiotikaresistenz ist ein ernstzunehmendes Problem!\" (@drbacteria)",
+    "retrieved_source": "https://healthcare-in-europe.com/en/news/study-transmission-resistant-bacteria-hospital-sinks.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ecbd3377fc728484f3f064c58d28f61e3c79fd0746bce54d"
+}

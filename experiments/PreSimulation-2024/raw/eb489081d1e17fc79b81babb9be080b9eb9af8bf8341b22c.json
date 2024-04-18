@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die nouvelle study von PayZen zeigt once again, dass die US-Gesundheitsbranche eine unaffordable crisis ist. 36% of Americans have skipped or postponed medical care due to cost! 😱 This is unacceptable and we need to take action now!",
+    "retrieved_source": "https://finance.yahoo.com/news/payzen-report-reveals-us-healthcare-130000233.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb489081d1e17fc79b81babb9be080b9eb9af8bf8341b22c"
+}

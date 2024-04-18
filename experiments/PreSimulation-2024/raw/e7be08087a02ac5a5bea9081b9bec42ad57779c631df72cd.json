@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Excellence in one domain does not come at the expense of the other.\" Kudos to the UAMS physicians recognized for their contributions to healthcare research! 👏🏼💡 It's great to see national recognition for the hard work and dedication of our medical professionals. 💪🏼",
+    "retrieved_source": "https://www.knoe.com/2024/04/16/several-uams-physicians-recognized-contributions-healthcare-research/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e7be08087a02ac5a5bea9081b9bec42ad57779c631df72cd"
+}

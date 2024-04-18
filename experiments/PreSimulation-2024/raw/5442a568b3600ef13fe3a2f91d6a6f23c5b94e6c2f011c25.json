@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Excited to share that Governor Lamont has signed legislation focusing on healthcare affordability! This landmark bill takes a multitrack approach to tackle high costs, improve delivery, and promote equity in healthcare for CT residents. Key provisions include preventing discrimination against 340B healthcare organizations, exploring innovative financing reforms, and improving collaboration among providers & community partners. All-or-Nothing clauses will also ensure fair treatment of all healthcare providers within a system. Let's make quality healthcare accessible and affordable for all!",
+    "retrieved_source": "https://portal.ct.gov/office-of-the-governor/news/press-releases/2023/06-2023/governor-lamont-signs-legislation-on-health-care-affordability",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5442a568b3600ef13fe3a2f91d6a6f23c5b94e6c2f011c25"
+}

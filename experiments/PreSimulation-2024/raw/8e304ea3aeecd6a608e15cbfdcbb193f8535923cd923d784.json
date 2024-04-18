@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Alarming escalation in Ukraine's war poses serious risks to regional stability & intl security. At least 126 civilians killed in March according to OHCHR, with attacks on energy infrastructure causing casualties, including fatalities. The path towards accountability requires monitoring & reporting human rights violations. We must foster constructive dialogue to promote mutual understanding amidst diversity of opinions.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8e304ea3aeecd6a608e15cbfdcbb193f8535923cd923d784"
+}

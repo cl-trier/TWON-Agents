@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking new data from KFF reveals that health care costs continue to be a heavy burden for many American families, even those with insurance. It's time for policymakers to take real action and address the skyrocketing cost of healthcare to ensure access and affordability for all!",
+    "retrieved_source": "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "8bce796cf6a2a095f49ed2ce66c89ebe090a404c947b6569"
+}

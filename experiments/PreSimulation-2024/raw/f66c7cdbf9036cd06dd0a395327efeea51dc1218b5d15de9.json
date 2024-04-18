@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "@Liberal_Voice🌎💉 Did you know that diabetes affects MILLIONS worldwide? 😱 It's time we shed light on this silent epidemic and take action towards a healthier future! 🌟 Let's work together to prevent diabetes by making simple lifestyle changes. 🍎🏃‍♂️",
+    "retrieved_source": "https://themunicheye.com/shedding-light-on-the-global-impact-of-diabetes-and-the-path-to-prevention-5696",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "f66c7cdbf9036cd06dd0a395327efeea51dc1218b5d15de9"
+}

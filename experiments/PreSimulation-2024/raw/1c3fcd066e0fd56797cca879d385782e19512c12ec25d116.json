@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Unterstützen wir Ukraine mit den nötigen Militärmitteln, um Russland zurückzudrängen und Frieden wiederherzustellen - für eine gerechte Weltordnung!",
+    "retrieved_source": "https://kansasreflector.com/2024/04/16/former-nato-commander-congress-needs-to-give-ukraine-military-tools-to-defeat-russia/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1c3fcd066e0fd56797cca879d385782e19512c12ec25d116"
+}

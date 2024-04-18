@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Vandaag kregen twee Indonesisch-Nederlandse projecten een subsidie om de resilientie van gezondheidssystemen te versterken in voorbereiding op uitbraken van infectieziekten. Samen werken we aan betere respons- en preventiemogelijkheden, wat leidt tot minder economische en sociale kosten van pandemieën. Stolp op deze belangrijke stap om het Indonesische gezondheidssysteem resilienter te maken tegen HPAI, met betrokkenheid van meerdere partijen zoals overheidsinstanties, gezondheids- en wildwerknemers, boeren en gemeenschapsleden. Samen zijn we sterker! #ResilientHealthcare #Indonesia #NL(Vandaag ontvingen twee Indonesisch-Nederlandse projecten een subsidie om de resilientie van gezondheidssystemen te versterken in voorbereiding op uitbraken van infectieziekten. Samen werken we aan betere respons- en preventiemogelijkheden, wat leidt tot minder economische en sociale kosten van pandemieën. We zijn trots op deze belangrijke stap om het Indonesische gezondheidssysteem resilienter te maken tegen HPAI, met betrokkenheid van meerdere partijen zoals overheidsinstanties, gezondheids- en wildwerknemers, boeren en gemeenschapsleden. Samen zijn we sterker!)",
+    "retrieved_source": "https://www.nwo.nl/en/news/two-indonesia-dutch-research-projects-on-resilient-healthcare-systems-awarded",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5da10900b638e0951d24f82d64ad4b42e9c730e3a77ae092"
+}

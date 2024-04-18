@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 27% of Adults Face At Least One Healthcare Affordability Challenge 💸🤕New study shows that healthcare financial strain is affecting more than a quarter of non-senior adults in the US. This includes high out-of-pocket costs, medical debt, and forgone care. 💔The study also found that 46% of adults face financial strain when considering delayed care. 🤷‍♂️This is a clear call to action for policymakers to address the affordability crisis in healthcare. 🗳️👀#HealthcareAffordability",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fdb7554d934c2a052b0f408775f78a46ae3d26687efe0208"
+}

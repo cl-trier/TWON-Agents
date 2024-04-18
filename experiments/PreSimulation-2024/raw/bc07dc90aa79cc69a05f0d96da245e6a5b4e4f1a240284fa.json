@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Neue Studie verbindet Krankenhausprivatisierung mit schlechterer Patientenversorgung. Forscher der Universität Oxford fanden in The Lancet Public Health heraus, dass Privatisierung von Krankenhäusern oft negative Auswirkungen auf Pflegestandards, Personalbesetzung, Patientenmischung und Gesundheitsergebnisse hat. Lassen Sie uns den Fokus auf evidenzbasierte Politikgestaltung richten, um die bestmögliche Versorgung für alle gewährleisten zu können.",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "bc07dc90aa79cc69a05f0d96da245e6a5b4e4f1a240284fa"
+}

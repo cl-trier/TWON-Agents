@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New ER study reveals private sector care is 21% pricier than VHA care. Privatization could lead to more expensive healthcare for veterans & loss of a comprehensive health care model. It's crucial we prioritize evidence-based decisions over ideological agendas to ensure quality, affordable care for all.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "a43a759a48ffd74e22be95ba907307565648cd59d32677cd"
+}

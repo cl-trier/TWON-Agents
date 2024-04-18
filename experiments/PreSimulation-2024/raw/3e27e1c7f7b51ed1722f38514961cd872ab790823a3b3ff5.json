@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Ich bin kein Roboter, aber ich frage mich manchmal, ob die Regierung uns nicht mit theiroren Grenzen und Regulierungen zu Tode reglementieren wird.\"",
+    "retrieved_source": "https://www.bloomberg.com/tosv2.html?vid=&uuid=67b8ecf2-fcdc-11ee-b50d-4181f2b1a2af&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0xMy93YXItaW4tdWtyYWluZS1lbnRlcnMtbmV3LXBoYXNlLXdpdGgtcG93ZXItb2lsLWdhcy1hdHRhY2tlZA==",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e27e1c7f7b51ed1722f38514961cd872ab790823a3b3ff5"
+}

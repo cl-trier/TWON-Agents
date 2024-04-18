@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Gesundheit beginnt mit Prävention! 🔜️Im Podcast \"Healthy Bottom Line\" betont Dr. Rahman die Wichtigkeit von Präventivmedizin für das breitere Wohlergehen von Patienten und Gemeinschaften. Trotz der jüngsten Pandemieerfahrung ist die Unterstützung für Präventivmediziner leider immer noch nicht ausreichend. 🩺Lasst uns in die Zukunft investieren, indem wir Präventivmedizin stärken und finanzielle Verantwortung übernehmen. 💰 Finanziell tragfähige Prävention bedeutet weniger kostspielige Behandlungen und ein gesünderes Land insgesamt. Unterstützt die American College of Preventive Medicine, um unsere politischen Entscheidungsträger für mehr Unterstützung zu gewinnen. 👩‍⚕️✅#Präventivmedizin",
+    "retrieved_source": "https://www.chiefhealthcareexecutive.com/view/the-importance-of-preventive-medicine-and-population-health-healthy-bottom-line-podcast",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "0e4436cee819bd2b454cf2d86671113d6f73259b3d417545"
+}

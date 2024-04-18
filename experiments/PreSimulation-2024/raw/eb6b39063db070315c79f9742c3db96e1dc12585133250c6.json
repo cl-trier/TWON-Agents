@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Shocking! 1 in 4 adults face severe healthcare affordability challenges, and nearly half delay care due to cost. It's time for policymakers to address our broken healthcare system and ensure access to affordable care for all.",
+    "retrieved_source": "https://revcycleintelligence.com/news/27-of-adults-face-at-least-one-healthcare-affordability-challenge",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eb6b39063db070315c79f9742c3db96e1dc12585133250c6"
+}

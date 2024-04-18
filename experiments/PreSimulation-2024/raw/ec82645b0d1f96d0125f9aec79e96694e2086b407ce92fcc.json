@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Solidarity with Ukraine! 🇺🇦💪World Bank supports Ukraine's efforts to maintain economic stability with a $1.5 billion Development Policy Operation. 💰📈Boosting competition, enhancing financial sector, energy markets, trade, and fiscal reforms. 🚀Ukraine's growth potential is promising, let's keep supporting their efforts! 💪🏽",
+    "retrieved_source": "https://reliefweb.int/report/ukraine/world-bank-supports-ukraine-maintain-economic-stability-enuk",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ec82645b0d1f96d0125f9aec79e96694e2086b407ce92fcc"
+}

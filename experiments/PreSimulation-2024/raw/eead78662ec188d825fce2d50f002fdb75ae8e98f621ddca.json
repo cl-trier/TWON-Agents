@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Escalatie van oorlog in Oekraïne is direkt bedreiging voor regionale stabiliteit en internationale veiligheid, waarschuwt ASG Jenča. Mensenrechtenschendingen continues te documenteren en Accountability remains crucial.",
+    "retrieved_source": "https://dppa.un.org/en/mtg-sc-9600-asg-jenca-ukraine-11-apr-2024",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eead78662ec188d825fce2d50f002fdb75ae8e98f621ddca"
+}

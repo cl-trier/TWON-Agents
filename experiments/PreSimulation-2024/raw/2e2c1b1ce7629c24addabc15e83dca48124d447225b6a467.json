@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuwe review onthult: privatisering van ziekenhuizen leidt tot slechtere zorg. We moeten ongelijkheid in de gezondheidszorg bestrijden!",
+    "retrieved_source": "https://www.news-medical.net/news/20240228/Hospital-privatization-leads-to-lower-quality-care-study-reveals.aspx",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "2e2c1b1ce7629c24addabc15e83dca48124d447225b6a467"
+}

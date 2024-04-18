@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Despite claims from Wagner mercenaries, Zelenskiy asserts Bakhmut remains unoccupied - meanwhile, Russia accuses G7 of 'undermining global stability' at Hiroshima summit.",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "13cdf935c5c3e09ea9629f4ae8af5f020626ba2d538f61db"
+}

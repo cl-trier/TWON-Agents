@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Embracing the AI era, let's broaden our understanding of women's health beyond reproduction & address historical blind spots in research. Time for inclusive, innovative healthcare solutions!",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "89b8102543ea38f415c09df515d86beab1293e22f799062a"
+}

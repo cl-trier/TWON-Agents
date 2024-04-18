@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Did you know that cervical cancer is a preventable disease?! 🚨👩‍⚖️ It's time to take action and eradicate it within our lifetime! 💪🏼 Get vaccinated and get tested regularly. 💉👍 Follow the American College of Obstetricians and Gynecologists recommendations for cervical cancer screening: 📅 Ages 21-29: Pap test every 3 years. 🚨 Don't wait, take control of your health! 💪🏼",
+    "retrieved_source": "https://blog.dana-farber.org/insight/2024/04/cervical-cancer-disparities-what-to-know-and-tips-for-prevention/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "eafdccabcacafc669e4e3273ae0e5b928a6c9ff7d35ae408"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Studie zeigt: Privatisierung von Krankenhäusern führt zu schlechteren Patientenversorgung\" 🤔 Ich frage mich, ob die Gründer dieser Studie vielleicht selbst in privaten Kliniken behandelt wurden und deshalb so eine falsche Darstellung der Realität vermitteln möchten?",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "ce9a085ec54efb85031289b05c6cb1aba0b83a583731f3e3"
+}

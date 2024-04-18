@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Artikel onderzoekt kosten van privatisering in UK's gezondheidszorg. Twee-klassen systeem onwaarschijnlijk door beperkte capaciteit van privésector. Druk op artsen om altruïstische en publieke waarden te verzwakken. 13% van Britten gebruikt privézorg in laatste jaar.\"Vertaling: \"Artikel onderzoekt de kosten van privatisering in het Verenigd Koninkrijk’s gezondheidszorgstelsel. Een tweeklassensysteem is onwaarschijnlijk door de beperkte capaciteit van de private sector. Deze ontwikkelingen kunnen leiden tot druk op artsen om hun altruïstische en publieke waarden te verzwakken. Recente peilingen tonen aan dat 13% van de Britten zich in het afgelopen jaar heeft gericht op privézorg voor zichzelf of een direct familielid.",
+    "retrieved_source": "https://www.economicsobservatory.com/what-are-the-costs-of-privatisation-in-the-uks-healthcare-system",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3d3ebf98bee8c96de1f8f9a1c4267d1ec17be45e1e35e849"
+}

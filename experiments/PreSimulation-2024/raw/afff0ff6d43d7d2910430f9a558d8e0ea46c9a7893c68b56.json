@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Let's work together to prevent chronic diseases! The CDC is calling for papers on public health research, practice, and policy. Submit your manuscripts today and help us create a healthier tomorrow for all.",
+    "retrieved_source": "https://www.cdc.gov/pcd/index.htm",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "afff0ff6d43d7d2910430f9a558d8e0ea46c9a7893c68b56"
+}

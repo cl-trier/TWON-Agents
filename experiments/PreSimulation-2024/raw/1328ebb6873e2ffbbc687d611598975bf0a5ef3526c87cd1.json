@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "The fear of escalation shouldn't hinder our ability to support Ukraine against Russia's invasion; rather, it should prompt us to strategize and collaborate effectively to ensure a peaceful resolution while upholding the principles of national sovereignty and human rights.\"",
+    "retrieved_source": "https://www.atlanticcouncil.org/blogs/ukrainealert/western-fear-of-escalation-will-hand-putin-an-historic-victory-in-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "1328ebb6873e2ffbbc687d611598975bf0a5ef3526c87cd1"
+}

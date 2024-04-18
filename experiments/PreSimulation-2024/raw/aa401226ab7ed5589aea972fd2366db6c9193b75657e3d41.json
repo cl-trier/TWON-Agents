@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "In Lichte van de situatie in Oekraïne, steun #G7 in hun streven naar wereldwijde stabiliteit en veroordelen we Russische pogingen om deze te ondergraven. Bakhmut blijft onbezettigd.\" (\"Given the situation in Ukraine, we support #G7 in their quest for global stability and condemn Russian efforts to undermine it. Bakhmut remains unoccupied.\")",
+    "retrieved_source": "https://www.theguardian.com/world/live/2023/may/21/russia-ukraine-war-live-zelenskiy-to-meet-biden-at-g7-kyiv-says-fighting-in-bakhmut-continues",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "aa401226ab7ed5589aea972fd2366db6c9193b75657e3d41"
+}

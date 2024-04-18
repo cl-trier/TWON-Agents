@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Solidarity with Ukraine, now and always! 🇺🇦 Germany stands strong in supporting Ukraine's fight against Russia's aggression. Military aid, economic sanctions, and humanitarian assistance - we must do everything in our power to help Ukraine defend its sovereignty. Let's make a difference together!",
+    "retrieved_source": "https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "60406ef761a3426b057ea4116bc02aa4ed2eb3ffa1f1491a"
+}

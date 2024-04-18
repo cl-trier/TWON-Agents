@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "New review finds hospital privatization may reduce costs but is associated with worse patient care and outcomes, echoing trends in other care sectors. Let's prioritize evidence over ideology in healthcare policy discussions.",
+    "retrieved_source": "https://theconversation.com/hospital-privatisation-is-linked-with-worse-quality-care-for-patients-new-research-224660",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "586ea201e7be9e78fa8db4fba65599e1daf1c8734b697e15"
+}

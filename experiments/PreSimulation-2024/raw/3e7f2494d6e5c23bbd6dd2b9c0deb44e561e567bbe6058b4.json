@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Die tschechische Gesundheitsbranche ist auf unsicherem Boden. Die Finanzierbarkeit wird von Experten wie dem tschechischen Gesundheitsminister selbst in Frage gestellt. Eine Reform ist dringend notwendig, um die effiziente Verwendung von Ressourcen und eine bessere Patientenversorgung zu gewährleisten. Es ist Zeit für neue Ideen und Lösungen, um diese Herausforderungen zu meistern.\"",
+    "retrieved_source": "https://www.euractiv.com/section/health-consumers/news/czechias-healthcare-timebomb-prevention-schemes-and-greater-efficiency-needed-now/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "3e7f2494d6e5c23bbd6dd2b9c0deb44e561e567bbe6058b4"
+}

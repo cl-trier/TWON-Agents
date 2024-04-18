@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Medical debt is a ticking time bomb for millions of Americans. High deductibles, inflation, and the lack of affordable options are putting people in financial crisis. It's unacceptable that people are forced to choose between their health and their financial stability.",
+    "retrieved_source": "https://www.theguardian.com/money/2023/dec/11/medical-debt-healthcare-affordability-inflation",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "946e004ce5fdb2aeff40f30725e7cb4a1dbfce8fa6217923"
+}

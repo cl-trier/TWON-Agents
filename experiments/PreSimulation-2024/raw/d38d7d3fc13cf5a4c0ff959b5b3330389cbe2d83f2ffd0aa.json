@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Marking a grim anniversary, Sudan's civil war rages on, overshadowed by other global conflicts & leaving millions in dire need of humanitarian aid. Access & funding remain critical challenges to address the hunger crisis. Let's not forget the urgent need for peace & support #SudanCrisis 🕊️🌍📣",
+    "retrieved_source": "https://www.washingtonpost.com/world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "d38d7d3fc13cf5a4c0ff959b5b3330389cbe2d83f2ffd0aa"
+}

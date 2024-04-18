@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Overwegend kostenbesparingen door privatisering van ziekenhuizen in Syrië? Let's objectief bekijken hoe dit impact heeft op gezondheidssector & bevolking.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "12bbb73d5321dce34ef3d9d7b3fc300a603a77558f89f669"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Mijn hart gaat uit naar alle mensen die geleden hebben door het gewelddadige conflict in Oekraïne. Het is onacceptabel dat in 2023 nog steeds oorlog is, en wij moeten samenwerken om vrede, veiligheid en respect voor de menselijke waardigheid te herstellen.",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "7169623895b3923fbe087b2c544095821e12b93f0187324d"
+}

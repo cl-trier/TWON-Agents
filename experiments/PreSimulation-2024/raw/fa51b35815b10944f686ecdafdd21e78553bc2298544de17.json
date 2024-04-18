@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Präsident Milei mixt healthcare: Rückkehr zur staatlichen Kontrolle nötig! Privatisierung führt zu Ungleichheit & Armut. #HealthcareForAll 🇦🇷",
+    "retrieved_source": "https://www.thinkglobalhealth.org/article/dangers-privatizing-health-care-argentina",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fa51b35815b10944f686ecdafdd21e78553bc2298544de17"
+}

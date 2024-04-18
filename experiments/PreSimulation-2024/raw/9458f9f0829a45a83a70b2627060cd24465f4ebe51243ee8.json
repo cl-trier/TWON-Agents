@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Wir müssen die kontinuierliche Versorgung unserer Bürger mit qualitativ hochwertigen und bezahlbaren Gesundheitsdienstleistungen sicherstellen. Es ist unakzeptabel, dass viele Menschen in unserem Land wegen hoher Kosten auf medizinische Hilfe verzichten müssen. #Gesundheit für alle # bezahlbareGesundheitsversorgung",
+    "retrieved_source": null,
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9458f9f0829a45a83a70b2627060cd24465f4ebe51243ee8"
+}

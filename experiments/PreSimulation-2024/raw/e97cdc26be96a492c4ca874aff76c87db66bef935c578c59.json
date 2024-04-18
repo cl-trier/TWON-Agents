@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Russia's relentless attacks on Ukraine's energy infrastructure are a grave concern for global security. The international community must take immediate action to support Ukraine and hold Russia accountable for its aggressive actions.",
+    "retrieved_source": "https://oilprice.com/Energy/Energy-General/Russia-Intensifies-Strikes-on-Ukraines-Energy-Infrastructure.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "e97cdc26be96a492c4ca874aff76c87db66bef935c578c59"
+}

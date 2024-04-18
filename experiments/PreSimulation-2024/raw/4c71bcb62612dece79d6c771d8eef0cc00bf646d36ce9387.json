@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "English",
+    "text": "Beware of the push for ER privatization! A recent study found that private-sector ER care is 21% more expensive than VHA care. Meanwhile, VHA providers undergo extensive training to treat veteran-specific mental and physical health issues. We can't afford to lose our only model of comprehensive healthcare. Let's prioritize funding for and improvement of our public systems.",
+    "retrieved_source": "https://prospect.org/health/2024-04-11-privatization-warning-veterans-affairs/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4c71bcb62612dece79d6c771d8eef0cc00bf646d36ce9387"
+}

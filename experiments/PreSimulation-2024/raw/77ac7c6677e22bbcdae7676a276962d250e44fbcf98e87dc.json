@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "Stolz darauf, dass 9 Ärzte des UAMS zu den Healthcare Research All-Stars gehören und die UAMS unter den Top-Kliniken für Hüft- und Knieoperationen rangiert - eine Anerkennung ihrer evidenzbasierten Forschungsarbeit, die die medizinische Versorgung verbessert.",
+    "retrieved_source": "https://news.uams.edu/2024/04/16/nine-uams-physicians-named-healthcare-research-all-stars/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "77ac7c6677e22bbcdae7676a276962d250e44fbcf98e87dc"
+}

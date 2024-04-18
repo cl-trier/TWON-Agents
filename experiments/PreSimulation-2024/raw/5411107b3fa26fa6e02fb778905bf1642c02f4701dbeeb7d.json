@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "New study reveals shocking truth about privatization of hospitals! 😱 Patient care quality takes a hit when healthcare services are privatized, according to a recent study published in The Lancet Public Health. 🤯 The research, led by University of Oxford experts, analyzed 13 longitudinal studies across various high-income countries and found that privatization leads to decreased staffing levels, an imbalance in patient mix by insurance type, a reduction in services provided, increased doctors' workload, and even worse patients' health outcomes. 😨 It's time to rethink our approach to healthcare!",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5411107b3fa26fa6e02fb778905bf1642c02f4701dbeeb7d"
+}

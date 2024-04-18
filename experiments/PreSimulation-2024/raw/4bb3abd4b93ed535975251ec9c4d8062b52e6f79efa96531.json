@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "🚨 Privatization of public hospitals in Syria? 💸🏥 The regime's plan to open the door for investment in the health sector raises serious concerns. 🤔 Will it improve the quality of care or prioritize profits over people's needs? 💡 Investing in healthcare infrastructure is crucial, but it must be done responsibly and with a focus on serving the public interest, not private gain. 🚫 The Syrian people deserve better than a system that puts profit before their well-being.",
+    "retrieved_source": "https://english.enabbaladi.net/archives/2024/04/privatization-of-public-hospitals-syrias-health-sector-in-intensive-care/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "4bb3abd4b93ed535975251ec9c4d8062b52e6f79efa96531"
+}

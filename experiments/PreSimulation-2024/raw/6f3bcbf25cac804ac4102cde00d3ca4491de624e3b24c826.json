@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "healthcare",
+    "language": "German",
+    "text": "💡 \"The AI era offers a promising opportunity to revolutionize women's healthcare, but we must also address the blind spots and biases that have historically hindered progress in this field. Let's work together to create a more equitable and inclusive approach to women's health research and funding.",
+    "retrieved_source": "https://www.nyas.org/ideas-insights/blog/womens-health-2-0-the-ai-era/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "6f3bcbf25cac804ac4102cde00d3ca4491de624e3b24c826"
+}

@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "llama2:70b-chat-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Russia's ongoing aggression in Ukraine is a threat to regional security and stability in Europe. The US must continue to support Ukraine in its fight for sovereignty and territorial integrity.",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "b5dc09c6b8371b53fa178d41558e8f1759df34802cefff6b"
+}

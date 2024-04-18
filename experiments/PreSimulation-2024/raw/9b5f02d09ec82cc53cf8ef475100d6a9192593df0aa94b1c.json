@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "healthcare",
+    "language": "Dutch",
+    "text": "Nieuw onderzoek verbindt ziekenhuisprivatisering met slechtere patientenzorg. Tijd voor een debat over herverdeling van rijkdom en macht in onze samenleving.\"",
+    "retrieved_source": "https://publicservices.international/resources/news/-new-study-links-hospital-privatisation-to-worse-patient-care?id=14760&lang=en",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "9b5f02d09ec82cc53cf8ef475100d6a9192593df0aa94b1c"
+}

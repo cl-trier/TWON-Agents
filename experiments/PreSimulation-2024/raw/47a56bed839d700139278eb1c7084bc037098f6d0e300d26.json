@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Securing the Black Sea: @SecBlinken verzekert bondgenoten van Amerikaanse steun tijdens de tweede Zwarte Zeekonferentie, terwijl Russische aanvallen Donbas en Cherson raken. De vrede in Europa is onontbeerlijk en we blijven Ukraine steunen om zich te verdedigen.",
+    "retrieved_source": "https://www.euronews.com/2024/04/15/ukraine-war-blinken-assure-black-sea-allies-of-us-support-russian-strikes-hit-donbas-and-k",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "47a56bed839d700139278eb1c7084bc037098f6d0e300d26"
+}

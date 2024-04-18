@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Zorgen voor sociale rechtvaardigheid: steun aan mensen en landen die hoge energyprijzen ondervinden. Solidariteit is noodzakelijk in gehele EU. #EnergieVoorAlleMensen\"Vertaling: \"Zorg voor sociale rechtvaardigheid: steun aan mensen en landen die hoge energieprijzen ondervinden. Solidariteit is noodzakelijk in de hele EU.",
+    "retrieved_source": "https://www.offshore-technology.com/news/eu-could-face-higher-energy-prices-this-winter-as-russia-ukraine-gas-transit-deal-ends/",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "110b81e6c51a017f629385d3ecfde4afb028f22e0ea0c3bb"
+}

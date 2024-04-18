@@ -1,0 +1,14 @@
+{
+    "persona": "neutral",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "German",
+    "text": "Angesichts der Berichte über mindestens 50.000 russische Militärtote im Ukraine-Konflikt ist es wichtig, die Komplexität internationaler Konflikte zu verstehen und eine evidenzbasierte Diskussion über mögliche Interventionen zu führen.",
+    "retrieved_source": "https://www.rferl.org/a/russia-war-ukraine-deaths/32903736.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "5ad976b551379a518c2b4e29b4a3566e6c540bd75b4d22bc"
+}

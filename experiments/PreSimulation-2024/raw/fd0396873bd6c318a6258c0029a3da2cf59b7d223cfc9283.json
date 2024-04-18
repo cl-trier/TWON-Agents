@@ -1,0 +1,14 @@
+{
+    "persona": "conservative",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "Kremlin's concern over Middle East escalation raises eyebrows, but refusal to condemn Iran's attack on Israel undermines their stated commitment to regional stability.",
+    "retrieved_source": "https://www.cnbc.com/2024/04/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "fd0396873bd6c318a6258c0029a3da2cf59b7d223cfc9283"
+}

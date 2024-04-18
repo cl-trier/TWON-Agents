@@ -1,0 +1,14 @@
+{
+    "persona": "liberal",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "English",
+    "text": "NATO must expand its role in cybersecurity beyond defense. To effectively counter threats from nations like Russia & China, we need collaboration with technical, policy, & civil society communities. Let's prioritize global cyberspace stability for a safer world.",
+    "retrieved_source": "https://www.nato.int/docu/review/articles/2023/06/06/nato-and-strategic-competition-in-cyberspace/index.html",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "20b7fc7daa09581c0340485518167f143a72c0d4ae87573e"
+}

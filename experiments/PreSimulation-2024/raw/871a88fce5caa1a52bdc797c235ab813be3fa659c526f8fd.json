@@ -1,0 +1,14 @@
+{
+    "persona": "alt_right",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "topic": "ukraine",
+    "language": "Dutch",
+    "text": "Oekraïne riskiert in 2024 een nederlaag. Onnodig om te wachten totdat het te laat is. Moeten onze Europese bondgenoten solidair zijn en Oekraïne actief steunen, zowel militair als economisch. Nationale soevereiniteit is essentieel, maar we moeten ons bewust zijn van de gevaren van agressie in onze buurt.",
+    "retrieved_source": "https://www.bbc.com/news/world-europe-68778338",
+    "annotation": {
+        "topic": null,
+        "persona": null,
+        "authenticity": null
+    },
+    "id": "871a88fce5caa1a52bdc797c235ab813be3fa659c526f8fd"
+}
