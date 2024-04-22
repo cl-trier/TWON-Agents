@@ -17,7 +17,7 @@ class ClassifierConfig:
 
 @dataclasses.dataclass
 class Config:
-    dataset_path: str = f'../data/dataset.full.parquet'
+    dataset_path: str = f'../dataset.full.parquet'
 
     encoder: str = 'Twitter/twhin-bert-base'
 
