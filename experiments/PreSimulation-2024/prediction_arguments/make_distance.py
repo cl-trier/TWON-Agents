@@ -5,16 +5,15 @@ import pandas as pd
 import matplotlib as mpl
 import seaborn as sns
 
-
 import torch
 
+
 cat = "label"
-sample_per_cat = 300
 
 data = pd.concat([
 	pd.read_parquet(f'results/{cat}/embeds.train.parquet'),
 	pd.read_parquet(f'results/{cat}/embeds.test.parquet')
-]).groupby(cat).sample(n=sample_per_cat)
+]).groupby(cat)
 
 dist = torch.nn.PairwiseDistance()
 
