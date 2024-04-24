@@ -23,7 +23,7 @@ class Config:
 
     data_out_dir: str = f'./data'
     result_dir: str = f'./results'
-    test_size: float = 0.2
+    test_size: float = 0.1
 
     text_column: str = 'arguments'
     label_columns: typing.List[str] = dataclasses.field(default_factory=lambda: ['label'])
