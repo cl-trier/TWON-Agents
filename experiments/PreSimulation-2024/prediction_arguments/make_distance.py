@@ -13,7 +13,7 @@ cat = "label"
 data = pd.concat([
 	pd.read_parquet(f'results/{cat}/embeds.train.parquet'),
 	pd.read_parquet(f'results/{cat}/embeds.test.parquet')
-])s
+])
 
 dist = torch.nn.PairwiseDistance()
 
