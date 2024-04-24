@@ -5,7 +5,7 @@ import seaborn as sns
 
 from sklearn.decomposition import PCA
 
-cat = "topic"
+cat = "label"
 
 
 data = pd.concat([

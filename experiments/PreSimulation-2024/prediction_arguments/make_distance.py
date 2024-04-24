@@ -8,7 +8,7 @@ import seaborn as sns
 
 import torch
 
-cat = "language"
+cat = "label"
 sample_per_cat = 300
 
 data = pd.concat([
