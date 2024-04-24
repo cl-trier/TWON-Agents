@@ -5,13 +5,13 @@ import typing
 @dataclasses.dataclass
 class TrainerConfig:
     num_epochs: int = 5
-    batch_size: int = 32
+    batch_size: int = 4
     learning_rate: float = 1e-3
 
 
 @dataclasses.dataclass
 class ClassifierConfig:
-    hid_size: int = 512
+    hid_size: int = 128
     dropout: float = 0.2
 
 
