@@ -8,12 +8,12 @@ import seaborn as sns
 
 import torch
 
-cat = "language"
+cat = "retrieved_source"
 sample_per_cat = 300
 
 data = pd.concat([
-	pd.read_parquet(f'results/{cat}/embeds.train.parquet'),
-	pd.read_parquet(f'results/{cat}/embeds.test.parquet')
+	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.train.parquet'),
+	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.test.parquet')
 ]).groupby(cat).sample(n=sample_per_cat)
 
 dist = torch.nn.PairwiseDistance()
@@ -51,4 +51,4 @@ sns.heatmap(
     fmt='g',
     linewidth=.5,
     )
-mpl.pyplot.savefig(f'results/{cat}/plot.heat.embed.distance.pdf', format='pdf')
+mpl.pyplot.savefig(f'experiments/PreSimulation-2024/prediction/results/{cat}/plot.heat.embed.distance.pdf', format='pdf')
