@@ -11,11 +11,13 @@ import torch
 cat = "retrieved_source"
 sample_per_cat = 300
 
-data = pd.concat([
-	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.train.parquet'),
-	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.test.parquet')
-]).groupby(cat).sample(n=sample_per_cat)
+#data = pd.concat([
+#	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.train.parquet'),
+#	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.test.parquet')
+#]).groupby(cat).sample(n=sample_per_cat)
 
+data = pd.read_parquet(f'experiments/PreSimulation-2024/argument_embeddings.by.{cat}.English.csv'
+                       ).groupby(cat).sample(n=sample_per_cat)
 dist = torch.nn.PairwiseDistance()
 
 results: typing.Dict[typing.Tuple[str, str], float] = {}
