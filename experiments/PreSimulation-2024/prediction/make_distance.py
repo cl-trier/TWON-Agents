@@ -16,15 +16,19 @@ sample_per_cat = 300
 #	pd.read_parquet(f'experiments/PreSimulation-2024/prediction/results/{cat}/embeds.test.parquet')
 #]).groupby(cat).sample(n=sample_per_cat)
 
-data = pd.read_parquet(f'experiments/PreSimulation-2024/argument_embeddings.by.{cat}.English.csv'
-                       ).groupby(cat).sample(n=sample_per_cat)
+data = pd.read_parquet(f'experiments/PreSimulation-2024/argument_embeddings.by.{cat}.English.parquet')
+###only run for retrieved_source:
+data.drop(columns=['label'], inplace=True)
+data = data.groupby('label_nr')
+###
+
 dist = torch.nn.PairwiseDistance()
 
 results: typing.Dict[typing.Tuple[str, str], float] = {}
 
 
-for model_1, c_1 in data.groupby(cat)['embeds']:
-    for model_2, c_2 in data.groupby(cat)['embeds']:
+for model_1, c_1 in data['embedding']:
+    for model_2, c_2 in data['embedding']:
 
         if (
             (model_1, model_2) in results.keys() or 
@@ -47,10 +51,11 @@ for model_1, c_1 in data.groupby(cat)['embeds']:
 matrix = pd.DataFrame([{f'{cat}_1': key[0], f'{cat}_2': key[1], 'distance': value.item()} for key, value in results.items()]).pivot(index=f'{cat}_1', columns=f'{cat}_2', values='distance').T
 print(matrix)
 
+mpl.pyplot.figure()  # Create a new figure
 sns.heatmap(
     matrix,
     annot=True,
     fmt='g',
     linewidth=.5,
     )
-mpl.pyplot.savefig(f'experiments/PreSimulation-2024/prediction/results/{cat}/plot.heat.embed.distance.pdf', format='pdf')
+mpl.pyplot.savefig(f'experiments/PreSimulation-2024/prediction/results/{cat}/plot.heat.embed.argument.distance.pdf', format='pdf')
