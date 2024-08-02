@@ -7,6 +7,8 @@ import src
 from src.schemas import requests
 from .config import Config
 
+from .huggingface import Huggingface, InferenceFinetunedRequest
+
 cfg = Config()
 
 app = FastAPI(
@@ -79,3 +81,13 @@ async def like(request: requests.LikeRequest) -> src.Response:
 )
 async def reply(request: requests.ReplyRequest) -> src.Response:
     return agents.reply(request)
+
+
+@app.post("/inference_finetuned/", tags=["hackathon"])
+async def inference_finetuned(request: InferenceFinetunedRequest) -> str:
+    return Huggingface(
+        llm_slug=request.slug, auth_token=request.auth_token, inference_config=request.config
+        ).inference(
+            system=request.system_prompt,
+            prompt=request.prompt
+        )
