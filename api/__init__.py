@@ -1,5 +1,7 @@
 import typing
 
+import dotenv
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -10,6 +12,13 @@ from .config import Config
 from .huggingface import Huggingface, InferenceFinetunedRequest
 
 cfg = Config()
+
+ENV = dotenv.dotenv_values(".env")
+
+models = {
+    "left": Huggingface(llm_slug=ENV["HUGGINGFACE_AGENT_LEFT_PATH"], auth_token=ENV["HUGGINGFACE_AUTH"]),
+    "right": Huggingface(llm_slug=ENV["HUGGINGFACE_AGENT_RIGHT_PATH"], auth_token=ENV["HUGGINGFACE_AUTH"])
+}
 
 app = FastAPI(
     title=cfg.title,
@@ -84,10 +93,8 @@ async def reply(request: requests.ReplyRequest) -> src.Response:
 
 
 @app.post("/inference_finetuned/", tags=["hackathon"])
-async def inference_finetuned(request: InferenceFinetunedRequest) -> str:
-    return Huggingface(
-        llm_slug=request.slug, auth_token=request.auth_token, inference_config=request.config
-        ).inference(
-            system=request.system_prompt,
-            prompt=request.prompt
+async def inference_finetuned(request: InferenceFinetunedRequest) -> typing.List[str]:
+    return models[request.model].inference(
+            prompts=request.prompts,
+            inference_config=request.config
         )

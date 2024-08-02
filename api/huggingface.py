@@ -18,6 +18,9 @@ class Interface(abc.ABC, pydantic.BaseModel):
     def inference(self, system: str, prompt: str, **kwargs) -> str:
         raise NotImplementedError
 
+class Prompt(pydantic.BaseModel):
+    system: str = ""
+    user: str
 
 class HuggingfaceInferenceConfig(pydantic.BaseModel):
     input_max_length: int = 200
@@ -29,8 +32,6 @@ class HuggingfaceInferenceConfig(pydantic.BaseModel):
 
 class Huggingface(Interface):
     auth_token: str
-
-    inference_config: HuggingfaceInferenceConfig = HuggingfaceInferenceConfig()
 
     _tokenizer: transformers.AutoTokenizer
     _model: peft.PeftModel
@@ -61,58 +62,52 @@ class Huggingface(Interface):
 
         self._tokenizer.pad_token = self._tokenizer.eos_token
 
-    def inference(self, system: str, prompt: str, **_) -> str:
-        encodings: transformers.BatchEncoding = self._tokenize(system, prompt)
+    def inference(self, prompts: typing.List[Prompt], inference_config: HuggingfaceInferenceConfig) -> typing.List[str]:
+        encodings: transformers.BatchEncoding = self._tokenize(prompts, inference_config)
 
         return self._tokenizer.batch_decode(
-            self._generate(encodings)[:, encodings.input_ids.shape[1] :],
+            self._generate(encodings, inference_config)[:, encodings.input_ids.shape[1] :],
             skip_special_tokens=True,
-        )[0]
+        )
 
-    def _tokenize(self, system: str, prompt: str) -> transformers.BatchEncoding:
+    def _tokenize(self, prompts: typing.List[Prompt], inference_config: HuggingfaceInferenceConfig) -> transformers.BatchEncoding:
         return self._tokenizer(
             [
                 self._tokenizer.apply_chat_template(
                     [
-                        {"role": "system", "content": system},
-                        {"role": "user", "content": prompt},
+                        {"role": "system", "content": prompt.system},
+                        {"role": "user", "content": prompt.user},
                     ],
                     tokenize=False,
                 )
+                for prompt in prompts
             ],
             return_tensors="pt",
             padding=True,
             truncation=True,
-            max_length=self.inference_config.input_max_length,
+            max_length=inference_config.input_max_length,
         ).to("cuda")
 
     @torch.no_grad()
     def _generate(
         self,
         batch: transformers.BatchEncoding,
+        inference_config: HuggingfaceInferenceConfig
     ) -> typing.Any:
         return self._model.generate(
             **batch,
-            temperature=self.inference_config.temperature,
-            max_new_tokens=self.inference_config.output_max_length,
+            temperature=inference_config.temperature,
+            max_new_tokens=inference_config.output_max_length,
             do_sample=True,
-            repetition_penalty=self.inference_config.repetition_penalty,
+            repetition_penalty=inference_config.repetition_penalty,
         )
     
 
+
+
 class InferenceFinetunedRequest(pydantic.BaseModel):
     model: typing.Literal["left", "right"]
-    auth_token: str
 
-    prompt: str
-    system_prompt: str = ""
+    prompts: typing.List[Prompt] 
 
     config: HuggingfaceInferenceConfig = HuggingfaceInferenceConfig()
-
-    @pydantic.computed_field  # type: ignore
-    @property
-    def slug(self) -> str:
-        return {
-            "left": "./models/huggingface/v2_left",
-            "right": "./models/huggingface/v2_right"
-        }[self.model]
