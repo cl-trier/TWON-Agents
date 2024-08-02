@@ -111,7 +111,7 @@ class InferenceFinetunedRequest(pydantic.BaseModel):
 
     @pydantic.computed_field  # type: ignore
     @property
-    def slug(self):
+    def slug(self) -> str:
         return {
             "left": "./models/huggingface/v2_left",
             "right": "./models/huggingface/v2_right"
