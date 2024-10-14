@@ -1,27 +1,37 @@
-[project]
-dynamic = ["dependencies"]
-
-name = "TWON Agents"
-version = "0.0.2"
+[tool.poetry]
+name = "TWON-Agents"
+version = "0.1.0"
+description = ""
+license = "Apache-2.0"
 authors = [
-    { name = "Simon Münker", email = "muenker@uni-trier.de" },
+    "Simon Münker <muenker@uni-trier.de>"
 ]
 readme = "README.md"
-classifiers = [
-    "Development Status :: 2 - Pre-Alpha",
-    "Framework :: FastAPI",
-    "Intended Audience :: Developers",
-    "Programming Language :: Python :: 3.10",
-    "Topic :: Scientific/Engineering :: Artificial Intelligence"
-]
-requires-python = ">=3.10"
+homepage = "https://agents.twon.unit-trier.de"
+repository = "https://github.com/cl-trier/TWON-Agents"
 
-[project.urls]
-Homepage = "https://agents.twon.unit-trier.de"
-Repository = "https://github.com/smnmnkr/TWON-Agents"
+[tool.poetry.dependencies]
+python = "^3.10.0"
+python-dotenv = ">=1.0.0"
+pydantic = ">=1.8.2"
+tqdm = ">=4.66.1"
+requests = ">=2.31.0"
+huggingface-hub = ">=0.17.3"
+openai = ">=1.3.7"
+ollama = ">=0.1.6"
+fastapi = ">=0.109.2"
+uvicorn = ">=0.23.2"
+gunicorn = ">=21.2.0"
+gnews = ">=0.3.6"
+newspaper3k = ">=0.2.8"
+pandas = ">=2.2.0"
+tabulate = ">=0.9.0"
+bitsandbytes = ">=0.43.3"
+peft = ">=0.12.0"
+pyreadr = "^0.5.2"
 
-[tool.setuptools.dynamic]
-dependencies = { file = ["requirements.txt"] }
+[tool.poetry.group.dev.dependencies]
+pytest = ">=7.4.4"
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
@@ -30,3 +40,8 @@ log_cli_level = "INFO"
 filterwarnings = [
     "ignore::DeprecationWarning"
 ]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
