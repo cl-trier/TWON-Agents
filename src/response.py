@@ -22,7 +22,7 @@ class Response(pydantic.BaseModel):
     id: uuid.UUID = None
     timestamp: datetime.datetime = None
 
-    action: typing.Literal['generate', 'reply', 'like']
+    action: typing.Literal['generate', 'reply', 'like', "react"]
     persona: Persona
     integration: Integration
 
@@ -52,7 +52,7 @@ class Response(pydantic.BaseModel):
         self.id = uuid.uuid1()
         self.timestamp = datetime.datetime.now()
 
-        if self.action in ['generate', 'reply']:
+        if self.action in ['generate', 'reply', "react"]:
             self.response = (
                 self.response
                 # remove leading, trailing, spaces, quotes
@@ -68,9 +68,8 @@ class Response(pydantic.BaseModel):
                 self.response = re.sub(r'((?:\s+#\w+)*\s*)$', '', self.response)
 
         if self.action == 'like':
-            choices: typing.List[str] = re.findall(r'true|false', self.response, re.I)
-            self.response = choices[0] if choices else 'false'
-
+            choices: typing.List[str] = re.findall(r'like|dislike', self.response, re.I)
+            self.response = choices[0].lower() if choices else None
         if log_path:
             self.log(log_path)
 
