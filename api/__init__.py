@@ -9,16 +9,16 @@ import src
 from src.schemas import requests
 from .config import Config
 
-from .huggingface import Huggingface, InferenceFinetunedRequest
+# from .huggingface import Huggingface, InferenceFinetunedRequest
 
 cfg = Config()
 
 ENV = dotenv.dotenv_values(".env")
 
-models = {
-    "left": Huggingface(llm_slug=ENV["HUGGINGFACE_AGENT_LEFT_PATH"], auth_token=ENV["HUGGINGFACE_AUTH"]),
-    "right": Huggingface(llm_slug=ENV["HUGGINGFACE_AGENT_RIGHT_PATH"], auth_token=ENV["HUGGINGFACE_AUTH"])
-}
+# models = {
+#     "left": Huggingface(llm_slug=ENV["HUGGINGFACE_AGENT_LEFT_PATH"], auth_token=ENV["HUGGINGFACE_AUTH"]),
+#     "right": Huggingface(llm_slug=ENV["HUGGINGFACE_AGENT_RIGHT_PATH"], auth_token=ENV["HUGGINGFACE_AUTH"])
+# }
 
 app = FastAPI(
     title=cfg.title,
@@ -81,6 +81,14 @@ async def generate(request: requests.GenerateRequest) -> src.Response:
 async def like(request: requests.LikeRequest) -> src.Response:
     return agents.like(request)
 
+@app.post(
+    "/react/",
+    tags=["action"],
+    summary='todo',
+    description="todo"
+)
+async def like(request: requests.ReactRequest) -> src.Response:
+    return agents.react(request)
 
 @app.post(
     "/reply/",
@@ -92,9 +100,9 @@ async def reply(request: requests.ReplyRequest) -> src.Response:
     return agents.reply(request)
 
 
-@app.post("/inference_finetuned/", tags=["hackathon"])
-async def inference_finetuned(request: InferenceFinetunedRequest) -> typing.List[str]:
-    return models[request.model].inference(
-            prompts=request.prompts,
-            inference_config=request.config
-        )
+# @app.post("/inference_finetuned/", tags=["hackathon"])
+# async def inference_finetuned(request: InferenceFinetunedRequest) -> typing.List[str]:
+#     return models[request.model].inference(
+#             prompts=request.prompts,
+#             inference_config=request.config
+#         )
