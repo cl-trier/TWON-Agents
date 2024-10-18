@@ -89,3 +89,6 @@ class Agents(pydantic.BaseModel):
 
     def like(self, request: requests.LikeRequest) -> Response:
         return self('like', request, post=request.post)
+
+    def react(self, request: requests.ReactRequest) -> Response:
+        return self('react', request, post=request.post)
