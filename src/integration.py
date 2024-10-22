@@ -14,7 +14,7 @@ class Integration(pydantic.BaseModel):
         'mistral:7b-instruct-v0.2-q6_K',
         'mixtral:8x7b-instruct-v0.1-q6_K',
         'qwen:72b-chat-v1.5-q6_K',
-
+        "llama3.1:70b-instruct-q6_K",
         'gpt-3.5-turbo', 'gpt-4',
     ]
 
