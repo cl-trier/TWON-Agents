@@ -1,4 +1,8 @@
+import typing
+
 import pandas 
+
+import cltrier_lib
 
 
 def filter_tweets(
@@ -20,3 +24,14 @@ def filter_tweets(
         # remove line breaks 
         .pipe(lambda _df: _df.assign(text=_df["text"].str.replace(r"\n"," ", regex=True)))
     )
+
+
+def format_post_instructions_dataset(path: str) -> typing.List[typing.Dict]:
+    return [
+        cltrier_lib.inference.schemas.Chat(messages=[
+            cltrier_lib.inference.schemas.Message(role="system", content=f"You are a {row['author_first_name_post']} {row['author_last_name_post']} member of {row['author_party_post']}. Post a Tweet about the following topic:"),
+            cltrier_lib.inference.schemas.Message(role="user", content=row["topics_post"]),
+            cltrier_lib.inference.schemas.Message(role="assistant", content=row["text_post"])
+        ]).model_dump()
+        for _, row in pandas.read_csv(path, index_col=0).iterrows()
+    ]
