@@ -26,6 +26,8 @@ evaluate = "^0.4.3"
 peft = "^0.12.0"
 trl = "^0.11.4"
 seaborn = "^0.13.2"
+plotly = "^5.24.1"
+scikit-learn = "^1.6.1"
 
 
 [build-system]
