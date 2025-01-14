@@ -1,49 +1,51 @@
-import typing
-
-import cltrier_lib
 import pandas
-import pydantic
+
+import torch
+import transformers
+import evaluate
+
+from twon_agents import lib
 
 
-class Alignment(pydantic.BaseModel):
-    _threshold: float = 0.0
-
-    def __call__(
-        self, source: typing.List[str], target: typing.List[str]
-    ) -> typing.Tuple[pandas.Series, pandas.DataFrame]:
-        clss_src, clss_tgt = (
-            self._preprocess(cltrier_lib.classify.Pipeline()(source, self._threshold)),
-            self._preprocess(cltrier_lib.classify.Pipeline()(target, self._threshold)),
+def calc_bleu(predictions: pandas.DataFrame) -> pandas.DataFrame:
+    return pandas.DataFrame({
+        "base": evaluate.load("bleu").compute(
+            references=predictions[("text", "human")].tolist(),
+            predictions=predictions[("text", "base")].tolist(),
+            smooth=True
+        ),
+        "adapter": evaluate.load("bleu").compute(
+            references=predictions[("text", "human")].tolist(),
+            predictions=predictions[("text", "adapter")].tolist(),
+            smooth=True
         )
+    })
 
-        return (
-            Alignment._calculate_corr(clss_src, clss_tgt), 
-            Alignment._calculate_mae(clss_src, clss_tgt)
-        )
 
-    @staticmethod
-    def _calculate_corr(
-        clss_src: pandas.DataFrame, clss_tgt: pandas.DataFrame, method: str = "pearson"
-    ) -> pandas.Series:
-        return pandas.Series(
-            {
-                label: src.corr(tgt, method=method)
-                for (label, src), (_, tgt) in zip(clss_src.T.iterrows(), clss_tgt.T.iterrows())
-            },
-            name="correlation",
-        )
+def calc_tweeteval_corr(predictions: pandas.DataFrame) -> pandas.DataFrame:
+    return pandas.concat([
+        lib.TweetEval()(
+            source=predictions[("text", "human")].tolist(),
+            target=predictions[("text", "base")].tolist()
+        )[0].rename("base"),
+        lib.TweetEval()(
+            source=predictions[("text", "human")].tolist(),
+            target=predictions[("text", "adapter")].tolist()
+        )[0].rename("adapter")
+    ], axis=1)
 
-    @staticmethod
-    def _calculate_mae(
-        clss_src: pandas.DataFrame, clss_tgt: pandas.DataFrame
-    ) -> pandas.DataFrame:
-        return (
-            (clss_src - clss_tgt)
-            .abs()
-            .T.agg(["mean", "std"], axis=1)
-            .rename(columns={"mean": "error"})
-        )
 
-    @staticmethod
-    def _preprocess(data: typing.Dict[str, str | float]) -> pandas.DataFrame:
-        return pandas.json_normalize([row.model_dump() for row in data]).drop(columns=["sample"])
+def calc_semantic_distance(predictions: pandas.DataFrame) -> pandas.DataFrame:
+    tokenizer = transformers.AutoTokenizer.from_pretrained('Twitter/twhin-bert-base')
+    model = transformers.AutoModel.from_pretrained('Twitter/twhin-bert-base')
+
+    return pandas.DataFrame({
+        "base": [torch.nn.PairwiseDistance()(
+            model(**tokenizer(predictions[("text", "human")].tolist(), padding=True, return_tensors="pt")).pooler_output,
+            model(**tokenizer(predictions[("text", "base")].tolist(), padding=True, return_tensors="pt")).pooler_output
+        ).mean().item()],
+        "adapter": [torch.nn.PairwiseDistance()(
+            model(**tokenizer(predictions[("text", "human")].tolist(), padding=True, return_tensors="pt")).pooler_output,
+            model(**tokenizer(predictions[("text", "adapter")].tolist(), padding=True, return_tensors="pt")).pooler_output
+        ).mean().item()]
+    }, index=["semantic_distance"])

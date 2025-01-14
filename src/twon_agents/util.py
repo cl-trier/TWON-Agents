@@ -1,5 +1,8 @@
 import typing 
 
+import pandas
+from rich.progress import track
+
 import transformers
 
 
@@ -13,3 +16,37 @@ def load_pipelines(models: typing.Dict[str, str]) -> typing.Dict[str, transforme
         pipelines["adapter"].model.load_adapter(models["adapter"])
 
     return pipelines
+
+
+def generated_w_pipelines(pipelines: typing.Dict[str, transformers.Pipeline], dataset: typing.List[typing.Dict]) -> pandas.DataFrame:
+    responses = []
+
+    for idx, chat in enumerate(track(dataset)):
+        responses.append(
+            dict(
+                id=idx,
+                model="human",
+                text=chat["messages"][-1]["content"]
+            )
+        )
+
+        for model, pipeline in pipelines.items():
+            reply = pipeline(
+                pipeline.tokenizer.apply_chat_template(chat["messages"][:-1], tokenize=False), 
+                max_new_tokens=128,
+                return_full_text=False
+            )[0]["generated_text"].split("\n\n")[1]
+
+            responses.append(
+                dict(
+                    id=idx,
+                    model=model,
+                    text=reply
+                )
+            )
+
+    return (
+        pandas.DataFrame(responses)
+        .set_index("id")
+        .pivot(columns=["model"])
+    )

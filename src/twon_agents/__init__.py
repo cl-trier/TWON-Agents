@@ -1,6 +1,8 @@
 from twon_agents import data
 from twon_agents import util
-from twon_agents.train import Trainer
-from twon_agents.evaluation import Alignment
+from twon_agents import evaluation
+from twon_agents import visualize
 
-__all__ = ["data", "util", "Trainer", "Alignment"]
+from twon_agents.train import Trainer
+
+__all__ = ["data", "util", "evaluation", "visualize", "Trainer"]

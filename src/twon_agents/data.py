@@ -1,4 +1,5 @@
 import typing
+import itertools
 
 import pandas 
 
@@ -34,4 +35,20 @@ def format_post_instructions_dataset(path: str) -> typing.List[typing.Dict]:
             cltrier_lib.inference.schemas.Message(role="assistant", content=row["text_post"])
         ]).model_dump()
         for _, row in pandas.read_csv(path, index_col=0).iterrows()
+    ]
+
+
+def format_reply_instructions_dataset(path: str, n_shots: int = 2) -> typing.List[typing.Dict]:
+    return [
+            cltrier_lib.inference.schemas.Chat(messages=[
+                cltrier_lib.inference.schemas.Message(role="system", content=f"You are a social media user. Respond to the following Tweet based on your last interactions:")
+                ] + list(itertools.chain(*[
+            [ 
+                cltrier_lib.inference.schemas.Message(role="user", content=row.text_post), 
+                cltrier_lib.inference.schemas.Message(role="assistant", content=row.text_reply)
+            ]
+            for row in sample
+        ]))).model_dump()
+        for _, group in pandas.read_csv(path, index_col=0).groupby("author_id_reply")
+        for sample in [list(group[["text_post", "text_reply"]].itertuples(index=False))[n: n+n_shots+1] for n in range(0, len(group), n_shots+1)]
     ]
