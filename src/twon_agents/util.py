@@ -9,14 +9,14 @@ import transformers
 def load_pipelines(models: typing.Dict[str, str], disable_sampling: bool = True) -> typing.Dict[str, transformers.Pipeline]:
     pipelines: typing.Dict[str, transformers.Pipeline] = {
         label: transformers.pipeline("text-generation", slug)
-        for n, (label, slug) in enumerate(models.items())
+        for _, (label, slug) in enumerate(models.items())
     }
 
-    for pipeline in pipelines.values():
-        pipeline.tokenizer.pad_token_id = pipeline.model.config.eos_token_id
-        
+    for label in pipelines.keys():
+        pipelines[label].model.generation_config.pad_token_id = pipelines[label].tokenizer.pad_token_id
+
         if disable_sampling:
-            pipeline.model.generation_config.do_sample = False
+            pipelines[label].model.generation_config.do_sample = False
 
     if "adapter" in pipelines.keys():
         pipelines["adapter"].model.load_adapter(models["adapter"])

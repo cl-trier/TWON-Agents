@@ -1,3 +1,5 @@
+import typing
+
 import pandas
 
 import torch
@@ -8,17 +10,24 @@ from twon_agents import lib
 
 
 def calc_bleu(predictions: pandas.DataFrame) -> pandas.DataFrame:
+
+    def explode_precisions(scores: typing.Dict) -> typing.Dict: 
+        precisions: typing.List = scores.pop("precisions")
+        
+        return scores | {f"{n}-gram": gram for n, gram in enumerate(precisions, 1)} 
+
+
     return pandas.DataFrame({
-        "base": evaluate.load("bleu").compute(
+        "base": explode_precisions(evaluate.load("bleu").compute(
             references=predictions[("text", "human")].tolist(),
             predictions=predictions[("text", "base")].tolist(),
             smooth=True
-        ),
-        "adapter": evaluate.load("bleu").compute(
+        )),
+        "adapter": explode_precisions(evaluate.load("bleu").compute(
             references=predictions[("text", "human")].tolist(),
             predictions=predictions[("text", "adapter")].tolist(),
             smooth=True
-        )
+        ))
     })
 
 
@@ -49,3 +58,21 @@ def calc_semantic_distance(predictions: pandas.DataFrame) -> pandas.DataFrame:
             model(**tokenizer(predictions[("text", "adapter")].tolist(), padding=True, return_tensors="pt")).pooler_output
         ).mean().item()]
     }, index=["semantic_distance"])
+
+
+def aggregate_runs(evaluations: typing.List[pandas.DataFrame]) -> pandas.DataFrame:
+    return (
+        pandas.concat(
+            evaluations, 
+            axis=1, 
+            keys=range(len(evaluations))
+        )
+        .swaplevel(axis=1)
+        .sort_index(axis=1)
+        .melt(ignore_index=False)
+        .reset_index()
+        .rename(columns={"variable_0": "model", "index": "metric"})
+        .groupby(["model", "metric"])
+        ["value"]
+        .agg(["mean", "std"])
+    )
