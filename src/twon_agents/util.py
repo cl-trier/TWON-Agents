@@ -12,8 +12,10 @@ def load_pipelines(models: typing.Dict[str, str], disable_sampling: bool = True)
         for n, (label, slug) in enumerate(models.items())
     }
 
-    if disable_sampling:
-        for pipeline in pipelines.values():
+    for pipeline in pipelines.values():
+        pipeline.tokenizer.pad_token_id = pipeline.model.config.eos_token_id
+        
+        if disable_sampling:
             pipeline.model.generation_config.do_sample = False
 
     if "adapter" in pipelines.keys():
