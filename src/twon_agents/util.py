@@ -40,7 +40,8 @@ def generated_w_pipelines(pipelines: typing.Dict[str, transformers.Pipeline], da
             reply = pipeline(
                 pipeline.tokenizer.apply_chat_template(chat["messages"][:-1], tokenize=False), 
                 max_new_tokens=128,
-                return_full_text=False
+                return_full_text=False,
+                pad_token_id=pipeline.tokenizer.eos_token_id
             )[0]["generated_text"].split("\n\n")[1]
 
             responses.append(
