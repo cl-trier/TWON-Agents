@@ -61,6 +61,7 @@ def calc_semantic_distance(predictions: pandas.DataFrame) -> pandas.DataFrame:
 
 
 def aggregate_runs(evaluations: typing.List[pandas.DataFrame]) -> pandas.DataFrame:
+    print(evaluations)
     return (
         pandas.concat(
             evaluations, 
