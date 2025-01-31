@@ -50,5 +50,6 @@ def format_reply_instructions_dataset(path: str, n_shots: int = 2) -> typing.Lis
             for row in sample
         ]))).model_dump()
         for _, group in pandas.read_csv(path, index_col=0).groupby("author_id_reply")
-        for sample in [list(group[["text_post", "text_reply"]].itertuples(index=False))[n: n+n_shots+1] for n in range(0, len(group), n_shots+1)]
+        for sample in itertools.combinations(list(group[["text_post", "text_reply"]].itertuples(index=False)), n_shots+1)
+        # for sample in [list(group[["text_post", "text_reply"]].itertuples(index=False))[n: n+n_shots+1] for n in range(0, len(group), n_shots+1)]
     ]
