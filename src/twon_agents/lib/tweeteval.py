@@ -17,8 +17,8 @@ class TweetEval(pydantic.BaseModel):
         )
 
         return (
-            TweetEval._calculate_corr(clss_src, clss_tgt), 
-            TweetEval._calculate_mae(clss_src, clss_tgt)
+            TweetEval._calculate_corr(clss_src, clss_tgt),
+            TweetEval._calculate_mae(clss_src, clss_tgt),
         )
 
     @staticmethod
@@ -28,7 +28,9 @@ class TweetEval(pydantic.BaseModel):
         return pandas.Series(
             {
                 label: src.corr(tgt, method=method)
-                for (label, src), (_, tgt) in zip(clss_src.T.iterrows(), clss_tgt.T.iterrows())
+                for (label, src), (_, tgt) in zip(
+                    clss_src.T.iterrows(), clss_tgt.T.iterrows()
+                )
             },
             name="correlation",
         )
@@ -46,4 +48,6 @@ class TweetEval(pydantic.BaseModel):
 
     @staticmethod
     def _preprocess(data: typing.Dict[str, str | float]) -> pandas.DataFrame:
-        return pandas.json_normalize([row.model_dump() for row in data]).drop(columns=["sample"])
+        return pandas.json_normalize([row.model_dump() for row in data]).drop(
+            columns=["sample"]
+        )

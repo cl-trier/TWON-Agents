@@ -12,7 +12,7 @@ twon_agents.pipelines.AlignContentGeneration(
         path="data/processed/twitter.english.dataset.csv",
     ),
     models=dict(
-        base="meta-llama/Llama-3.2-3B-Instruct", 
-        adapter="simon-muenker/TWON-Agent-OSN-Replies-en"
-    )
+        base="meta-llama/Llama-3.2-3B-Instruct",
+        adapter="simon-muenker/TWON-Agent-OSN-Replies-en",
+    ),
 )()

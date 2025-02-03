@@ -1,9 +1,9 @@
 import typing
 import os
-import pathlib 
+import pathlib
 import random
 
-import pydantic 
+import pydantic
 import rich
 
 import pandas
@@ -17,17 +17,15 @@ import twon_agents
 
 class AlignContentGeneration(pydantic.BaseModel):
 
-    # ---- Sub-Configurations ----
-
     class Dataset(pydantic.BaseModel):
         path: str
         eval_frac: float = 0.05
-        max_samples: int = 50_000 
+        max_samples: int = 50_000
 
     class Models(pydantic.BaseModel):
         base: str
         adapter: str
-    
+
     class Training(pydantic.BaseModel):
         learning_rate: float = 0.00005
         weight_decay: float = 0
@@ -38,7 +36,6 @@ class AlignContentGeneration(pydantic.BaseModel):
     class Testing(pydantic.BaseModel):
         num_repitions: int = 10
         num_samples: int = 100
-
 
     # ---- Main Configuration ----
 
@@ -51,7 +48,7 @@ class AlignContentGeneration(pydantic.BaseModel):
 
     do_train: bool = True
     do_eval: bool = True
-    
+
     peft_args: peft.LoraConfig = peft.LoraConfig(
         r=8,
         lora_alpha=32,
@@ -74,43 +71,33 @@ class AlignContentGeneration(pydantic.BaseModel):
     _metrices_fn: typing.Dict[str, callable] = dict(
         bleu=twon_agents.evaluation.calc_bleu,
         tweeteval_corr=twon_agents.evaluation.calc_tweeteval_corr,
-        calc_semantic_distance=twon_agents.evaluation.calc_semantic_distance
+        calc_semantic_distance=twon_agents.evaluation.calc_semantic_distance,
     )
 
     @pydantic.computed_field
     @property
     def out_path(self) -> pathlib.Path:
         return self._root_path / self._out_dir / self.models.adapter
-    
-    def model_post_init(self, __context: typing.Any) -> None:
-        
-        # ========================================
-        # Pre-Setup
-        # ========================================
 
+    def model_post_init(self, __context: typing.Any) -> None:
         if not self.sft_args:
             self.sft_args = trl.SFTConfig(
                 **self.training.model_dump(),
-                packing=True, 
+                packing=True,
                 save_strategy="no",
                 evaluation_strategy="steps",
                 output_dir=self.out_path,
                 push_to_hub=True,
-                hub_model_id=self.models.adapter
+                hub_model_id=self.models.adapter,
             )
 
         return super().model_post_init(__context)
-    
-    
+
     def __call__(self):
-
-        # ========================================
-        # Setup
-        # ========================================
-
         dataset: typing.List[typing.Dict] = (
             random.sample(data, self.dataset.max_samples)
-            if len(data := self.get_formatted_dataset()) > self.dataset.max_samples else data
+            if len(data := self.get_formatted_dataset()) > self.dataset.max_samples
+            else data
         )
 
         train_set, eval_set = self.get_data_splits(dataset)
@@ -152,9 +139,14 @@ class AlignContentGeneration(pydantic.BaseModel):
         del trainer
 
     def eval(self, eval_set: typing.List):
-        pipelines: typing.Dict[str, transformers.Pipeline] = twon_agents.util.load_pipelines(self.models.model_dump())
+        pipelines: typing.Dict[str, transformers.Pipeline] = (
+            twon_agents.util.load_pipelines(self.models.model_dump())
+        )
 
-        eval_samples = [random.sample(eval_set, self.testing.num_samples) for _ in range(self.testing.num_repitions)]
+        eval_samples = [
+            random.sample(eval_set, self.testing.num_samples)
+            for _ in range(self.testing.num_repitions)
+        ]
 
         generations = [
             twon_agents.util.generated_w_pipelines(pipelines, samples)
@@ -162,13 +154,13 @@ class AlignContentGeneration(pydantic.BaseModel):
         ]
 
         for label, metric_fn in self._metrices_fn.items():
-            results: pandas.DataFrame = twon_agents.evaluation.aggregate_runs([
-                metric_fn(samples) for samples in generations
-            ])
+            results: pandas.DataFrame = twon_agents.evaluation.aggregate_runs(
+                [metric_fn(samples) for samples in generations]
+            )
             (
-                results
-                .reset_index()
-                .to_json(self.out_path / f"test.{label}.json", indent=4, orient="records")
+                results.reset_index().to_json(
+                    self.out_path / f"test.{label}.json", indent=4, orient="records"
+                )
             )
             rich.print(results)
 
@@ -179,9 +171,10 @@ class AlignContentGeneration(pydantic.BaseModel):
     def get_formatted_dataset(self) -> typing.List[typing.Dict]:
         return self._data_format_fn[self.task](self._root_path / self.dataset.path)
 
-    def get_data_splits(self, dataset: typing.List) -> typing.Tuple[typing.List, typing.List]:
+    def get_data_splits(
+        self, dataset: typing.List
+    ) -> typing.Tuple[typing.List, typing.List]:
         return (
-            dataset[:int(len(dataset) * (1 - self.dataset.eval_frac))],
-            dataset[-int(len(dataset) * self.dataset.eval_frac):]
+            dataset[: int(len(dataset) * (1 - self.dataset.eval_frac))],
+            dataset[-int(len(dataset) * self.dataset.eval_frac) :],
         )
-    
