@@ -48,6 +48,9 @@ class AlignContentGeneration(pydantic.BaseModel):
 
     training: Training = Training()
     testing: Testing = Testing()
+
+    do_train: bool = True
+    do_eval: bool = True
     
     peft_args: peft.LoraConfig = peft.LoraConfig(
         r=8,
@@ -112,6 +115,25 @@ class AlignContentGeneration(pydantic.BaseModel):
 
         train_set, eval_set = self.get_data_splits(dataset)
 
+        # ========================================
+        # Train, Evaluate, Push
+        # ========================================
+
+        if self.do_train:
+            self.train(train_set, eval_set)
+
+        # ========================================
+        # Compute Alignment Metrices
+        # ========================================
+
+        if self.do_eval:
+            self.eval()
+
+        # ========================================
+        # Lifecycle End
+        # ========================================
+
+    def train(self, train_set: typing.List, eval_set: typing.List):
         trainer: trl.SFTTrainer = trl.SFTTrainer(
             self.models.base,
             args=self.sft_args,
@@ -119,10 +141,6 @@ class AlignContentGeneration(pydantic.BaseModel):
             eval_dataset=datasets.Dataset.from_pandas(pandas.DataFrame(eval_set)),
             peft_config=self.peft_args,
         )
-
-        # ========================================
-        # Train, Evaluate, Push
-        # ========================================
 
         trainer.train()
         trainer.evaluate()
@@ -133,10 +151,7 @@ class AlignContentGeneration(pydantic.BaseModel):
 
         del trainer
 
-        # ========================================
-        # Compute Alignment Metrices
-        # ========================================
-
+    def eval(self, eval_set: typing.List):
         pipelines: typing.Dict[str, transformers.Pipeline] = twon_agents.util.load_pipelines(self.models.model_dump())
 
         eval_samples = [random.sample(eval_set, self.testing.num_samples) for _ in range(self.testing.num_repitions)]
@@ -157,11 +172,9 @@ class AlignContentGeneration(pydantic.BaseModel):
             )
             rich.print(results)
 
-        # ========================================
-        # Lifecycle End
-        # ========================================
-
-    # ---- Utility Methods ----
+    # ========================================
+    # Utility Methods
+    # ========================================
 
     def get_formatted_dataset(self) -> typing.List[typing.Dict]:
         return self._data_format_fn[self.task](self._root_path / self.dataset.path)
