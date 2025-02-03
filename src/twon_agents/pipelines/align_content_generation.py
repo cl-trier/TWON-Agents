@@ -16,7 +16,6 @@ import twon_agents
 
 
 class AlignContentGeneration(pydantic.BaseModel):
-
     class Dataset(pydantic.BaseModel):
         path: str
         eval_frac: float = 0.05
@@ -114,7 +113,7 @@ class AlignContentGeneration(pydantic.BaseModel):
         # ========================================
 
         if self.do_eval:
-            self.eval()
+            self.eval(eval_set)
 
         # ========================================
         # Lifecycle End

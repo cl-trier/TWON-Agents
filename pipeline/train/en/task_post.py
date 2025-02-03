@@ -11,10 +11,10 @@ twon_agents.pipelines.AlignContentGeneration(
     do_train=args.train,
     do_eval=args.eval,
     dataset=dict(
-        path="data/processed/twitter.german.dataset.enriched.csv",
+        path="data/processed/twitter.english.dataset.enriched.csv",
     ),
     models=dict(
         base="meta-llama/Llama-3.2-3B-Instruct",
-        adapter="simon-muenker/TWON-Agent-OSN-Post-de",
+        adapter="simon-muenker/TWON-Agent-OSN-Post-en",
     ),
 )()

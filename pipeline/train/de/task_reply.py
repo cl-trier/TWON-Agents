@@ -3,11 +3,13 @@ import os
 import twon_agents
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
-
+args = twon_agents.pipelines.util.pipeline_argparser.parse_args()
+os.environ["CUDA_VISIBLE_DEVICES"] = str(args.device)
 
 twon_agents.pipelines.AlignContentGeneration(
     task="reply",
+    do_train=args.train,
+    do_eval=args.eval,
     dataset=dict(
         path="data/processed/twitter.german.dataset.enriched.csv",
     ),
