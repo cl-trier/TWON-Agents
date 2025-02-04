@@ -47,7 +47,13 @@ def generated_w_pipelines(
                 max_new_tokens=128,
                 return_full_text=False,
                 pad_token_id=pipeline.tokenizer.eos_token_id,
-            )[0]["generated_text"].split("\n\n")[1]
+            )[0]["generated_text"]
+
+            try:
+                reply = reply.split("\n\n")[1]
+
+            except IndexError:
+                pass
 
             responses.append(dict(id=idx, model=model, text=reply))
 
