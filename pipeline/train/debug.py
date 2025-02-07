@@ -5,8 +5,7 @@ import twon_agents
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
-
-twon_agents.pipelines.AlignContentGeneration(
+twon_agents.align_content_generation.Pipeline(
     task="reply",
     dataset=dict(
         path="data/processed/twitter.german.dataset.enriched.csv",

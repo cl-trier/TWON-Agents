@@ -26,3 +26,6 @@ eval_1:
 	${ENV} ./pipeline/train/en/task_reply.py --no-train --device ${DEVICE}
 eval_2:
 	${ENV} ./pipeline/train/en/task_reply.py --no-train --device 2
+
+openTensorBoard:
+	tensorboard --logdir models/decision/ --bind_all

@@ -14,8 +14,10 @@ import peft
 
 import twon_agents
 
+from twon_agents.align_content_generation import util
 
-class AlignContentGeneration(pydantic.BaseModel):
+
+class Pipeline(pydantic.BaseModel):
     class Dataset(pydantic.BaseModel):
         path: str
         eval_frac: float = 0.05
@@ -177,3 +179,6 @@ class AlignContentGeneration(pydantic.BaseModel):
             dataset[: int(len(dataset) * (1 - self.dataset.eval_frac))],
             dataset[-int(len(dataset) * self.dataset.eval_frac) :],
         )
+
+
+__all__ = ["Pipeline", "util"]
