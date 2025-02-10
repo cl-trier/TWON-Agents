@@ -3,10 +3,15 @@ import typing
 import pandas
 import torch
 
+from twon_agents.lib import Encoder
+
 
 class Dataset(torch.utils.data.Dataset):
-    def __init__(self, df: pandas.DataFrame):
+    def __init__(self, df: pandas.DataFrame, encoder: Encoder | None = None):
         self.df = df
+
+        if encoder:
+            pass
 
     def __len__(self):
         return len(self.df)
