@@ -2,6 +2,10 @@ import typing
 
 import transformers
 import torch
+import pandas
+
+
+transformers.logging.get_logger().setLevel(transformers.logging.ERROR)
 
 
 class Encoder:
@@ -22,6 +26,9 @@ class Encoder:
                 ).to("cuda")
             ).last_hidden_state
         )
+
+    def forward_series(self, series: pandas.Series):
+        pass
 
     @staticmethod
     def _pool(batch: torch.Tensor, method: typing.Literal["mean", "cls"] = "mean"):

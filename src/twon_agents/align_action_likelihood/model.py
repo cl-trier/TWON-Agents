@@ -7,7 +7,7 @@ from twon_agents.lib import Encoder
 
 class Model(torch.nn.Module):
     def __init__(self, encoder_model: str, history_length: int = 2):
-        super().__init__()
+        super(Model, self).__init__()
 
         self.history_length = history_length
         self.encoder = Encoder(encoder_model)
@@ -23,36 +23,15 @@ class Model(torch.nn.Module):
             self.encoder.num_dim * history_length, 1
         )
 
-        self.activiation_fn: torch.nn.ReLU = torch.nn.ReLU()
+        self.activiation_fn: torch.nn.Sigmoid = torch.nn.Sigmoid()
 
         self.to("cuda")
 
-    def __call__(
-        self, batch_history: typing.List[typing.List[str]], batch_post: typing.List[str]
-    ):
-        return torch.concat(
-            [
-                self.forward(history, post)
-                for history, post in zip(batch_history, batch_post)
-            ]
-        )
+    def __call__(self, batch_history: torch.Tensor, batch_post: torch.Tensor):
 
-    def forward(self, history: typing.List[str], post: str):
-        with torch.no_grad():
-            encoded_history: torch.Tensor = self.encoder(history).view(-1)
-            encoded_post: torch.Tensor = self.encoder(post).view(-1)
-
-        encoded_history = torch.autograd.Variable(
-            encoded_history.data, requires_grad=True
-        ).to("cuda")
-        encoded_post = torch.autograd.Variable(
-            encoded_post.data, requires_grad=True
-        ).to("cuda")
-
-        encoded_history = self.history_representation(encoded_history)
-
-        encoded_post = self.post_representation(encoded_post).repeat(
-            self.history_length
+        encoded_history = self.history_representation(batch_history)
+        encoded_post = self.post_representation(batch_post).repeat(
+            1, self.history_length
         )
 
         encoded_history = self.activiation_fn(encoded_history)
@@ -64,3 +43,20 @@ class Model(torch.nn.Module):
         merged_representation = self.activiation_fn(merged_representation)
 
         return merged_representation
+
+    def forward(self, encoded_history: torch.Tensor, encoded_post: torch.Tensor):
+        return self(encoded_history.unsqueeze(), encoded_post.unsqueeze())
+
+    def predict(self, history: typing.List[str], post: str):
+        with torch.no_grad():
+            encoded_history: torch.Tensor = self.encoder(history).view(-1)
+            encoded_post: torch.Tensor = self.encoder(post).view(-1)
+
+        encoded_history = torch.autograd.Variable(
+            encoded_history.data, requires_grad=True
+        ).to("cuda")
+        encoded_post = torch.autograd.Variable(
+            encoded_post.data, requires_grad=True
+        ).to("cuda")
+
+        return self.forward(encoded_history, encoded_post)
