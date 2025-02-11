@@ -1,5 +1,5 @@
 import typing
-import shutil
+import datetime
 import logging
 
 import pydantic
@@ -48,7 +48,9 @@ class Pipeline(pydantic.BaseModel):
     model_config = pydantic.ConfigDict(extra="allow")
 
     def model_post_init(self, __context: typing.Any) -> None:
-        self.writer: SummaryWriter = SummaryWriter()
+        self.writer: SummaryWriter = SummaryWriter(
+            log_dir=f"{self._out_dir}/{datetime.datetime.now()}"
+        )
 
         self.model: Model = Model(self.encoder_model)
         self.optimizer: torch.optim.AdamW = torch.optim.AdamW(
@@ -75,19 +77,22 @@ class Pipeline(pydantic.BaseModel):
         for epoch in range(1, self.training_args.epochs + 1):
             self.model.train(True)
             with torch.enable_grad():
-                self.do_epoch(train_data, epoch, "train")
+                train_loss, train_eval = self.do_epoch(train_data, epoch, "train")
 
             self.model.eval()
             with torch.no_grad():
-                self.do_epoch(eval_data, epoch, "eval")
+                eval_loss, test_eval = self.do_epoch(eval_data, epoch, "eval")
 
             self.writer.flush()
-
-        # ========================================
-        # Cleanup
-        # ========================================
-        shutil.copytree("./runs/", self._out_dir, dirs_exist_ok=True)
-        shutil.rmtree("./runs/")
+            logging.info(
+                (
+                    f"[{epoch:4d}]\t"
+                    f"loss/train={train_loss:2.4f}\t"
+                    f"loss/test={eval_loss:2.4f}\t"
+                    f"f1-score/train={train_eval['weighted avg']['f1-score']:2.4f}\t"
+                    f"f1-score/test={test_eval['weighted avg']['f1-score']:2.4f}"
+                )
+            )
 
     def do_epoch(
         self,
@@ -96,7 +101,7 @@ class Pipeline(pydantic.BaseModel):
         epoch_type: typing.Literal["train", "eval"] = "train",
     ):
         epoch_loss: float = 0.0
-        preds: typing.Dict[str, typing.List] = dict(true=[], pred=[])
+        out: typing.Dict[str, typing.List] = dict(true=[], pred=[])
 
         for _, data in enumerate(track(dataloader, transient=True)):
             history, stimulus, action = data
@@ -104,8 +109,8 @@ class Pipeline(pydantic.BaseModel):
             outputs: torch.Tensor = self.model(history, stimulus)
             loss: torch.Tensor = self.loss_fn(outputs, action.view(-1, 1))
 
-            preds["true"].extend(action.tolist())
-            preds["pred"].extend(outputs.view(-1).round(decimals=0).tolist())
+            out["true"].extend(action.tolist())
+            out["pred"].extend(outputs.view(-1).round(decimals=0).tolist())
 
             if epoch_type == "train":
                 self.optimizer.zero_grad()
@@ -114,19 +119,20 @@ class Pipeline(pydantic.BaseModel):
 
             epoch_loss += loss.item()
 
-        evaluation = classification_report(preds["true"], preds["pred"], output_dict=True)
-
-        logging.info((
-            f"[{epoch_index:4d}] |"
-            f"loss/{epoch_type}={(epoch_loss / len(dataloader)):2.4f}",
-            f"f1-score/{epoch_type}={evaluation['weighted avg']['f1-score']:2.4f}"
-        ))
-        self.writer.add_scalars(epoch_type, dict(
-                loss=epoch_loss / len(dataloader),
-                f1_score=evaluation['weighted avg']['f1-score']
-            ),
-            global_step=epoch_index
+        evaluation = classification_report(
+            out["true"], out["pred"], output_dict=True, zero_division=0.0
         )
+
+        self.writer.add_scalars(
+            epoch_type,
+            dict(
+                loss=epoch_loss / len(dataloader),
+                f1_score=evaluation["weighted avg"]["f1-score"],
+            ),
+            global_step=epoch_index,
+        )
+
+        return epoch_loss / len(dataloader), evaluation
 
     # ========================================
     # Utility Methods
@@ -139,8 +145,8 @@ class Pipeline(pydantic.BaseModel):
         return (
             torch.concat(
                 [
-                    torch.stack(batch_df["history_1"].tolist()),
-                    torch.stack(batch_df["history_2"].tolist()),
+                    torch.stack(batch_df[key].tolist())
+                    for key in ["history_1", "history_2"]
                 ],
                 dim=1,
             ).to("cuda"),
