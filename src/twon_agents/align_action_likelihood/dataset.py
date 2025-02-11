@@ -14,7 +14,11 @@ class Dataset(torch.utils.data.Dataset):
         self,
         df: pandas.DataFrame,
         encoder: Encoder | None = None,
-        encode_columns: typing.List[str] | None = None,
+        encode_columns: typing.List[str] | None = [
+            "history_1",
+            "history_2",
+            "stimulus",
+        ],
     ):
         self.df = df
         self.encoder = encoder
@@ -42,7 +46,7 @@ class Dataset(torch.utils.data.Dataset):
 
     @functional.timeit
     @torch.no_grad()
-    def _preprocess(self):
+    def _preprocess(self, batch_size: int = 32):
         def preprocess_step(
             batch: typing.List[typing.Dict],
         ) -> typing.Dict[str, typing.List]:
@@ -50,14 +54,17 @@ class Dataset(torch.utils.data.Dataset):
 
             return {
                 column: self.encoder(batch_df[column].tolist()).cpu()
-                for column in ["history_1", "history_2", "stimulus"]
+                for column in self.encode_columns
             }
 
         for batch in track(
             torch.utils.data.DataLoader(
-                self.df.to_dict("records"), batch_size=32, collate_fn=preprocess_step
+                self.df.to_dict("records"),
+                batch_size=batch_size,
+                collate_fn=preprocess_step,
             ),
             transient=True,
+            description=f"Encoding {len(self.df)} samples in {len(self.encode_columns)} columns ...",
         ):
             for key, values in batch.items():
                 self.embeds[key].extend(values)
