@@ -11,10 +11,10 @@ transformers.logging.get_logger().setLevel(transformers.logging.ERROR)
 class Encoder:
     # information on the model: https://arxiv.org/abs/2209.07562
     def __init__(self, model: str = "Twitter/twhin-bert-base"):
-        self.model = dict(
-            tokenizer=transformers.AutoTokenizer.from_pretrained(model),
-            transformer=transformers.AutoModel.from_pretrained(model).to("cuda"),
-        )
+        self.model = {
+            "tokenizer": transformers.AutoTokenizer.from_pretrained(model),
+            "transformer": transformers.AutoModel.from_pretrained(model).to("cuda"),
+        }
 
     def __call__(self, batch: typing.List[str]):
         return self._pool(
@@ -32,7 +32,7 @@ class Encoder:
 
     @staticmethod
     def _pool(batch: torch.Tensor, method: typing.Literal["mean", "cls"] = "mean"):
-        return dict(mean=lambda x: x.mean(dim=1), cls=lambda x: x[:, 0, :])[method](
+        return {"mean": lambda x: x.mean(dim=1), "cls": lambda x: x[:, 0, :]}[method](
             batch
         )
 

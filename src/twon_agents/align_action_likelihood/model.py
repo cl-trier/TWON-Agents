@@ -1,31 +1,39 @@
 import typing
 
+import pydantic
+
 import torch
 
 from twon_agents.lib import Encoder, functional
 
 
+class ModelArgs(pydantic.BaseModel):
+    encoder_model: str = "Twitter/twhin-bert-base"
+    history_length: int = 2
+    dropout_ratio: float = 0.1
+
+
 class Model(torch.nn.Module):
     @functional.timeit
-    def __init__(self, encoder_model: str, history_length: int = 2):
-        super(Model, self).__init__()
+    def __init__(self, args: ModelArgs):
+        super().__init__()
 
-        self.encoder_model = encoder_model
-        self.history_length = history_length
-
-        self.encoder = Encoder(encoder_model)
+        self.args = args
+        self.encoder = Encoder(self.args.encoder_model)
 
         self.history_representation: torch.nn.Linear = torch.nn.Linear(
-            self.encoder.num_dim * history_length, self.encoder.num_dim * history_length
+            self.encoder.num_dim * self.args.history_length,
+            self.encoder.num_dim * self.args.history_length,
         )
         self.post_representation: torch.nn.Linear = torch.nn.Linear(
             self.encoder.num_dim, self.encoder.num_dim
         )
 
         self.dimension_reduction: torch.nn.Linear = torch.nn.Linear(
-            self.encoder.num_dim * history_length, 1
+            self.encoder.num_dim * self.args.history_length, 1
         )
 
+        self.dropout: torch.nn.Dropout = torch.nn.Dropout(self.args.dropout_ratio)
         self.activiation_fn: torch.nn.Sigmoid = torch.nn.Sigmoid()
 
         self.to("cuda")
@@ -33,11 +41,11 @@ class Model(torch.nn.Module):
     def __call__(self, batch_history: torch.Tensor, batch_post: torch.Tensor):
         encoded_history = self.history_representation(batch_history)
         encoded_post = self.post_representation(batch_post).repeat(
-            1, self.history_length
+            1, self.args.history_length
         )
 
-        encoded_history = self.activiation_fn(encoded_history)
-        encoded_post = self.activiation_fn(encoded_post)
+        encoded_history = self.dropout(self.activiation_fn(encoded_history))
+        encoded_post = self.dropout(self.activiation_fn(encoded_post))
 
         merged_representation: torch.Tensor = self.dimension_reduction(
             encoded_history * encoded_post
@@ -56,7 +64,7 @@ class Model(torch.nn.Module):
         encoded_history: torch.Tensor = torch.cat(
             [
                 self.encoder(list(zip(*history_batch))[n])
-                for n in range(self.history_length)
+                for n in range(self.args.history_length)
             ],
             dim=1,
         )
@@ -64,25 +72,22 @@ class Model(torch.nn.Module):
 
         return self(encoded_history, encoded_post).squeeze().tolist()
 
-    def save(self, path: str, meta: typing.Dict = {}):
+    def save(self, path: str, meta: typing.Dict | None = None):
         torch.save(
             {
-                "model_state_dict": self.state_dict(),
-                "encoder_model": self.encoder_model,
-                "history_length": self.history_length,
+                "state_dict": self.state_dict(),
+                "args": self.args,
                 "meta": meta,
             },
             path,
         )
 
     @classmethod
-    def load(CLS: "Model", path: str) -> "Model":
+    def load(cls: "Model", path: str) -> "Model":
         checkpoint = torch.load(path, weights_only=True)
 
-        model: torch.nn.Module = CLS(
-            checkpoint["encoder_model"], checkpoint["history_length"]
-        )
-        model.load_state_dict(checkpoint["model_state_dict"])
+        model: torch.nn.Module = cls(checkpoint["args"])
+        model.load_state_dict(checkpoint["state_dict"])
 
         return model, checkpoint["meta"]
 

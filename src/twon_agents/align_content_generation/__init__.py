@@ -64,16 +64,16 @@ class Pipeline(pydantic.BaseModel):
     _root_path: pathlib.Path = pathlib.Path(os.getcwd())
     _out_dir: str = "models"
 
-    _data_format_fn: typing.Dict[str, callable] = dict(
-        post=twon_agents.data.format_post_instructions_dataset,
-        reply=twon_agents.data.format_reply_instructions_dataset,
-    )
+    _data_format_fn: typing.Dict[str, callable] = {
+        "post": twon_agents.data.format_post_instructions_dataset,
+        "reply": twon_agents.data.format_reply_instructions_dataset,
+    }
 
-    _metrices_fn: typing.Dict[str, callable] = dict(
-        bleu=twon_agents.evaluation.calc_bleu,
-        tweeteval_corr=twon_agents.evaluation.calc_tweeteval_corr,
-        calc_semantic_distance=twon_agents.evaluation.calc_semantic_distance,
-    )
+    _metrices_fn: typing.Dict[str, callable] = {
+        "bleu": twon_agents.evaluation.calc_bleu,
+        "tweeteval_corr": twon_agents.evaluation.calc_tweeteval_corr,
+        "calc_semantic_distance": twon_agents.evaluation.calc_semantic_distance,
+    }
 
     @pydantic.computed_field
     @property

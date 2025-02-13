@@ -36,7 +36,7 @@ def generated_w_pipelines(
 
     for idx, chat in enumerate(track(dataset)):
         responses.append(
-            dict(id=idx, model="human", text=chat["messages"][-1]["content"])
+            {"id": idx, "model": "human", "text": chat["messages"][-1]["content"]}
         )
 
         for model, pipeline in pipelines.items():
@@ -55,6 +55,6 @@ def generated_w_pipelines(
             except IndexError:
                 pass
 
-            responses.append(dict(id=idx, model=model, text=reply))
+            responses.append({"id": idx, "model": model, "text": reply})
 
     return pandas.DataFrame(responses).set_index("id").pivot(columns=["model"])

@@ -63,7 +63,7 @@ def format_reply_instructions_dataset(
             messages=[
                 cltrier_lib.inference.schemas.Message(
                     role="system",
-                    content=f"You are a social media user. Respond to the following Tweet based on your last interactions:",
+                    content="You are a social media user. Respond to the following Tweet based on your last interactions:",
                 )
             ]
             + list(

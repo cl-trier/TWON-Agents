@@ -41,12 +41,12 @@ class Dataset(torch.utils.data.Dataset):
             return self.df.iloc[idx].to_dict() | {
                 label: embed[idx] for label, embed in self.embeds.items()
             }
-        else:
-            return self.df.iloc[idx].to_dict()
+
+        return self.df.iloc[idx].to_dict()
 
     @functional.timeit
     @torch.no_grad()
-    def _preprocess(self, batch_size: int = 32):
+    def _preprocess(self, batch_size: int = 256):
         def preprocess_step(
             batch: typing.List[typing.Dict],
         ) -> typing.Dict[str, typing.List]:

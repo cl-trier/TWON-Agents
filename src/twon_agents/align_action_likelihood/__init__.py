@@ -12,7 +12,9 @@ from torch.utils.tensorboard import SummaryWriter
 from rich.progress import track
 
 from twon_agents.align_action_likelihood.dataset import Dataset
-from twon_agents.align_action_likelihood.model import Model
+from twon_agents.align_action_likelihood.model import Model, ModelArgs
+
+from twon_agents.lib import functional
 
 
 class Pipeline(pydantic.BaseModel):
@@ -22,23 +24,16 @@ class Pipeline(pydantic.BaseModel):
 
         model_config = pydantic.ConfigDict(arbitrary_types_allowed=True)
 
-    class OptimizerArgs(pydantic.BaseModel):
-        lr: float = 0.001
-        betas: typing.Tuple[float, float] = (0.9, 0.999)
-        eps: float = 1e-08
-        weight_decay: float = 0.01
-
     class TrainingArgs(pydantic.BaseModel):
         epochs: int = 100
-        batch_size: int = 32
+        batch_size: int = 256
+
+        learning_rate: float = 0.002
 
     # ---- Main Configuration ----
 
     dataset: Dataset
-
-    encoder_model: str = "Twitter/twhin-bert-base"
-
-    optimizer_args: OptimizerArgs = OptimizerArgs()
+    model_args: ModelArgs = ModelArgs()
     training_args: TrainingArgs = TrainingArgs()
 
     # ---- Internal Configuration ----
@@ -52,13 +47,16 @@ class Pipeline(pydantic.BaseModel):
             log_dir=f"{self._out_dir}/{datetime.datetime.now()}"
         )
 
-        self.model: Model = Model(self.encoder_model)
+        self.model: Model = Model(self.model_args)
         self.optimizer: torch.optim.AdamW = torch.optim.AdamW(
-            self.model.parameters(), **self.optimizer_args.model_dump()
+            self.model.parameters(), lr=self.training_args.learning_rate
         )
         self.loss_fn: torch.nn.BCELoss = torch.nn.BCELoss()
 
+    @functional.timeit
     def __call__(self):
+        best_epoch_meta = {"epoch": -1, "metric_score": -1, "metrics": ({}, {})}
+
         # ========================================
         # Data Preparation
         # ========================================
@@ -66,7 +64,7 @@ class Pipeline(pydantic.BaseModel):
             Dataset(self.dataset.train_set, encoder=self.model.encoder),
             **self._dataloader_kwargs,
         )
-        eval_data = torch.utils.data.DataLoader(
+        test_data = torch.utils.data.DataLoader(
             Dataset(self.dataset.test_set, encoder=self.model.encoder),
             **self._dataloader_kwargs,
         )
@@ -74,34 +72,78 @@ class Pipeline(pydantic.BaseModel):
         # ========================================
         # Training and Evaluation
         # ========================================
-        for epoch in range(1, self.training_args.epochs + 1):
-            self.model.train(True)
-            with torch.enable_grad():
-                train_loss, train_eval = self.do_epoch(train_data, epoch, "train")
+        try:
+            for epoch in range(1, self.training_args.epochs + 1):
+                self.model.train(True)
+                with torch.enable_grad():
+                    train_loss, train_metrics = self.do_epoch(
+                        train_data, epoch, "train"
+                    )
 
-            self.model.eval()
-            with torch.no_grad():
-                eval_loss, test_eval = self.do_epoch(eval_data, epoch, "eval")
+                self.model.eval()
+                with torch.no_grad():
+                    test_loss, test_metrics = self.do_epoch(test_data, epoch, "test")
 
-            self.writer.flush()
+                self.writer.flush()
+                if epoch % 5 == 0:
+                    logging.info(
+                        (
+                            f"[{epoch:4d}]\t"
+                            f"loss/train={train_loss:2.4f}\t"
+                            f"loss/test={test_loss:2.4f}\t"
+                            f"f1-score/train={train_metrics['weighted avg']['f1-score']:2.4f}\t"
+                            f"f1-score/test={test_metrics['weighted avg']['f1-score']:2.4f}"
+                        )
+                    )
+
+            if (
+                best_epoch_meta["metric_score"]
+                < test_metrics["weighted avg"]["f1-score"]
+            ):
+                best_epoch_meta = {
+                    "epoch": epoch,
+                    "metric_score": test_metrics["weighted avg"]["f1-score"],
+                    "metrics": (train_metrics, test_metrics),
+                }
+                self.model.save(f"{self._out_dir}/model.pth")
+
+        except KeyboardInterrupt:
             logging.info(
-                (
-                    f"[{epoch:4d}]\t"
-                    f"loss/train={train_loss:2.4f}\t"
-                    f"loss/test={eval_loss:2.4f}\t"
-                    f"f1-score/train={train_eval['weighted avg']['f1-score']:2.4f}\t"
-                    f"f1-score/test={test_eval['weighted avg']['f1-score']:2.4f}"
-                )
+                "Training was interrupted by the user, continuing with reporting and shutdown."
             )
+
+        # ========================================
+        # Final Reporting and Clean-Up
+        # ========================================
+        logging.info(
+            (
+                f"[{best_epoch_meta['epoch']:4d}]\t"
+                f"f1-score/train={best_epoch_meta['metrics'][0]['weighted avg']['f1-score']:2.4f}\t"
+                f"f1-score/test={best_epoch_meta['metrics'][1]['weighted avg']['f1-score']:2.4f}"
+            )
+        )
+        self.writer.add_hparams(
+            self.training_args.model_dump()
+            | {
+                "train_len": len(self.dataset.train_set),
+                "test_len": len(self.dataset.test_set),
+            },
+            {
+                "f1_train": best_epoch_meta["metrics"][0]["weighted avg"]["f1-score"],
+                "f1_test": best_epoch_meta["metrics"][1]["weighted avg"]["f1-score"],
+            },
+        )
+
+        self.writer.close()
 
     def do_epoch(
         self,
         dataloader: torch.utils.data.DataLoader,
         epoch_index: int = 0,
-        epoch_type: typing.Literal["train", "eval"] = "train",
+        epoch_type: typing.Literal["train", "test"] = "train",
     ):
         epoch_loss: float = 0.0
-        out: typing.Dict[str, typing.List] = dict(true=[], pred=[])
+        out: typing.Dict[str, typing.List] = {"true": [], "pred": []}
 
         for _, data in enumerate(track(dataloader, transient=True)):
             history, stimulus, action = data
@@ -119,20 +161,20 @@ class Pipeline(pydantic.BaseModel):
 
             epoch_loss += loss.item()
 
-        evaluation = classification_report(
+        metrics = classification_report(
             out["true"], out["pred"], output_dict=True, zero_division=0.0
         )
 
         self.writer.add_scalars(
             epoch_type,
-            dict(
-                loss=epoch_loss / len(dataloader),
-                f1_score=evaluation["weighted avg"]["f1-score"],
-            ),
+            {
+                "loss": epoch_loss / len(dataloader),
+                "f1_score": metrics["weighted avg"]["f1-score"],
+            },
             global_step=epoch_index,
         )
 
-        return epoch_loss / len(dataloader), evaluation
+        return epoch_loss / len(dataloader), metrics
 
     # ========================================
     # Utility Methods
@@ -157,11 +199,11 @@ class Pipeline(pydantic.BaseModel):
     @pydantic.computed_field
     @property
     def _dataloader_kwargs(self) -> typing.Dict:
-        return dict(
-            batch_size=self.training_args.batch_size,
-            shuffle=True,
-            collate_fn=self._collate,
-        )
+        return {
+            "batch_size": self.training_args.batch_size,
+            "shuffle": True,
+            "collate_fn": self._collate,
+        }
 
 
 __all__ = ["Dataset", "Model", "Pipeline"]
