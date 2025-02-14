@@ -1,6 +1,7 @@
 import typing
 import datetime
 import logging
+import json
 
 import pydantic
 
@@ -27,7 +28,6 @@ class Pipeline(pydantic.BaseModel):
     class TrainingArgs(pydantic.BaseModel):
         epochs: int = 100
         batch_size: int = 256
-
         learning_rate: float = 0.002
 
     # ---- Main Configuration ----
@@ -96,16 +96,17 @@ class Pipeline(pydantic.BaseModel):
                         )
                     )
 
-            if (
-                best_epoch_meta["metric_score"]
-                < test_metrics["weighted avg"]["f1-score"]
-            ):
-                best_epoch_meta = {
-                    "epoch": epoch,
-                    "metric_score": test_metrics["weighted avg"]["f1-score"],
-                    "metrics": (train_metrics, test_metrics),
-                }
-                self.model.save(f"{self._out_dir}/model.pth")
+                if (
+                    best_epoch_meta["metric_score"]
+                    < test_metrics["weighted avg"]["f1-score"]
+                ):  
+                    best_epoch_meta = {
+                        "epoch": epoch,
+                        "metric_score": test_metrics["weighted avg"]["f1-score"],
+                        "metrics": (train_metrics, test_metrics),
+                    }
+                    open(f"{self._out_dir}/report.json", "w").write(json.dumps(best_epoch_meta, indent=4))
+                    self.model.save(f"{self._out_dir}/model.pth")
 
         except KeyboardInterrupt:
             logging.info(

@@ -92,6 +92,9 @@ class Model(torch.nn.Module):
         return model, checkpoint["meta"]
 
 
+# ========================================
+# Unit Testing
+# ========================================
 if __name__ == "__main__":
     # ---- Test: Load/Save Model ----
     test_model: Model = Model("Twitter/twhin-bert-base")

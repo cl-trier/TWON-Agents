@@ -10,8 +10,8 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 
 if __name__ == "__main__":
     dataset = pandas.read_csv(
-        "data/processed/twitter.german.dataset.decision.csv", index_col=[0]
-    ).sample(20_000)
+        "data/processed/twitter.english.dataset.decision.csv", index_col=[0]
+    )
 
     test_set = dataset.groupby("action").sample(500)
     train_set = dataset.loc[~dataset.index.isin(test_set.index)]
