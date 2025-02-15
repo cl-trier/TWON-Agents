@@ -3,7 +3,7 @@ import itertools
 
 import pandas
 
-import cltrier_lib
+import clXXXXX_lib
 
 
 def filter_tweets(
@@ -37,16 +37,16 @@ def filter_tweets(
 
 def format_post_instructions_dataset(path: str) -> typing.List[typing.Dict]:
     return [
-        cltrier_lib.inference.schemas.Chat(
+        clXXXXX_lib.inference.schemas.Chat(
             messages=[
-                cltrier_lib.inference.schemas.Message(
+                clXXXXX_lib.inference.schemas.Message(
                     role="system",
                     content=f"You are a {row['author_first_name_post']} {row['author_last_name_post']} member of {row['author_party_post']}. Post a Tweet about the following topic:",
                 ),
-                cltrier_lib.inference.schemas.Message(
+                clXXXXX_lib.inference.schemas.Message(
                     role="user", content=row["topics_post"]
                 ),
-                cltrier_lib.inference.schemas.Message(
+                clXXXXX_lib.inference.schemas.Message(
                     role="assistant", content=row["text_post"]
                 ),
             ]
@@ -59,9 +59,9 @@ def format_reply_instructions_dataset(
     path: str, n_shots: int = 2
 ) -> typing.List[typing.Dict]:
     return [
-        cltrier_lib.inference.schemas.Chat(
+        clXXXXX_lib.inference.schemas.Chat(
             messages=[
-                cltrier_lib.inference.schemas.Message(
+                clXXXXX_lib.inference.schemas.Message(
                     role="system",
                     content="You are a social media user. Respond to the following Tweet based on your last interactions:",
                 )
@@ -70,10 +70,10 @@ def format_reply_instructions_dataset(
                 itertools.chain(
                     *[
                         [
-                            cltrier_lib.inference.schemas.Message(
+                            clXXXXX_lib.inference.schemas.Message(
                                 role="user", content=row.text_post
                             ),
-                            cltrier_lib.inference.schemas.Message(
+                            clXXXXX_lib.inference.schemas.Message(
                                 role="assistant", content=row.text_reply
                             ),
                         ]

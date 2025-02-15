@@ -1,6 +1,6 @@
 import typing
 
-import cltrier_lib
+import clXXXXX_lib
 import pandas
 import pydantic
 
@@ -12,8 +12,8 @@ class TweetEval(pydantic.BaseModel):
         self, source: typing.List[str], target: typing.List[str]
     ) -> typing.Tuple[pandas.Series, pandas.DataFrame]:
         clss_src, clss_tgt = (
-            self._preprocess(cltrier_lib.classify.Pipeline()(source, self._threshold)),
-            self._preprocess(cltrier_lib.classify.Pipeline()(target, self._threshold)),
+            self._preprocess(clXXXXX_lib.classify.Pipeline()(source, self._threshold)),
+            self._preprocess(clXXXXX_lib.classify.Pipeline()(target, self._threshold)),
         )
 
         return (

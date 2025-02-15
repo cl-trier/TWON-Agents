@@ -16,6 +16,6 @@ twin_agents.align_content_generation.Pipeline(
     ),
     models=dict(
         base="meta-llama/Llama-3.2-3B-Instruct",
-        adapter="simon-muenker/twin-Agent-OSN-Post-de",
+        adapter="XXXXX/twin-Agent-OSN-Post-de",
     ),
 )()

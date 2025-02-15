@@ -14,7 +14,7 @@ twin_agents.align_content_generation.Pipeline(
     ),
     models=dict(
         base="meta-llama/Llama-3.2-3B-Instruct",
-        adapter="simon-muenker/twin-Agent-OSN-debug",
+        adapter="XXXXX/twin-Agent-OSN-debug",
     ),
     training=dict(logging_steps=5),
     testing=dict(num_repitions=2, num_samples=5),
