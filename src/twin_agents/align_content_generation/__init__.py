@@ -12,9 +12,9 @@ import transformers
 import trl
 import peft
 
-import twon_agents
+import twin_agents
 
-from twon_agents.align_content_generation import util
+from twin_agents.align_content_generation import util
 
 
 class Pipeline(pydantic.BaseModel):
@@ -65,14 +65,14 @@ class Pipeline(pydantic.BaseModel):
     _out_dir: str = "models"
 
     _data_format_fn: typing.Dict[str, callable] = {
-        "post": twon_agents.data.format_post_instructions_dataset,
-        "reply": twon_agents.data.format_reply_instructions_dataset,
+        "post": twin_agents.data.format_post_instructions_dataset,
+        "reply": twin_agents.data.format_reply_instructions_dataset,
     }
 
     _metrices_fn: typing.Dict[str, callable] = {
-        "bleu": twon_agents.evaluation.calc_bleu,
-        "tweeteval_corr": twon_agents.evaluation.calc_tweeteval_corr,
-        "calc_semantic_distance": twon_agents.evaluation.calc_semantic_distance,
+        "bleu": twin_agents.evaluation.calc_bleu,
+        "tweeteval_corr": twin_agents.evaluation.calc_tweeteval_corr,
+        "calc_semantic_distance": twin_agents.evaluation.calc_semantic_distance,
     }
 
     @pydantic.computed_field
@@ -141,7 +141,7 @@ class Pipeline(pydantic.BaseModel):
 
     def eval(self, eval_set: typing.List):
         pipelines: typing.Dict[str, transformers.Pipeline] = (
-            twon_agents.util.load_pipelines(self.models.model_dump())
+            twin_agents.util.load_pipelines(self.models.model_dump())
         )
 
         eval_samples = [
@@ -150,12 +150,12 @@ class Pipeline(pydantic.BaseModel):
         ]
 
         generations = [
-            twon_agents.util.generated_w_pipelines(pipelines, samples)
+            twin_agents.util.generated_w_pipelines(pipelines, samples)
             for samples in eval_samples
         ]
 
         for label, metric_fn in self._metrices_fn.items():
-            results: pandas.DataFrame = twon_agents.evaluation.aggregate_runs(
+            results: pandas.DataFrame = twin_agents.evaluation.aggregate_runs(
                 [metric_fn(samples) for samples in generations]
             )
             (

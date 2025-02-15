@@ -2,7 +2,7 @@ import os
 
 import pandas
 
-from twon_agents.align_action_likelihood import Pipeline
+from twin_agents.align_action_likelihood import Pipeline
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "2"

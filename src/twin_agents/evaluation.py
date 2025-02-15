@@ -6,7 +6,7 @@ import torch
 import transformers
 import evaluate
 
-from twon_agents import lib
+from twin_agents import lib
 
 
 def calc_bleu(predictions: pandas.DataFrame) -> pandas.DataFrame:

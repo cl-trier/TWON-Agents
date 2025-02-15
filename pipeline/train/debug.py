@@ -1,11 +1,11 @@
 import os
 
-import twon_agents
+import twin_agents
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
-twon_agents.align_content_generation.Pipeline(
+twin_agents.align_content_generation.Pipeline(
     task="reply",
     dataset=dict(
         path="data/processed/twitter.german.dataset.enriched.csv",
@@ -14,7 +14,7 @@ twon_agents.align_content_generation.Pipeline(
     ),
     models=dict(
         base="meta-llama/Llama-3.2-3B-Instruct",
-        adapter="simon-muenker/TWON-Agent-OSN-debug",
+        adapter="simon-muenker/twin-Agent-OSN-debug",
     ),
     training=dict(logging_steps=5),
     testing=dict(num_repitions=2, num_samples=5),

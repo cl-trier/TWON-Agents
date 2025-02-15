@@ -6,7 +6,7 @@ import torch
 
 from rich.progress import track
 
-from twon_agents.lib import Encoder, functional
+from twin_agents.lib import Encoder, functional
 
 
 class Dataset(torch.utils.data.Dataset):

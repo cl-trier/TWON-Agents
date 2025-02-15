@@ -4,7 +4,7 @@ import pydantic
 
 import torch
 
-from twon_agents.lib import Encoder, functional
+from twin_agents.lib import Encoder, functional
 
 
 class ModelArgs(pydantic.BaseModel):

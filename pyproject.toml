@@ -1,14 +1,9 @@
 [tool.poetry]
-name = "twon_agents"
+name = "twin_agents"
 version = "0.1.0"
 description = ""
 license = "Apache-2.0"
-authors = [
-    "Simon Münker <muenker@uni-trier.de>"
-]
 readme = "README.md"
-homepage = "https://agents.twon.unit-trier.de"
-repository = "https://github.com/cl-trier/TWON-Agents"
 
 [tool.poetry.dependencies]
 python = "^3.10.0"

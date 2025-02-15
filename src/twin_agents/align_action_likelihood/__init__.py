@@ -12,10 +12,10 @@ from sklearn.metrics import classification_report
 from torch.utils.tensorboard import SummaryWriter
 from rich.progress import track
 
-from twon_agents.align_action_likelihood.dataset import Dataset
-from twon_agents.align_action_likelihood.model import Model, ModelArgs
+from twin_agents.align_action_likelihood.dataset import Dataset
+from twin_agents.align_action_likelihood.model import Model, ModelArgs
 
-from twon_agents.lib import functional
+from twin_agents.lib import functional
 
 
 class Pipeline(pydantic.BaseModel):
