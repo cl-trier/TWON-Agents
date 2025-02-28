@@ -59,16 +59,16 @@ class Model(torch.nn.Module):
 
     @torch.no_grad()
     def predict(
-        self, history_batch: typing.List[typing.List[str]], post_batch: typing.List[str]
+        self, batch_history: typing.List[typing.List[str]], batch_post: typing.List[str]
     ) -> typing.List[float]:
         encoded_history: torch.Tensor = torch.cat(
             [
-                self.encoder(list(zip(*history_batch))[n])
+                self.encoder(list(zip(*batch_history))[n])
                 for n in range(self.args.history_length)
             ],
             dim=1,
         )
-        encoded_post: torch.Tensor = self.encoder(post_batch)
+        encoded_post: torch.Tensor = self.encoder(batch_post)
 
         return self(encoded_history, encoded_post).squeeze().tolist()
 
@@ -84,7 +84,7 @@ class Model(torch.nn.Module):
 
     @classmethod
     def load(cls: "Model", path: str) -> "Model":
-        checkpoint = torch.load(path, weights_only=True)
+        checkpoint = torch.load(path, weights_only=False)
 
         model: torch.nn.Module = cls(checkpoint["args"])
         model.load_state_dict(checkpoint["state_dict"])

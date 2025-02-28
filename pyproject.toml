@@ -12,11 +12,10 @@ repository = "https://github.com/cl-trier/TWON-Agents"
 
 [tool.poetry.dependencies]
 python = "^3.10.0"
-jupyter = "^1.1.1"
 pydantic = "^2.10.4"
+tqdm = "^4.66.1"
 pandas = "^2.2.0"
 torch = "^2.5.1"
-tqdm = "^4.66.1"
 cltrier-lib = "^0.1.7"
 transformers = "^4.47.1"
 sentence-transformers = "^3.2.0"
@@ -25,9 +24,16 @@ bitsandbytes = "^0.43.3"
 evaluate = "^0.4.3"
 peft = "^0.12.0"
 trl = "^0.11.4"
+scikit-learn = "^1.6.1"
+
+[tool.poetry.group.notebook.dependencies]
+jupyter = "^1.1.1"
 seaborn = "^0.13.2"
 plotly = "^5.24.1"
-scikit-learn = "^1.6.1"
+
+[tool.poetry.group.api.dependencies]
+fastapi = "^0.115.9"
+uvicorn = "^0.34.0"
 
 [tool.poetry.group.dev.dependencies]
 pylint = {extras = ["spelling"], version = "^3.3.4"}
